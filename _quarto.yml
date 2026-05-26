@@ -24,6 +24,7 @@ format:
         openSidebar: false
         showHighlights: whenSidebarOpen
     license: CC BY
+    csl: apa.csl
   #apaquarto-html:
   #  toc: true
   apaquarto-docx:
