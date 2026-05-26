@@ -108,9 +108,9 @@ abstract: The field has not adequately studied individuals' development of
 
 keywords:
   - psychopathology
-  - development
-  - lifespan
-  - longitudinal
+  - lifespan development
+  - longitudinal trajectories
+  - heterotypic continuity
   - externalizing behavior problems
 word-count: false
 floatsintext: true
