@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.9.38">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<meta name="author" content="Insert Author’s Name Here">
+<meta name="author" content="Isaac T. Petersen, Zachary Demko, and Megan Schumer">
 <meta name="dcterms.date" content="2026-05-26">
 <title>Analyses</title>
 <style>
@@ -3585,7 +3585,7 @@ window.onload = function() {
                 <div>
             <div class="quarto-title-meta-heading">Author</div>
             <div class="quarto-title-meta-contents">
-                        <p>Insert Author’s Name Here </p>
+                        <p>Isaac T. Petersen, Zachary Demko, and Megan Schumer </p>
                       </div>
           </div>
                 
@@ -3635,19 +3635,16 @@ window.onload = function() {
 <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
 </div>
 <main class="content quarto-banner-title-block" id="quarto-document-content"><section id="intro" class="level1"><h1>Intro</h1>
-<p>This is a starter file for your “Computational Notebook” script. This script be used to run analyses using the data file(s). This script should be separate from the “Prepare Data” file that is used for update the data file(s). Every time you run the “Computational Notebook” file with the exact same data, you should get the exact same findings (i.e., reproducibility). Thus, we keep the “Prepare Data script” separate from the “Computational Notebook” file so that you update the data only when you intend to.</p>
-<p>This document is a <a href="https://quarto.org">Quarto</a> Notebook, which is an example of a computational notebook. Best practices for using Markdown are in the Lab Wiki here: <a href="https://devpsylab.github.io/DataAnalysis/markdown.html#bestPractices" class="uri">https://devpsylab.github.io/DataAnalysis/markdown.html#bestPractices</a>. Steps for working with computational notebooks are located in the Lab Wiki here: <a href="https://devpsylab.github.io/DataAnalysis/markdown.html#computationalNotebook" class="uri">https://devpsylab.github.io/DataAnalysis/markdown.html#computationalNotebook</a></p>
-<p>This document is a <a href="https://quarto.org">Quarto</a> Notebook. Quarto enables you to weave together content and executable code into a finished document. When you execute code within the notebook, the results appear beneath the code. This allows you to share your analyses and results with others so that they can see the results in line with the code for reproducibility. Make sure to have only one sentence per line. For more information on the value of computational notebooks, see the article titled “<a href="https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/">The Scientific Paper Is Obsolete</a>”. To learn more about Quarto see <a href="https://quarto.org" class="uri">https://quarto.org</a>.</p>
 </section><section id="preamble" class="level1"><h1>Preamble</h1>
 <section id="install-libraries" class="level2"><h2 class="anchored" data-anchor-id="install-libraries">Install Libraries</h2>
 <div class="cell-container code-fold"><div class="cell-decorator"><pre>In [1]:</pre></div><div class="cell">
-<details class="code-fold"><summary>Code</summary><div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a><span class="co">#install.packages(&quot;remotes&quot;)</span></span>
+<details open class="code-fold"><summary>Code</summary><div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a><span class="co">#install.packages(&quot;remotes&quot;)</span></span>
 <span id="cb1-2"><a href="#cb1-2"></a><span class="co">#remotes::install_github(&quot;DevPsyLab/petersenlab&quot;)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 </div></div>
 </section><section id="load-libraries" class="level2"><h2 class="anchored" data-anchor-id="load-libraries">Load Libraries</h2>
 <div class="cell-container code-fold"><div class="cell-decorator"><pre>In [2]:</pre></div><div class="cell">
-<details class="code-fold"><summary>Code</summary><div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1"></a></span>
+<details open class="code-fold"><summary>Code</summary><div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1"></a></span>
 <span id="cb2-2"><a href="#cb2-2"></a><span class="fu">library</span>(<span class="st">&quot;petersenlab&quot;</span>) <span class="co">#located here: https://github.com/DevPsyLab/petersenlab</span></span>
 <span id="cb2-3"><a href="#cb2-3"></a><span class="fu">library</span>(<span class="st">&quot;tidyverse&quot;</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details><div class="cell-output cell-output-stderr">
@@ -3662,7 +3659,7 @@ window.onload = function() {
 ✖ dplyr::lag()    masks stats::lag()
 ℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors</code></pre>
 </div>
-<details class="code-fold"><summary>Code</summary><div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1"></a></span>
+<details open class="code-fold"><summary>Code</summary><div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1"></a></span>
 <span id="cb4-2"><a href="#cb4-2"></a><span class="fu">library</span>(<span class="st">&quot;sysfonts&quot;</span>)</span>
 <span id="cb4-3"><a href="#cb4-3"></a><span class="fu">library</span>(<span class="st">&quot;showtext&quot;</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details><div class="cell-output cell-output-stderr">
@@ -3670,26 +3667,12 @@ window.onload = function() {
 </div>
 </div></div>
 </section><section id="import-font-for-figures" class="level2"><h2 class="anchored" data-anchor-id="import-font-for-figures">Import Font for Figures</h2>
-<p>To use the fonts, download and install the fonts located here<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>: <a href="https://drive.google.com/drive/u/0/folders/1fqlrnEe7NFnWZoIrsHmr8ulDS4nhs-H3" class="uri">https://drive.google.com/drive/u/0/folders/1fqlrnEe7NFnWZoIrsHmr8ulDS4nhs-H3</a></p>
-<div class="cell-container code-fold"><div class="cell-decorator"><pre>In [3]:</pre></div><div class="cell">
-<details class="code-fold"><summary>Code</summary><div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb6"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1"></a></span>
-<span id="cb6-2"><a href="#cb6-2"></a><span class="co">#Add Gotham Fonts</span></span>
-<span id="cb6-3"><a href="#cb6-3"></a><span class="co">#sysfonts::font_add(</span></span>
-<span id="cb6-4"><a href="#cb6-4"></a><span class="co">#  family = &quot;Gotham&quot;,</span></span>
-<span id="cb6-5"><a href="#cb6-5"></a><span class="co">#  regular = &quot;Gotham-Book.otf&quot;,</span></span>
-<span id="cb6-6"><a href="#cb6-6"></a><span class="co">#  bold = &quot;Gotham-Bold.otf&quot;,</span></span>
-<span id="cb6-7"><a href="#cb6-7"></a><span class="co">#  italic = &quot;Gotham-BookItalic.otf&quot;,</span></span>
-<span id="cb6-8"><a href="#cb6-8"></a><span class="co">#  bolditalic = &quot;Gotham-BoldItalic.otf&quot;)</span></span>
-<span id="cb6-9"><a href="#cb6-9"></a><span class="co">#</span></span>
-<span id="cb6-10"><a href="#cb6-10"></a><span class="co">#showtext::showtext_auto()</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-</details>
-</div></div>
 </section><section id="load-data" class="level2"><h2 class="anchored" data-anchor-id="load-data">Load Data</h2>
 </section></section><section id="specify-variables" class="level1"><h1>Specify Variables</h1>
 </section><section id="analyses" class="level1"><h1>Analyses</h1>
 </section><section id="session-info" class="level1"><h1>Session Info</h1>
-<div class="cell-container code-fold"><div class="cell-decorator"><pre>In [4]:</pre></div><div class="cell">
-<details class="code-fold"><summary>Code</summary><div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb7"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1"></a><span class="fu">sessionInfo</span>()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-container code-fold"><div class="cell-decorator"><pre>In [3]:</pre></div><div class="cell">
+<details open class="code-fold"><summary>Code</summary><div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb6"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1"></a><span class="fu">sessionInfo</span>()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details><div class="cell-output cell-output-stdout">
 <pre><code>R version 4.6.0 (2026-04-24)
 Platform: x86_64-pc-linux-gnu
@@ -3740,14 +3723,11 @@ loaded via a namespace (and not attached):
 </div>
 </div></div>
 <section id="rstudio-version" class="level2"><h2 class="anchored" data-anchor-id="rstudio-version">Rstudio Version</h2>
-<div class="cell-container code-fold"><div class="cell-decorator"><pre>In [5]:</pre></div><div class="cell">
-<details class="code-fold"><summary>Code</summary><div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb9"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1"></a><span class="co">#rstudioapi::versionInfo()</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-container code-fold"><div class="cell-decorator"><pre>In [4]:</pre></div><div class="cell">
+<details open class="code-fold"><summary>Code</summary><div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb8"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1"></a><span class="co">#rstudioapi::versionInfo()</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 </div></div>
-</section></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><hr>
-<ol>
-<li id="fn1"><p>You may need to ask Dr. Petersen to get access to this file.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol></section></main><!-- /main column --><script id="quarto-html-after-body" type="application/javascript">
+</section></section></main><!-- /main column --><script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
     const anchorJS = new window.AnchorJS();
