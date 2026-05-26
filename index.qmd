@@ -77,9 +77,9 @@ author-note:
       Any opinions, findings, and conclusions or recommendations expressed in 
       this material are those of the authors and do not necessarily reflect the 
       views of the National Institutes of Health.
-    #gratitude: 'The instruments, data, a data dictionary, analysis scripts, and
-    #  a computational notebook for the present study are published online: 
-    #  [LINK].'
+    gratitude: 'We thank Jordan L. Harris and Alexis Hosch for their help
+      identifying measures of externalizing problems and transcribing and
+      coding their content.'
   correspondence-note: 'Correspondence concerning this article should be
     addressed to Isaac T. Petersen, University of Iowa, G60 Psychological and
     Brain Sciences Building, Iowa City, IA 52242.
