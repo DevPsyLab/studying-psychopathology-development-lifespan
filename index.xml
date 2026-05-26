@@ -171,6 +171,25 @@ factors that influence developmental courses.
 </front>
 
 <body>
+<p>When entrenched, psychopathology is costly and difficult to treat
+(<xref alt="Insel 2008" rid="ref-Insel2008" ref-type="bibr">Insel
+2008</xref>;
+<xref alt="Wakschlag et al. 2019" rid="ref-Wakschlag2019" ref-type="bibr">Wakschlag
+et al. 2019</xref>). Understanding its developmental origins is
+therefore crucial for preventing later, more severe psychopathology.
+Developmental science seeks to build a bridge that spans the
+lifespan—from infancy to older adulthood—and not just transitory periods
+in people’s lives. However, the field has not adequately studied
+individuals’ development of psychopathology across the lifespan, instead
+taking a piecewise approach to development, which limits our
+understanding of lifespan development and the origins of
+psychopathology. In this paper, we describe reasons why this is the
+case—beyond logistical challenges of time and money. And we propose
+solutions to these challenges by introducing a developmental scaling
+framework for psychopathology. Using externalizing psychopathology as an
+example, we draw on our content analysis of over 270 externalizing
+measures, as well as lessons from the study of other constructs such as
+academic and cognitive skills across lengthy developmental periods.</p>
 <sec id="the-goal">
   <title>The Goal</title>
 </sec>
@@ -179,15 +198,36 @@ factors that influence developmental courses.
 </sec>
 <sec id="reasons-for-the-problem">
   <title>Reasons for the Problem</title>
+  <p>Beyond logistical challenges of time and money, there are several
+  key reasons why psychology has failed to study people’s development of
+  psychopathology, longitudinally, across the lifespan. First,
+  diagnostic and taxonomic systems do not define psychopathology
+  constructs from a developmental perspective. A developmental
+  perspective is crucial because psychopathology constructs often have
+  earlier origins than their full clinical presentation, and forms of
+  psychopathology frequently show changes in behavioral manifestation
+  across development (heterotypic continuity). Second, current
+  assessments do not adequately capture these changes in behavioral
+  manifestation. Third, traditional scoring systems do not allow
+  charting individuals’ change over time in the face of changing
+  behavioral manifestation. Fourth, current assessments are not
+  well-suited for capturing the full range of individual differences,
+  despite the dimensional nature of psychopathology.</p>
 </sec>
-<sec id="solution">
-  <title>Solution</title>
+<sec id="solution-a-developmental-scaling-framework">
+  <title>Solution: A Developmental Scaling Framework</title>
 </sec>
 <sec id="other-key-challenges-to-address">
   <title>Other Key Challenges to Address</title>
 </sec>
 <sec id="conclusion">
   <title>Conclusion</title>
+  <p>Addressing these challenges will allow charting individuals’
+  trajectories of psychopathology across the lifespan and identifying
+  risk and protective factors that influence their developmental
+  courses. Doing so is critical for understanding how psychopathology
+  develops, when to intervene, and how to most effectively prevent
+  psychopathology.</p>
 </sec>
 <sec id="references">
   <title>References</title>
@@ -195,12 +235,54 @@ factors that influence developmental courses.
 <sec id="apx-a">
   <title>This Section Is an Appendix</title>
 </sec>
-<sec id="apx-b">
-  <title>Another Appendix</title>
-</sec>
 </body>
 
 <back>
+<ref-list>
+  <title>Another Appendix</title>
+  <ref id="ref-Insel2008">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Insel</surname><given-names>Thomas R.</given-names></name>
+      </person-group>
+      <article-title>Assessing the economic costs of serious mental illness</article-title>
+      <source>American Journal of Psychiatry</source>
+      <year iso-8601-date="2008">2008</year>
+      <volume>165</volume>
+      <issue>6</issue>
+      <uri>https://psychiatryonline.org/doi/abs/10.1176/appi.ajp.2008.08030366</uri>
+      <pub-id pub-id-type="doi">10.1176/appi.ajp.2008.08030366</pub-id>
+      <fpage>663</fpage>
+      <lpage>665</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Wakschlag2019">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Wakschlag</surname><given-names>Lauren S.</given-names></name>
+        <name><surname>Roberts</surname><given-names>Megan Y.</given-names></name>
+        <name><surname>Flynn</surname><given-names>Rachel M.</given-names></name>
+        <name><surname>Smith</surname><given-names>Justin D.</given-names></name>
+        <name><surname>Krogh-Jespersen</surname><given-names>Sheila</given-names></name>
+        <name><surname>Kaat</surname><given-names>Aaron J.</given-names></name>
+        <name><surname>Gray</surname><given-names>Larry</given-names></name>
+        <name><surname>Walkup</surname><given-names>John</given-names></name>
+        <name><surname>Marino</surname><given-names>Bradley S.</given-names></name>
+        <name><surname>Norton</surname><given-names>Elizabeth S.</given-names></name>
+        <name><surname>Davis</surname><given-names>Matthew M.</given-names></name>
+      </person-group>
+      <article-title>Future directions for early childhood prevention of mental disorders: A road map to mental health, earlier</article-title>
+      <source>Journal of Clinical Child &amp; Adolescent Psychology</source>
+      <year iso-8601-date="2019">2019</year>
+      <volume>48</volume>
+      <issue>3</issue>
+      <uri>https://doi.org/10.1080/15374416.2018.1561296</uri>
+      <pub-id pub-id-type="doi">10.1080/15374416.2018.1561296</pub-id>
+      <fpage>539</fpage>
+      <lpage>554</lpage>
+    </element-citation>
+  </ref>
+</ref-list>
 </back>
 
 <!-- (F2ED4C6E)[nb-1]:/home/runner/work/studying-psychopathology-development-lifespan/studying-psychopathology-development-lifespan/notebooks/correlations.qmd -->
