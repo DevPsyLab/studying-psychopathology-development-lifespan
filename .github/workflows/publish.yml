@@ -67,6 +67,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Archive production artifacts
+        if: always() # ensures it runs even if previous steps fail
         uses: actions/upload-artifact@v7 # update
         with:
           name: _manuscript
@@ -74,3 +75,7 @@ jobs:
             _manuscript/
             *.tex
             *.md
+            *.log
+            *.bbl
+            *.blg
+            *.txt
