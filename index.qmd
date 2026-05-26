@@ -114,17 +114,7 @@ citation:
 
 <!-- The introduction should not have a level-1 heading such as Introduction. -->
 
-## Section in Introduction
-
-## Another Section in Introduction
-
-# Method
-
-## Participants
-
-## Procedure
-
-## Measures
+# The Goal
 
 # The Problem/Obstacle
 
