@@ -1,6 +1,6 @@
 ---
-title: Full Title
-shorttitle: Short Title for Running Head
+title: Studying Development of Psychopathology Across the Lifespan
+shorttitle: Psychopathology Development Across Lifespan
 author:
   - given: Isaac T.
     family: Petersen
