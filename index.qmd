@@ -139,17 +139,35 @@ citation:
 
 <!-- The introduction should not have a level-1 heading such as Introduction. -->
 
+When entrenched, psychopathology is costly and difficult to treat [@Insel2008; @Wakschlag2019].
+Understanding its developmental origins is therefore crucial for preventing later, more severe psychopathology.
+Developmental science seeks to build a bridge that spans the lifespan—from infancy to older adulthood—and not just transitory periods in people's lives.
+However, the field has not adequately studied individuals' development of psychopathology across the lifespan, instead taking a piecewise approach to development, which limits our understanding of lifespan development and the origins of psychopathology.
+In this paper, we describe reasons why this is the case—beyond logistical challenges of time and money.
+And we propose solutions to these challenges by introducing a developmental scaling framework for psychopathology.
+Using externalizing psychopathology as an example, we draw on our content analysis of over 270 externalizing measures, as well as lessons from the study of other constructs such as academic and cognitive skills across lengthy developmental periods.
+
 # The Goal
 
 # The Problem/Obstacle
 
 # Reasons for the Problem
 
-# Solution
+Beyond logistical challenges of time and money, there are several key reasons why psychology has failed to study people's development of psychopathology, longitudinally, across the lifespan.
+First, diagnostic and taxonomic systems do not define psychopathology constructs from a developmental perspective.
+A developmental perspective is crucial because psychopathology constructs often have earlier origins than their full clinical presentation, and forms of psychopathology frequently show changes in behavioral manifestation across development (heterotypic continuity).
+Second, current assessments do not adequately capture these changes in behavioral manifestation.
+Third, traditional scoring systems do not allow charting individuals' change over time in the face of changing behavioral manifestation.
+Fourth, current assessments are not well-suited for capturing the full range of individual differences, despite the dimensional nature of psychopathology.
+
+# Solution: A Developmental Scaling Framework
 
 # Other Key Challenges to Address
 
 # Conclusion
+
+Addressing these challenges will allow charting individuals' trajectories of psychopathology across the lifespan and identifying risk and protective factors that influence their developmental courses.
+Doing so is critical for understanding how psychopathology develops, when to intervene, and how to most effectively prevent psychopathology.
 
 # References
 
