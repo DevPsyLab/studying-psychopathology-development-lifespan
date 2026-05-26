@@ -29,6 +29,40 @@ author:
         city: Iowa City
         region: IA
         postal-code: 52242
+  - given: Zachary
+    family: Demko
+    orcid: 0000-0002-5717-6205
+    email: zachary-demko@uiowa.edu
+    corresponding: false
+    role:
+      - conceptualization
+      - data curation
+      - analysis
+      - investigation
+      - methodology
+      - software
+      - editing
+    affiliations:
+      - name: University of Iowa
+        department: Department of Psychological and Brain Sciences
+        address: G60 Psychological and Brain Sciences Building
+        city: Iowa City
+        region: IA
+        postal-code: 52242
+  - given: Megan
+    family: Schumer
+    orcid: 0009-0009-5488-6541
+    email: megan-schumer@uiowa.edu
+    corresponding: false
+    role:
+      - editing
+    affiliations:
+      - name: University of Iowa
+        department: Department of Psychological and Brain Sciences
+        address: G60 Psychological and Brain Sciences Building
+        city: Iowa City
+        region: IA
+        postal-code: 52242
 author-note:
   disclosures:
     study-registration: 'The study hypotheses, methods, and analysis plan were
@@ -90,15 +124,15 @@ citation:
 
 ## Measures
 
-## Statistical Analysis
+# The Problem/Obstacle
 
-# Results
+# Reasons for the Problem
 
-# Discussion
+# Solution
 
-## Limitations and Future Directions
+# Other Key Challenges to Address
 
-## Conclusion
+# Conclusion
 
 # References
 
