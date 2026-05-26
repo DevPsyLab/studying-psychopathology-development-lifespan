@@ -61,6 +61,41 @@ editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writin
 <xref ref-type="aff" rid="aff-1">a</xref>
 <xref ref-type="corresp" rid="cor-1">&#x002A;</xref>
 </contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-5717-6205</contrib-id>
+<name>
+<surname>Demko</surname>
+<given-names>Zachary</given-names>
+</name>
+<string-name>Zachary Demko</string-name>
+
+<email>zachary-demko@uiowa.edu</email>
+<role vocab="https://credit.niso.org" vocab-term="conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">conceptualization</role>
+<role vocab="https://credit.niso.org" vocab-term="data
+curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">data
+curation</role>
+<role vocab="https://credit.niso.org" vocab-term="formal
+analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">analysis</role>
+<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">investigation</role>
+<role vocab="https://credit.niso.org" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">methodology</role>
+<role vocab="https://credit.niso.org" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">software</role>
+<role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
+editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">editing</role>
+<xref ref-type="aff" rid="aff-1">a</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0009-0009-5488-6541</contrib-id>
+<name>
+<surname>Schumer</surname>
+<given-names>Megan</given-names>
+</name>
+<string-name>Megan Schumer</string-name>
+
+<email>megan-schumer@uiowa.edu</email>
+<role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
+editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">editing</role>
+<xref ref-type="aff" rid="aff-1">a</xref>
+</contrib>
 </contrib-group>
 <aff id="aff-1">
 <institution content-type="dept">Department of Psychological and Brain
@@ -114,38 +149,23 @@ INSERT ABSTRACT HERE.
 </front>
 
 <body>
-<sec id="section-in-introduction">
-  <title>Section in Introduction</title>
+<sec id="the-goal">
+  <title>The Goal</title>
 </sec>
-<sec id="another-section-in-introduction">
-  <title>Another Section in Introduction</title>
+<sec id="the-problemobstacle">
+  <title>The Problem/Obstacle</title>
 </sec>
-<sec id="method">
-  <title>Method</title>
-  <sec id="participants">
-    <title>Participants</title>
-  </sec>
-  <sec id="procedure">
-    <title>Procedure</title>
-  </sec>
-  <sec id="measures">
-    <title>Measures</title>
-  </sec>
-  <sec id="statistical-analysis">
-    <title>Statistical Analysis</title>
-  </sec>
+<sec id="reasons-for-the-problem">
+  <title>Reasons for the Problem</title>
 </sec>
-<sec id="results">
-  <title>Results</title>
+<sec id="solution">
+  <title>Solution</title>
 </sec>
-<sec id="discussion">
-  <title>Discussion</title>
-  <sec id="limitations-and-future-directions">
-    <title>Limitations and Future Directions</title>
-  </sec>
-  <sec id="conclusion">
-    <title>Conclusion</title>
-  </sec>
+<sec id="other-key-challenges-to-address">
+  <title>Other Key Challenges to Address</title>
+</sec>
+<sec id="conclusion">
+  <title>Conclusion</title>
 </sec>
 <sec id="references">
   <title>References</title>
