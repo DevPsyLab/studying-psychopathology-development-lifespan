@@ -64,27 +64,31 @@ author:
         region: IA
         postal-code: 52242
 author-note:
+  status-changes: 
+    affiliation-change: ~
+    deceased: ~
   disclosures:
-    #study-registration: 'The study hypotheses, methods, and analysis plan were
-    #  preregistered: [LINK].'
-    data-sharing: 'The data for the present study are published online: [LINK].'
-    conflict-of-interest: 'We have no conflicts of interest to disclose. The 
+    #study-registration: "The study hypotheses, methods, and analysis plan were
+    #  preregistered: [LINK]."
+    data-sharing: "The data for the present study are published online: [LINK]."
+    related-report: ~
+    conflict-of-interest: "We have no conflicts of interest to disclose. The 
       present study was approved by the University of Iowa Institutional Review
       Board (Study #: INSERT). The authors complied with APA ethical standards
-      in the treatment of participants.'
-    financial-support: The study was funded by Grant HD098235 from the Eunice 
+      in the treatment of participants."
+    financial-support: "The study was funded by Grant HD098235 from the Eunice 
       Kennedy Shriver National Institute of Child Health and Human Development.
       Any opinions, findings, and conclusions or recommendations expressed in 
       this material are those of the authors and do not necessarily reflect the 
-      views of the National Institutes of Health.
-    gratitude: 'We thank Jordan L. Harris and Alexis Hosch for their help
+      views of the National Institutes of Health."
+    gratitude: "We thank Jordan L. Harris and Alexis Hosch for their help
       identifying measures of externalizing problems and transcribing and
-      coding their content.'
-  correspondence-note: 'Correspondence concerning this article should be
+      coding their content."
+  correspondence-note: "Correspondence concerning this article should be
     addressed to Isaac T. Petersen, University of Iowa, G60 Psychological and
     Brain Sciences Building, Iowa City, IA 52242.
-    Email: isaac-t-petersen@uiowa.edu'
-abstract: The field has not adequately studied individuals' development of
+    Email: isaac-t-petersen@uiowa.edu"
+abstract: "The field has not adequately studied individuals' development of
   psychopathology across the lifespan, instead taking a piecewise approach to
   development, limiting our understanding of lifespan development and the
   origins of psychopathology. We describe why this is the case—beyond logistical
@@ -104,8 +108,8 @@ abstract: The field has not adequately studied individuals' development of
   externalizing measures, as well as lessons from the study of other constructs
   across lengthy developmental periods. Addressing these challenges will allow
   charting individuals' trajectories of psychopathology across the lifespan and
-  identifying risk and protective factors that influence developmental courses.
-
+  identifying risk and protective factors that influence developmental courses."
+impact-statement: ~
 keywords:
   - psychopathology
   - lifespan development
