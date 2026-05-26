@@ -65,19 +65,21 @@ author:
         postal-code: 52242
 author-note:
   disclosures:
-    study-registration: 'The study hypotheses, methods, and analysis plan were
-      preregistered: [LINK].'
-    data-sharing: 'The instruments, data, a data dictionary, analysis scripts,
-      and a computational notebook for the present study are published online: 
-      [LINK].'
+    #study-registration: 'The study hypotheses, methods, and analysis plan were
+    #  preregistered: [LINK].'
+    data-sharing: 'The data for the present study are published online: [LINK].'
     conflict-of-interest: 'We have no conflicts of interest to disclose. The 
       present study was approved by the University of Iowa Institutional Review
       Board (Study #: INSERT). The authors complied with APA ethical standards
       in the treatment of participants.'
-    financial-support: The study was funded by Grant INSERT from INSERT.
-    gratitude: 'The instruments, data, a data dictionary, analysis scripts, and
-      a computational notebook for the present study are published online: 
-      [LINK].'
+    financial-support: The study was funded by Grant HD098235 from the Eunice 
+      Kennedy Shriver National Institute of Child Health and Human Development.
+      Any opinions, findings, and conclusions or recommendations expressed in 
+      this material are those of the authors and do not necessarily reflect the 
+      views of the National Institutes of Health.
+    #gratitude: 'The instruments, data, a data dictionary, analysis scripts, and
+    #  a computational notebook for the present study are published online: 
+    #  [LINK].'
   correspondence-note: 'Correspondence concerning this article should be
     addressed to Isaac T. Petersen, University of Iowa, G60 Psychological and
     Brain Sciences Building, Iowa City, IA 52242.
@@ -107,7 +109,7 @@ citation:
   #issue: INSERT
   #issued: YEAR
   #doi: INSERT
-  url: https://devpsylab.github.io/QuartoManuscript/
+  url: https://devpsylab.github.io/studying-psychopathology-development-lifespan/
 ---
 
 <!-- The introduction should not have a level-1 heading such as Introduction. -->
