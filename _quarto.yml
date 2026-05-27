@@ -4,9 +4,6 @@ project:
 manuscript:
   code-links: repo
 
-website:
-  google-analytics: G-DHZTKTTQ1M
-
 lang: en-US
 bibliography: references.bib
 
@@ -28,6 +25,8 @@ format:
         showHighlights: whenSidebarOpen
     license: CC BY
     csl: apa.csl
+    include-in-header:
+      - file: "includes/google_analytics.html"
   #apaquarto-html:
   #  toc: true
   apaquarto-docx:
