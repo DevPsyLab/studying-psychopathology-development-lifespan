@@ -9,6 +9,7 @@ bibliography: references.bib
 
 format:
   html:
+    google-analytics: "G-DHZTKTTQ1M"
     highlight-style: a11y
     code-link: true
     code-fold: show
