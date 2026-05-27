@@ -109,5 +109,7 @@ notebooks/*_files/
 
 **/*.quarto_ipynb
 .positai
+.claude
+example_cache/
 index.fff
 index.ttt
