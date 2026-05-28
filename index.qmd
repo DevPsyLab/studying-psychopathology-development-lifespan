@@ -139,6 +139,8 @@ citation:
 
 <!-- The introduction should not have a level-1 heading such as Introduction. -->
 
+***NOTE: this manuscript is in progress of being drafted—it is incomplete.***
+
 When entrenched, psychopathology is costly and difficult to treat [@Insel2008; @Wakschlag2019].
 Understanding its developmental origins is therefore crucial for preventing later, more severe psychopathology.
 Developmental science seeks to build a bridge that spans the lifespan—from infancy to older adulthood—and not just transitory periods in people's lives.
@@ -179,10 +181,41 @@ A developmental perspective is crucial because psychopathology constructs often 
 Second, current assessments do not adequately capture these changes in behavioral manifestation.
 Third, traditional scoring systems do not allow charting individuals' change over time in the face of changing behavioral manifestation.
 Fourth, current assessments are not well-suited for capturing the full range of individual differences, despite the dimensional nature of psychopathology.
+Fifth, as a result of these limitations, current assessments are not well-suited for capturing individuals' change over time.
+
+Below, we describe these reasons in detail.
+The first reason represents problems with our constructs.
+The remaining reasons represent problems with existing assessments and traditional scoring systems.
+
+## Problems of our Constructs
+
+### Lack of a Developmental Perspective
+
+## Problems of Existing Assessments and Traditional Scoring Systems
+
+<!-- Mismatch of theory and method/assessment -->
+
+### Do Not Adequately Capture Constructs' Change in Behavioral Manifestation Across Development
+
+### Do Not Allow Charting Individuals' Change Over Time When the Construct Changes in Behavioral Manifestation
+
+### Are Not Well-Suited For Capturing the Full Range of Individual Differences
+
+<!-- Likert-Type responses -->
+
+### Are Not Well-Suited for Capturing Individuals' Change Over Time
+
+## Example: Externalizing Psychopathology
 
 # Solution: A Developmental Scaling Framework
 
 # Other Key Challenges to Address
+
+## Potential Confounds of Change
+
+## Factorial Invariance Across Time
+
+## Obsolescence of Items and Measures
 
 # Conclusion
 
