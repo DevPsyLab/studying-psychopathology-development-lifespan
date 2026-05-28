@@ -220,7 +220,10 @@ cognitive skills across lengthy developmental periods.</p>
   <p>However, even cross-sectional work spanning the lifespan is not
   often conducted.</p>
   <p>In a longitudinal design, the same individuals are followed across
-  time.</p>
+  time. A longitudinal design allows examining individuals’ change
+  across time. However, as we describe
+  <xref alt="later" rid="sec-potential-confounds-of-change">later</xref>,
+  longitudinal designs have potential confounds of change.</p>
 </sec>
 <sec id="the-problemobstacle">
   <title>The Problem/Obstacle</title>
@@ -265,12 +268,12 @@ cognitive skills across lengthy developmental periods.</p>
       <title>Do Not Allow Charting Individuals’ Change Over Time When
       the Construct Changes in Behavioral Manifestation</title>
     </sec>
-    <sec id="are-not-well-suited-for-capturing-the-full-range-of-individual-differences">
-      <title>Are Not Well-Suited For Capturing the Full Range of
-      Individual Differences</title>
+    <sec id="not-well-suited-for-capturing-the-full-range-of-individual-differences">
+      <title>Not Well-Suited For Capturing the Full Range of Individual
+      Differences</title>
     </sec>
-    <sec id="are-not-well-suited-for-capturing-individuals-change-over-time">
-      <title>Are Not Well-Suited for Capturing Individuals’ Change Over
+    <sec id="not-well-suited-for-capturing-individuals-change-over-time">
+      <title>Not Well-Suited for Capturing Individuals’ Change Over
       Time</title>
     </sec>
   </sec>
@@ -283,8 +286,20 @@ cognitive skills across lengthy developmental periods.</p>
 </sec>
 <sec id="other-key-challenges-to-address">
   <title>Other Key Challenges to Address</title>
-  <sec id="potential-confounds-of-change">
+  <sec id="sec-potential-confounds-of-change">
     <title>Potential Confounds of Change</title>
+    <sec id="practice-effects">
+      <title>Practice Effects</title>
+    </sec>
+    <sec id="period-and-cohort-effects">
+      <title>Period and Cohort Effects</title>
+    </sec>
+    <sec id="measurement-error">
+      <title>Measurement Error</title>
+    </sec>
+    <sec id="change-in-meaning-of-the-scores">
+      <title>Change in Meaning of the Scores</title>
+    </sec>
   </sec>
   <sec id="factorial-invariance-across-time">
     <title>Factorial Invariance Across Time</title>
