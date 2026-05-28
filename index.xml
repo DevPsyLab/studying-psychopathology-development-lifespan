@@ -210,26 +210,59 @@ cognitive skills across lengthy developmental periods.</p>
   growth and decline across the lifespan.</p>
   <p>However, cross-sectional designs have key limitations. First,
   cross-sectional designs do not allow examining individuals’ change
-  over time. Second, individuals show considerable heterogeneity in
-  level and change across time in many constructs, so cross-sectional
-  designs may obscure diverse patterns of change. Third, in a
-  cross-sectional study, any apparent age-related differences in a
-  construct could reflect cohort differences instead of developmental
-  changes. For example, average differences in stress between
-  5-year-olds and 10-year-olds could reflect the differing experiences
-  that the 10-year-olds shared—such as going to school during the
-  Coronavirus pandemic. Fourth, findings from cross-sectional studies
-  can differ from findings examining the same people over time, which
-  violates the convergence assumption. In cross-sectional studies, the
-  convergence assumption is the assumption that cross-sectional age
+  over time. Second, cross-sectional designs may obscure diverse
+  patterns of change. Individuals show considerable heterogeneity in
+  level and change across time in many constructs. As an example,
+  despite the normative pattern of steep cognitive decline in episodic
+  memory with age, there are a subset of individuals who do not show
+  this same pattern. For instance, superagers are individuals who are
+  older adults (age 80+) who have episodic memory at or above the
+  normative level of middle-aged adults (50–65 years old) and who may be
+  resilient to the typical aging process
+  (<xref alt="Godoy et al. 2021" rid="ref-Godoy2021" ref-type="bibr">Godoy
+  et al. 2021</xref>). A theoretical depiction of the heterogeneity of
+  cognitive decline is depicted in
+  <xref alt="Figure 1" rid="fig-agingTrajectoriesHeteogeneity">Figure 1</xref>.</p>
+  <p>Third, in a cross-sectional study, any apparent age-related
+  differences in a construct could reflect cohort differences instead of
+  developmental changes. For example, average differences in stress
+  between 5-year-olds and 10-year-olds could reflect the differing
+  experiences that the 10-year-olds shared—such as going to school
+  during the Coronavirus pandemic. Fourth, findings from cross-sectional
+  studies can differ from findings examining the same people over time,
+  which violates the convergence assumption. In cross-sectional studies,
+  the convergence assumption is the assumption that cross-sectional age
   differences and longitudinal age changes converge onto a common
   trajectory. An example where the convergence assumption has been shown
-  to be violated is in studies of cognitive decline, where
+  to be violated is in studies of cognitive decline. In particular,
   cross-sectional studies overestimate age-related cognitive declines
   compared to following the same people over time in a longitudinal
-  study
-  (<xref alt="Ackerman 2013" rid="ref-Ackerman2013" ref-type="bibr">Ackerman
+  study, which may reflect cohort effects such as the Flynn effect
+  (where population intelligence scores at a given age tend to increase
+  across generations;
+  <xref alt="Ackerman 2013" rid="ref-Ackerman2013" ref-type="bibr">Ackerman
   2013</xref>).</p>
+  <fig id="fig-agingTrajectoriesHeteogeneity">
+    <caption><p>Figure 1: Theoretical illustration of inter-individual
+    variability in cognitive aging trajectories. Each grey line
+    represents one individual hypothetical cognitive health trajectory.
+    Established and emerging mechanisms that determine whether a given
+    individual experiences more stable (in green) vs. declining (in
+    purple) trajectories are the focus of this review. The orange line
+    marks the threshold for functional independence; once an
+    individual’s cognitive health drops below this level, autonomous
+    daily living is compromised. (Figure reprinted from Abrous et al.
+    (<xref alt="2026" rid="ref-Abrous2026" ref-type="bibr">2026</xref>),
+    Figure 1, p. 2. Abrous, D. N., Blin, N., Boraxbekk, C.-J.,
+    Catheline, G., Fitzsimons, C. P., Hilscher, M., Lemoine, M., Lopes,
+    L. V., Maass, A., Nilsson, M., Nyberg, L., Rasmussen, L. J.,
+    Remondes, M., Sauvage, M., Schreiber, S., &amp; Wolbers, T. (2026).
+    Hallmarks of healthy cognitive aging: Inter-individual differences
+    in aging trajectories. <italic>Ageing Research Reviews</italic>,
+    119, 103102.
+    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.arr.2026.103102">https://doi.org/10.1016/j.arr.2026.103102</ext-link>)</p></caption>
+    <graphic mimetype="image" mime-subtype="jpeg" xlink:href="Figures/Abrous2026_figure1.jpg" />
+  </fig>
   <p>Because longitudinal designs follow the same person(s) over time,
   such a design allows examining individuals’ change across time.
   However, as we describe
@@ -340,8 +373,8 @@ cognitive skills across lengthy developmental periods.</p>
   <title>Other Key Challenges to Address</title>
   <sec id="sec-potential-confounds-of-change">
     <title>Potential Confounds of Change</title>
-    <sec id="practice-effects">
-      <title>Practice Effects</title>
+    <sec id="practiceretest-effects">
+      <title>Practice/Retest Effects</title>
     </sec>
     <sec id="period-and-cohort-effects">
       <title>Period and Cohort Effects</title>
@@ -465,6 +498,58 @@ cognitive skills across lengthy developmental periods.</p>
       <volume>2: Testing and Assessment in Clinical and Counseling Psychology</volume>
       <fpage>119</fpage>
       <lpage>132</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Abrous2026">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Abrous</surname><given-names>Djoher Nora</given-names></name>
+        <name><surname>Blin</surname><given-names>Nicolas</given-names></name>
+        <name><surname>Boraxbekk</surname><given-names>Carl-Johan</given-names></name>
+        <name><surname>Catheline</surname><given-names>Gwenaelle</given-names></name>
+        <name><surname>Fitzsimons</surname><given-names>Carlos P.</given-names></name>
+        <name><surname>Hilscher</surname><given-names>Markus</given-names></name>
+        <name><surname>Lemoine</surname><given-names>Maël</given-names></name>
+        <name><surname>Lopes</surname><given-names>Luísa V.</given-names></name>
+        <name><surname>Maass</surname><given-names>Anne</given-names></name>
+        <name><surname>Nilsson</surname><given-names>Mats</given-names></name>
+        <name><surname>Nyberg</surname><given-names>Lars</given-names></name>
+        <name><surname>Rasmussen</surname><given-names>Lene Juel</given-names></name>
+        <name><surname>Remondes</surname><given-names>Miguel</given-names></name>
+        <name><surname>Sauvage</surname><given-names>Magdalena</given-names></name>
+        <name><surname>Schreiber</surname><given-names>Stefanie</given-names></name>
+        <name><surname>Wolbers</surname><given-names>Thomas</given-names></name>
+      </person-group>
+      <article-title>Hallmarks of healthy cognitive aging: Inter-individual differences in aging trajectories</article-title>
+      <source>Ageing Research Reviews</source>
+      <year iso-8601-date="2026">2026</year>
+      <volume>119</volume>
+      <uri>https://www.sciencedirect.com/science/article/pii/S1568163726000942</uri>
+      <pub-id pub-id-type="doi">10.1016/j.arr.2026.103102</pub-id>
+      <fpage>103102</fpage>
+      <lpage></lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Godoy2021">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Godoy</surname><given-names>Laiz Laura de</given-names></name>
+        <name><surname>Alves</surname><given-names>Cesar Augusto Pinheiro Ferreira</given-names></name>
+        <name><surname>Saavedra</surname><given-names>Juan Sebastian Martin</given-names></name>
+        <name><surname>Studart-Neto</surname><given-names>Adalberto</given-names></name>
+        <name><surname>Nitrini</surname><given-names>Ricardo</given-names></name>
+        <name><surname>Costa Leite</surname><given-names>Claudia da</given-names></name>
+        <name><surname>Bisdas</surname><given-names>Sotirios</given-names></name>
+      </person-group>
+      <article-title>Understanding brain resilience in superagers: A systematic review</article-title>
+      <source>Neuroradiology</source>
+      <year iso-8601-date="2021">2021</year>
+      <volume>63</volume>
+      <issue>5</issue>
+      <uri>https://doi.org/10.1007/s00234-020-02562-1</uri>
+      <pub-id pub-id-type="doi">10.1007/s00234-020-02562-1</pub-id>
+      <fpage>663</fpage>
+      <lpage>683</lpage>
     </element-citation>
   </ref>
 </ref-list>
