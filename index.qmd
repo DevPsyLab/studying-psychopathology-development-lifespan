@@ -205,28 +205,28 @@ Diagnostic and taxonomic systems do not define psychopathology constructs from a
 The diagnostic systems, including the Diagnostic and Statistical Manual of Mental Disorders [DSM-5-TR\; @APA2022] and the International Classification of Diseases [ICD-11\; @WHO2022], specify various externalizing-related disorders, including attention-deficit/hyperactivity disorder (ADHD), oppositional defiant disorder (ODD), conduct disorder (CD), and antisocial personality disorder (ASPD).
 Among externalizing-related disorders—with few exceptions[^dsmFootnote1]—the diagnostic criteria do not differ across development, even though diagnostic manuals acknowledge that developmental factors impact symptom presentation[^dsmFootnote2].
 
-[^dsmFootnote1]: In the DSM-5-TR [@APA2022], the minimum frequency for considering a symptom of opposition defiant disorder to be present is "most days" (for a period of six months) for children younger than 5 years, whereas it is "at least once per week" (for at least six months) for children 5 years or older.
-For the diagnosis of attention-deficit/hyperactivity disorder, six or more symptoms are required for children and younger adolescents (up to age 16), whereas five ore more sympomts are required for older adolescents and adults (aged 17 or over).
-However, the symptoms for defining oppositional defiant disorder and attention-deficit/hyperactivity disorder do not differ across development.
+[^dsmFootnote1]: In the DSM-5-TR [@APA2022], the minimum frequency for considering a symptom of ODD to be present is "most days" (for a period of six months) for children younger than 5 years, whereas it is "at least once per week" (for at least six months) for children 5 years or older.
+For the diagnosis of ADHD, six or more symptoms are required for children and younger adolescents (up to age 16), whereas five or more sympomts are required for older adolescents and adults (aged 17 or over).
+However, the symptoms for defining ODD and ADHD do not differ across development.
 
 [^dsmFootnote2]: In the DSM-5-TR [@APA2022], some disorders have a "Development and Course" subsection that describes when disorders tend to emerge and their rates across ages, in addition to describing the types of symptoms that may be more or less common at various points in development.
 For instance, in the section on major depressive disorder, it is noted that "hypersomnia and hyperphagia are more likely in younger individuals, and melancholic symptoms, particularly psychomotor disturbances, are more common in older individuals.
 Depressions with earlier ages at onset are more familial and more likely to involve personality disturbances." (p. 189).
-in the section on attention-deficit/hyperactivity disorder, it is noted that, "In preschool, the main manifestation is hyperactivity.
+In the section on ADHD, it is noted that, "In preschool, the main manifestation is hyperactivity.
 Inattention becomes more prominent during elementary school.
 During adolescence, signs of hyperactivity (e.g., running and climbing) are less common and may be confined to fidgetiness or an inner feeling of jitteriness, restlessness, or impatience.
 In adulthood, along with inattention and restlessness, impulsivity may remain problematic even when hyperactivity has diminished." (p. 71).
-In the section on conduct disorder, it is noted that "Symptoms of the disorder vary with age as the individual develops increased physical
+In the section on CD, it is noted that "Symptoms of the disorder vary with age as the individual develops increased physical
 strength, cognitive abilities, and sexual maturity.
 Symptom behaviors that emerge first tend to be less serious (e.g., lying, shoplifting), whereas conduct problems that emerge last tend to be more severe (e.g., rape, theft while confronting a victim)...
 When individuals with conduct disorder reach adulthood, symptoms of aggression, property destruction, deceitfulness, and rule violation, including violence against co-workers, partners, and children, may be exhibited in the workplace and the home" (p. 534).
 Moreover, some disorders in the DSM-5-TR note that, to be considered a symptom, the frequency, intensity, or persistence, of the behavior must be inconsistent with the level expected for their developmental level.
-For instance, in the diagnosis of attention-deficit/hyperactivity disorder, it is noted that "the symptoms have persisted for at least 6 months to a degree that is inconsistent with developmental level" (p. 68).
-In the diagnosis of oppositional defiant disorder, it is noted that "other factors [besides a minimum frequency] should also be considered, such as whether the frequency and intensity of the behaviors are outside a range that is normative for the individual's developmental level, gender, and culture." (p. 522).
+For instance, in the diagnosis of ADHD, it is noted that "the symptoms have persisted for at least 6 months to a degree that is inconsistent with developmental level" (p. 68).
+In the diagnosis of ODD, it is noted that "other factors [besides a minimum frequency] should also be considered, such as whether the frequency and intensity of the behaviors are outside a range that is normative for the individual's developmental level, gender, and culture." (p. 522).
 In addition, some disorders require that some symptoms onset before or after a particular age.
-For instance, in the diagnosis of attention-deficit/hyperactivity disorder, several symptomers must be present prior to age 12.
-In the diagnosis of conduct disorder, the symptoms "often stays out at night despite parental prohibitions" and "if often truant from school" must begin before age 13 (p. 531).
-In the diagnosis of antisocial personality disorder, symptoms must be persistent since age 15 but have onset prior to age 15.
+For instance, in the diagnosis of ADHD, several symptomers must be present prior to age 12.
+In the diagnosis of CD, the symptoms "often stays out at night despite parental prohibitions" and "if often truant from school" must begin before age 13 (p. 531).
+In the diagnosis of ASPD, symptoms must be persistent since age 15 but have onset prior to age 15.
 
 ## Problems of Existing Assessments and Traditional Scoring Systems
 
