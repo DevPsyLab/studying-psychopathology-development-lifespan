@@ -155,25 +155,30 @@ Using externalizing psychopathology as an example, we draw on our content analys
 A key goal of developmental science is to understand how people develop across the lifespan.
 A variety of methods, including cross-sectional and longitudinal designs, could be leveraged for this purpose.
 In a cross-sectional design, people are assessed at one timepoint.
+In a longitudinal design, the same individuals are followed across time.
+
 Cross-sectional designs provide the ability to cheaply and quickly assess a wide age range, providing a snapshot at a particular point in time.
 Cross-sectional designs may inform our understanding of general normative patterns of change—such as the typical pattern of cognitive growth and decline across the lifespan.
 
 However, cross-sectional designs have key limitations.
-Cross-sectional designs do not allow examining individuals' change over time.
-Individuals show considerable heterogeneity in level and change across time in many constructs, so cross-sectional designs may obscure diverse patterns of change.
+First, cross-sectional designs do not allow examining individuals' change over time.
+Second, individuals show considerable heterogeneity in level and change across time in many constructs, so cross-sectional designs may obscure diverse patterns of change.
 <!-- Discuss heterogeneity of cognitive decline. -->
-Moreover, in a cross-sectional study, any apparent age-related differences in a construct could reflect cohort differences instead of developmental changes.
+Third, in a cross-sectional study, any apparent age-related differences in a construct could reflect cohort differences instead of developmental changes.
 For example, average differences in stress between 5-year-olds and 10-year-olds could reflect the differing experiences that the 10-year-olds shared—such as going to school during the Coronavirus pandemic.
+Fourth, findings from cross-sectional studies can differ from findings examining the same people over time, which violates the convergence assumption.
+In cross-sectional studies, the convergence assumption is the assumption that cross-sectional age differences and longitudinal age changes converge onto a common trajectory.
+An example where the convergence assumption has been shown to be violated is in studies of cognitive decline, where cross-sectional studies overestimate age-related cognitive declines compared to following the same people over time in a longitudinal study [@Ackerman2013].
 
-<!-- Findings from cross-sectional studies do not always converge with findings from longitudinal studies. -->
-
+Because longitudinal designs follow the same person(s) over time, such a design allows examining individuals' change across time.
+However, as we describe [later](#sec-potential-confounds-of-change), longitudinal designs also have potential confounds of change.
+Moreover, compared to cross-sectional designs, longitudinal designs take more time and tend to be more costly and to require more personnel.
+Thus, longitudinal studies that span the lifespan are not common.
 However, even cross-sectional work spanning the lifespan is not often conducted.
 
-In a longitudinal design, the same individuals are followed across time.
-A longitudinal design allows examining individuals' change across time.
-However, as we describe [later](#sec-potential-confounds-of-change), longitudinal designs have potential confounds of change.
-
 # The Problem/Obstacle
+
+<!-- Describe findings from existing studies that have examined psychopathology across the lifespan. -->
 
 # Reasons for the Problem
 
@@ -198,7 +203,7 @@ Moreover, where such theories do indicate changes in behavioral manifestation ac
 
 Diagnostic and taxonomic systems do not define psychopathology constructs from a developmental perspective.
 The diagnostic systems, including the Diagnostic and Statistical Manual of Mental Disorders [DSM-5-TR\; @APA2022] and the International Classification of Diseases [ICD-11\; @WHO2022], specify various externalizing-related disorders, including attention-deficit/hyperactivity disorder (ADHD), oppositional defiant disorder (ODD), conduct disorder (CD), and antisocial personality disorder (ASPD).
-Among externalizing-related disorders—with few exceptions[^dsmFootnote1]—the diagnostic criteria do not differ across development, even though diagnostic manuals acknowledge that developmental factors impact symptom presentation [^dsmFootnote2].
+Among externalizing-related disorders—with few exceptions[^dsmFootnote1]—the diagnostic criteria do not differ across development, even though diagnostic manuals acknowledge that developmental factors impact symptom presentation[^dsmFootnote2].
 
 [^dsmFootnote1]: In the DSM-5-TR [@APA2022], the minimum frequency for considering a symptom of opposition defiant disorder to be present is "most days" (for a period of six months) for children younger than 5 years, whereas it is "at least once per week" (for at least six months) for children 5 years or older.
 For the diagnosis of attention-deficit/hyperactivity disorder, six or more symptoms are required for children and younger adolescents (up to age 16), whereas five ore more sympomts are required for older adolescents and adults (aged 17 or over).
