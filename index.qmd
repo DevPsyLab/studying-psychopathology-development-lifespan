@@ -170,6 +170,8 @@ For example, average differences in stress between 5-year-olds and 10-year-olds 
 However, even cross-sectional work spanning the lifespan is not often conducted.
 
 In a longitudinal design, the same individuals are followed across time.
+A longitudinal design allows examining individuals' change across time.
+However, as we describe [later](#sec-potential-confounds-of-change), longitudinal designs have potential confounds of change.
 
 # The Problem/Obstacle
 
@@ -199,11 +201,11 @@ The remaining reasons represent problems with existing assessments and tradition
 
 ### Do Not Allow Charting Individuals' Change Over Time When the Construct Changes in Behavioral Manifestation
 
-### Are Not Well-Suited For Capturing the Full Range of Individual Differences
+### Not Well-Suited For Capturing the Full Range of Individual Differences
 
 <!-- Likert-Type responses -->
 
-### Are Not Well-Suited for Capturing Individuals' Change Over Time
+### Not Well-Suited for Capturing Individuals' Change Over Time
 
 ## Example: Externalizing Psychopathology
 
@@ -211,7 +213,15 @@ The remaining reasons represent problems with existing assessments and tradition
 
 # Other Key Challenges to Address
 
-## Potential Confounds of Change
+## Potential Confounds of Change {#sec-potential-confounds-of-change}
+
+### Practice Effects
+
+### Period and Cohort Effects
+
+### Measurement Error
+
+### Change in Meaning of the Scores
 
 ## Factorial Invariance Across Time
 
