@@ -201,29 +201,45 @@ cognitive skills across lengthy developmental periods.</p>
   develop across the lifespan. A variety of methods, including
   cross-sectional and longitudinal designs, could be leveraged for this
   purpose. In a cross-sectional design, people are assessed at one
-  timepoint. Cross-sectional designs provide the ability to cheaply and
-  quickly assess a wide age range, providing a snapshot at a particular
-  point in time. Cross-sectional designs may inform our understanding of
-  general normative patterns of change—such as the typical pattern of
-  cognitive growth and decline across the lifespan.</p>
-  <p>However, cross-sectional designs have key limitations.
-  Cross-sectional designs do not allow examining individuals’ change
-  over time. Individuals show considerable heterogeneity in level and
-  change across time in many constructs, so cross-sectional designs may
-  obscure diverse patterns of change. Moreover, in a cross-sectional
-  study, any apparent age-related differences in a construct could
-  reflect cohort differences instead of developmental changes. For
-  example, average differences in stress between 5-year-olds and
-  10-year-olds could reflect the differing experiences that the
-  10-year-olds shared—such as going to school during the Coronavirus
-  pandemic.</p>
-  <p>However, even cross-sectional work spanning the lifespan is not
-  often conducted.</p>
-  <p>In a longitudinal design, the same individuals are followed across
-  time. A longitudinal design allows examining individuals’ change
-  across time. However, as we describe
+  timepoint. In a longitudinal design, the same individuals are followed
+  across time.</p>
+  <p>Cross-sectional designs provide the ability to cheaply and quickly
+  assess a wide age range, providing a snapshot at a particular point in
+  time. Cross-sectional designs may inform our understanding of general
+  normative patterns of change—such as the typical pattern of cognitive
+  growth and decline across the lifespan.</p>
+  <p>However, cross-sectional designs have key limitations. First,
+  cross-sectional designs do not allow examining individuals’ change
+  over time. Second, individuals show considerable heterogeneity in
+  level and change across time in many constructs, so cross-sectional
+  designs may obscure diverse patterns of change. Third, in a
+  cross-sectional study, any apparent age-related differences in a
+  construct could reflect cohort differences instead of developmental
+  changes. For example, average differences in stress between
+  5-year-olds and 10-year-olds could reflect the differing experiences
+  that the 10-year-olds shared—such as going to school during the
+  Coronavirus pandemic. Fourth, findings from cross-sectional studies
+  can differ from findings examining the same people over time, which
+  violates the convergence assumption. In cross-sectional studies, the
+  convergence assumption is the assumption that cross-sectional age
+  differences and longitudinal age changes converge onto a common
+  trajectory. An example where the convergence assumption has been shown
+  to be violated is in studies of cognitive decline, where
+  cross-sectional studies overestimate age-related cognitive declines
+  compared to following the same people over time in a longitudinal
+  study
+  (<xref alt="Ackerman 2013" rid="ref-Ackerman2013" ref-type="bibr">Ackerman
+  2013</xref>).</p>
+  <p>Because longitudinal designs follow the same person(s) over time,
+  such a design allows examining individuals’ change across time.
+  However, as we describe
   <xref alt="later" rid="sec-potential-confounds-of-change">later</xref>,
-  longitudinal designs have potential confounds of change.</p>
+  longitudinal designs also have potential confounds of change.
+  Moreover, compared to cross-sectional designs, longitudinal designs
+  take more time and tend to be more costly and to require more
+  personnel. Thus, longitudinal studies that span the lifespan are not
+  common. However, even cross-sectional work spanning the lifespan is
+  not often conducted.</p>
 </sec>
 <sec id="the-problemobstacle">
   <title>The Problem/Obstacle</title>
@@ -281,7 +297,7 @@ cognitive skills across lengthy developmental periods.</p>
       exceptions<xref ref-type="fn" rid="fn1">1</xref>—the diagnostic
       criteria do not differ across development, even though diagnostic
       manuals acknowledge that developmental factors impact symptom
-      presentation <xref ref-type="fn" rid="fn2">2</xref>.</p>
+      presentation<xref ref-type="fn" rid="fn2">2</xref>.</p>
     </sec>
   </sec>
   <sec id="problems-of-existing-assessments-and-traditional-scoring-systems">
@@ -426,6 +442,29 @@ cognitive skills across lengthy developmental periods.</p>
       <article-title>International Statistical Classification of Diseases and Related Health Problems 11th revision (ICD-11)</article-title>
       <year iso-8601-date="2022">2022</year>
       <uri>https://icd.who.int</uri>
+    </element-citation>
+  </ref>
+  <ref id="ref-Ackerman2013">
+    <element-citation publication-type="chapter">
+      <person-group person-group-type="author">
+        <name><surname>Ackerman</surname><given-names>Phillip L.</given-names></name>
+      </person-group>
+      <article-title>Assessment of intellectual functioning in adults</article-title>
+      <source>APA handbook of testing and assessment in psychology</source>
+      <person-group person-group-type="editor">
+        <name><surname>Geisinger</surname><given-names>Kurt F.</given-names></name>
+        <name><surname>Carlson</surname><given-names>Janet F.</given-names></name>
+        <name><surname>Hansen</surname><given-names>Jo-Ida C.</given-names></name>
+        <name><surname>Kuncel</surname><given-names>Nathan R.</given-names></name>
+        <name><surname>Reise</surname><given-names>Steven P.</given-names></name>
+        <name><surname>Rodriguez</surname><given-names>Michael C.</given-names></name>
+      </person-group>
+      <publisher-name>American Psychological Association</publisher-name>
+      <publisher-loc>Washington, DC, US</publisher-loc>
+      <year iso-8601-date="2013">2013</year>
+      <volume>2: Testing and Assessment in Clinical and Counseling Psychology</volume>
+      <fpage>119</fpage>
+      <lpage>132</lpage>
     </element-citation>
   </ref>
 </ref-list>
