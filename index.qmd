@@ -194,7 +194,25 @@ However, even cross-sectional work spanning the lifespan is not often conducted.
 
 # The Problem/Obstacle
 
-<!-- Describe findings from existing studies that have examined psychopathology across the lifespan. -->
+The focal problem examined in this paper is that the field has not adequately studied individuals' development of psychopathology across the lifespan, instead taking a piecewise approach to development.
+The piecewise approach to development limits our understanding of lifespan development and the origins of psychopathology.
+
+<!-- Describe findings from existing studies that have examined psychopathology or other constructs across the lifespan. -->
+<!-- Fels Longitudinal Study -->
+<!-- British 1946 Birth Cohort, aka the Medical Research Council (MRC) National Survey of Health and Development (NSHD) -->
+
+<!-- Long-term studies: -->
+<!-- Dunedin Multidisciplinary Health and Development Study -->
+<!-- Harvard Study of Adult Development -->
+<!-- Framingham Heart Study -->
+<!-- Minnesota Longitudinal Study -->
+<!-- Add Health -->
+<!-- NICHD SECCYD -->
+<!-- ALSPAC -->
+<!-- CDP -->
+
+<!-- Long-term externalizing studies: -->
+<!-- Studies cited in Petersen et al. (2015): -->
 
 # Reasons for the Problem
 
@@ -209,10 +227,36 @@ Fifth, as a result of these limitations, current assessments are not well-suited
 Below, we describe these reasons in detail.
 To ground the discussion, we provide examples relating to externalizing psychopathology; however, these issues are not specific to externalizing.
 
-## Problems of our Constructs
+## Problems of Constructs
 
-The first reason the field has failed to adequately study individuals' development of psychopathology across the lifespan represents a theory problem—namely, problems with our constructs, and the codifying of those constructs in diagnostic and taxonimc systems.
+The first reason the field has failed to adequately study individuals' development of psychopathology across the lifespan represents a theory problem—namely, problems with constructs, and the codifying of those constructs in diagnostic and taxonimc systems.
 In particular, our theories do not fully specify how constructs manifest behaviorally across the lifespan.
+For instance, theories do not specify the features (e.g., cognitive, affective, or biological processes) or behaviors that characterize a given construct in each developmental period.
+In addition, theories do not specify how those features or behaviors change across development with respect to how strongly they reflect the construct—as indicated by changes in factor loadings (in factor analysis) or discrimination (in item response theory)—or how they change in their level on the construct—as indicated by changes in intercepts (factor analysis) or difficulty/severity (item response theory).
+
+These gaps are important for several reasons.
+First, psychopathology constructs often have earlier origins than their full clinical presentation.
+<!-- Give examples -->
+Second, forms of psychopathology frequently show changes in behavioral manifestation across development—a phenomenon called heterotypic continuity.
+<!-- Give examples -->
+
+Considerable theoretical work attempts to characterize constructs across development.
+For instance, @Patterson1993 characterized externalizing problems as a chimera.
+A chimera is a mythical creature with the body of a goat that, with development, grows the head a lion and then a tail of a snake.
+Patterson [-@Patterson1993] argued that externalizing behavior changes in manifestation across development such that underlying antisociality is maintained while more mature features are added across development.
+In particular, Patterson [-@Patterson1993] noted that some externalizing behaviors wane with age, such as temper tantrams, whereas other externalizing behaviors emerge with age, including the ability to inflict serious damage or harm with violence, burglary, and shoplifting, in addition to problems such as academic failure, peer rejection, substance problems, and arrest.
+These age-differing behaviors show strong stability of individual differences, indicating a consistent underlying construct [@Patterson1993].
+Others have noted that externalizing problems are often expressed as overt acts in early childhood, such as physical aggression and temper tantrums; whereas externalizing problems are more often expressed later in development as covert and indirect or relational forms of aggression, rule breaking, and substance use [@Miller2009; @Petersen2026].
+Consistent with the Developmental Issues Framework [@Sroufe2016], the changing behavioral expression of externalizing problems likely reflects a combination of time-varying genetic and environmental factors, such as school entry transition, in combination with varying developmental tasks and greater experience-dependent capacity [@Petersen2020].
+In addition to externalizing problems, both internalizing [@Petersen2018; @Weems2008; @Weiss2003] and thought-disordered [@Rutter2006] problems are thought to change in manifestation across development.
+
+However, more work is needed to developmentally parameterize constructs—to define constructs developmentally in terms of their features.
+Recent empirical work suggests that it is uncommon for symptoms to change from one symptom to another for a given person at the subsequent measurement occasion [@ApplegateInPress].
+Nevertheless, the authors found that adding new symptoms and subtracting symptoms—other ways that a construct can change in manifestation—were both relatively common.
+Moreover, just because a symptom persists does not mean that the behavioral manifestation of that symptom stays the same for that individual.
+For instance, even if a symptom (e.g., "fighting") persists for an individual, their manifestation of fighting could differ in form, function, or mechanism [@Petersen2024].
+Thus, as noted by @ApplegateInPress, "future causal theories will need to rest on a more detailed and nuanced description of persistence and change at the level of specific psychological problems."
+
 Moreover, where such theories do indicate changes in behavioral manifestation across development, diagnostic and taxonomic systems do not incorporate these developmental changes.
 
 ### Lack of a Developmental Perspective
@@ -253,6 +297,8 @@ In particular, there is a mismatch between theory of constructs—including how 
 <!-- Mismatch of theory and method/assessment -->
 
 ### Do Not Adequately Capture Constructs' Change in Behavioral Manifestation Across Development
+
+<!-- Broeren and Odgers quotes -->
 
 ### Do Not Allow Charting Individuals' Change Over Time When the Construct Changes in Behavioral Manifestation
 
