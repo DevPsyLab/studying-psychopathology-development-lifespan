@@ -472,7 +472,13 @@ cognitive skills across lengthy developmental periods.</p>
       exceptions<xref ref-type="fn" rid="fn1">1</xref>—the diagnostic
       criteria do not differ across development, even though diagnostic
       manuals acknowledge that developmental factors impact symptom
-      presentation<xref ref-type="fn" rid="fn2">2</xref>.</p>
+      presentation<xref ref-type="fn" rid="fn2">2</xref>. In addition to
+      diagnostic systems, emerging taxonomies and frameworks of
+      psychopathology—including the hierarchical taxonomy of
+      psychopathology (HiTOP) and research domain criteria (RDoC)—do not
+      incorporate a developental perspective
+      (<xref alt="Tackett and Hallquist 2022" rid="ref-Tackett2022" ref-type="bibr">Tackett
+      and Hallquist 2022</xref>).</p>
     </sec>
   </sec>
   <sec id="problems-of-existing-assessments-and-traditional-scoring-systems">
@@ -484,9 +490,9 @@ cognitive skills across lengthy developmental periods.</p>
     and how those assessments are used, based on traditional scoring
     systems. There is a mismatch metween theory and method. In
     particular, there is a mismatch between theory of
-    constructs—including how a construct manifests behaviorally—and our
-    methods to assess the construct and to evaluate people’s level and
-    change in that construct.</p>
+    constructs—including how a construct manifests behaviorally—and the
+    methods used to assess the construct and to evaluate people’s level
+    and change in that construct.</p>
     <sec id="do-not-adequately-capture-constructs-change-in-behavioral-manifestation-across-development">
       <title>Do Not Adequately Capture Constructs’ Change in Behavioral
       Manifestation Across Development</title>
@@ -535,25 +541,6 @@ cognitive skills across lengthy developmental periods.</p>
       originally developed to measure anxiety in preschoolers, the
       current study also employed the scale with older children to
       promote uniformity in measures”.</p>
-      <p>Forcing use of the same measure across time naturally limits
-      the ages a study can span, which prevents charting wider age
-      spans. The common items approach yields low content validity
-      because it does not assess all construct facets, especially
-      age-specific manifestations. The upward/downward extension
-      approach violates construct validity because it assesses
-      developmentally inappropriate items. Due to these problems, both
-      simulation and empirical work
-      (<xref alt="Chen and Jaffee 2015" rid="ref-Chen2015" ref-type="bibr">Chen
-      and Jaffee 2015</xref>;
-      <xref alt="Petersen et al. 2018" rid="ref-Petersen2018" ref-type="bibr">Petersen
-      et al. 2018</xref>,
-      <xref alt="2021" rid="ref-Petersen2021" ref-type="bibr">2021</xref>,
-      <xref alt="2026" rid="ref-Petersen2026" ref-type="bibr">2026</xref>)
-      has shown that the “common items” and “upward/downward extension”
-      approaches lead to inaccurate developmental inferences. In sum,
-      despite these approaches being the most widely used for assessing
-      individuals’ development, they likely lead to inaccurate scores
-      and thus inaccurate trajectories.</p>
       <fig id="fig-approachesToLongitudinalAssessment">
         <caption><p>Figure 2: Item set A refers to items that are
         construct-valid at only timepoint 1 (T1); item set B is
@@ -579,6 +566,25 @@ cognitive skills across lengthy developmental periods.</p>
         <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jaacop.2025.10.008">https://doi.org/10.1016/j.jaacop.2025.10.008</ext-link>)</p></caption>
         <graphic mimetype="image" mime-subtype="jpeg" xlink:href="Figures/approachesToLongitudinalAssessment.jpg" />
       </fig>
+      <p>Forcing use of the same measure across time naturally limits
+      the ages a study can span, which prevents charting wider age
+      spans. The common items approach yields low content validity
+      because it does not assess all construct facets, especially
+      age-specific manifestations. The upward/downward extension
+      approach violates construct validity because it assesses
+      developmentally inappropriate items. Due to these problems, both
+      simulation and empirical work
+      (<xref alt="Chen and Jaffee 2015" rid="ref-Chen2015" ref-type="bibr">Chen
+      and Jaffee 2015</xref>;
+      <xref alt="Petersen et al. 2018" rid="ref-Petersen2018" ref-type="bibr">Petersen
+      et al. 2018</xref>,
+      <xref alt="2021" rid="ref-Petersen2021" ref-type="bibr">2021</xref>,
+      <xref alt="2026" rid="ref-Petersen2026" ref-type="bibr">2026</xref>)
+      has shown that the “common items” and “upward/downward extension”
+      approaches lead to inaccurate developmental inferences. In sum,
+      despite these approaches being the most widely used for assessing
+      individuals’ development, they likely lead to inaccurate scores
+      and thus inaccurate trajectories.</p>
     </sec>
     <sec id="do-not-allow-charting-individuals-change-over-time-when-the-construct-changes-in-behavioral-manifestation">
       <title>Do Not Allow Charting Individuals’ Change Over Time When
@@ -1321,6 +1327,25 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1111/desc.70216</pub-id>
       <fpage>e70216</fpage>
       <lpage></lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Tackett2022">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Tackett</surname><given-names>Jennifer L.</given-names></name>
+        <name><surname>Hallquist</surname><given-names>Michael</given-names></name>
+      </person-group>
+      <article-title>The need to grow: Developmental considerations and challenges for modern psychiatric taxonomies</article-title>
+      <source>Journal of Psychopathology and Clinical Science</source>
+      <year iso-8601-date="2022">2022</year>
+      <volume>131</volume>
+      <issue>6</issue>
+      <uri>https://login.proxy.lib.uiowa.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;AuthType=ip,cookie,uid,url&amp;db=pdh&amp;AN=2022-84900-011
+      ORCID: 0000-0001-5894-8038
+      jennifer.tackett@northwestern.edu</uri>
+      <pub-id pub-id-type="doi">10.1037/abn0000751</pub-id>
+      <fpage>660</fpage>
+      <lpage>663</lpage>
     </element-citation>
   </ref>
 </ref-list>
