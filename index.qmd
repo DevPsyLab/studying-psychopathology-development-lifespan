@@ -159,6 +159,7 @@ In a longitudinal design, the same individuals are followed across time.
 
 Cross-sectional designs provide the ability to cheaply and quickly assess a wide age range, providing a snapshot at a particular point in time.
 Cross-sectional designs may inform our understanding of general normative patterns of change—such as the typical pattern of cognitive growth and decline across the lifespan.
+Thus, cross-sectional designs provide an important starting point.
 
 However, cross-sectional designs have key limitations.
 First, cross-sectional designs do not allow examining individuals' change over time.
@@ -166,16 +167,8 @@ Second, cross-sectional designs may obscure diverse patterns of change.
 Individuals show considerable heterogeneity in level and change across time in many constructs.
 As an example, despite the normative pattern of steep cognitive decline in episodic memory with age, there are a subset of individuals who do not show this same pattern.
 For instance, superagers are individuals who are older adults (age 80+) who have episodic memory at or above the normative level of middle-aged adults (50–65 years old) and who may be resilient to the typical aging process [@Godoy2021].
-A theoretical depiction of the heterogeneity of cognitive decline is depicted in @fig-lifespanCognitiveTrajectories.
-If we rely on normative age-related patterns of cognitive functioning or psychopathology from cross-sectional research, we would miss the great individual differences in people's developmental courses.
-
-<!-- Discuss heterogeneity of cognitive decline. -->
-Third, in a cross-sectional study, any apparent age-related differences in a construct could reflect cohort differences instead of developmental changes.
-For example, average differences in stress between 5-year-olds and 10-year-olds could reflect the differing experiences that the 10-year-olds shared—such as going to school during the Coronavirus pandemic.
-Fourth, findings from cross-sectional studies can differ from findings examining the same people over time, which violates the convergence assumption.
-In cross-sectional studies, the convergence assumption is the assumption that cross-sectional age differences and longitudinal age changes converge onto a common trajectory.
-An example where the convergence assumption has been shown to be violated is in studies of cognitive decline.
-In particular, cross-sectional studies overestimate age-related cognitive declines compared to following the same people over time in a longitudinal study, which may reflect cohort effects such as the Flynn effect [where population intelligence scores at a given age tend to increase across generations\; @Ackerman2013].
+Theoretical depictions of the heterogeneity of cognitive decline are depicted in @fig-lifespanCognitiveTrajectories.
+If we rely solely on normative age-related patterns of cognitive functioning or psychopathology from cross-sectional research, we would miss the great individual differences in people's developmental courses.
 
 ::: {#fig-lifespanCognitiveTrajectories layout="[[53,47]]"}
 ![Hypothetical models for different cognitive trajectories of aging.](Figures/Borelli2018_figure1.jpg){#fig-lifespanCognitiveTrajectoriesSubgroups fig-alt="Hypothetical models for different cognitive trajectories of aging."}
@@ -190,6 +183,13 @@ Each grey line represents one individual hypothetical cognitive health trajector
 The orange line marks the threshold for functional independence; once an individual's cognitive health drops below this level, autonomous daily living is compromised.
 (Figure in Panel B reprinted from @Abrous2026, Figure 1, p. 2. Abrous, D. N., Blin, N., Boraxbekk, C.-J., Catheline, G., Fitzsimons, C. P., Hilscher, M., Lemoine, M., Lopes, L. V., Maass, A., Nilsson, M., Nyberg, L., Rasmussen, L. J., Remondes, M., Sauvage, M., Schreiber, S., & Wolbers, T. (2026). Hallmarks of healthy cognitive aging: Inter-individual differences in aging trajectories. *Ageing Research Reviews*, *119*, 103102. <https://doi.org/10.1016/j.arr.2026.103102>)
 :::
+
+Third, in a cross-sectional study, any apparent age-related differences in a construct could reflect cohort differences instead of developmental changes.
+For example, average differences in stress between 5-year-olds and 10-year-olds could reflect the differing experiences that the 10-year-olds shared—such as going to school during the Coronavirus pandemic.
+Fourth, findings from cross-sectional studies can differ from findings examining the same people over time, which violates the convergence assumption.
+In cross-sectional studies, the convergence assumption is the assumption that cross-sectional age differences and longitudinal age changes converge onto a common trajectory.
+An example where the convergence assumption has been shown to be violated is in studies of cognitive decline.
+In particular, cross-sectional studies overestimate age-related cognitive declines compared to following the same people over time in a longitudinal study, which may reflect cohort effects such as the Flynn effect [where population intelligence scores at a given age tend to increase across generations\; @Ackerman2013].
 
 Because longitudinal designs follow the same person(s) over time, such a design allows examining individuals' change across time.
 However, as we describe [later](#sec-potential-confounds-of-change), longitudinal designs also have potential confounds of change.
@@ -240,10 +240,11 @@ For instance, theories do not specify the features (e.g., cognitive, affective, 
 In addition, theories do not specify how those features or behaviors change across development with respect to how strongly they reflect the construct—as indicated by changes in factor loadings (in factor analysis) or discrimination (in item response theory)—or how they change in their level on the construct—as indicated by changes in intercepts (factor analysis) or difficulty/severity (item response theory).
 
 These gaps are important for several reasons.
-First, psychopathology constructs often have earlier origins than their full clinical presentation.
+First, psychopathology does not come from nowhere; psychopathology constructs often have earlier origins than their full clinical presentation.
 <!-- Give examples -->
+In many cases, psychopathology may arise from the interaction of genetic and environmental factors, and their effects on biology, cognition, emotion, and behavior.
+Such effects may accumulate and transpire over years.
 Second, forms of psychopathology frequently show changes in behavioral manifestation across development—a phenomenon called heterotypic continuity [@Caspi2006; @Cicchetti2002; @Petersen2020; @Petersen2024].
-<!-- Give examples -->
 
 Considerable theoretical work attempts to characterize constructs across development.
 For instance, @Patterson1993 characterized externalizing problems as a chimera.
@@ -275,6 +276,7 @@ For the diagnosis of ADHD, six or more symptoms are required for children and yo
 However, the symptoms for defining ODD and ADHD do not differ across development.
 
 [^dsmFootnote2]: In the DSM-5-TR [@APA2022], some disorders have a "Development and Course" subsection that describes when disorders tend to emerge and their rates across ages, in addition to describing the types of symptoms that may be more or less common at various points in development.
+However, the symptoms that define the disorders do not differ across development.
 For instance, in the section on major depressive disorder, it is noted that "hypersomnia and hyperphagia are more likely in younger individuals, and melancholic symptoms, particularly psychomotor disturbances, are more common in older individuals.
 Depressions with earlier ages at onset are more familial and more likely to involve personality disturbances." (p. 189).
 In the section on ADHD, it is noted that, "In preschool, the main manifestation is hyperactivity.
@@ -289,7 +291,7 @@ Moreover, some disorders in the DSM-5-TR note that, to be considered a symptom, 
 For instance, in the diagnosis of ADHD, it is noted that "the symptoms have persisted for at least 6 months to a degree that is inconsistent with developmental level" (p. 68).
 In the diagnosis of ODD, it is noted that "other factors [besides a minimum frequency] should also be considered, such as whether the frequency and intensity of the behaviors are outside a range that is normative for the individual's developmental level, gender, and culture." (p. 522).
 In addition, some disorders require that some symptoms onset before or after a particular age.
-For instance, in the diagnosis of ADHD, several symptomers must be present prior to age 12.
+For instance, in the diagnosis of ADHD, several symptoms must be present prior to age 12.
 In the diagnosis of CD, the symptoms "often stays out at night despite parental prohibitions" and "if often truant from school" must begin before age 13 (p. 531).
 In the diagnosis of ASPD, symptoms must be persistent since age 15 but have onset prior to age 15.
 
@@ -297,25 +299,74 @@ In the diagnosis of ASPD, symptoms must be persistent since age 15 but have onse
 
 Other key reasons the field has failed to adequately study individuals' development of psychopathology across the lifespan represent method problems—namely, problems with existing assessments and how those assessments are used, based on traditional scoring systems.
 There is a mismatch metween theory and method.
-In particular, there is a mismatch between theory of constructs—including how a construct manifest behaviorally—and our methods to assess the construct and to evaluate people's level and change in that construct.
-
-<!-- Mismatch of theory and method/assessment -->
+In particular, there is a mismatch between theory of constructs—including how a construct manifests behaviorally—and our methods to assess the construct and to evaluate people's level and change in that construct.
 
 ### Do Not Adequately Capture Constructs' Change in Behavioral Manifestation Across Development
 
+Given the substantial changes in behavioral manifestation of psychopathology across development, it is important for measures to capture the constructs' changing behavioral manifestation, to stay developmentally relevant and construct valid.
+
+However, measures show insufficient differences in which items are assessed at which ages to account for heterotypic continuity.
+For example, the same version of the Child Behavior Checklist (CBCL) spans ages 6–18.
+Considerable development occurs during that span.
+
+There are two primary ways that researchers have examined people's change in psychopathology across development [@fig-approachesToLongitudinalAssessment \; @Petersen2020].
+The "common items" approach removes items that are age specific.
+For example, in a study of externalizing problems from early childhood to adolescence, a study might remove some substance use items that might not be developmentally relevant at all ages.
+The second approach, the "upward/downward extension" approach, takes items that are valid at a given age and uses the items across ages when the item may not be valid or useful—i.e., all items are assessed at all ages.
+For instance, the upward extension approach might take the item "disobedient to authority figures" and apply it to older individuals for whom such a behavior may no longer validly reflect externalizing behavior—and may instead reflect prosocial functions including protesting against societally unjust actions.
+Both the "common items" [e.g., @Odgers2008; @Sterba2007] and "upward/downward extension" [e.g., @BriggsGowan2016; @Broeren2013] approaches are widely used, likely because they result in the same items assessed across ages, but both have key problems.
+As an example of the common items approach, Odgers et al. (2008, p. 676) examined children's development of DSM-IV symptoms of conduct disorder from ages 7 to 26 years, but they dropped age-specific symptoms (e.g., running away, staying out late) "because [these symptoms] did not cover the study's age span".
+As an example of the upward extension approach, Broeren et al. (2013, p. 84) examined children's development of anxiety from ages 4 to 11 years; they noted, "Although the questionnaire was originally developed to measure anxiety in preschoolers, the current study also employed the scale with older children to promote uniformity in measures".
+
+Forcing use of the same measure across time naturally limits the ages a study can span, which prevents charting wider age spans.
+<!-- USE EXT EXAMPLE -->
+<!-- For example, one could not examine development of depression across ages 11 to 13 years using the Short Mood and Feelings Questionnaire due to changes in its functioning (in particular, some items were less relevant at age 11) that likely reflect developmental changes in manifestation of depression.20  -->
+The common items approach yields low content validity because it does not assess all construct facets, especially age-specific manifestations.
+The upward/downward extension approach violates construct validity because it assesses developmentally inappropriate items.
+Due to these problems, both simulation and empirical work [@Chen2015; @Petersen2018; @Petersen2021; @Petersen2026] has shown that the "common items" and "upward/downward extension" approaches lead to inaccurate developmental inferences.
+In sum, despite these approaches being the most widely used for assessing individuals' development, they likely lead to inaccurate scores and thus inaccurate trajectories.
+
 <!-- Broeren and Odgers quotes -->
 
+::: {#fig-approachesToLongitudinalAssessment}
+![](Figures/approachesToLongitudinalAssessment.jpg){width=100% fig-alt="Theoretical illustration of inter-individual variability in cognitive aging trajectories."}
+
+Item set A refers to items that are construct-valid at only timepoint 1 (T1); item set B is construct-valid at both T1 and T2; item set C is construct-valid at only T2.
+A dash indicates that the item set was not assessed at a given timepoint.
+A white box indicates invalid assessment in terms of either a content gap (i.e., important missing items) or intrusion (i.e., invalid items at a given timepoint).
+In a study of externalizing problems from early childhood to adulthood, "biting others" may be in item set A; "noncompliant" in B; "drug use" in C.
+The three approaches are: (1) common items: B at T1 and T2, (2) upward/downward extension: ABC at T1 and T2, or (3) construct-valid items: AB at T1; BC at T2.
+The "common items" and "upward/downward extension" approaches are by far the most widely used in the literature, even though they likely lead to inaccurate scores and thus inaccurate trajectories.
+(Figure reprinted from @Petersen2026, Figure 1, p. 113. Petersen, I. T., Demko, Z., Lee, W.-C., & Oleson, J. J. (2026). Studying development of psychopathology using changing measures to account for heterotypic continuity. *JAACAP Open*, *4*(1), 111–123. <https://doi.org/10.1016/j.jaacop.2025.10.008>)
+:::
+
 ### Do Not Allow Charting Individuals' Change Over Time When the Construct Changes in Behavioral Manifestation
+
+Even in cases where the items of a measure differ across ages (e.g., CBCL: ages 1.5–5 vs. ages 6–18), the scoring systems do not link scores across ages to be on the same scale while preserving change in level.
+Thus, the measures do not yield scores that are comparable across time and that enable change in an individual's level to be observed across a lengthy developmental span.
+Age norms and standardized scores (*T*- or *z*-scores) do not allow observing individuals' absolute change because scores have a fixed mean and variance, and they do not equal developmental understanding.
+Absolute change is necessary to identify true growth for an individual, and is thus important for treatment monitoring and longitudinal growth curves.
 
 ### Not Well-Suited For Capturing the Full Range of Individual Differences
 
 <!-- Likert-Type responses -->
+Many measures use coarse, subjective response scales such as Likert-type response scales (e.g., "rarely", "sometimes", "often", "very often") leading to cultural bias and insensitivity to change [@Schaeffer1991; @Schwarz1999; @Paalman2013].
+Moreover, Likert-type scales tend to focus on frequency of misbehavior and ignore intensity and severity.
+
+In addition, the measures focus on extreme or clinical-range behaviors; scores are thus positively skewed with floor effects and have unacceptably low reliability [including the CBCL\; @Kaat2019; @Pavlovich2026; @Tiego2023], making the CBCL and existing measures unsuitable for dimensional research [@Pavlovich2026; @Tiego2023].
+Considerable evidence indicates that externalizing problems (and psychopathology, more generally) and their trajectories are best conceptualized dimensionally (or multi-dimensionally), not categorically. <!-- Add cites -->
+Thus, the existing measures are impoverished for studying the full range of individual differences on the externalizing spectrum, which prevents subthreshold children who are at risk for impairment from being identified.
+Better identification of subthreshold externalizing is critical, in both research and practice, for identifying at-risk individuals in the early-stage trajectory of psychopathology.
 
 ### Not Well-Suited for Capturing Individuals' Change Over Time
+
+In sum, although they have been helpful, existing measures are poorly suited to classify individuals' development of psychopathology across a lengthy span, which is necessary for tracking individuals' change and identifying mechanisms in the development of psychopathology.
 
 ## Example: Externalizing Psychopathology
 
 <!-- Figure from Petersen et al. (2026, Psychol Assessment)  -->
+
+<!-- Widely used measures do not assess contemporary manifestations of externalizing, including aggression on social media and cyberbullying. -->
 
 # Solution: A Developmental Scaling Framework
 
