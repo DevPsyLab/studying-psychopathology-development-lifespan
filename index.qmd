@@ -121,7 +121,7 @@ floatsintext: true
 numbered-lines: false
 mask: false
 no-ampersand-parenthetical: false
-meta-analysis: true
+meta-analysis: false
 lang: en-US
 blank-lines-above-title: 2
 blank-lines-above-author-note: 2
