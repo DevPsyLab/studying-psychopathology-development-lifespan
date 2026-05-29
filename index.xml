@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-05-28">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-05-29">
 <year>2026</year>
 <month>5</month>
-<day>28</day>
+<day>29</day>
 </pub-date>
 
 
@@ -222,7 +222,10 @@ cognitive skills across lengthy developmental periods.</p>
   (<xref alt="Godoy et al. 2021" rid="ref-Godoy2021" ref-type="bibr">Godoy
   et al. 2021</xref>). A theoretical depiction of the heterogeneity of
   cognitive decline is depicted in
-  <xref alt="Figure 1" rid="fig-agingTrajectoriesHeteogeneity">Figure 1</xref>.</p>
+  <xref alt="Figure 1" rid="fig-agingTrajectoriesHeteogeneity">Figure 1</xref>.
+  If we relied on normative age-related patterns of cognitive
+  functioning from cross-sectional research, we would miss the great
+  individual differences in people’s developmental courses.</p>
   <p>Third, in a cross-sectional study, any apparent age-related
   differences in a construct could reflect cohort differences instead of
   developmental changes. For example, average differences in stress
@@ -310,7 +313,7 @@ cognitive skills across lengthy developmental periods.</p>
     <p>The first reason the field has failed to adequately study
     individuals’ development of psychopathology across the lifespan
     represents a theory problem—namely, problems with constructs, and
-    the codifying of those constructs in diagnostic and taxonimc
+    the codifying of those constructs in diagnostic and taxonomic
     systems. In particular, our theories do not fully specify how
     constructs manifest behaviorally across the lifespan. For instance,
     theories do not specify the features (e.g., cognitive, affective, or
@@ -326,7 +329,15 @@ cognitive skills across lengthy developmental periods.</p>
     psychopathology constructs often have earlier origins than their
     full clinical presentation. Second, forms of psychopathology
     frequently show changes in behavioral manifestation across
-    development—a phenomenon called heterotypic continuity. </p>
+    development—a phenomenon called heterotypic continuity
+    (<xref alt="Caspi and Shiner 2006" rid="ref-Caspi2006" ref-type="bibr">Caspi
+    and Shiner 2006</xref>;
+    <xref alt="Cicchetti and Rogosch 2002" rid="ref-Cicchetti2002" ref-type="bibr">Cicchetti
+    and Rogosch 2002</xref>;
+    <xref alt="Petersen et al. 2020" rid="ref-Petersen2020" ref-type="bibr">Petersen
+    et al. 2020</xref>;
+    <xref alt="Petersen 2024" rid="ref-Petersen2024" ref-type="bibr">Petersen
+    2024</xref>). </p>
     <p>Considerable theoretical work attempts to characterize constructs
     across development. For instance, Patterson
     (<xref alt="1993" rid="ref-Patterson1993" ref-type="bibr">1993</xref>)
@@ -826,6 +837,44 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1037/dev0001657</pub-id>
       <fpage>1992</fpage>
       <lpage>2007</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Caspi2006">
+    <element-citation publication-type="chapter">
+      <person-group person-group-type="author">
+        <name><surname>Caspi</surname><given-names>Avshalom</given-names></name>
+        <name><surname>Shiner</surname><given-names>Rebecca L.</given-names></name>
+      </person-group>
+      <article-title>Personality development</article-title>
+      <source>Handbook of child psychology</source>
+      <person-group person-group-type="editor">
+        <name><surname>Eisenberg</surname><given-names>Nancy</given-names></name>
+        <name><surname>Damon</surname><given-names>William</given-names></name>
+        <name><surname>Lerner</surname><given-names>Richard M.</given-names></name>
+      </person-group>
+      <publisher-name>John Wiley &amp; Sons, Inc.</publisher-name>
+      <publisher-loc>Hoboken, NJ, US</publisher-loc>
+      <year iso-8601-date="2006">2006</year>
+      <volume>3</volume>
+      <edition>6th</edition>
+      <fpage>300</fpage>
+      <lpage>365</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Cicchetti2002">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Cicchetti</surname><given-names>Dante</given-names></name>
+        <name><surname>Rogosch</surname><given-names>Fred A.</given-names></name>
+      </person-group>
+      <article-title>A developmental psychopathology perspective on adolescence</article-title>
+      <source>Journal of Consulting and Clinical Psychology</source>
+      <year iso-8601-date="2002">2002</year>
+      <volume>70</volume>
+      <issue>1</issue>
+      <pub-id pub-id-type="doi">10.1037/0022-006X.70.1.6</pub-id>
+      <fpage>6</fpage>
+      <lpage>20</lpage>
     </element-citation>
   </ref>
 </ref-list>
