@@ -247,8 +247,8 @@ cognitive skills across lengthy developmental periods.</p>
   2013</xref>).</p>
   <fig id="fig-lifespanCognitiveTrajectories">
     <caption><p>Figure 1: <bold>Panel A</bold>: Hypothetical models for
-    different cognitive trajectories of aging. (Figure in Panel B
-    reprinted from Borelli et al.
+    different cognitive trajectories of aging. MCI = mild cognitive
+    impairment. (Figure in Panel B reprinted from Borelli et al.
     (<xref alt="2018" rid="ref-Borelli2018" ref-type="bibr">2018</xref>),
     Figure 1, p. 222. Borelli, W. V., Carmona, K. C., Studart-Neto, A.,
     Nitrini, R., Caramelli, P., &amp; Costa, J. C. d. (2018).
@@ -275,16 +275,28 @@ cognitive skills across lengthy developmental periods.</p>
     <table-wrap>
       <table>
         <colgroup>
-          <col width="50%" />
+          <col width="53%" />
+          <col width="47%" />
         </colgroup>
         <tbody>
           <tr>
             <td align="left"><p specific-use="wrapper">
               <boxed-text>
-                <graphic id="fig-lifespanCognitiveTrajectoriesSubgroups" mimetype="image" mime-subtype="jpeg" xlink:href="Figures/Borelli2018_figure1.jpg">
-                  <alt-text>Hypothetical models for different cognitive
-                  trajectories of aging.</alt-text>
-                </graphic>
+                <fig id="fig-lifespanCognitiveTrajectoriesSubgroups">
+                  <caption><p>(a) Hypothetical models for different
+                  cognitive trajectories of aging.</p></caption>
+                  <graphic mimetype="image" mime-subtype="jpeg" xlink:href="Figures/Borelli2018_figure1.jpg" />
+                </fig>
+              </boxed-text>
+            </p></td>
+            <td align="left"><p specific-use="wrapper">
+              <boxed-text>
+                <fig id="fig-lifespanCognitiveTrajectoriesIndividuals">
+                  <caption><p>(b) Theoretical illustration of
+                  inter-individual variability in cognitive aging
+                  trajectories.</p></caption>
+                  <graphic mimetype="image" mime-subtype="jpeg" xlink:href="Figures/Abrous2026_figure1.jpg" />
+                </fig>
               </boxed-text>
             </p></td>
           </tr>
