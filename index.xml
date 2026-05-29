@@ -319,10 +319,13 @@ cognitive skills across lengthy developmental periods.</p>
 </sec>
 <sec id="the-problemobstacle">
   <title>The Problem/Obstacle</title>
-  <p>The focal problem examined in this paper is that the field has not
-  adequately studied individuals’ development of psychopathology across
-  the lifespan, instead taking a piecewise approach to development. The
-  piecewise approach to development limits our understanding of lifespan
+  <p>The focal problem examined in this paper is that, despite calls to
+  do so
+  (<xref alt="De Los Reyes 2026" rid="ref-DeLosReyes2026" ref-type="bibr">De
+  Los Reyes 2026</xref>), the field has not adequately studied
+  individuals’ development of psychopathology across the lifespan,
+  instead taking a piecewise approach to development. The piecewise
+  approach to development limits our understanding of lifespan
   development and the origins of psychopathology.</p>
 </sec>
 <sec id="reasons-for-the-problem">
@@ -677,6 +680,9 @@ cognitive skills across lengthy developmental periods.</p>
   </sec>
   <sec id="factorial-invariance-across-time">
     <title>Factorial Invariance Across Time</title>
+  </sec>
+  <sec id="integration-across-multiple-sources">
+    <title>Integration Across Multiple Sources</title>
   </sec>
   <sec id="obsolescence-of-items-and-measures">
     <title>Obsolescence of Items and Measures</title>
@@ -1346,6 +1352,21 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1037/abn0000751</pub-id>
       <fpage>660</fpage>
       <lpage>663</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-DeLosReyes2026">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>De Los Reyes</surname><given-names>Andres</given-names></name>
+      </person-group>
+      <article-title>Toward integrative, multisource, and multimodal approaches to assessing psychopathology intergenerationally and across the lifespan: Commentary on caspi et al. (2026)</article-title>
+      <source>Journal of Psychopathology and Clinical Science</source>
+      <year iso-8601-date="2026">2026</year>
+      <volume>135</volume>
+      <issue>4</issue>
+      <pub-id pub-id-type="doi">10.1037/abn0001084</pub-id>
+      <fpage>495</fpage>
+      <lpage>497</lpage>
     </element-citation>
   </ref>
 </ref-list>
