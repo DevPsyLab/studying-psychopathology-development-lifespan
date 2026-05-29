@@ -167,6 +167,7 @@ Individuals show considerable heterogeneity in level and change across time in m
 As an example, despite the normative pattern of steep cognitive decline in episodic memory with age, there are a subset of individuals who do not show this same pattern.
 For instance, superagers are individuals who are older adults (age 80+) who have episodic memory at or above the normative level of middle-aged adults (50–65 years old) and who may be resilient to the typical aging process [@Godoy2021].
 A theoretical depiction of the heterogeneity of cognitive decline is depicted in @fig-agingTrajectoriesHeteogeneity.
+If we relied on normative age-related patterns of cognitive functioning from cross-sectional research, we would miss the great individual differences in people's developmental courses.
 
 <!-- Discuss heterogeneity of cognitive decline. -->
 Third, in a cross-sectional study, any apparent age-related differences in a construct could reflect cohort differences instead of developmental changes.
@@ -229,7 +230,7 @@ To ground the discussion, we provide examples relating to externalizing psychopa
 
 ## Problems of Constructs
 
-The first reason the field has failed to adequately study individuals' development of psychopathology across the lifespan represents a theory problem—namely, problems with constructs, and the codifying of those constructs in diagnostic and taxonimc systems.
+The first reason the field has failed to adequately study individuals' development of psychopathology across the lifespan represents a theory problem—namely, problems with constructs, and the codifying of those constructs in diagnostic and taxonomic systems.
 In particular, our theories do not fully specify how constructs manifest behaviorally across the lifespan.
 For instance, theories do not specify the features (e.g., cognitive, affective, or biological processes) or behaviors that characterize a given construct in each developmental period.
 In addition, theories do not specify how those features or behaviors change across development with respect to how strongly they reflect the construct—as indicated by changes in factor loadings (in factor analysis) or discrimination (in item response theory)—or how they change in their level on the construct—as indicated by changes in intercepts (factor analysis) or difficulty/severity (item response theory).
@@ -237,7 +238,7 @@ In addition, theories do not specify how those features or behaviors change acro
 These gaps are important for several reasons.
 First, psychopathology constructs often have earlier origins than their full clinical presentation.
 <!-- Give examples -->
-Second, forms of psychopathology frequently show changes in behavioral manifestation across development—a phenomenon called heterotypic continuity.
+Second, forms of psychopathology frequently show changes in behavioral manifestation across development—a phenomenon called heterotypic continuity [@Caspi2006; @Cicchetti2002; @Petersen2020; @Petersen2024].
 <!-- Give examples -->
 
 Considerable theoretical work attempts to characterize constructs across development.
