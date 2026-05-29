@@ -207,7 +207,8 @@ cognitive skills across lengthy developmental periods.</p>
   assess a wide age range, providing a snapshot at a particular point in
   time. Cross-sectional designs may inform our understanding of general
   normative patterns of change—such as the typical pattern of cognitive
-  growth and decline across the lifespan.</p>
+  growth and decline across the lifespan. Thus, cross-sectional designs
+  provide an important starting point.</p>
   <p>However, cross-sectional designs have key limitations. First,
   cross-sectional designs do not allow examining individuals’ change
   over time. Second, cross-sectional designs may obscure diverse
@@ -220,31 +221,13 @@ cognitive skills across lengthy developmental periods.</p>
   normative level of middle-aged adults (50–65 years old) and who may be
   resilient to the typical aging process
   (<xref alt="Godoy et al. 2021" rid="ref-Godoy2021" ref-type="bibr">Godoy
-  et al. 2021</xref>). A theoretical depiction of the heterogeneity of
-  cognitive decline is depicted in
+  et al. 2021</xref>). Theoretical depictions of the heterogeneity of
+  cognitive decline are depicted in
   <xref alt="Figure 1" rid="fig-lifespanCognitiveTrajectories">Figure 1</xref>.
-  If we rely on normative age-related patterns of cognitive functioning
-  or psychopathology from cross-sectional research, we would miss the
-  great individual differences in people’s developmental courses.</p>
-  <p>Third, in a cross-sectional study, any apparent age-related
-  differences in a construct could reflect cohort differences instead of
-  developmental changes. For example, average differences in stress
-  between 5-year-olds and 10-year-olds could reflect the differing
-  experiences that the 10-year-olds shared—such as going to school
-  during the Coronavirus pandemic. Fourth, findings from cross-sectional
-  studies can differ from findings examining the same people over time,
-  which violates the convergence assumption. In cross-sectional studies,
-  the convergence assumption is the assumption that cross-sectional age
-  differences and longitudinal age changes converge onto a common
-  trajectory. An example where the convergence assumption has been shown
-  to be violated is in studies of cognitive decline. In particular,
-  cross-sectional studies overestimate age-related cognitive declines
-  compared to following the same people over time in a longitudinal
-  study, which may reflect cohort effects such as the Flynn effect
-  (where population intelligence scores at a given age tend to increase
-  across generations;
-  <xref alt="Ackerman 2013" rid="ref-Ackerman2013" ref-type="bibr">Ackerman
-  2013</xref>).</p>
+  If we rely solely on normative age-related patterns of cognitive
+  functioning or psychopathology from cross-sectional research, we would
+  miss the great individual differences in people’s developmental
+  courses.</p>
   <fig id="fig-lifespanCognitiveTrajectories">
     <caption><p>Figure 1: <bold>Panel A</bold>: Hypothetical models for
     different cognitive trajectories of aging. MCI = mild cognitive
@@ -304,6 +287,25 @@ cognitive skills across lengthy developmental periods.</p>
       </table>
     </table-wrap>
   </fig>
+  <p>Third, in a cross-sectional study, any apparent age-related
+  differences in a construct could reflect cohort differences instead of
+  developmental changes. For example, average differences in stress
+  between 5-year-olds and 10-year-olds could reflect the differing
+  experiences that the 10-year-olds shared—such as going to school
+  during the Coronavirus pandemic. Fourth, findings from cross-sectional
+  studies can differ from findings examining the same people over time,
+  which violates the convergence assumption. In cross-sectional studies,
+  the convergence assumption is the assumption that cross-sectional age
+  differences and longitudinal age changes converge onto a common
+  trajectory. An example where the convergence assumption has been shown
+  to be violated is in studies of cognitive decline. In particular,
+  cross-sectional studies overestimate age-related cognitive declines
+  compared to following the same people over time in a longitudinal
+  study, which may reflect cohort effects such as the Flynn effect
+  (where population intelligence scores at a given age tend to increase
+  across generations;
+  <xref alt="Ackerman 2013" rid="ref-Ackerman2013" ref-type="bibr">Ackerman
+  2013</xref>).</p>
   <p>Because longitudinal designs follow the same person(s) over time,
   such a design allows examining individuals’ change across time.
   However, as we describe
@@ -364,10 +366,14 @@ cognitive skills across lengthy developmental periods.</p>
     construct—as indicated by changes in intercepts (factor analysis) or
     difficulty/severity (item response theory).</p>
     <p>These gaps are important for several reasons. First,
-    psychopathology constructs often have earlier origins than their
-    full clinical presentation. Second, forms of psychopathology
-    frequently show changes in behavioral manifestation across
-    development—a phenomenon called heterotypic continuity
+    psychopathology does not come from nowhere; psychopathology
+    constructs often have earlier origins than their full clinical
+    presentation. In many cases, psychopathology may arise from the
+    interaction of genetic and environmental factors, and their effects
+    on biology, cognition, emotion, and behavior. Such effects may
+    accumulate and transpire over years. Second, forms of
+    psychopathology frequently show changes in behavioral manifestation
+    across development—a phenomenon called heterotypic continuity
     (<xref alt="Caspi and Shiner 2006" rid="ref-Caspi2006" ref-type="bibr">Caspi
     and Shiner 2006</xref>;
     <xref alt="Cicchetti and Rogosch 2002" rid="ref-Cicchetti2002" ref-type="bibr">Cicchetti
@@ -375,7 +381,7 @@ cognitive skills across lengthy developmental periods.</p>
     <xref alt="Petersen et al. 2020" rid="ref-Petersen2020" ref-type="bibr">Petersen
     et al. 2020</xref>;
     <xref alt="Petersen 2024" rid="ref-Petersen2024" ref-type="bibr">Petersen
-    2024</xref>). </p>
+    2024</xref>).</p>
     <p>Considerable theoretical work attempts to characterize constructs
     across development. For instance, Patterson
     (<xref alt="1993" rid="ref-Patterson1993" ref-type="bibr">1993</xref>)
@@ -478,24 +484,165 @@ cognitive skills across lengthy developmental periods.</p>
     and how those assessments are used, based on traditional scoring
     systems. There is a mismatch metween theory and method. In
     particular, there is a mismatch between theory of
-    constructs—including how a construct manifest behaviorally—and our
+    constructs—including how a construct manifests behaviorally—and our
     methods to assess the construct and to evaluate people’s level and
     change in that construct.</p>
     <sec id="do-not-adequately-capture-constructs-change-in-behavioral-manifestation-across-development">
       <title>Do Not Adequately Capture Constructs’ Change in Behavioral
       Manifestation Across Development</title>
+      <p>Given the substantial changes in behavioral manifestation of
+      psychopathology across development, it is important for measures
+      to capture the constructs’ changing behavioral manifestation, to
+      stay developmentally relevant and construct valid.</p>
+      <p>However, measures show insufficient differences in which items
+      are assessed at which ages to account for heterotypic continuity.
+      For example, the same version of the Child Behavior Checklist
+      (CBCL) spans ages 6–18. Considerable development occurs during
+      that span.</p>
+      <p>There are two primary ways that researchers have examined
+      people’s change in psychopathology across development
+      <xref alt="Figure 2" rid="fig-approachesToLongitudinalAssessment">Figure 2</xref>.
+      The “common items” approach removes items that are age specific.
+      For example, in a study of externalizing problems from early
+      childhood to adolescence, a study might remove some substance use
+      items that might not be developmentally relevant at all ages. The
+      second approach, the “upward/downward extension” approach, takes
+      items that are valid at a given age and uses the items across ages
+      when the item may not be valid or useful—i.e., all items are
+      assessed at all ages. For instance, the upward extension approach
+      might take the item “disobedient to authority figures” and apply
+      it to older individuals for whom such a behavior may no longer
+      validly reflect externalizing behavior—and may instead reflect
+      prosocial functions including protesting against societally unjust
+      actions. Both the “common items” (e.g.,
+      <xref alt="Odgers et al. 2008" rid="ref-Odgers2008" ref-type="bibr">Odgers
+      et al. 2008</xref>;
+      <xref alt="Sterba et al. 2007" rid="ref-Sterba2007" ref-type="bibr">Sterba
+      et al. 2007</xref>) and “upward/downward extension” (e.g.,
+      <xref alt="Briggs-Gowan et al. 2016" rid="ref-BriggsGowan2016" ref-type="bibr">Briggs-Gowan
+      et al. 2016</xref>;
+      <xref alt="Broeren et al. 2013" rid="ref-Broeren2013" ref-type="bibr">Broeren
+      et al. 2013</xref>) approaches are widely used, likely because
+      they result in the same items assessed across ages, but both have
+      key problems. As an example of the common items approach, Odgers
+      et al. (2008, p. 676) examined children’s development of DSM-IV
+      symptoms of conduct disorder from ages 7 to 26 years, but they
+      dropped age-specific symptoms (e.g., running away, staying out
+      late) “because [these symptoms] did not cover the study’s age
+      span”. As an example of the upward extension approach, Broeren et
+      al. (2013, p. 84) examined children’s development of anxiety from
+      ages 4 to 11 years; they noted, “Although the questionnaire was
+      originally developed to measure anxiety in preschoolers, the
+      current study also employed the scale with older children to
+      promote uniformity in measures”.</p>
+      <p>Forcing use of the same measure across time naturally limits
+      the ages a study can span, which prevents charting wider age
+      spans. The common items approach yields low content validity
+      because it does not assess all construct facets, especially
+      age-specific manifestations. The upward/downward extension
+      approach violates construct validity because it assesses
+      developmentally inappropriate items. Due to these problems, both
+      simulation and empirical work
+      (<xref alt="Chen and Jaffee 2015" rid="ref-Chen2015" ref-type="bibr">Chen
+      and Jaffee 2015</xref>;
+      <xref alt="Petersen et al. 2018" rid="ref-Petersen2018" ref-type="bibr">Petersen
+      et al. 2018</xref>,
+      <xref alt="2021" rid="ref-Petersen2021" ref-type="bibr">2021</xref>,
+      <xref alt="2026" rid="ref-Petersen2026" ref-type="bibr">2026</xref>)
+      has shown that the “common items” and “upward/downward extension”
+      approaches lead to inaccurate developmental inferences. In sum,
+      despite these approaches being the most widely used for assessing
+      individuals’ development, they likely lead to inaccurate scores
+      and thus inaccurate trajectories.</p>
+      <fig id="fig-approachesToLongitudinalAssessment">
+        <caption><p>Figure 2: Item set A refers to items that are
+        construct-valid at only timepoint 1 (T1); item set B is
+        construct-valid at both T1 and T2; item set C is construct-valid
+        at only T2. A dash indicates that the item set was not assessed
+        at a given timepoint. A white box indicates invalid assessment
+        in terms of either a content gap (i.e., important missing items)
+        or intrusion (i.e., invalid items at a given timepoint). In a
+        study of externalizing problems from early childhood to
+        adulthood, “biting others” may be in item set A; “noncompliant”
+        in B; “drug use” in C. The three approaches are: (1) common
+        items: B at T1 and T2, (2) upward/downward extension: ABC at T1
+        and T2, or (3) construct-valid items: AB at T1; BC at T2. The
+        “common items” and “upward/downward extension” approaches are by
+        far the most widely used in the literature, even though they
+        likely lead to inaccurate scores and thus inaccurate
+        trajectories. (Figure reprinted from Petersen et al.
+        (<xref alt="2026" rid="ref-Petersen2026" ref-type="bibr">2026</xref>),
+        Figure 1, p. 113. Petersen, I. T., Demko, Z., Lee, W.-C., &amp;
+        Oleson, J. J. (2026). Studying development of psychopathology
+        using changing measures to account for heterotypic continuity.
+        <italic>JAACAP Open</italic>, <italic>4</italic>(1), 111–123.
+        <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jaacop.2025.10.008">https://doi.org/10.1016/j.jaacop.2025.10.008</ext-link>)</p></caption>
+        <graphic mimetype="image" mime-subtype="jpeg" xlink:href="Figures/approachesToLongitudinalAssessment.jpg" />
+      </fig>
     </sec>
     <sec id="do-not-allow-charting-individuals-change-over-time-when-the-construct-changes-in-behavioral-manifestation">
       <title>Do Not Allow Charting Individuals’ Change Over Time When
       the Construct Changes in Behavioral Manifestation</title>
+      <p>Even in cases where the items of a measure differ across ages
+      (e.g., CBCL: ages 1.5–5 vs. ages 6–18), the scoring systems do not
+      link scores across ages to be on the same scale while preserving
+      change in level. Thus, the measures do not yield scores that are
+      comparable across time and that enable change in an individual’s
+      level to be observed across a lengthy developmental span. Age
+      norms and standardized scores (<italic>T</italic>- or
+      <italic>z</italic>-scores) do not allow observing individuals’
+      absolute change because scores have a fixed mean and variance, and
+      they do not equal developmental understanding. Absolute change is
+      necessary to identify true growth for an individual, and is thus
+      important for treatment monitoring and longitudinal growth
+      curves.</p>
     </sec>
     <sec id="not-well-suited-for-capturing-the-full-range-of-individual-differences">
       <title>Not Well-Suited For Capturing the Full Range of Individual
       Differences</title>
+      <p>Many measures use coarse, subjective response scales such as
+      Likert-type response scales (e.g., “rarely”, “sometimes”, “often”,
+      “very often”) leading to cultural bias and insensitivity to change
+      (<xref alt="Schaeffer 1991" rid="ref-Schaeffer1991" ref-type="bibr">Schaeffer
+      1991</xref>;
+      <xref alt="Schwarz 1999" rid="ref-Schwarz1999" ref-type="bibr">Schwarz
+      1999</xref>;
+      <xref alt="Paalman et al. 2013" rid="ref-Paalman2013" ref-type="bibr">Paalman
+      et al. 2013</xref>). Moreover, Likert-type scales tend to focus on
+      frequency of misbehavior and ignore intensity and severity.</p>
+      <p>In addition, the measures focus on extreme or clinical-range
+      behaviors; scores are thus positively skewed with floor effects
+      and have unacceptably low reliability (including the CBCL;
+      <xref alt="Kaat et al. 2019" rid="ref-Kaat2019" ref-type="bibr">Kaat
+      et al. 2019</xref>;
+      <xref alt="Pavlovich et al. 2026" rid="ref-Pavlovich2026" ref-type="bibr">Pavlovich
+      et al. 2026</xref>;
+      <xref alt="Tiego et al. 2023" rid="ref-Tiego2023" ref-type="bibr">Tiego
+      et al. 2023</xref>), making the CBCL and existing measures
+      unsuitable for dimensional research
+      (<xref alt="Pavlovich et al. 2026" rid="ref-Pavlovich2026" ref-type="bibr">Pavlovich
+      et al. 2026</xref>;
+      <xref alt="Tiego et al. 2023" rid="ref-Tiego2023" ref-type="bibr">Tiego
+      et al. 2023</xref>). Considerable evidence indicates that
+      externalizing problems (and psychopathology, more generally) and
+      their trajectories are best conceptualized dimensionally (or
+      multi-dimensionally), not categorically. Thus, the existing
+      measures are impoverished for studying the full range of
+      individual differences on the externalizing spectrum, which
+      prevents subthreshold children who are at risk for impairment from
+      being identified. Better identification of subthreshold
+      externalizing is critical, in both research and practice, for
+      identifying at-risk individuals in the early-stage trajectory of
+      psychopathology.</p>
     </sec>
     <sec id="not-well-suited-for-capturing-individuals-change-over-time">
       <title>Not Well-Suited for Capturing Individuals’ Change Over
       Time</title>
+      <p>In sum, although they have been helpful, existing measures are
+      poorly suited to classify individuals’ development of
+      psychopathology across a lengthy span, which is necessary for
+      tracking individuals’ change and identifying mechanisms in the
+      development of psychopathology.</p>
     </sec>
   </sec>
   <sec id="example-externalizing-psychopathology">
@@ -935,6 +1082,247 @@ cognitive skills across lengthy developmental periods.</p>
       <lpage>227</lpage>
     </element-citation>
   </ref>
+  <ref id="ref-Odgers2008">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Odgers</surname><given-names>Candice L.</given-names></name>
+        <name><surname>Moffitt</surname><given-names>Terrie E.</given-names></name>
+        <name><surname>Broadbent</surname><given-names>Jonathan M.</given-names></name>
+        <name><surname>Dickson</surname><given-names>Nigel</given-names></name>
+        <name><surname>Hancox</surname><given-names>Robert J.</given-names></name>
+        <name><surname>Harrington</surname><given-names>Honalee</given-names></name>
+        <name><surname>Poulton</surname><given-names>Richie</given-names></name>
+        <name><surname>Sears</surname><given-names>Malcolm R.</given-names></name>
+        <name><surname>Thomson</surname><given-names>W. Murray</given-names></name>
+        <name><surname>Caspi</surname><given-names>Avshalom</given-names></name>
+      </person-group>
+      <article-title>Female and male antisocial trajectories: From childhood origins to adult outcomes</article-title>
+      <source>Development and Psychopathology</source>
+      <year iso-8601-date="2008">2008</year>
+      <volume>20</volume>
+      <issue>2</issue>
+      <uri>http://dx.doi.org/10.1017/S0954579408000333</uri>
+      <pub-id pub-id-type="doi">10.1017/S0954579408000333</pub-id>
+      <fpage>673</fpage>
+      <lpage>716</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Sterba2007">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Sterba</surname><given-names>Sonya K.</given-names></name>
+        <name><surname>Prinstein</surname><given-names>Mitchell J.</given-names></name>
+        <name><surname>Cox</surname><given-names>Martha J.</given-names></name>
+      </person-group>
+      <article-title>Trajectories of internalizing problems across childhood: Heterogeneity, external validity, and gender differences</article-title>
+      <source>Development and Psychopathology</source>
+      <year iso-8601-date="2007">2007</year>
+      <volume>19</volume>
+      <issue>2</issue>
+      <uri>https://www.cambridge.org/core/article/trajectories-of-internalizing-problems-across-childhood-heterogeneity-external-validity-and-gender-differences/8B851BE0D13BAB1EF4AB5771565EABF7</uri>
+      <pub-id pub-id-type="doi">10.1017/S0954579407070174</pub-id>
+      <fpage>345</fpage>
+      <lpage>366</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-BriggsGowan2016">
+    <element-citation publication-type="chapter">
+      <person-group person-group-type="author">
+        <name><surname>Briggs-Gowan</surname><given-names>Margaret J.</given-names></name>
+        <name><surname>Godoy</surname><given-names>Leandra</given-names></name>
+        <name><surname>Heberle</surname><given-names>Amy</given-names></name>
+        <name><surname>Carter</surname><given-names>Alice S.</given-names></name>
+      </person-group>
+      <article-title>Assessment of psychopathology in young children</article-title>
+      <source>Developmental psychopathology</source>
+      <person-group person-group-type="editor">
+        <name><surname>Cicchetti</surname><given-names>Dante</given-names></name>
+      </person-group>
+      <year iso-8601-date="2016">2016</year>
+      <volume>1: Theory and Method</volume>
+      <fpage>1</fpage>
+      <lpage>45</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Broeren2013">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Broeren</surname><given-names>Suzanne</given-names></name>
+        <name><surname>Muris</surname><given-names>Peter</given-names></name>
+        <name><surname>Diamantopoulou</surname><given-names>Sofia</given-names></name>
+        <name><surname>Baker</surname><given-names>Jess R.</given-names></name>
+      </person-group>
+      <article-title>The course of childhood anxiety symptoms: Developmental trajectories and child-related factors in normal children</article-title>
+      <source>Journal of Abnormal Child Psychology</source>
+      <year iso-8601-date="2013">2013</year>
+      <volume>41</volume>
+      <issue>1</issue>
+      <uri>http://dx.doi.org/10.1007/s10802-012-9669-9</uri>
+      <pub-id pub-id-type="doi">10.1007/s10802-012-9669-9</pub-id>
+      <fpage>81</fpage>
+      <lpage>95</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Petersen2021">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Petersen</surname><given-names>Isaac T.</given-names></name>
+        <name><surname>LeBeau</surname><given-names>Brandon</given-names></name>
+        <name><surname>Choe</surname><given-names>Daniel E.</given-names></name>
+      </person-group>
+      <article-title>Creating a developmental scale to account for heterotypic continuity in development: A simulation study</article-title>
+      <source>Child Development</source>
+      <year iso-8601-date="2021">2021</year>
+      <volume>92</volume>
+      <issue>1</issue>
+      <uri>https://osf.io/ewmzd</uri>
+      <pub-id pub-id-type="doi">10.1111/cdev.13433</pub-id>
+      <fpage>e1</fpage>
+      <lpage>e19</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Chen2015">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Chen</surname><given-names>Frances R.</given-names></name>
+        <name><surname>Jaffee</surname><given-names>Sara R.</given-names></name>
+      </person-group>
+      <article-title>The heterogeneity in the development of homotypic and heterotypic antisocial behavior</article-title>
+      <source>Journal of Developmental and Life-Course Criminology</source>
+      <year iso-8601-date="2015">2015</year>
+      <volume>1</volume>
+      <issue>3</issue>
+      <uri>http://dx.doi.org/10.1007/s40865-015-0012-3</uri>
+      <pub-id pub-id-type="doi">10.1007/s40865-015-0012-3</pub-id>
+      <fpage>269</fpage>
+      <lpage>288</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Schaeffer1991">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Schaeffer</surname><given-names>Nora Cate</given-names></name>
+      </person-group>
+      <article-title>Hardly ever or constantly? Group comparisons using vague quantifiers</article-title>
+      <source>Public Opinion Quarterly</source>
+      <year iso-8601-date="1991">1991</year>
+      <volume>55</volume>
+      <issue>3</issue>
+      <uri>https://doi.org/10.1086/269270</uri>
+      <pub-id pub-id-type="doi">10.1086/269270</pub-id>
+      <fpage>395</fpage>
+      <lpage>423</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Schwarz1999">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Schwarz</surname><given-names>Norbert</given-names></name>
+      </person-group>
+      <article-title>Self-reports: How the questions shape the answers</article-title>
+      <source>American Psychologist</source>
+      <year iso-8601-date="1999">1999</year>
+      <volume>54</volume>
+      <issue>2</issue>
+      <pub-id pub-id-type="doi">10.1037/0003-066X.54.2.93</pub-id>
+      <fpage>93</fpage>
+      <lpage>105</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Paalman2013">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Paalman</surname><given-names>Carmen H.</given-names></name>
+        <name><surname>Terwee</surname><given-names>Caroline B.</given-names></name>
+        <name><surname>Jansma</surname><given-names>Elise P.</given-names></name>
+        <name><surname>Jansen</surname><given-names>Lucres M. C.</given-names></name>
+      </person-group>
+      <article-title>Instruments measuring externalizing mental health problems in immigrant ethnic minority youths: A systematic review of measurement properties</article-title>
+      <source>PLOS ONE</source>
+      <year iso-8601-date="2013">2013</year>
+      <volume>8</volume>
+      <issue>5</issue>
+      <uri>https://doi.org/10.1371/journal.pone.0063109</uri>
+      <pub-id pub-id-type="doi">10.1371/journal.pone.0063109</pub-id>
+      <fpage>e63109</fpage>
+      <lpage></lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Kaat2019">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Kaat</surname><given-names>Aaron J.</given-names></name>
+        <name><surname>Blackwell</surname><given-names>Courtney K.</given-names></name>
+        <name><surname>Estabrook</surname><given-names>Ryne</given-names></name>
+        <name><surname>Burns</surname><given-names>James L.</given-names></name>
+        <name><surname>Petitclerc</surname><given-names>Amelie</given-names></name>
+        <name><surname>Briggs-Gowan</surname><given-names>Margaret J.</given-names></name>
+        <name><surname>Gershon</surname><given-names>Richard C.</given-names></name>
+        <name><surname>Cella</surname><given-names>David</given-names></name>
+        <name><surname>Perlman</surname><given-names>Susan B.</given-names></name>
+        <name><surname>Wakschlag</surname><given-names>Lauren S.</given-names></name>
+      </person-group>
+      <article-title>Linking the child behavior checklist (CBCL) with the multidimensional assessment profile of disruptive behavior (MAP-DB): Advancing a dimensional spectrum approach to disruptive behavior</article-title>
+      <source>Journal of Child and Family Studies</source>
+      <year iso-8601-date="2019">2019</year>
+      <volume>28</volume>
+      <issue>2</issue>
+      <uri>https://doi.org/10.1007/s10826-018-1272-4</uri>
+      <pub-id pub-id-type="doi">10.1007/s10826-018-1272-4</pub-id>
+      <fpage>343</fpage>
+      <lpage>353</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Tiego2023">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Tiego</surname><given-names>Jeggan</given-names></name>
+        <name><surname>Martin</surname><given-names>Elizabeth A.</given-names></name>
+        <name><surname>DeYoung</surname><given-names>Colin G.</given-names></name>
+        <name><surname>Hagan</surname><given-names>Kelsey</given-names></name>
+        <name><surname>Cooper</surname><given-names>Samuel E.</given-names></name>
+        <name><surname>Pasion</surname><given-names>Rita</given-names></name>
+        <name><surname>Satchell</surname><given-names>Liam</given-names></name>
+        <name><surname>Shackman</surname><given-names>Alexander J.</given-names></name>
+        <name><surname>Bellgrove</surname><given-names>Mark A.</given-names></name>
+        <name><surname>Fornito</surname><given-names>Alex</given-names></name>
+        <name><surname>Abend</surname><given-names>Rany</given-names></name>
+        <name><surname>Goulter</surname><given-names>Natalie</given-names></name>
+        <name><surname>Eaton</surname><given-names>Nicholas R.</given-names></name>
+        <name><surname>Kaczkurkin</surname><given-names>Antonia N.</given-names></name>
+        <name><surname>Nusslock</surname><given-names>Robin</given-names></name>
+        <name><surname>HiTOP Neurobiological Foundations Work Group</surname></name>
+      </person-group>
+      <article-title>Precision behavioral phenotyping as a strategy for uncovering the biological correlates of psychopathology</article-title>
+      <source>Nature Mental Health</source>
+      <year iso-8601-date="2023">2023</year>
+      <volume>1</volume>
+      <issue>5</issue>
+      <uri>https://doi.org/10.1038/s44220-023-00057-5</uri>
+      <pub-id pub-id-type="doi">10.1038/s44220-023-00057-5</pub-id>
+      <fpage>304</fpage>
+      <lpage>315</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Pavlovich2026">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Pavlovich</surname><given-names>Kane</given-names></name>
+        <name><surname>Tiego</surname><given-names>Jeggan</given-names></name>
+        <name><surname>Constable</surname><given-names>Toby</given-names></name>
+        <name><surname>Fornito</surname><given-names>Alex</given-names></name>
+        <name><surname>Imaging</surname><given-names>Monash Biomedical</given-names></name>
+      </person-group>
+      <article-title>Assessing the psychometric properties of the child behavior checklist in the ABCD study</article-title>
+      <source>Developmental Science</source>
+      <year iso-8601-date="2026">2026</year>
+      <volume>29</volume>
+      <issue>4</issue>
+      <pub-id pub-id-type="doi">10.1111/desc.70216</pub-id>
+      <fpage>e70216</fpage>
+      <lpage></lpage>
+    </element-citation>
+  </ref>
 </ref-list>
 <fn-group>
   <fn id="fn1">
@@ -957,27 +1345,28 @@ cognitive skills across lengthy developmental periods.</p>
     “Development and Course” subsection that describes when disorders
     tend to emerge and their rates across ages, in addition to
     describing the types of symptoms that may be more or less common at
-    various points in development. For instance, in the section on major
-    depressive disorder, it is noted that “hypersomnia and hyperphagia
-    are more likely in younger individuals, and melancholic symptoms,
-    particularly psychomotor disturbances, are more common in older
-    individuals. Depressions with earlier ages at onset are more
-    familial and more likely to involve personality disturbances.”
-    (p. 189). In the section on ADHD, it is noted that, “In preschool,
-    the main manifestation is hyperactivity. Inattention becomes more
-    prominent during elementary school. During adolescence, signs of
-    hyperactivity (e.g., running and climbing) are less common and may
-    be confined to fidgetiness or an inner feeling of jitteriness,
-    restlessness, or impatience. In adulthood, along with inattention
-    and restlessness, impulsivity may remain problematic even when
-    hyperactivity has diminished.” (p. 71). In the section on CD, it is
-    noted that “Symptoms of the disorder vary with age as the individual
-    develops increased physical strength, cognitive abilities, and
-    sexual maturity. Symptom behaviors that emerge first tend to be less
-    serious (e.g., lying, shoplifting), whereas conduct problems that
-    emerge last tend to be more severe (e.g., rape, theft while
-    confronting a victim)… When individuals with conduct disorder reach
-    adulthood, symptoms of aggression, property destruction,
+    various points in development. However, the symptoms that define the
+    disorders do not differ across development. For instance, in the
+    section on major depressive disorder, it is noted that “hypersomnia
+    and hyperphagia are more likely in younger individuals, and
+    melancholic symptoms, particularly psychomotor disturbances, are
+    more common in older individuals. Depressions with earlier ages at
+    onset are more familial and more likely to involve personality
+    disturbances.” (p. 189). In the section on ADHD, it is noted that,
+    “In preschool, the main manifestation is hyperactivity. Inattention
+    becomes more prominent during elementary school. During adolescence,
+    signs of hyperactivity (e.g., running and climbing) are less common
+    and may be confined to fidgetiness or an inner feeling of
+    jitteriness, restlessness, or impatience. In adulthood, along with
+    inattention and restlessness, impulsivity may remain problematic
+    even when hyperactivity has diminished.” (p. 71). In the section on
+    CD, it is noted that “Symptoms of the disorder vary with age as the
+    individual develops increased physical strength, cognitive
+    abilities, and sexual maturity. Symptom behaviors that emerge first
+    tend to be less serious (e.g., lying, shoplifting), whereas conduct
+    problems that emerge last tend to be more severe (e.g., rape, theft
+    while confronting a victim)… When individuals with conduct disorder
+    reach adulthood, symptoms of aggression, property destruction,
     deceitfulness, and rule violation, including violence against
     co-workers, partners, and children, may be exhibited in the
     workplace and the home” (p. 534). Moreover, some disorders in the
@@ -993,7 +1382,7 @@ cognitive skills across lengthy developmental periods.</p>
     developmental level, gender, and culture.” (p. 522). In addition,
     some disorders require that some symptoms onset before or after a
     particular age. For instance, in the diagnosis of ADHD, several
-    symptomers must be present prior to age 12. In the diagnosis of CD,
+    symptoms must be present prior to age 12. In the diagnosis of CD,
     the symptoms “often stays out at night despite parental
     prohibitions” and “if often truant from school” must begin before
     age 13 (p. 531). In the diagnosis of ASPD, symptoms must be
