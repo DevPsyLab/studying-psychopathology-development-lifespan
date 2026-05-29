@@ -222,7 +222,7 @@ cognitive skills across lengthy developmental periods.</p>
   (<xref alt="Godoy et al. 2021" rid="ref-Godoy2021" ref-type="bibr">Godoy
   et al. 2021</xref>). A theoretical depiction of the heterogeneity of
   cognitive decline is depicted in
-  <xref alt="Figure 1" rid="fig-agingTrajectoriesHeteogeneity">Figure 1</xref>.
+  <xref alt="Figure 1" rid="fig-lifespanCognitiveTrajectories">Figure 1</xref>.
   If we rely on normative age-related patterns of cognitive functioning
   or psychopathology from cross-sectional research, we would miss the
   great individual differences in people’s developmental courses.</p>
@@ -245,7 +245,7 @@ cognitive skills across lengthy developmental periods.</p>
   across generations;
   <xref alt="Ackerman 2013" rid="ref-Ackerman2013" ref-type="bibr">Ackerman
   2013</xref>).</p>
-  <fig id="fig-agingTrajectoriesHeteogeneity">
+  <fig id="fig-lifespanCognitiveTrajectories">
     <caption><p>Figure 1: <bold>Panel A</bold>: Hypothetical models for
     different cognitive trajectories of aging. (Figure in Panel B
     reprinted from Borelli et al.
@@ -255,7 +255,7 @@ cognitive skills across lengthy developmental periods.</p>
     Operationalized definition of older adults with high cognitive
     performance. <italic>Dementia &amp; Neuropsychologia</italic>,
     <italic>12</italic>(3), 221–227.
-    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/1980-57642018dn12-030001">https://doi.org/10.1590/1980-57642018dn12-030001</ext-link>)
+    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/1980-57642018dn12-030001">https://doi.org/10.1590/1980-57642018dn12-030001</ext-link>).
     <bold>Panel B</bold>: Theoretical illustration of inter-individual
     variability in cognitive aging trajectories. Each grey line
     represents one individual hypothetical cognitive health trajectory.
@@ -281,7 +281,7 @@ cognitive skills across lengthy developmental periods.</p>
           <tr>
             <td align="left"><p specific-use="wrapper">
               <boxed-text>
-                <graphic mimetype="image" mime-subtype="jpeg" xlink:href="Figures/Borelli2018_figure1.jpg">
+                <graphic id="fig-lifespanCognitiveTrajectoriesSubgroups" mimetype="image" mime-subtype="jpeg" xlink:href="Figures/Borelli2018_figure1.jpg">
                   <alt-text>Hypothetical models for different cognitive
                   trajectories of aging.</alt-text>
                 </graphic>
