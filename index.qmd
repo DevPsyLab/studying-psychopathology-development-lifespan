@@ -270,6 +270,7 @@ Moreover, where such theories do indicate changes in behavioral manifestation ac
 Diagnostic and taxonomic systems do not define psychopathology constructs from a developmental perspective.
 The diagnostic systems, including the Diagnostic and Statistical Manual of Mental Disorders [DSM-5-TR\; @APA2022] and the International Classification of Diseases [ICD-11\; @WHO2022], specify various externalizing-related disorders, including attention-deficit/hyperactivity disorder (ADHD), oppositional defiant disorder (ODD), conduct disorder (CD), and antisocial personality disorder (ASPD).
 Among externalizing-related disorders—with few exceptions[^dsmFootnote1]—the diagnostic criteria do not differ across development, even though diagnostic manuals acknowledge that developmental factors impact symptom presentation[^dsmFootnote2].
+In addition to diagnostic systems, emerging taxonomies and frameworks of psychopathology—including the hierarchical taxonomy of psychopathology (HiTOP) and research domain criteria (RDoC)—do not incorporate a developental perspective [@Tackett2022].
 
 [^dsmFootnote1]: In the DSM-5-TR [@APA2022], the minimum frequency for considering a symptom of ODD to be present is "most days" (for a period of six months) for children younger than 5 years, whereas it is "at least once per week" (for at least six months) for children 5 years or older.
 For the diagnosis of ADHD, six or more symptoms are required for children and younger adolescents (up to age 16), whereas five or more sympomts are required for older adolescents and adults (aged 17 or over).
@@ -299,7 +300,7 @@ In the diagnosis of ASPD, symptoms must be persistent since age 15 but have onse
 
 Other key reasons the field has failed to adequately study individuals' development of psychopathology across the lifespan represent method problems—namely, problems with existing assessments and how those assessments are used, based on traditional scoring systems.
 There is a mismatch metween theory and method.
-In particular, there is a mismatch between theory of constructs—including how a construct manifests behaviorally—and our methods to assess the construct and to evaluate people's level and change in that construct.
+In particular, there is a mismatch between theory of constructs—including how a construct manifests behaviorally—and the methods used to assess the construct and to evaluate people's level and change in that construct.
 
 ### Do Not Adequately Capture Constructs' Change in Behavioral Manifestation Across Development
 
@@ -318,16 +319,6 @@ Both the "common items" [e.g., @Odgers2008; @Sterba2007] and "upward/downward ex
 As an example of the common items approach, Odgers et al. (2008, p. 676) examined children's development of DSM-IV symptoms of conduct disorder from ages 7 to 26 years, but they dropped age-specific symptoms (e.g., running away, staying out late) "because [these symptoms] did not cover the study's age span".
 As an example of the upward extension approach, Broeren et al. (2013, p. 84) examined children's development of anxiety from ages 4 to 11 years; they noted, "Although the questionnaire was originally developed to measure anxiety in preschoolers, the current study also employed the scale with older children to promote uniformity in measures".
 
-Forcing use of the same measure across time naturally limits the ages a study can span, which prevents charting wider age spans.
-<!-- USE EXT EXAMPLE -->
-<!-- For example, one could not examine development of depression across ages 11 to 13 years using the Short Mood and Feelings Questionnaire due to changes in its functioning (in particular, some items were less relevant at age 11) that likely reflect developmental changes in manifestation of depression.20  -->
-The common items approach yields low content validity because it does not assess all construct facets, especially age-specific manifestations.
-The upward/downward extension approach violates construct validity because it assesses developmentally inappropriate items.
-Due to these problems, both simulation and empirical work [@Chen2015; @Petersen2018; @Petersen2021; @Petersen2026] has shown that the "common items" and "upward/downward extension" approaches lead to inaccurate developmental inferences.
-In sum, despite these approaches being the most widely used for assessing individuals' development, they likely lead to inaccurate scores and thus inaccurate trajectories.
-
-<!-- Broeren and Odgers quotes -->
-
 ::: {#fig-approachesToLongitudinalAssessment}
 ![](Figures/approachesToLongitudinalAssessment.jpg){width=100% fig-alt="Theoretical illustration of inter-individual variability in cognitive aging trajectories."}
 
@@ -339,6 +330,16 @@ The three approaches are: (1) common items: B at T1 and T2, (2) upward/downward 
 The "common items" and "upward/downward extension" approaches are by far the most widely used in the literature, even though they likely lead to inaccurate scores and thus inaccurate trajectories.
 (Figure reprinted from @Petersen2026, Figure 1, p. 113. Petersen, I. T., Demko, Z., Lee, W.-C., & Oleson, J. J. (2026). Studying development of psychopathology using changing measures to account for heterotypic continuity. *JAACAP Open*, *4*(1), 111–123. <https://doi.org/10.1016/j.jaacop.2025.10.008>)
 :::
+
+Forcing use of the same measure across time naturally limits the ages a study can span, which prevents charting wider age spans.
+<!-- USE EXT EXAMPLE -->
+<!-- For example, one could not examine development of depression across ages 11 to 13 years using the Short Mood and Feelings Questionnaire due to changes in its functioning (in particular, some items were less relevant at age 11) that likely reflect developmental changes in manifestation of depression.20  -->
+The common items approach yields low content validity because it does not assess all construct facets, especially age-specific manifestations.
+The upward/downward extension approach violates construct validity because it assesses developmentally inappropriate items.
+Due to these problems, both simulation and empirical work [@Chen2015; @Petersen2018; @Petersen2021; @Petersen2026] has shown that the "common items" and "upward/downward extension" approaches lead to inaccurate developmental inferences.
+In sum, despite these approaches being the most widely used for assessing individuals' development, they likely lead to inaccurate scores and thus inaccurate trajectories.
+
+<!-- Broeren and Odgers quotes -->
 
 ### Do Not Allow Charting Individuals' Change Over Time When the Construct Changes in Behavioral Manifestation
 
