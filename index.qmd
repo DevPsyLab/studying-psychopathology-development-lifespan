@@ -167,7 +167,7 @@ Individuals show considerable heterogeneity in level and change across time in m
 As an example, despite the normative pattern of steep cognitive decline in episodic memory with age, there are a subset of individuals who do not show this same pattern.
 For instance, superagers are individuals who are older adults (age 80+) who have episodic memory at or above the normative level of middle-aged adults (50–65 years old) and who may be resilient to the typical aging process [@Godoy2021].
 A theoretical depiction of the heterogeneity of cognitive decline is depicted in @fig-agingTrajectoriesHeteogeneity.
-If we relied on normative age-related patterns of cognitive functioning from cross-sectional research, we would miss the great individual differences in people's developmental courses.
+If we rely on normative age-related patterns of cognitive functioning or psychopathology from cross-sectional research, we would miss the great individual differences in people's developmental courses.
 
 <!-- Discuss heterogeneity of cognitive decline. -->
 Third, in a cross-sectional study, any apparent age-related differences in a construct could reflect cohort differences instead of developmental changes.
@@ -177,14 +177,17 @@ In cross-sectional studies, the convergence assumption is the assumption that cr
 An example where the convergence assumption has been shown to be violated is in studies of cognitive decline.
 In particular, cross-sectional studies overestimate age-related cognitive declines compared to following the same people over time in a longitudinal study, which may reflect cohort effects such as the Flynn effect [where population intelligence scores at a given age tend to increase across generations\; @Ackerman2013].
 
-::: {#fig-agingTrajectoriesHeteogeneity}
-![](Figures/Abrous2026_figure1.jpg){width=100% fig-alt="Theoretical illustration of inter-individual variability in cognitive aging trajectories."}
+::: {#fig-agingTrajectoriesHeteogeneity layout-ncol=2}
+![Hypothetical models for different cognitive trajectories of aging.](Figures/Borelli2018_figure1.jpg){width=100% fig-alt="Hypothetical models for different cognitive trajectories of aging."}
+![Theoretical illustration of inter-individual variability in cognitive aging trajectories.](Figures/Abrous2026_figure1.jpg){width=100% fig-alt="Theoretical illustration of inter-individual variability in cognitive aging trajectories."}
 
-Theoretical illustration of inter-individual variability in cognitive aging trajectories.
+Panel A: Hypothetical models for different cognitive trajectories of aging.
+(Figure in Panel B reprinted from @Borelli2018, Figure 1, p. 222. Borelli, W. V., Carmona, K. C., Studart-Neto, A., Nitrini, R., Caramelli, P., & Costa, J. C. d. (2018). Operationalized definition of older adults with high cognitive performance. *Dementia & Neuropsychologia*, *12*(3), 221–227. <https://doi.org/10.1590/1980-57642018dn12-030001>)
+
+Panel B: Theoretical illustration of inter-individual variability in cognitive aging trajectories.
 Each grey line represents one individual hypothetical cognitive health trajectory.
-Established and emerging mechanisms that determine whether a given individual experiences more stable (in green) vs. declining (in purple) trajectories are the focus of this review.
 The orange line marks the threshold for functional independence; once an individual's cognitive health drops below this level, autonomous daily living is compromised.
-(Figure reprinted from @Abrous2026, Figure 1, p. 2. Abrous, D. N., Blin, N., Boraxbekk, C.-J., Catheline, G., Fitzsimons, C. P., Hilscher, M., Lemoine, M., Lopes, L. V., Maass, A., Nilsson, M., Nyberg, L., Rasmussen, L. J., Remondes, M., Sauvage, M., Schreiber, S., & Wolbers, T. (2026). Hallmarks of healthy cognitive aging: Inter-individual differences in aging trajectories. *Ageing Research Reviews*, 119, 103102. <https://doi.org/10.1016/j.arr.2026.103102>)
+(Figure in Panel B reprinted from @Abrous2026, Figure 1, p. 2. Abrous, D. N., Blin, N., Boraxbekk, C.-J., Catheline, G., Fitzsimons, C. P., Hilscher, M., Lemoine, M., Lopes, L. V., Maass, A., Nilsson, M., Nyberg, L., Rasmussen, L. J., Remondes, M., Sauvage, M., Schreiber, S., & Wolbers, T. (2026). Hallmarks of healthy cognitive aging: Inter-individual differences in aging trajectories. *Ageing Research Reviews*, *119*, 103102. <https://doi.org/10.1016/j.arr.2026.103102>)
 :::
 
 Because longitudinal designs follow the same person(s) over time, such a design allows examining individuals' change across time.
@@ -310,6 +313,8 @@ In particular, there is a mismatch between theory of constructs—including how 
 ### Not Well-Suited for Capturing Individuals' Change Over Time
 
 ## Example: Externalizing Psychopathology
+
+<!-- Figure from Petersen et al. (2026, Psychol Assessment)  -->
 
 # Solution: A Developmental Scaling Framework
 
