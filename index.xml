@@ -223,9 +223,9 @@ cognitive skills across lengthy developmental periods.</p>
   et al. 2021</xref>). A theoretical depiction of the heterogeneity of
   cognitive decline is depicted in
   <xref alt="Figure 1" rid="fig-agingTrajectoriesHeteogeneity">Figure 1</xref>.
-  If we relied on normative age-related patterns of cognitive
-  functioning from cross-sectional research, we would miss the great
-  individual differences in people’s developmental courses.</p>
+  If we rely on normative age-related patterns of cognitive functioning
+  or psychopathology from cross-sectional research, we would miss the
+  great individual differences in people’s developmental courses.</p>
   <p>Third, in a cross-sectional study, any apparent age-related
   differences in a construct could reflect cohort differences instead of
   developmental changes. For example, average differences in stress
@@ -246,15 +246,13 @@ cognitive skills across lengthy developmental periods.</p>
   <xref alt="Ackerman 2013" rid="ref-Ackerman2013" ref-type="bibr">Ackerman
   2013</xref>).</p>
   <fig id="fig-agingTrajectoriesHeteogeneity">
-    <caption><p>Figure 1: Theoretical illustration of inter-individual
-    variability in cognitive aging trajectories. Each grey line
-    represents one individual hypothetical cognitive health trajectory.
-    Established and emerging mechanisms that determine whether a given
-    individual experiences more stable (in green) vs. declining (in
-    purple) trajectories are the focus of this review. The orange line
-    marks the threshold for functional independence; once an
-    individual’s cognitive health drops below this level, autonomous
-    daily living is compromised. (Figure reprinted from Abrous et al.
+    <caption><p>Figure 1: Panel B: Theoretical illustration of
+    inter-individual variability in cognitive aging trajectories. Each
+    grey line represents one individual hypothetical cognitive health
+    trajectory. The orange line marks the threshold for functional
+    independence; once an individual’s cognitive health drops below this
+    level, autonomous daily living is compromised. (Figure in Panel B
+    reprinted from Abrous et al.
     (<xref alt="2026" rid="ref-Abrous2026" ref-type="bibr">2026</xref>),
     Figure 1, p. 2. Abrous, D. N., Blin, N., Boraxbekk, C.-J.,
     Catheline, G., Fitzsimons, C. P., Hilscher, M., Lemoine, M., Lopes,
@@ -262,9 +260,48 @@ cognitive skills across lengthy developmental periods.</p>
     Remondes, M., Sauvage, M., Schreiber, S., &amp; Wolbers, T. (2026).
     Hallmarks of healthy cognitive aging: Inter-individual differences
     in aging trajectories. <italic>Ageing Research Reviews</italic>,
-    119, 103102.
+    <italic>119</italic>, 103102.
     <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.arr.2026.103102">https://doi.org/10.1016/j.arr.2026.103102</ext-link>)</p></caption>
-    <graphic mimetype="image" mime-subtype="jpeg" xlink:href="Figures/Abrous2026_figure1.jpg" />
+    <table-wrap>
+      <table>
+        <colgroup>
+          <col width="50%" />
+          <col width="50%" />
+        </colgroup>
+        <tbody>
+          <tr>
+            <td align="left"><p specific-use="wrapper">
+              <boxed-text>
+                <p><inline-graphic mimetype="image" mime-subtype="jpeg" xlink:href="Figures/Borelli2018_figure1.jpg">
+                  <alt-text>Hypothetical models for different cognitive
+                  trajectories of aging.</alt-text>
+                </inline-graphic>
+                <inline-graphic mimetype="image" mime-subtype="jpeg" xlink:href="Figures/Abrous2026_figure1.jpg">
+                  <alt-text>Theoretical illustration of inter-individual
+                  variability in cognitive aging
+                  trajectories.</alt-text>
+                </inline-graphic></p>
+              </boxed-text>
+            </p></td>
+            <td align="left"><p specific-use="wrapper">
+              <boxed-text>
+                <p>Panel A: Hypothetical models for different cognitive
+                trajectories of aging. (Figure in Panel B reprinted from
+                Borelli et al.
+                (<xref alt="2018" rid="ref-Borelli2018" ref-type="bibr">2018</xref>),
+                Figure 1, p. 222. Borelli, W. V., Carmona, K. C.,
+                Studart-Neto, A., Nitrini, R., Caramelli, P., &amp;
+                Costa, J. C. d. (2018). Operationalized definition of
+                older adults with high cognitive performance.
+                <italic>Dementia &amp; Neuropsychologia</italic>,
+                <italic>12</italic>(3), 221–227.
+                <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/1980-57642018dn12-030001">https://doi.org/10.1590/1980-57642018dn12-030001</ext-link>)</p>
+              </boxed-text>
+            </p></td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
   </fig>
   <p>Because longitudinal designs follow the same person(s) over time,
   such a design allows examining individuals’ change across time.
@@ -875,6 +912,26 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1037/0022-006X.70.1.6</pub-id>
       <fpage>6</fpage>
       <lpage>20</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Borelli2018">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Borelli</surname><given-names>Wyllians Vendramini</given-names></name>
+        <name><surname>Carmona</surname><given-names>Karoline Carvalho</given-names></name>
+        <name><surname>Studart-Neto</surname><given-names>Adalberto</given-names></name>
+        <name><surname>Nitrini</surname><given-names>Ricardo</given-names></name>
+        <name><surname>Caramelli</surname><given-names>Paulo</given-names></name>
+        <name><surname>Costa</surname><given-names>Jaderson Costa da</given-names></name>
+      </person-group>
+      <article-title>Operationalized definition of older adults with high cognitive performance</article-title>
+      <source>Dementia &amp; Neuropsychologia</source>
+      <year iso-8601-date="2018">2018</year>
+      <volume>12</volume>
+      <issue>3</issue>
+      <pub-id pub-id-type="doi">10.1590/1980-57642018dn12-030001</pub-id>
+      <fpage>221</fpage>
+      <lpage>227</lpage>
     </element-citation>
   </ref>
 </ref-list>
