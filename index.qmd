@@ -177,11 +177,13 @@ In cross-sectional studies, the convergence assumption is the assumption that cr
 An example where the convergence assumption has been shown to be violated is in studies of cognitive decline.
 In particular, cross-sectional studies overestimate age-related cognitive declines compared to following the same people over time in a longitudinal study, which may reflect cohort effects such as the Flynn effect [where population intelligence scores at a given age tend to increase across generations\; @Ackerman2013].
 
-::: {#fig-lifespanCognitiveTrajectories layout-ncol=2}
+::: {#fig-lifespanCognitiveTrajectories layout="[[53,47]]"}
 ![Hypothetical models for different cognitive trajectories of aging.](Figures/Borelli2018_figure1.jpg){#fig-lifespanCognitiveTrajectoriesSubgroups fig-alt="Hypothetical models for different cognitive trajectories of aging."}
+
 ![Theoretical illustration of inter-individual variability in cognitive aging trajectories.](Figures/Abrous2026_figure1.jpg){#fig-lifespanCognitiveTrajectoriesIndividuals fig-alt="Theoretical illustration of inter-individual variability in cognitive aging trajectories."}
 
 **Panel A**: Hypothetical models for different cognitive trajectories of aging.
+MCI = mild cognitive impairment.
 (Figure in Panel B reprinted from @Borelli2018, Figure 1, p. 222. Borelli, W. V., Carmona, K. C., Studart-Neto, A., Nitrini, R., Caramelli, P., & Costa, J. C. d. (2018). Operationalized definition of older adults with high cognitive performance. *Dementia & Neuropsychologia*, *12*(3), 221–227. <https://doi.org/10.1590/1980-57642018dn12-030001>).
 **Panel B**: Theoretical illustration of inter-individual variability in cognitive aging trajectories.
 Each grey line represents one individual hypothetical cognitive health trajectory.
