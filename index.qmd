@@ -199,7 +199,7 @@ However, even cross-sectional work spanning the lifespan is not often conducted.
 
 # The Problem/Obstacle
 
-The focal problem examined in this paper is that the field has not adequately studied individuals' development of psychopathology across the lifespan, instead taking a piecewise approach to development.
+The focal problem examined in this paper is that, despite calls to do so [@DeLosReyes2026], the field has not adequately studied individuals' development of psychopathology across the lifespan, instead taking a piecewise approach to development.
 The piecewise approach to development limits our understanding of lifespan development and the origins of psychopathology.
 
 <!-- Describe findings from existing studies that have examined psychopathology or other constructs across the lifespan. -->
@@ -365,7 +365,7 @@ In sum, although they have been helpful, existing measures are poorly suited to 
 
 ## Example: Externalizing Psychopathology
 
-<!-- Figure from Petersen et al. (2026, Psychol Assessment)  -->
+<!-- Figure from Petersen et al. (2026, Psychol Assessment) -->
 
 <!-- Widely used measures do not assess contemporary manifestations of externalizing, including aggression on social media and cyberbullying. -->
 
@@ -384,6 +384,10 @@ In sum, although they have been helpful, existing measures are poorly suited to 
 ### Change in Meaning of the Scores
 
 ## Factorial Invariance Across Time
+
+## Integration Across Multiple Sources
+
+<!-- @DeLosReyes2026 -->
 
 ## Obsolescence of Items and Measures
 
