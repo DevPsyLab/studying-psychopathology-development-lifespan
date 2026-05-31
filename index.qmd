@@ -168,8 +168,14 @@ Individuals show considerable heterogeneity in level and change across time in m
 As an example, despite the normative pattern of steep cognitive decline in episodic memory with age, there are a subset of individuals who do not show this same pattern.
 For instance, superagers are individuals who are older adults (age 80+) who have episodic memory at or above the normative level of middle-aged adults (50–65 years old) and who may be resilient to the typical aging process [@Godoy2021].
 Theoretical depictions of the heterogeneity of cognitive decline are depicted in @fig-lifespanCognitiveTrajectories.
+
+Heterogeneity also applies to psychopathology trajectories.
 An example of the age-crime curve is depicted in @fig-ageCrimeCurve.
-If we rely solely on normative age-related patterns of cognitive functioning or psychopathology from cross-sectional research, we would miss the great individual differences in people's developmental courses.
+However, Moffitt's [-@Moffitt1993] developmental taxonomy of externalizing behavior posits that there are heterogeneous subgroups such that one subgroup exhibits low levels of externalizing behavior across the lifespan, an "adolescence limited" subgroup exhibits high levels of externalizing behavior during adolescence but low levels during childhood and adulthood, and a "life-course persistent" subgroup that exhibits high levels of externalizing behavior across the lifespan; in addition, more recent work has a "childhood limited" subgroup exhibits high levels of externalizing behavior during childhood but shows low levels after childhood [@Fairchild2013]. <!-- Add Figure -->
+<!-- Describe hypothesized causes of different trajectory patterns.  -->
+<!-- However, trajectories represent dimensional differences etc. -->
+<!-- Figure from Petersen et al. (2015) -->
+In sum, if we rely solely on normative age-related patterns of cognitive functioning or psychopathology from cross-sectional research, we would miss the great individual differences in people's developmental courses.
 
 ::: {#fig-lifespanCognitiveTrajectories layout="[[53,47]]"}
 ![Hypothetical models for different cognitive trajectories of aging.](Figures/Borelli2018_figure1.jpg){#fig-lifespanCognitiveTrajectoriesSubgroups fig-alt="Hypothetical models for different cognitive trajectories of aging."}
