@@ -296,8 +296,8 @@ cognitive skills across lengthy developmental periods.</p>
     adolescent years is similar to the age-crime curve in the United
     States; however, the steepness of the age-crime curve differs across
     birth cohorts
-    (<xref alt="Steffensmeier2025?" rid="ref-Steffensmeier2025" ref-type="bibr"><bold>Steffensmeier2025?</bold></xref>).
-    (Figure adapted from Sivertsson et al.
+    (<xref alt="Steffensmeier et al. 2025" rid="ref-Steffensmeier2025" ref-type="bibr">Steffensmeier
+    et al. 2025</xref>). (Figure adapted from Sivertsson et al.
     (<xref alt="2024" rid="ref-Sivertsson2024" ref-type="bibr">2024</xref>),
     Figure 1, p. 7. Sivertsson, F., Carlsson, C., Almquist, Y. B., &amp;
     Brännström, L. (2024). Offending trajectories from childhood to
@@ -1405,6 +1405,24 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1016/j.jcrimjus.2024.102155</pub-id>
       <fpage>102155</fpage>
       <lpage></lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Steffensmeier2025">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Steffensmeier</surname><given-names>Darrell</given-names></name>
+        <name><surname>Slepicka</surname><given-names>Jessie</given-names></name>
+        <name><surname>Schwartz</surname><given-names>Jennifer</given-names></name>
+      </person-group>
+      <article-title>International and historical variation in the age–crime curve</article-title>
+      <source>Annual Review of Criminology</source>
+      <year iso-8601-date="2025">2025</year>
+      <volume>8</volume>
+      <issue>Volume 8, 2025</issue>
+      <uri>https://www.annualreviews.org/content/journals/10.1146/annurev-criminol-111523-122451</uri>
+      <pub-id pub-id-type="doi">https://doi.org/10.1146/annurev-criminol-111523-122451</pub-id>
+      <fpage>239</fpage>
+      <lpage>268</lpage>
     </element-citation>
   </ref>
 </ref-list>
