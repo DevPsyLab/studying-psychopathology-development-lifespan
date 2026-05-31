@@ -168,6 +168,7 @@ Individuals show considerable heterogeneity in level and change across time in m
 As an example, despite the normative pattern of steep cognitive decline in episodic memory with age, there are a subset of individuals who do not show this same pattern.
 For instance, superagers are individuals who are older adults (age 80+) who have episodic memory at or above the normative level of middle-aged adults (50–65 years old) and who may be resilient to the typical aging process [@Godoy2021].
 Theoretical depictions of the heterogeneity of cognitive decline are depicted in @fig-lifespanCognitiveTrajectories.
+An example of the age-crime curve is depicted in @ageCrimeCurve.
 If we rely solely on normative age-related patterns of cognitive functioning or psychopathology from cross-sectional research, we would miss the great individual differences in people's developmental courses.
 
 ::: {#fig-lifespanCognitiveTrajectories layout="[[53,47]]"}
@@ -182,6 +183,16 @@ MCI = mild cognitive impairment.
 Each grey line represents one individual hypothetical cognitive health trajectory.
 The orange line marks the threshold for functional independence; once an individual's cognitive health drops below this level, autonomous daily living is compromised.
 (Figure in Panel B reprinted from @Abrous2026, Figure 1, p. 2. Abrous, D. N., Blin, N., Boraxbekk, C.-J., Catheline, G., Fitzsimons, C. P., Hilscher, M., Lemoine, M., Lopes, L. V., Maass, A., Nilsson, M., Nyberg, L., Rasmussen, L. J., Remondes, M., Sauvage, M., Schreiber, S., & Wolbers, T. (2026). Hallmarks of healthy cognitive aging: Inter-individual differences in aging trajectories. *Ageing Research Reviews*, *119*, 103102. <https://doi.org/10.1016/j.arr.2026.103102>)
+:::
+
+<!-- figure of age crime curve; figure of developmental taxonomy -->
+
+::: {#fig-ageCrimeCurve}
+![](Figures/Sivertsson2024_figure1.png){width=100% fig-alt="Theoretical illustration of inter-individual variability in cognitive aging trajectories."}
+
+The age-crime participation curve from age 9 through 64 in cohort members registered for antisocial and/or criminal behavior in a birth cohort recruited in Stockholm, Sweden (*N* = 4825).
+The steep peak in crime rate in the adolescent years is similar to the age-crime curve in the United States; however, the steepness of the age-crime curve differs across birth cohorts [@Steffensmeier2025].
+(Figure adapted from @Sivertsson2024, Figure 1, p. 7. Sivertsson, F., Carlsson, C., Almquist, Y. B., & Brännström, L. (2024). Offending trajectories from childhood to retirement age: Findings from the Stockholm birth cohort study. *Journal of Criminal Justice*, *91*, 102155. <https://doi.org/10.1016/j.jcrimjus.2024.102155>)
 :::
 
 Third, in a cross-sectional study, any apparent age-related differences in a construct could reflect cohort differences instead of developmental changes.
@@ -218,6 +229,7 @@ The piecewise approach to development limits our understanding of lifespan devel
 
 <!-- Long-term externalizing studies: -->
 <!-- Studies cited in Petersen et al. (2015): -->
+<!-- Stockholm birth cohort study: Sivertsson, F., Carlsson, C., Almquist, Y. B., & Brännström, L. (2024). Offending trajectories from childhood to retirement age: Findings from the Stockholm birth cohort study. Journal of Criminal Justice, 91, 102155. https://doi.org/https://doi.org/10.1016/j.jcrimjus.2024.102155 -->
 
 # Reasons for the Problem
 
