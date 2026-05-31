@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-05-29">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-05-31">
 <year>2026</year>
 <month>5</month>
-<day>29</day>
+<day>31</day>
 </pub-date>
 
 
@@ -224,6 +224,8 @@ cognitive skills across lengthy developmental periods.</p>
   et al. 2021</xref>). Theoretical depictions of the heterogeneity of
   cognitive decline are depicted in
   <xref alt="Figure 1" rid="fig-lifespanCognitiveTrajectories">Figure 1</xref>.
+  An example of the age-crime curve is depicted in
+  (<xref alt="ageCrimeCurve?" rid="ref-ageCrimeCurve" ref-type="bibr"><bold>ageCrimeCurve?</bold></xref>).
   If we rely solely on normative age-related patterns of cognitive
   functioning or psychopathology from cross-sectional research, we would
   miss the great individual differences in people’s developmental
@@ -286,6 +288,25 @@ cognitive skills across lengthy developmental periods.</p>
         </tbody>
       </table>
     </table-wrap>
+  </fig>
+  <fig id="fig-ageCrimeCurve">
+    <caption><p>Figure 2: The age-crime participation curve from age 9
+    through 64 in cohort members registered for antisocial and/or
+    criminal behavior in a birth cohort recruited in Stockholm, Sweden
+    (<italic>N</italic> = 4825). The steep peak in crime rate in the
+    adolescent years is similar to the age-crime curve in the United
+    States; however, the steepness of the age-crime curve differs across
+    birth cohorts
+    (<xref alt="Steffensmeier2025?" rid="ref-Steffensmeier2025" ref-type="bibr"><bold>Steffensmeier2025?</bold></xref>).
+    (Figure adapted from Sivertsson et al.
+    (<xref alt="2024" rid="ref-Sivertsson2024" ref-type="bibr">2024</xref>),
+    Figure 1, p. 7. Sivertsson, F., Carlsson, C., Almquist, Y. B., &amp;
+    Brännström, L. (2024). Offending trajectories from childhood to
+    retirement age: Findings from the Stockholm birth cohort study.
+    <italic>Journal of Criminal Justice</italic>, <italic>91</italic>,
+    102155.
+    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jcrimjus.2024.102155">https://doi.org/10.1016/j.jcrimjus.2024.102155</ext-link>)</p></caption>
+    <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Sivertsson2024_figure1.png" />
   </fig>
   <p>Third, in a cross-sectional study, any apparent age-related
   differences in a construct could reflect cohort differences instead of
@@ -510,7 +531,7 @@ cognitive skills across lengthy developmental periods.</p>
       that span.</p>
       <p>There are two primary ways that researchers have examined
       people’s change in psychopathology across development
-      <xref alt="Figure 2" rid="fig-approachesToLongitudinalAssessment">Figure 2</xref>.
+      <xref alt="Figure 3" rid="fig-approachesToLongitudinalAssessment">Figure 3</xref>.
       The “common items” approach removes items that are age specific.
       For example, in a study of externalizing problems from early
       childhood to adolescence, a study might remove some substance use
@@ -545,7 +566,7 @@ cognitive skills across lengthy developmental periods.</p>
       current study also employed the scale with older children to
       promote uniformity in measures”.</p>
       <fig id="fig-approachesToLongitudinalAssessment">
-        <caption><p>Figure 2: Item set A refers to items that are
+        <caption><p>Figure 3: Item set A refers to items that are
         construct-valid at only timepoint 1 (T1); item set B is
         construct-valid at both T1 and T2; item set C is construct-valid
         at only T2. A dash indicates that the item set was not assessed
@@ -1367,6 +1388,24 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1037/abn0001084</pub-id>
       <fpage>495</fpage>
       <lpage>497</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Sivertsson2024">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Sivertsson</surname><given-names>Fredrik</given-names></name>
+        <name><surname>Carlsson</surname><given-names>Christoffer</given-names></name>
+        <name><surname>Almquist</surname><given-names>Ylva B.</given-names></name>
+        <name><surname>Brännström</surname><given-names>Lars</given-names></name>
+      </person-group>
+      <article-title>Offending trajectories from childhood to retirement age: Findings from the Stockholm birth cohort study</article-title>
+      <source>Journal of Criminal Justice</source>
+      <year iso-8601-date="2024">2024</year>
+      <volume>91</volume>
+      <uri>https://www.sciencedirect.com/science/article/pii/S0047235224000047</uri>
+      <pub-id pub-id-type="doi">10.1016/j.jcrimjus.2024.102155</pub-id>
+      <fpage>102155</fpage>
+      <lpage></lpage>
     </element-citation>
   </ref>
 </ref-list>
