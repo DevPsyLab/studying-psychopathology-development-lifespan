@@ -223,12 +223,27 @@ cognitive skills across lengthy developmental periods.</p>
   (<xref alt="Godoy et al. 2021" rid="ref-Godoy2021" ref-type="bibr">Godoy
   et al. 2021</xref>). Theoretical depictions of the heterogeneity of
   cognitive decline are depicted in
-  <xref alt="Figure 1" rid="fig-lifespanCognitiveTrajectories">Figure 1</xref>.
-  An example of the age-crime curve is depicted in
-  <xref alt="Figure 2" rid="fig-ageCrimeCurve">Figure 2</xref>. If we
-  rely solely on normative age-related patterns of cognitive functioning
-  or psychopathology from cross-sectional research, we would miss the
-  great individual differences in people’s developmental courses.</p>
+  <xref alt="Figure 1" rid="fig-lifespanCognitiveTrajectories">Figure 1</xref>.</p>
+  <p>Heterogeneity also applies to psychopathology trajectories. An
+  example of the age-crime curve is depicted in
+  <xref alt="Figure 2" rid="fig-ageCrimeCurve">Figure 2</xref>. However,
+  Moffitt’s
+  (<xref alt="1993" rid="ref-Moffitt1993" ref-type="bibr">1993</xref>)
+  developmental taxonomy of externalizing behavior posits that there are
+  heterogeneous subgroups such that one subgroup exhibits low levels of
+  externalizing behavior across the lifespan, an “adolescence limited”
+  subgroup exhibits high levels of externalizing behavior during
+  adolescence but low levels during childhood and adulthood, and a
+  “life-course persistent” subgroup that exhibits high levels of
+  externalizing behavior across the lifespan; in addition, more recent
+  work has a “childhood limited” subgroup exhibits high levels of
+  externalizing behavior during childhood but shows low levels after
+  childhood
+  (<xref alt="Fairchild et al. 2013" rid="ref-Fairchild2013" ref-type="bibr">Fairchild
+  et al. 2013</xref>). In sum, if we rely solely on normative
+  age-related patterns of cognitive functioning or psychopathology from
+  cross-sectional research, we would miss the great individual
+  differences in people’s developmental courses.</p>
   <fig id="fig-lifespanCognitiveTrajectories">
     <caption><p>Figure 1: <bold>Panel A</bold>: Hypothetical models for
     different cognitive trajectories of aging. MCI = mild cognitive
@@ -1423,6 +1438,42 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1146/annurev-criminol-111523-122451</pub-id>
       <fpage>239</fpage>
       <lpage>268</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Moffitt1993">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Moffitt</surname><given-names>Terrie E.</given-names></name>
+      </person-group>
+      <article-title>Adolescence-limited and life-course-persistent antisocial behavior: A developmental taxonomy</article-title>
+      <source>Psychological Review</source>
+      <year iso-8601-date="1993">1993</year>
+      <volume>100</volume>
+      <issue>4</issue>
+      <uri>http://ezproxy.lib.indiana.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=pdh&amp;AN=1994-05949-001&amp;site=ehost-live&amp;scope=site
+      http://psycnet.apa.org/index.cfm?fa=search.displayRecord&amp;uid=1994-05949-001</uri>
+      <pub-id pub-id-type="doi">10.1037/0033-295X.100.4.674</pub-id>
+      <fpage>674</fpage>
+      <lpage>701</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Fairchild2013">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Fairchild</surname><given-names>Graeme</given-names></name>
+        <name><surname>Goozen</surname><given-names>Stephanie H. M. van</given-names></name>
+        <name><surname>Calder</surname><given-names>Andrew J.</given-names></name>
+        <name><surname>Goodyer</surname><given-names>Ian M.</given-names></name>
+      </person-group>
+      <article-title>Research review: Evaluating and reformulating the developmental taxonomic theory of antisocial behaviour</article-title>
+      <source>Journal of Child Psychology and Psychiatry</source>
+      <year iso-8601-date="2013">2013</year>
+      <volume>54</volume>
+      <issue>9</issue>
+      <uri>http://dx.doi.org/10.1111/jcpp.12102</uri>
+      <pub-id pub-id-type="doi">10.1111/jcpp.12102</pub-id>
+      <fpage>924</fpage>
+      <lpage>940</lpage>
     </element-citation>
   </ref>
 </ref-list>
