@@ -168,7 +168,7 @@ Individuals show considerable heterogeneity in level and change across time in m
 As an example, despite the normative pattern of steep cognitive decline in episodic memory with age, there are a subset of individuals who do not show this same pattern.
 For instance, superagers are individuals who are older adults (age 80+) who have episodic memory at or above the normative level of middle-aged adults (50–65 years old) and who may be resilient to the typical aging process [@Godoy2021].
 Theoretical depictions of the heterogeneity of cognitive decline are depicted in @fig-lifespanCognitiveTrajectories.
-An example of the age-crime curve is depicted in @ageCrimeCurve.
+An example of the age-crime curve is depicted in @fig-ageCrimeCurve.
 If we rely solely on normative age-related patterns of cognitive functioning or psychopathology from cross-sectional research, we would miss the great individual differences in people's developmental courses.
 
 ::: {#fig-lifespanCognitiveTrajectories layout="[[53,47]]"}
