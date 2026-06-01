@@ -189,8 +189,8 @@ An example of the age-crime curve is depicted in @fig-externalizingByAge.
 
 However, Moffitt's [-@Moffitt1993] developmental taxonomy of externalizing behavior posits that there are heterogeneous subgroups such that one subgroup exhibits low levels of externalizing behavior across the lifespan, an "adolescence limited" subgroup exhibits high levels of externalizing behavior during adolescence but low levels during childhood and adulthood, and a "life-course persistent" subgroup that exhibits high levels of externalizing behavior across the lifespan; in addition, more recent work has identified a "childhood limited" subgroup that exhibits high levels of externalizing behavior during childhood but low levels after childhood [@Fairchild2013; @Odgers2008].
 The developmental taxonomy is depicted in @fig-developmentalTaxonomy.
-Moffitt's general hypothesis is that life-course persistent externalizing behavior reflects early disruptions in brain development either in utero (resulting from, for example, maternal substance use, poor prenatal nutrition, genetics, or exposure to toxins), during delivery (e.g., delivery complications), or after birth (e.g., child abuse or neglect, or exposure to toxins), in perhaps conjunction with coercive parent–child interactions or other adverse environments.
-<!-- Adolescence-limited externalizing behavior, by contrast, is thought to reflect behavior driven by exposure to deviant peers. -->
+Moffitt's general hypothesis is that life-course persistent externalizing behavior results from early disruptions in brain development either in utero (resulting from, for example, maternal substance use, poor prenatal nutrition, genetics, or exposure to toxins), during delivery (e.g., delivery complications), or after birth (e.g., child abuse or neglect, or exposure to toxins) that lead to impaired cognitive abilities and difficult temperament, in perhaps conjunction with coercive parent–child interactions or other adverse, criminogenic environments.
+<!-- Adolescence-limited externalizing behavior, by contrast, is thought to reflect a more normative—even adaptive—pattern of social behavior that is driven by exposure to deviant peers. -->
 <!-- Childhood-limited externalizing behavior -->
 A cross-sectional study that does not capture the subgroups' different developmental histories would not be not well-positioned to adjudicate whether a particular individual is part of the adolescence-limited versus life-course persistent developmental course [@Moffitt1993].
 
@@ -210,16 +210,16 @@ And these individual differences are crucial to identify the risk and protective
 <!-- Note that the approaches that researchers have largely used to study development (including Petersen et al., 2015 and others) have problems; i.e., they have *attempted* to study development -->
 
 ::: {#fig-externalizingByAge layout-ncol=2}
-![Age-crime curve.](Figures/Sivertsson2024_figure1.png){#fig-ageCrimeCurve fig-alt="The age-crime participation curve from age 9 through 64 in cohort members registered for antisocial and/or criminal behavior in a birth cohort recruited in Stockholm, Sweden (*N* = 4825), based on official crime records."}
+![Age-crime curve (among those who have a record of antisocial or criminal behavior).](Figures/Sivertsson2024_figure1.png){#fig-ageCrimeCurve fig-alt="The age-crime participation curve from age 9 through 64 in cohort members registered for antisocial and/or criminal behavior in a birth cohort recruited in Stockholm, Sweden (*N* = 4825), based on official crime records."}
 
-![Moffitt's [-@Moffitt1993] developmental taxonomy of externalizing behavior.](Figures/developmentalTaxonomy.png){#fig-developmentalTaxonomy fig-alt="Moffitt's [-@Moffitt1993] developmental taxonomy of externalizing behavior, adapted to include the childhood limited subgroup."}
+![Moffitt's [-@Moffitt1993] developmental taxonomy of externalizing behavior, adapted to include a childhood limited subgroup.](Figures/developmentalTaxonomy.png){#fig-developmentalTaxonomy fig-alt="Moffitt's [-@Moffitt1993] developmental taxonomy of externalizing behavior, adapted to include a childhood limited subgroup."}
 
 <!-- ![Heterogeneity of individuals' trajectories of externalizing behavior.](Figures/Petersen2015_adapted.png){#fig-extTrajectories fig-alt="Individuals' (*N* = 585) longitudinal trajectories of externalizing problems from annual assessments using mothers, fathers, teachers, peers, and self-report (at relevant ages)."} -->
 
-**Panel A**: The age-crime participation curve from age 9 through 64 in cohort members registered for antisocial and/or criminal behavior in a birth cohort recruited in Stockholm, Sweden (*N* = 4825), based on official crime records.
+**Panel A**: The age-crime participation curve from age 9 through 64 in cohort members registered for antisocial and/or criminal behavior in a birth cohort recruited in Stockholm, Sweden (*N* = 4825), based on official records.
 The steep peak in crime rate in the adolescent years is similar to the age-crime curve in the United States; however, the steepness of the age-crime curve differs within country across birth cohorts [@Steffensmeier2025].
 (Figure adapted from @Sivertsson2024, Figure 1, p. 7. Sivertsson, F., Carlsson, C., Almquist, Y. B., & Brännström, L. (2024). Offending trajectories from childhood to retirement age: Findings from the Stockholm birth cohort study. *Journal of Criminal Justice*, *91*, 102155. <https://doi.org/10.1016/j.jcrimjus.2024.102155>).
-**Panel B**: Moffitt's [-@Moffitt1993] developmental taxonomy of externalizing behavior, adapted to include the childhood limited subgroup.
+**Panel B**: Moffitt's [-@Moffitt1993] developmental taxonomy of externalizing behavior, adapted to include a childhood limited subgroup.
 <!-- **Panel C**: Individuals' (*N* = 585) longitudinal trajectories of externalizing problems from annual assessments using mothers, fathers, teachers, peers, and self-report (at relevant ages).
 Average trajectory in red.
 (Figure adapted from @Petersen2015, Petersen, I. T., Bates, J. E., Dodge, K. A., Lansford, J. E., & Pettit, G. S. (2015). Describing and predicting developmental profiles of externalizing problems from childhood to adulthood. *Development and Psychopathology*, *27*(3), 791–818. <https://doi.org/10.1017/S0954579414000789>). -->
