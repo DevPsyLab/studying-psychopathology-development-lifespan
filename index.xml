@@ -775,18 +775,18 @@ cognitive skills across lengthy developmental periods.</p>
       et al. 2019</xref>;
       <xref alt="Pavlovich et al. 2026" rid="ref-Pavlovich2026" ref-type="bibr">Pavlovich
       et al. 2026</xref>;
-      <xref alt="Tiego et al. 2023" rid="ref-Tiego2023" ref-type="bibr">Tiego
-      et al. 2023</xref>), making the CBCL and existing measures
-      unsuitable for dimensional research
+      <xref alt="Tiego et al. 2023" rid="ref-Tiego2023" ref-type="bibr"><named-content content-type="nocase">Tiego
+      et al.</named-content> 2023</xref>), making the CBCL and existing
+      measures unsuitable for dimensional research
       (<xref alt="Pavlovich et al. 2026" rid="ref-Pavlovich2026" ref-type="bibr">Pavlovich
       et al. 2026</xref>;
-      <xref alt="Tiego et al. 2023" rid="ref-Tiego2023" ref-type="bibr">Tiego
-      et al. 2023</xref>). Considerable evidence indicates that
-      externalizing problems (and psychopathology, more generally) and
-      their trajectories are best conceptualized dimensionally (or
-      multi-dimensionally), not categorically. Thus, the existing
-      measures are impoverished for studying the full range of
-      individual differences on the externalizing spectrum, which
+      <xref alt="Tiego et al. 2023" rid="ref-Tiego2023" ref-type="bibr"><named-content content-type="nocase">Tiego
+      et al.</named-content> 2023</xref>). Considerable evidence
+      indicates that externalizing problems (and psychopathology, more
+      generally) and their trajectories are best conceptualized
+      dimensionally (or multi-dimensionally), not categorically. Thus,
+      the existing measures are impoverished for studying the full range
+      of individual differences on the externalizing spectrum, which
       prevents subthreshold children who are at risk for impairment from
       being identified. Better identification of subthreshold
       externalizing is critical, in both research and practice, for
@@ -1452,7 +1452,7 @@ cognitive skills across lengthy developmental periods.</p>
         <name><surname>Eaton</surname><given-names>Nicholas R.</given-names></name>
         <name><surname>Kaczkurkin</surname><given-names>Antonia N.</given-names></name>
         <name><surname>Nusslock</surname><given-names>Robin</given-names></name>
-        <name><surname>HiTOP Neurobiological Foundations Work Group</surname></name>
+        <string-name>the HiTOP Neurobiological Foundations Work Group</string-name>
       </person-group>
       <article-title>Precision behavioral phenotyping as a strategy for uncovering the biological correlates of psychopathology</article-title>
       <source>Nature Mental Health</source>
@@ -1547,7 +1547,6 @@ cognitive skills across lengthy developmental periods.</p>
       <source>Annual Review of Criminology</source>
       <year iso-8601-date="2025">2025</year>
       <volume>8</volume>
-      <issue>Volume 8, 2025</issue>
       <uri>https://www.annualreviews.org/content/journals/10.1146/annurev-criminol-111523-122451</uri>
       <pub-id pub-id-type="doi">10.1146/annurev-criminol-111523-122451</pub-id>
       <fpage>239</fpage>
