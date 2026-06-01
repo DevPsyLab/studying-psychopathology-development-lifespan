@@ -190,8 +190,9 @@ An example of the age-crime curve is depicted in @fig-externalizingByAge.
 However, Moffitt's [-@Moffitt1993] developmental taxonomy of externalizing behavior posits that there are heterogeneous subgroups such that one subgroup exhibits low levels of externalizing behavior across the lifespan, an "adolescence limited" subgroup exhibits high levels of externalizing behavior during adolescence but low levels during childhood and adulthood, and a "life-course persistent" subgroup that exhibits high levels of externalizing behavior across the lifespan; in addition, more recent work has identified a "childhood limited" subgroup that exhibits high levels of externalizing behavior during childhood but low levels after childhood [@Fairchild2013; @Odgers2008].
 The developmental taxonomy is depicted in @fig-developmentalTaxonomy.
 Moffitt's general hypothesis is that life-course persistent externalizing behavior results from early disruptions in brain development either in utero (resulting from, for example, maternal substance use, poor prenatal nutrition, genetics, or exposure to toxins), during delivery (e.g., delivery complications), or after birth (e.g., child abuse or neglect, or exposure to toxins) that lead to impaired cognitive abilities and difficult temperament, in perhaps conjunction with coercive parent–child interactions or other adverse, criminogenic environments.
-<!-- Adolescence-limited externalizing behavior, by contrast, is thought to reflect a more normative—even adaptive—pattern of social behavior that is driven by exposure to deviant peers. -->
-<!-- Childhood-limited externalizing behavior -->
+Adolescence-limited externalizing behavior, by contrast, is thought to reflect a more normative—even adaptive—pattern of social behavior that is driven by exposure to deviant peers and a maturity gap.
+Childhood-limited externalizing behavior, though not hypothesized by the original taxonomy, may in some cases reflect recovery and in other cases reflect a shift from externalizing problems into problems in other domains [@Odgers2008].
+It has been hypothesized that both childhood-limited and life-course persistent externalizing behavior may be characterized by high levels of individual-level risk (e.g., genetic and neuropsychological risk), whereas life-course persistent externalizing behavior may be characterized by greater environmental risk [e.g., adversity and trauma\; @Fairchild2013].
 A cross-sectional study that does not capture the subgroups' different developmental histories would not be not well-positioned to adjudicate whether a particular individual is part of the adolescence-limited versus life-course persistent developmental course [@Moffitt1993].
 
 <!-- figure of developmental taxonomy -->
@@ -359,6 +360,7 @@ In particular, there is a mismatch between theory of constructs—including how 
 ### Do Not Adequately Capture Constructs' Change in Behavioral Manifestation Across Development
 
 Given the substantial changes in behavioral manifestation of psychopathology across development, it is important for measures to capture the constructs' changing behavioral manifestation, to stay developmentally relevant and construct valid.
+As noted by @Moffitt1993, "Measures of antisocial behavior should be sensitive to developmental heterogeneity to tap individual differences while allowing for the emergence of new forms of antisocial behavior (e.g., automobile theft) or for the forsaking of old forms (e.g., tantrums)." (p. 694).
 
 However, measures show insufficient differences in which items are assessed at which ages to account for heterotypic continuity.
 For example, the same version of the Child Behavior Checklist (CBCL) spans ages 6–18.
@@ -444,6 +446,8 @@ In sum, although they have been helpful, existing measures are poorly suited to 
 ## Integration Across Multiple Sources
 
 <!-- @DeLosReyes2026 -->
+
+<!-- relevant for informing pervasiveness of behavior across contexts (e.g., home, school) -->
 
 ## Obsolescence of Items and Measures
 
