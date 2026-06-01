@@ -314,7 +314,7 @@ However, more work is needed to developmentally parameterize constructs—to def
 Recent empirical work suggests that it is uncommon for symptoms to change from one symptom to another for a given person at the subsequent measurement occasion [@ApplegateInPress].
 Nevertheless, the authors found that adding new symptoms and subtracting symptoms—other ways that a construct can change in manifestation—were both relatively common.
 Moreover, just because a symptom persists does not mean that the behavioral manifestation of that symptom stays the same for that individual.
-For instance, even if a symptom (e.g., "fighting") persists for an individual, their manifestation of fighting could differ in form, function, or mechanism [@Petersen2024].
+For instance, even if a symptom (e.g., "fighting") persists for an individual, their manifestation of that symptom could differ in form, function, or mechanism [@Petersen2024].
 Thus, as noted by @ApplegateInPress, "future causal theories will need to rest on a more detailed and nuanced description of persistence and change at the level of specific psychological problems."
 
 Moreover, where such theories do indicate changes in behavioral manifestation across development, diagnostic and taxonomic systems do not incorporate these developmental changes.
