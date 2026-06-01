@@ -195,9 +195,6 @@ Childhood-limited externalizing behavior, though not hypothesized by the origina
 It has been hypothesized that both childhood-limited and life-course persistent externalizing behavior may be characterized by high levels of individual-level risk (e.g., genetic and neuropsychological risk), whereas life-course persistent externalizing behavior may be characterized by greater environmental risk [e.g., adversity and trauma\; @Fairchild2013].
 A cross-sectional study that does not capture the subgroups' different developmental histories would not be not well-positioned to adjudicate whether a particular individual is part of the adolescence-limited versus life-course persistent developmental course [@Moffitt1993].
 
-<!-- figure of developmental taxonomy -->
-<!-- Describe hypothesized causes of different trajectory patterns.  -->
-
 The age-crime curve that is based on official police records has key problems [@Moffitt1993].
 First, it misses the developmental course of externalizing behavior that leads up to the commission of crime.
 Second, it is based on only those (criminal) behaviors that are known to official arrest records and does not capture other behaviors the person engaged in that are known to the individual or collateral report by caregivers, teachers, siblings, or peers.
