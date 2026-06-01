@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-05-31">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-01">
 <year>2026</year>
-<month>5</month>
-<day>31</day>
+<month>6</month>
+<day>1</day>
 </pub-date>
 
 
@@ -283,10 +283,14 @@ cognitive skills across lengthy developmental periods.</p>
       </table>
     </table-wrap>
   </fig>
-  <p>Heterogeneity also applies to psychopathology trajectories. An
-  example of the age-crime curve is depicted in
-  <xref alt="Figure 2" rid="fig-ageCrimeCurve">Figure 2</xref>. However,
-  Moffitt’s
+  <p>Heterogeneity also applies to psychopathology trajectories
+  including externalizing and criminal behavior. The age-crime curve
+  depicts the well-known strong association between age and engagement
+  in crime, with crime rates peaking markedly (in many Western
+  countries) in adolescence around ages 15–19. An example of the
+  age-crime curve is depicted in
+  <xref alt="Figure 2" rid="fig-externalizingByAge">Figure 2</xref>.</p>
+  <p>However, Moffitt’s
   (<xref alt="1993" rid="ref-Moffitt1993" ref-type="bibr">1993</xref>)
   developmental taxonomy of externalizing behavior posits that there are
   heterogeneous subgroups such that one subgroup exhibits low levels of
@@ -295,23 +299,64 @@ cognitive skills across lengthy developmental periods.</p>
   adolescence but low levels during childhood and adulthood, and a
   “life-course persistent” subgroup that exhibits high levels of
   externalizing behavior across the lifespan; in addition, more recent
-  work has a “childhood limited” subgroup exhibits high levels of
-  externalizing behavior during childhood but shows low levels after
+  work has identified a “childhood limited” subgroup that exhibits high
+  levels of externalizing behavior during childhood but low levels after
   childhood
   (<xref alt="Fairchild et al. 2013" rid="ref-Fairchild2013" ref-type="bibr">Fairchild
-  et al. 2013</xref>). </p>
+  et al. 2013</xref>;
+  <xref alt="Odgers et al. 2008" rid="ref-Odgers2008" ref-type="bibr">Odgers
+  et al. 2008</xref>). The developmental taxonomy is depicted in
+  <xref alt="Figure 2 (b)" rid="fig-developmentalTaxonomy">Figure 2
+  (b)</xref>. Moffitt’s general hypothesis is that life-course
+  persistent externalizing behavior reflects early disruptions in brain
+  development either in utero (resulting from, for example, maternal
+  substance use, poor prenatal nutrition, genetics, or exposure to
+  toxins), during delivery (e.g., delivery complications), or after
+  birth (e.g., child abuse or neglect, or exposure to toxins), in
+  perhaps conjunction with coercive parent–child interactions or other
+  adverse environments. A cross-sectional study that does not capture
+  the subgroups’ different developmental histories would not be not
+  well-positioned to adjudicate whether a particular individual is part
+  of the adolescence-limited versus life-course persistent developmental
+  course
+  (<xref alt="Moffitt 1993" rid="ref-Moffitt1993" ref-type="bibr">Moffitt
+  1993</xref>).</p>
+  <p>The age-crime curve that is based on official police records has
+  key problems
+  (<xref alt="Moffitt 1993" rid="ref-Moffitt1993" ref-type="bibr">Moffitt
+  1993</xref>). First, it misses the developmental course of
+  externalizing behavior that leads up to the commission of crime.
+  Second, it is based on only those (criminal) behaviors that are known
+  to official arrest records and does not capture other behaviors the
+  person engaged in that are known to the individual or collateral
+  report by caregivers, teachers, siblings, or peers. In a longitudinal
+  study examining the development of externalizing behavior from
+  childhood to adulthood that incorporated ratings of the child’s
+  externalizing behavior from mothers, fathers, teachers, peers, and
+  self-report (at relevant ages), Petersen et al.
+  (<xref alt="2015" rid="ref-Petersen2015" ref-type="bibr">2015</xref>)
+  found that externalizing problems normatively tended to decrease from
+  early childhood to preadolescence, increased during adolescence
+  (peaking around age 17), and decreased from late adolescence to
+  adulthood. However, the trajectories were characterized by marked
+  individual differences—some individuals stayed low, some increased,
+  some decreased, some increased then decreased, and seemingly
+  everything in between. </p>
   <p>In sum, if we rely solely on normative age-related patterns of
   cognitive functioning or psychopathology from cross-sectional
   research, we would miss the great individual differences in people’s
-  developmental courses.</p>
-  <fig id="fig-ageCrimeCurve">
-    <caption><p>Figure 2: The age-crime participation curve from age 9
-    through 64 in cohort members registered for antisocial and/or
-    criminal behavior in a birth cohort recruited in Stockholm, Sweden
-    (<italic>N</italic> = 4825). The steep peak in crime rate in the
+  developmental courses. And these individual differences are crucial to
+  identify the risk and protective mechanisms that explain these
+  differing developmental courses. </p>
+  <fig id="fig-externalizingByAge">
+    <caption><p>Figure 2: <bold>Panel A</bold>: The age-crime
+    participation curve from age 9 through 64 in cohort members
+    registered for antisocial and/or criminal behavior in a birth cohort
+    recruited in Stockholm, Sweden (<italic>N</italic> = 4825), based on
+    official crime records. The steep peak in crime rate in the
     adolescent years is similar to the age-crime curve in the United
-    States; however, the steepness of the age-crime curve differs across
-    birth cohorts
+    States; however, the steepness of the age-crime curve differs within
+    country across birth cohorts
     (<xref alt="Steffensmeier et al. 2025" rid="ref-Steffensmeier2025" ref-type="bibr">Steffensmeier
     et al. 2025</xref>). (Figure adapted from Sivertsson et al.
     (<xref alt="2024" rid="ref-Sivertsson2024" ref-type="bibr">2024</xref>),
@@ -320,8 +365,57 @@ cognitive skills across lengthy developmental periods.</p>
     retirement age: Findings from the Stockholm birth cohort study.
     <italic>Journal of Criminal Justice</italic>, <italic>91</italic>,
     102155.
-    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jcrimjus.2024.102155">https://doi.org/10.1016/j.jcrimjus.2024.102155</ext-link>)</p></caption>
-    <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Sivertsson2024_figure1.png" />
+    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jcrimjus.2024.102155">https://doi.org/10.1016/j.jcrimjus.2024.102155</ext-link>).
+    <bold>Panel B</bold>: Moffitt’s
+    (<xref alt="1993" rid="ref-Moffitt1993" ref-type="bibr">1993</xref>)
+    developmental taxonomy of externalizing behavior, adapted to include
+    the childhood limited subgroup. </p></caption>
+    <table-wrap>
+      <table>
+        <colgroup>
+          <col width="50%" />
+          <col width="50%" />
+        </colgroup>
+        <tbody>
+          <tr>
+            <td align="left"><p specific-use="wrapper">
+              <boxed-text>
+                <fig id="fig-ageCrimeCurve">
+                  <caption><p>(a) Age-crime curve.</p></caption>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Sivertsson2024_figure1.png" />
+                </fig>
+              </boxed-text>
+            </p></td>
+            <td align="left"><p specific-use="wrapper">
+              <boxed-text>
+                <fig id="fig-developmentalTaxonomy">
+                  <caption><p>(b) Moffitt’s
+                  (<xref alt="1993" rid="ref-Moffitt1993" ref-type="bibr">1993</xref>)
+                  developmental taxonomy of externalizing
+                  behavior.</p></caption>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/developmentalTaxonomy.png" />
+                </fig>
+              </boxed-text>
+            </p></td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <table-wrap>
+      <table>
+        <colgroup>
+          <col width="50%" />
+        </colgroup>
+        <tbody>
+          <tr>
+            <td align="left"><p specific-use="wrapper">
+              <boxed-text>
+              </boxed-text>
+            </p></td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
   </fig>
   <p>Third, in a cross-sectional study, any apparent age-related
   differences in a construct could reflect cohort differences instead of
@@ -428,38 +522,53 @@ cognitive skills across lengthy developmental periods.</p>
     mythical creature with the body of a goat that, with development,
     grows the head a lion and then a tail of a snake. Patterson
     (<xref alt="1993" rid="ref-Patterson1993" ref-type="bibr">1993</xref>)
+    and Moffitt
+    (<xref alt="1993" rid="ref-Moffitt1993" ref-type="bibr">1993</xref>)
     argued that externalizing behavior changes in manifestation across
     development such that underlying antisociality is maintained while
     more mature features are added across development. In particular,
     Patterson
     (<xref alt="1993" rid="ref-Patterson1993" ref-type="bibr">1993</xref>)
     noted that some externalizing behaviors wane with age, such as
-    temper tantrams, whereas other externalizing behaviors emerge with
+    temper tantrums, whereas other externalizing behaviors emerge with
     age, including the ability to inflict serious damage or harm with
     violence, burglary, and shoplifting, in addition to problems such as
     academic failure, peer rejection, substance problems, and arrest.
-    These age-differing behaviors show strong stability of individual
-    differences, indicating a consistent underlying construct
-    (<xref alt="Patterson 1993" rid="ref-Patterson1993" ref-type="bibr">Patterson
-    1993</xref>). Others have noted that externalizing problems are
-    often expressed as overt acts in early childhood, such as physical
-    aggression and temper tantrums; whereas externalizing problems are
-    more often expressed later in development as covert and indirect or
-    relational forms of aggression, rule breaking, and substance use
+    Moffitt
+    (<xref alt="1993" rid="ref-Moffitt1993" ref-type="bibr">1993</xref>)
+    noted that externalizing problems may manifest as “biting and
+    hitting at age 4, shoplifting and truancy at age 10, selling drugs
+    and stealing cars at age 16, robbery and rape at age 22, and fraud
+    and child abuse at age 30”, and that the prognosis for individuals
+    who engage in externalizing behavior throughout the life-course
+    includes “drug and alcohol addiction; unsatisfactory employment;
+    unpaid debts; homelessness; drunk driving; violent assault; multiple
+    and unstable relationships; spouse battery; abandoned, neglected, or
+    abused children; and psychiatric illness” (p. 679). In general,
+    externalizing problems are often expressed as overt acts in early
+    childhood, such as physical aggression and temper tantrums; whereas
+    externalizing problems are more often expressed later in development
+    as covert and indirect or relational forms of aggression, rule
+    breaking, and substance use
     (<xref alt="Miller et al. 2009" rid="ref-Miller2009" ref-type="bibr">Miller
     et al. 2009</xref>;
     <xref alt="Petersen et al. 2026" rid="ref-Petersen2026" ref-type="bibr">Petersen
-    et al. 2026</xref>). Consistent with the Developmental Issues
-    Framework
+    et al. 2026</xref>). These age-differing behaviors show strong
+    stability of individual differences, indicating a consistent
+    underlying construct
+    (<xref alt="Moffitt 1993" rid="ref-Moffitt1993" ref-type="bibr">Moffitt
+    1993</xref>;
+    <xref alt="Patterson 1993" rid="ref-Patterson1993" ref-type="bibr">Patterson
+    1993</xref>). Consistent with the Developmental Issues Framework
     (<xref alt="Sroufe 2016" rid="ref-Sroufe2016" ref-type="bibr">Sroufe
     2016</xref>), the changing behavioral expression of externalizing
     problems likely reflects a combination of time-varying genetic and
     environmental factors, such as school entry transition, in
-    combination with varying developmental tasks and greater
-    experience-dependent capacity
+    combination with varying developmental tasks, different
+    opportunities, and greater experience-dependent capacity
     (<xref alt="Petersen et al. 2020" rid="ref-Petersen2020" ref-type="bibr">Petersen
-    et al. 2020</xref>). In addition to externalizing problems, both
-    internalizing
+    et al. 2020</xref>).</p>
+    <p>In addition to externalizing problems, both internalizing
     (<xref alt="Petersen et al. 2018" rid="ref-Petersen2018" ref-type="bibr">Petersen
     et al. 2018</xref>;
     <xref alt="Weems 2008" rid="ref-Weems2008" ref-type="bibr">Weems
@@ -527,7 +636,7 @@ cognitive skills across lengthy developmental periods.</p>
     individuals’ development of psychopathology across the lifespan
     represent method problems—namely, problems with existing assessments
     and how those assessments are used, based on traditional scoring
-    systems. There is a mismatch metween theory and method. In
+    systems. There is a mismatch between theory and method. In
     particular, there is a mismatch between theory of
     constructs—including how a construct manifests behaviorally—and the
     methods used to assess the construct and to evaluate people’s level
@@ -1475,6 +1584,26 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1111/jcpp.12102</pub-id>
       <fpage>924</fpage>
       <lpage>940</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Petersen2015">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Petersen</surname><given-names>Isaac T.</given-names></name>
+        <name><surname>Bates</surname><given-names>John E.</given-names></name>
+        <name><surname>Dodge</surname><given-names>Kenneth A.</given-names></name>
+        <name><surname>Lansford</surname><given-names>Jennifer E.</given-names></name>
+        <name><surname>Pettit</surname><given-names>Gregory S.</given-names></name>
+      </person-group>
+      <article-title>Describing and predicting developmental profiles of externalizing problems from childhood to adulthood</article-title>
+      <source>Development and Psychopathology</source>
+      <year iso-8601-date="2015">2015</year>
+      <volume>27</volume>
+      <issue>3</issue>
+      <uri>http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=9336620&amp;fulltextType=RA&amp;fileId=S0954579414000789</uri>
+      <pub-id pub-id-type="doi">10.1017/S0954579414000789</pub-id>
+      <fpage>791</fpage>
+      <lpage>818</lpage>
     </element-citation>
   </ref>
 </ref-list>
