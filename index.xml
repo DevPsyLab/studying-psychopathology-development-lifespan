@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-01">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-02">
 <year>2026</year>
 <month>6</month>
-<day>1</day>
+<day>2</day>
 </pub-date>
 
 
@@ -385,12 +385,23 @@ cognitive skills across lengthy developmental periods.</p>
     <bold>Panel B</bold>: Moffitt’s
     (<xref alt="1993" rid="ref-Moffitt1993" ref-type="bibr">1993</xref>)
     developmental taxonomy of externalizing behavior, adapted to include
-    a childhood limited subgroup. </p></caption>
+    a childhood limited subgroup. <bold>Panel C</bold>: Individuals’
+    (<italic>N</italic> = 585) longitudinal trajectories of
+    externalizing problems from childhood to adulthood based on annual
+    assessments of mother-, father-, teacher-, peer-, and self-report
+    (at relevant ages). Average trajectory in red. (Figure adapted from
+    Petersen et al.
+    (<xref alt="2015" rid="ref-Petersen2015" ref-type="bibr">2015</xref>),
+    Petersen, I. T., Bates, J. E., Dodge, K. A., Lansford, J. E., &amp;
+    Pettit, G. S. (2015). Describing and predicting developmental
+    profiles of externalizing problems from childhood to adulthood.
+    <italic>Development and Psychopathology</italic>,
+    <italic>27</italic>(3), 791–818.
+    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/S0954579414000789">https://doi.org/10.1017/S0954579414000789</ext-link>).</p></caption>
     <table-wrap>
       <table>
         <colgroup>
-          <col width="50%" />
-          <col width="50%" />
+          <col width="100%" />
         </colgroup>
         <tbody>
           <tr>
@@ -404,6 +415,18 @@ cognitive skills across lengthy developmental periods.</p>
                 </fig>
               </boxed-text>
             </p></td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <table-wrap>
+      <table>
+        <colgroup>
+          <col width="50%" />
+          <col width="50%" />
+        </colgroup>
+        <tbody>
+          <tr>
             <td align="left"><p specific-use="wrapper">
               <boxed-text>
                 <fig id="fig-developmentalTaxonomy">
@@ -416,19 +439,13 @@ cognitive skills across lengthy developmental periods.</p>
                 </fig>
               </boxed-text>
             </p></td>
-          </tr>
-        </tbody>
-      </table>
-    </table-wrap>
-    <table-wrap>
-      <table>
-        <colgroup>
-          <col width="50%" />
-        </colgroup>
-        <tbody>
-          <tr>
             <td align="left"><p specific-use="wrapper">
               <boxed-text>
+                <fig id="fig-extTrajectories">
+                  <caption><p>(c) Heterogeneity of individuals’
+                  trajectories of externalizing behavior.</p></caption>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2015_adapted.png" />
+                </fig>
               </boxed-text>
             </p></td>
           </tr>
