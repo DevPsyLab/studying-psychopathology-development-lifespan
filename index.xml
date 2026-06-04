@@ -852,8 +852,8 @@ cognitive skills across lengthy developmental periods.</p>
 </sec>
 <sec id="solution-a-developmental-scaling-framework">
   <title>Solution: A Developmental Scaling Framework</title>
-  <p>A conceptual depiction of an example construct-valid item design is
-  in
+  <p>A conceptual depiction of an example construct-valid item design
+  spanning infancy to adulthood is in
   <xref alt="Figure 4" rid="fig-constructValidItemDesign">Figure 4</xref>.
   In the construct-valid item design, some items represent the core of
   the phenotype and are assessed across all ages, whereas other items
@@ -870,15 +870,21 @@ cognitive skills across lengthy developmental periods.</p>
   assessing addition and subtraction, and so on.</p>
   <fig id="fig-constructValidItemDesign">
     <caption><p>Figure 4: Conceptual depiction of a construct-valid item
-    design. Some items (“Core”, in green) represent the core of the
-    phenotype and are assessed across all ages. Some items (in varying
-    shades of brown) are age-specific and are assessed at only one or a
-    few ages. However, some of the items assessed at a given age are
-    shared with those assessed at adjacent ages, to facilitate linking
-    the scores across ages. For instance, item set
+    design from infancy to adulthood. The age(s) at which an item set is
+    assessed are represented by the letter <monospace>x</monospace> and
+    a colored box. Some items (“Core”, in green) represent the core of
+    the phenotype and are assessed across all ages. Some items (in
+    varying shades of brown) are age-specific and are assessed at only
+    one or a few ages. However, some of the items assessed at a given
+    age are shared with those assessed at adjacent ages, to facilitate
+    linking the scores across ages. For instance, item set
     <monospace>f</monospace> can be used to help link scores from age 6
     to those at age 5, and item set <monospace>g</monospace> can be used
-    to help link scores from age 6 to those at age 7.</p></caption>
+    to help link scores from age 6 to those at age 7. Hypothetically,
+    items could be assessed for as many or as few years as desired—as
+    long as the items are construct valid for those ages and there
+    enough common items between adjacent ages for linking scores across
+    ages.</p></caption>
     <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/constructValidItemDesign.png" />
   </fig>
 </sec>
