@@ -416,20 +416,22 @@ In sum, although they have been helpful, existing measures are poorly suited to 
 
 # Solution: A Developmental Scaling Framework
 
-A conceptual depiction of an example construct-valid item design is in @fig-constructValidItemDesign.
+A conceptual depiction of an example construct-valid item design spanning infancy to adulthood is in @fig-constructValidItemDesign.
 In the construct-valid item design, some items represent the core of the phenotype and are assessed across all ages, whereas other items are age-specific.
 Despite some age-specific items, some common items are assessed at adjacent ages, which help serve as anchor items for linking the scores across the adjacent ages.
 The use of overlapping yet distinct items is widely used in educational testing to help link individuals' scores across grades, and is called vertical scaling because the item sets appear to form a line moving upward (see @fig-constructValidItemDesign).
 For example, for a standardized test of math ability, Kindergartners may receive items assessing counting, 1st graders may receive items assessing counting and addition, 2nd graders may receive items assessing addition and subtraction, and so on.
 
 ::: {#fig-constructValidItemDesign}
-![](Figures/constructValidItemDesign.png){width=100% fig-alt="Conceptual depiction of a construct-valid item design."}
+![](Figures/constructValidItemDesign.png){width=100% fig-alt="Conceptual depiction of a construct-valid item design from infancy to adulthood."}
 
-Conceptual depiction of a construct-valid item design.
+Conceptual depiction of a construct-valid item design from infancy to adulthood.
+The age(s) at which an item set is assessed are represented by the letter `x` and a colored box.
 Some items ("Core", in green) represent the core of the phenotype and are assessed across all ages.
 Some items (in varying shades of brown) are age-specific and are assessed at only one or a few ages.
 However, some of the items assessed at a given age are shared with those assessed at adjacent ages, to facilitate linking the scores across ages.
 For instance, item set `f` can be used to help link scores from age 6 to those at age 5, and item set `g` can be used to help link scores from age 6 to those at age 7.
+Hypothetically, items could be assessed for as many or as few years as desired—as long as the items are construct valid for those ages and there enough common items between adjacent ages for linking scores across ages.
 :::
 
 # Other Key Challenges to Address
