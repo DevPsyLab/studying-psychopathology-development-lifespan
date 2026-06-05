@@ -202,8 +202,7 @@ Longitudinal work examining informant report of children's behavior allows estim
 For instance, in a longitudinal study examining the development of externalizing behavior from childhood to adulthood that incorporated ratings of the child's externalizing behavior from mothers, fathers, teachers, peers, and self-report (at relevant ages), @Petersen2015 found that externalizing problems normatively tended to decrease from early childhood to preadolescence, increased during adolescence (peaking around age 17), and decreased from late adolescence to adulthood.
 
 Since @Moffitt1993 proposed the developmental taxonomy of externalizing behavior, work has examined individual differences in externalizing trajectories to determine whether they are best represented by categories—i.e., taxa such as adolescence-limited, life-course persistent, etc.—or dimensionally.
-Findings have consistently shown that variation in externalizing trajectories is better represented dimensionally than with categories [@Fairchild2013; @Walters2011; @Walters2012; @Walters2013; @Walters2015].
-<!-- However, trajectories represent dimensional differences etc. -->
+Findings have consistently shown that variation in externalizing trajectories is better represented dimensionally than with categories [@Fairchild2013; @Walters2011; @Walters2012; @Walters2013; @Walters2015], suggesting that differences between people in their developmental course of externalizing behavior appear to reflect differences in degree rather than kind (i.e., quantitative differences rather than qualitative differences).
 For example, the trajectories in @Petersen2015 were characterized by marked individual differences—some individuals stayed low, some increased, some decreased, some increased then decreased, and seemingly everything in between.
 The heterogeneous trajectories of externalizing problems are depicted in @fig-extTrajectories.
 
@@ -245,6 +244,8 @@ However, even cross-sectional work spanning the lifespan is not often conducted.
 The focal problem examined in this paper is that, despite calls to do so [@DeLosReyes2026], the field has not adequately studied individuals' development of psychopathology across the lifespan, instead taking a piecewise approach to development.
 The piecewise approach to development limits our understanding of lifespan development and the origins of psychopathology.
 
+A modest number of longitudinal studies have followed people for lengthy developmental periods.
+
 <!-- Describe findings (and limitations) from existing studies that have examined psychopathology or other constructs across the lifespan. -->
 <!-- Fels Longitudinal Study -->
 <!-- British 1946 Birth Cohort, aka the Medical Research Council (MRC) National Survey of Health and Development (NSHD) -->
@@ -262,6 +263,15 @@ The piecewise approach to development limits our understanding of lifespan devel
 <!-- Long-term externalizing studies: -->
 <!-- Studies cited in Petersen et al. (2015): -->
 <!-- Stockholm birth cohort study: Sivertsson, F., Carlsson, C., Almquist, Y. B., & Brännström, L. (2024). Offending trajectories from childhood to retirement age: Findings from the Stockholm birth cohort study. Journal of Criminal Justice, 91, 102155. https://doi.org/https://doi.org/10.1016/j.jcrimjus.2024.102155 -->
+
+## General Longitudinal Studies
+
+The Fels Longitudinal Study [@Roche1992] was a cohort-sequential study lasting from 1929 to 2018 that recruited 10–20 newborn infants each year and followed them over time, eventually following some until age 76 [@Chumlea2009].
+The study collected data on physical growth—among other constructs—which had key impacts and formed the basis of pediatric growth charts.
+
+## Longitudinal Studies of Psychopatholoy
+
+However, as we will describe, these lengthy longitudinal studies of psychopathology [e.g., @Odgers2008]—including our own [@Petersen2015]—have important limitations in (a) how they assessed psychopathology constructs across development and (b) how they estimated people's scores on those constructs over time that prevent strong inferences regarding individuals' change over time.
 
 # Reasons for the Problem
 
