@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-06">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-08">
 <year>2026</year>
 <month>6</month>
-<day>6</day>
+<day>8</day>
 </pub-date>
 
 
@@ -534,12 +534,36 @@ cognitive skills across lengthy developmental periods.</p>
     that recruited 10–20 newborn infants each year and followed them
     over time, eventually following some until age 76
     (<xref alt="Chumlea et al. 2009" rid="ref-Chumlea2009" ref-type="bibr">Chumlea
-    et al. 2009</xref>). The study collected data on physical
-    growth—among other constructs—which had key impacts and formed the
-    basis of pediatric growth charts.</p>
+    et al. 2009</xref>). The study collected data on participants’ body
+    composition, including height and weight, which had key impacts and
+    formed the basis of pediatric growth charts. In addition, the study
+    collected information on the participants’ behavior—and other
+    constructs—in childhood (based on observation) and adulthood (based
+    on interview). These rich data allowed researchers to examine the
+    extent of personality continuity and change from childhood to
+    adulthood, and the extent to which mothers may influence the
+    personality development of the child
+    (<xref alt="Moss and Kagan 1964" rid="ref-Moss1964" ref-type="bibr">Moss
+    and Kagan 1964</xref>). On the basis of predictive associations from
+    childhood to adulthood in the Fels Longitudinal Study, Kagan and
+    Moss
+    (<xref alt="1962" rid="ref-Kagan1962" ref-type="bibr">1962</xref>)
+    noted that girls who had frequent tantrums at 6 to 10 years of age
+    tended to become women who were more motivated in school, less
+    dependent on others, and more masculine in their interests than
+    women who had fewer tantrums as children. They interpreted the
+    different behaviors at different ages as stemming from the same
+    psychological process: a tendency to avoid adopting “female sex-role
+    standards” (p. 200). Kagan described such findings, when
+    psychological processes remain the same but the form of behavior
+    changes, as examples of heterotypic continuity
+    (<xref alt="Kagan 1969" rid="ref-Kagan1969" ref-type="bibr">Kagan
+    1969</xref>,
+    <xref alt="1971" rid="ref-Kagan1971" ref-type="bibr">1971</xref>,
+    <xref alt="1980" rid="ref-Kagan1980" ref-type="bibr">1980</xref>).</p>
   </sec>
-  <sec id="longitudinal-studies-of-psychopatholoy">
-    <title>Longitudinal Studies of Psychopatholoy</title>
+  <sec id="longitudinal-studies-of-psychopathology">
+    <title>Longitudinal Studies of Psychopathology</title>
     <p>Longitudinal studies such as these have had immense impacts.
     However, as we will describe, these lengthy longitudinal studies of
     psychopathology (e.g.,
@@ -2401,6 +2425,80 @@ cognitive skills across lengthy developmental periods.</p>
       <source>Growth, maturation, and body composition: The Fels Longitudinal Study 1929–1991</source>
       <publisher-name>Cambridge University Press</publisher-name>
       <year iso-8601-date="1992">1992</year>
+    </element-citation>
+  </ref>
+  <ref id="ref-Moss1964">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Moss</surname><given-names>Howard A.</given-names></name>
+        <name><surname>Kagan</surname><given-names>Jerome</given-names></name>
+      </person-group>
+      <article-title>Report on personality consistency and change from the Fels Longitudinal Study</article-title>
+      <source>Vita Humana</source>
+      <year iso-8601-date="1964">1964</year>
+      <volume>7</volume>
+      <issue>2</issue>
+      <uri>http://www.jstor.org/stable/26761430</uri>
+      <fpage>127</fpage>
+      <lpage>138</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Kagan1962">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name><surname>Kagan</surname><given-names>Jerome</given-names></name>
+        <name><surname>Moss</surname><given-names>Howard A</given-names></name>
+      </person-group>
+      <source>Birth to maturity: A study in psychological development</source>
+      <publisher-name>Wiley</publisher-name>
+      <publisher-loc>New York, NY, US</publisher-loc>
+      <year iso-8601-date="1962">1962</year>
+    </element-citation>
+  </ref>
+  <ref id="ref-Kagan1969">
+    <element-citation publication-type="chapter">
+      <person-group person-group-type="author">
+        <name><surname>Kagan</surname><given-names>Jerome</given-names></name>
+      </person-group>
+      <article-title>The three faces of continuity in human development</article-title>
+      <source>Handbook of socialization theory and research</source>
+      <person-group person-group-type="editor">
+        <name><surname>Goslin</surname><given-names>David A.</given-names></name>
+      </person-group>
+      <publisher-name>Rand McNally</publisher-name>
+      <publisher-loc>Chicago, IL, US</publisher-loc>
+      <year iso-8601-date="1969">1969</year>
+      <fpage>983</fpage>
+      <lpage>1002</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Kagan1971">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name><surname>Kagan</surname><given-names>Jerome</given-names></name>
+      </person-group>
+      <source>Change and continuity in infancy</source>
+      <publisher-name>Wiley</publisher-name>
+      <publisher-loc>New York, NY, US</publisher-loc>
+      <year iso-8601-date="1971">1971</year>
+    </element-citation>
+  </ref>
+  <ref id="ref-Kagan1980">
+    <element-citation publication-type="chapter">
+      <person-group person-group-type="author">
+        <name><surname>Kagan</surname><given-names>Jerome</given-names></name>
+      </person-group>
+      <article-title>Perspectives on continuity</article-title>
+      <source>Constancy and change in human development</source>
+      <person-group person-group-type="editor">
+        <name><surname>Brim Jr.</surname><given-names>Orville G.</given-names></name>
+        <name><surname>Kagan</surname><given-names>Jerome</given-names></name>
+      </person-group>
+      <publisher-name>Harvard University Press</publisher-name>
+      <publisher-loc>Cambridge, MA, US</publisher-loc>
+      <year iso-8601-date="1980">1980</year>
+      <fpage>26</fpage>
+      <lpage>74</lpage>
     </element-citation>
   </ref>
 </ref-list>
