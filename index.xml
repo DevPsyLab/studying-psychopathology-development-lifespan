@@ -1031,6 +1031,17 @@ cognitive skills across lengthy developmental periods.</p>
     </sec>
     <sec id="period-and-cohort-effects">
       <title>Period and Cohort Effects</title>
+      <p>Various types of cross-sectional and longitudinal designs are
+      depicted in
+      <xref alt="Figure 5" rid="fig-longitudinalDesigns">Figure 5</xref>.</p>
+      <fig id="fig-longitudinalDesigns">
+        <caption><p>Figure 5: Research Designs by Time Of Measurement
+        and Cohort. Values in the cells are ages of the participants.
+        Dashed line indicates different participants were assessed at
+        each time of measurement. From Petersen
+        (<xref alt="2026" rid="ref-PetersenPrinciplesPsychAssessment" ref-type="bibr">2026</xref>).</p></caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/longitudinalDesigns.png" />
+      </fig>
     </sec>
     <sec id="measurement-error">
       <title>Measurement Error</title>
@@ -2500,6 +2511,18 @@ cognitive skills across lengthy developmental periods.</p>
       <year iso-8601-date="1980">1980</year>
       <fpage>26</fpage>
       <lpage>74</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-PetersenPrinciplesPsychAssessment">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name><surname>Petersen</surname><given-names>Isaac T.</given-names></name>
+      </person-group>
+      <source>Principles of psychological assessment: With applied examples in R</source>
+      <publisher-name>University of Iowa Libraries</publisher-name>
+      <year iso-8601-date="2026">2026</year>
+      <isbn>978-0-9840378-2-7</isbn>
+      <pub-id pub-id-type="doi">10.25820/work.007199</pub-id>
     </element-citation>
   </ref>
 </ref-list>
