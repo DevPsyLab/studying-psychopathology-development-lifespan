@@ -466,12 +466,12 @@ Hypothetically, items could be assessed for as many or as few years as desiredâ€
 Various types of cross-sectional and longitudinal designs are depicted in @fig-longitudinalDesigns.
 
 ::: {#fig-longitudinalDesigns}
-![](Figures/longitudinalDesigns.png){width=100% fig-alt="Research Designs by Time Of Measurement and Cohort. Values in the cells are ages of the participants. Dashed line indicates different participants were assessed at each time of measurement. From @PetersenPrinciplesPsychAssessment."}
+![](Figures/longitudinalDesigns.png){width=100% fig-alt="Research Designs by Time Of Measurement and Cohort"}
 
 Research Designs by Time Of Measurement and Cohort.
 Values in the cells are ages of the participants.
 Dashed line indicates different participants were assessed at each time of measurement.
-From @PetersenPrinciplesPsychAssessment.
+(Figure reprinted from @PetersenPrinciplesPsychAssessment, Petersen, I. T. (2026). *Principles of psychological assessment: With applied examples in R*. University of Iowa Libraries. <https://doi.org/10.25820/work.007199>)
 :::
 
 ### Measurement Error
