@@ -266,7 +266,7 @@ A modest number of longitudinal studies have followed people for lengthy develop
 
 ## General Longitudinal Studies
 
-The Fels Longitudinal Study [@Roche1992] was a cohort-sequential study lasting from 1929 to 2018 that recruited 10–20 newborn infants each year and followed them over time, eventually following some until age 76 [@Chumlea2009].
+The Fels Longitudinal Study [@Roche1992] was a cohort-sequential study lasting from 1929 to 2018 that recruited 10–20 pregnant mothers each year from the Yellow Springs, Ohio area, and followed their newborns over time, eventually following children until age 76 [@Chumlea2009].
 The study collected data on participants' body composition, including height and weight, which had key impacts and formed the basis of pediatric growth charts.
 In addition, the study collected information on the participants' behavior—and other constructs—in childhood (based on observation) and adulthood (based on interview).
 These rich data allowed researchers to examine the extent of personality continuity and change from childhood to adulthood, and the extent to which mothers may influence the personality development of the child [@Moss1964].
