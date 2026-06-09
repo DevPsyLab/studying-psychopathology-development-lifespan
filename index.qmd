@@ -247,7 +247,6 @@ The piecewise approach to development limits our understanding of lifespan devel
 A modest number of longitudinal studies have followed people for lengthy developmental periods.
 
 <!-- Describe findings (and limitations) from existing studies that have examined psychopathology or other constructs across the lifespan. -->
-<!-- Fels Longitudinal Study -->
 <!-- British 1946 Birth Cohort, aka the Medical Research Council (MRC) National Survey of Health and Development (NSHD) -->
 
 <!-- Long-term studies: -->
@@ -266,7 +265,7 @@ A modest number of longitudinal studies have followed people for lengthy develop
 
 ## General Longitudinal Studies
 
-The Fels Longitudinal Study [@Roche1992] was a cohort-sequential study lasting from 1929 to 2018 that recruited 10–20 pregnant mothers each year from the Yellow Springs, Ohio area, and followed their newborns over time, eventually following children until age 76 [@Chumlea2009].
+The Fels Longitudinal Study [@Roche1992] was a cohort-sequential study lasting from 1929 to 2018 that recruited 10–20 pregnant mothers each year from the Yellow Springs, Ohio area, and followed their newborns over time, eventually accruing over 1,200 child participants and following them to older adulthood [e.g., age 76\; @Chumlea2009].
 The study collected data on participants' body composition, including height and weight, which had key impacts and formed the basis of pediatric growth charts.
 In addition, the study collected information on the participants' behavior—and other constructs—in childhood (based on observation) and adulthood (based on interview).
 These rich data allowed researchers to examine the extent of personality continuity and change from childhood to adulthood, and the extent to which mothers may influence the personality development of the child [@Moss1964].
@@ -275,6 +274,10 @@ They interpreted the different behaviors at different ages as stemming from the 
 Kagan described such findings, when psychological processes remain the same but the form of behavior changes, as examples of heterotypic continuity [@Kagan1969; @Kagan1971; @Kagan1980].
 
 ## Longitudinal Studies of Psychopathology
+
+The Dunedin Multidisciplinary Health and Development Study is an ongoing birth cohort study that started in 1975 and recruited 1,037 3-years-old children in Dunedin, New Zealand [who were born in 1972–1973\; @Poulton2015].
+It has followed participants to age 52 and includes data on a wide range of health and behavior constructs.
+The study has yielded important insights including that children's self-control is more important than socioeconomic status or IQ in predicting their health, wealth, and crime in adulthood [@Moffitt2011], a general psychopathology factor (p factor) may account for the strong covariance among psychological disorders [@Caspi2014], that mental disorders have earlier developmental origins [@Poulton2015], a person's mental disorder tends to shift from one disorder to other disorders over the life course [@Caspi2020], and cross-sectional (i.e., retrospective) studies grossly underestimate lifetime prevalence of psychological disorders [compared to prospective longitudinal studies\; @Schaefer2017].
 
 Longitudinal studies such as these have had immense impacts.
 However, as we will describe, these lengthy longitudinal studies of psychopathology [e.g., @Odgers2008]—including our own [@Petersen2015]—have important limitations in (a) how they assessed psychopathology constructs across development and (b) how they estimated people's scores on those constructs over time that prevent strong inferences regarding individuals' change over time.
