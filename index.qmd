@@ -141,6 +141,8 @@ citation:
 
 ***NOTE: this manuscript is in progress of being drafted—it is incomplete.***
 
+<!-- Placeholder for quote from upcoming "70 Up" -->
+
 When entrenched, psychopathology is costly and difficult to treat [@Insel2008; @Wakschlag2019].
 Understanding its developmental origins is therefore crucial for preventing later, more severe psychopathology.
 Developmental science seeks to build a bridge that spans the lifespan—from infancy to older adulthood—and not just transitory periods in people's lives.
@@ -250,13 +252,13 @@ A modest number of longitudinal studies have followed people for lengthy develop
 <!-- British 1946 Birth Cohort, aka the Medical Research Council (MRC) National Survey of Health and Development (NSHD) -->
 
 <!-- Long-term studies: -->
-<!-- Dunedin Multidisciplinary Health and Development Study -->
-<!-- Harvard Study of Adult Development -->
 <!-- Framingham Heart Study -->
 <!-- Minnesota Longitudinal Study -->
 <!-- Add Health -->
 <!-- NICHD SECCYD -->
 <!-- ALSPAC -->
+<!-- British birth cohort studies: NSHD, NCDS, BCS70, MCS -->
+<!-- Isle of Wight Study -->
 <!-- CDP -->
 
 <!-- Long-term externalizing studies: -->
@@ -273,13 +275,21 @@ On the basis of predictive associations from childhood to adulthood in the Fels 
 They interpreted the different behaviors at different ages as stemming from the same psychological process: a tendency to avoid adopting "female sex-role standards" (p. 200).
 Kagan described such findings, when psychological processes remain the same but the form of behavior changes, as examples of heterotypic continuity [@Kagan1969; @Kagan1971; @Kagan1980].
 
+Another longitudinal study is the Harvard Study of Adult Development, which consists of the Grant Study [@Vaillant2012] and the Glueck Study [@Glueck1950].
+The Grant Study started in 1938 and recuited 268 White men from the Harvard classes of 1939–1944 at ages 18–19, and has followed them into their mid-90s.
+The Glueck Study started in 1940 and recruited 456 11–16-year-old boys who were living in poor, high-crime inner-city neighborhoods in Boston, and has followed them into their 80s.
+One the key findings from the Harvard Study of Adult Development, summarized in a Harvard Gazette article [@Mineo2017], is the importance of close relationships for healthy aging:
+"Close relationships, more than money or fame, are what keep people happy throughout their lives, the study revealed.
+Those ties protect people from life's discontents, help to delay mental and physical decline, and are better predictors of long and happy lives than social class, IQ, or even genes...people's level of satisfaction with their relationships at age 50 was a better predictor of physical health than their cholesterol levels were."
+
 ## Longitudinal Studies of Psychopathology
 
-The Dunedin Multidisciplinary Health and Development Study is an ongoing birth cohort study that started in 1975 and recruited 1,037 3-years-old children in Dunedin, New Zealand [who were born in 1972–1973\; @Poulton2015].
+The Dunedin Multidisciplinary Health and Development Study is an ongoing birth cohort study that started in 1975 and recruited 1,037 3-year-old children in Dunedin, New Zealand [who were born in 1972–1973\; @Poulton2015].
 It has followed participants to age 52 and includes data on a wide range of health and behavior constructs.
 The study has yielded important insights including that children's self-control is more important than socioeconomic status or IQ in predicting their health, wealth, and crime in adulthood [@Moffitt2011], a general psychopathology factor (p factor) may account for the strong covariance among psychological disorders [@Caspi2014], that mental disorders have earlier developmental origins [@Poulton2015], a person's mental disorder tends to shift from one disorder to other disorders over the life course [@Caspi2020], and cross-sectional (i.e., retrospective) studies grossly underestimate lifetime prevalence of psychological disorders [compared to prospective longitudinal studies\; @Schaefer2017].
 
 Longitudinal studies such as these have had immense impacts.
+Some of these studies have even followed children of those children who were initially recruited.
 However, as we will describe, these lengthy longitudinal studies of psychopathology [e.g., @Odgers2008]—including our own [@Petersen2015]—have important limitations in (a) how they assessed psychopathology constructs across development and (b) how they estimated people's scores on those constructs over time that prevent strong inferences regarding individuals' change over time.
 
 # Reasons for the Problem
