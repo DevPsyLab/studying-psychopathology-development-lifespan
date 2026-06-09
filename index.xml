@@ -563,12 +563,34 @@ cognitive skills across lengthy developmental periods.</p>
     1969</xref>,
     <xref alt="1971" rid="ref-Kagan1971" ref-type="bibr">1971</xref>,
     <xref alt="1980" rid="ref-Kagan1980" ref-type="bibr">1980</xref>).</p>
+    <p>Another longitudinal study is the Harvard Study of Adult
+    Development, which consists of the Grant Study
+    (<xref alt="Vaillant 2012" rid="ref-Vaillant2012" ref-type="bibr">Vaillant
+    2012</xref>) and the Glueck Study
+    (<xref alt="Glueck and Glueck 1950" rid="ref-Glueck1950" ref-type="bibr">Glueck
+    and Glueck 1950</xref>). The Grant Study started in 1938 and
+    recuited 268 White men from the Harvard classes of 1939–1944 at ages
+    18–19, and has followed them into their mid-90s. The Glueck Study
+    started in 1940 and recruited 456 11–16-year-old boys who were
+    living in poor, high-crime inner-city neighborhoods in Boston, and
+    has followed them into their 80s. One the key findings from the
+    Harvard Study of Adult Development, summarized in a Harvard Gazette
+    article
+    (<xref alt="Mineo 2017" rid="ref-Mineo2017" ref-type="bibr">Mineo
+    2017</xref>), is the importance of close relationships for healthy
+    aging: “Close relationships, more than money or fame, are what keep
+    people happy throughout their lives, the study revealed. Those ties
+    protect people from life’s discontents, help to delay mental and
+    physical decline, and are better predictors of long and happy lives
+    than social class, IQ, or even genes…people’s level of satisfaction
+    with their relationships at age 50 was a better predictor of
+    physical health than their cholesterol levels were.”</p>
   </sec>
   <sec id="longitudinal-studies-of-psychopathology">
     <title>Longitudinal Studies of Psychopathology</title>
     <p>The Dunedin Multidisciplinary Health and Development Study is an
     ongoing birth cohort study that started in 1975 and recruited 1,037
-    3-years-old children in Dunedin, New Zealand (who were born in
+    3-year-old children in Dunedin, New Zealand (who were born in
     1972–1973;
     <xref alt="Poulton et al. 2015" rid="ref-Poulton2015" ref-type="bibr">Poulton
     et al. 2015</xref>). It has followed participants to age 52 and
@@ -591,9 +613,10 @@ cognitive skills across lengthy developmental periods.</p>
     disorders (compared to prospective longitudinal studies;
     <xref alt="Schaefer et al. 2017" rid="ref-Schaefer2017" ref-type="bibr">Schaefer
     et al. 2017</xref>).</p>
-    <p>Longitudinal studies such as these have had immense impacts.
-    However, as we will describe, these lengthy longitudinal studies of
-    psychopathology (e.g.,
+    <p>Longitudinal studies such as these have had immense impacts. Some
+    of these studies have even followed children of those children who
+    were initially recruited. However, as we will describe, these
+    lengthy longitudinal studies of psychopathology (e.g.,
     <xref alt="Odgers et al. 2008" rid="ref-Odgers2008" ref-type="bibr">Odgers
     et al. 2008</xref>)—including our own
     (<xref alt="Petersen et al. 2015" rid="ref-Petersen2015" ref-type="bibr">Petersen
@@ -2681,6 +2704,37 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2020.3221</pub-id>
       <fpage>e203221</fpage>
       <lpage>e203221</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Vaillant2012">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name><surname>Vaillant</surname><given-names>George E.</given-names></name>
+      </person-group>
+      <source>Triumphs of experience: The men of the Harvard Grant Study</source>
+      <publisher-name>Harvard University Press</publisher-name>
+      <year iso-8601-date="2012">2012</year>
+    </element-citation>
+  </ref>
+  <ref id="ref-Glueck1950">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name><surname>Glueck</surname><given-names>Sheldon</given-names></name>
+        <name><surname>Glueck</surname><given-names>Eleanor</given-names></name>
+      </person-group>
+      <source>Unraveling juvenile delinquency</source>
+      <publisher-name>Harvard University Press</publisher-name>
+      <year iso-8601-date="1950">1950</year>
+    </element-citation>
+  </ref>
+  <ref id="ref-Mineo2017">
+    <element-citation>
+      <person-group person-group-type="author">
+        <name><surname>Mineo</surname><given-names>Liz</given-names></name>
+      </person-group>
+      <article-title>Good genes are nice, but joy is better</article-title>
+      <year iso-8601-date="2017">2017</year>
+      <uri>https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/ (archived at https://perma.cc/V7NE-2FTZ)</uri>
     </element-citation>
   </ref>
 </ref-list>
