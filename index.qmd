@@ -265,7 +265,11 @@ A modest number of longitudinal studies have followed people for lengthy develop
 <!-- Studies cited in Petersen et al. (2015): -->
 <!-- Stockholm birth cohort study: Sivertsson, F., Carlsson, C., Almquist, Y. B., & Brännström, L. (2024). Offending trajectories from childhood to retirement age: Findings from the Stockholm birth cohort study. Journal of Criminal Justice, 91, 102155. https://doi.org/https://doi.org/10.1016/j.jcrimjus.2024.102155 -->
 
-## General Longitudinal Studies
+<!-- Nod to other notable studies: Great Smoky Mountain Study, ABCD Study, HBCD, ECLS-K, etc. -->
+
+## Seminal Longitudinal Studies
+
+### Fels Longitudinal Study
 
 The Fels Longitudinal Study [@Roche1992] was a cohort-sequential study lasting from 1929 to 2018 that recruited 10–20 pregnant mothers each year from the Yellow Springs, Ohio area, and followed their newborns over time, eventually accruing over 1,200 child participants and following them to older adulthood [e.g., age 76\; @Chumlea2009].
 The study collected data on participants' body composition, including height and weight, which had key impacts and formed the basis of pediatric growth charts.
@@ -275,21 +279,34 @@ On the basis of predictive associations from childhood to adulthood in the Fels 
 They interpreted the different behaviors at different ages as stemming from the same psychological process: a tendency to avoid adopting "female sex-role standards" (p. 200).
 Kagan described such findings, when psychological processes remain the same but the form of behavior changes, as examples of heterotypic continuity [@Kagan1969; @Kagan1971; @Kagan1980].
 
-Another longitudinal study is the Harvard Study of Adult Development, which consists of the Grant Study [@Vaillant2012] and the Glueck Study [@Glueck1950].
+### Dunedin Multidisciplinary Health and Development Study
+
+The Dunedin Multidisciplinary Health and Development Study is an ongoing birth cohort study that started in 1975 and recruited 1,037 3-year-old children in Dunedin, New Zealand [who were born in 1972–1973\; @Poulton2015].
+It has followed participants to age 52 and includes data on a wide range of health and behavior constructs.
+The study has yielded important insights including that children's self-control is more important than socioeconomic status or IQ in predicting their health, wealth, and crime in adulthood [@Moffitt2011], a general psychopathology factor (p factor) may account for the strong covariance among psychological disorders [@Caspi2014], that mental disorders have earlier developmental origins [@Poulton2015], a person's mental disorder tends to shift from one disorder to other disorders over the life course [@Caspi2020], and cross-sectional (i.e., retrospective) studies grossly underestimate lifetime prevalence of psychological disorders [compared to prospective longitudinal studies\; @Schaefer2017].
+
+### Harvard Study of Adult Development
+
+The Harvard Study of Adult Development, which consists of the Grant Study [@Vaillant2012] and the Glueck Study [@Glueck1950].
 The Grant Study started in 1938 and recuited 268 White men from the Harvard classes of 1939–1944 at ages 18–19, and has followed them into their mid-90s.
 The Glueck Study started in 1940 and recruited 456 11–16-year-old boys who were living in poor, high-crime inner-city neighborhoods in Boston, and has followed them into their 80s.
 One the key findings from the Harvard Study of Adult Development, summarized in a Harvard Gazette article [@Mineo2017], is the importance of close relationships for healthy aging:
 "Close relationships, more than money or fame, are what keep people happy throughout their lives, the study revealed.
 Those ties protect people from life's discontents, help to delay mental and physical decline, and are better predictors of long and happy lives than social class, IQ, or even genes...people's level of satisfaction with their relationships at age 50 was a better predictor of physical health than their cholesterol levels were."
 
-## Longitudinal Studies of Psychopathology
+### Child Development Project
 
-The Dunedin Multidisciplinary Health and Development Study is an ongoing birth cohort study that started in 1975 and recruited 1,037 3-year-old children in Dunedin, New Zealand [who were born in 1972–1973\; @Poulton2015].
-It has followed participants to age 52 and includes data on a wide range of health and behavior constructs.
-The study has yielded important insights including that children's self-control is more important than socioeconomic status or IQ in predicting their health, wealth, and crime in adulthood [@Moffitt2011], a general psychopathology factor (p factor) may account for the strong covariance among psychological disorders [@Caspi2014], that mental disorders have earlier developmental origins [@Poulton2015], a person's mental disorder tends to shift from one disorder to other disorders over the life course [@Caspi2020], and cross-sectional (i.e., retrospective) studies grossly underestimate lifetime prevalence of psychological disorders [compared to prospective longitudinal studies\; @Schaefer2017].
+The Child Development Project [@Dodge1990] is a study that recruited two cohorts of 4-year-old children the year before kindergarten in Nashville, Tennessee, Knoxville, Tennessee, and Bloomington, Indiana.
+Participants included 585 children, and they were followed to age 34.
+One of the key findings from the Child Development Project is that a hostile attribution bias, an aspect of social information processing that involves the tendency to interpret ambiguous social cues as hostile, predicts aggression and that part of that association is mediated by peer rejection [@Lansford2010].
+
+## Longitudinal Studies of Psychopathology
 
 Longitudinal studies such as these have had immense impacts.
 Some of these studies have even followed children of those children who were initially recruited.
+However, relatively few longitudinal studies attempt to assess people's change in a given construct over a long period.
+In the Dunedin Multidisciplinary Health and Development Study, @Odgers2008 examined trajectories of externalizing behavior from ages 7–26.
+In the Child Development Project, @Petersen2015 examined trajectories of externalizing behavior from ages 5–27.
 However, as we will describe, these lengthy longitudinal studies of psychopathology [e.g., @Odgers2008]—including our own [@Petersen2015]—have important limitations in (a) how they assessed psychopathology constructs across development and (b) how they estimated people's scores on those constructs over time that prevent strong inferences regarding individuals' change over time.
 
 # Reasons for the Problem
