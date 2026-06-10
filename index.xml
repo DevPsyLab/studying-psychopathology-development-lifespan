@@ -536,10 +536,10 @@ cognitive skills across lengthy developmental periods.</p>
       1992</xref>) was a cohort-sequential study lasting from 1929 to
       2018 that recruited 10–20 pregnant mothers each year from the
       Yellow Springs, Ohio area, and followed their newborns over time,
-      eventually accruing over 1,200 child participants and following
-      them to older adulthood (e.g., age 76;
-      <xref alt="Chumlea et al. 2009" rid="ref-Chumlea2009" ref-type="bibr">Chumlea
-      et al. 2009</xref>). The study collected data on participants’
+      eventually accruing 2,567 child participants and following them to
+      older adulthood (e.g., age 82;
+      <xref alt="Chumlea et al. 2012" rid="ref-Chumlea2012" ref-type="bibr">Chumlea
+      et al. 2012</xref>). The study collected data on participants’
       body composition, including height and weight, which had key
       impacts and formed the basis of pediatric growth charts. In
       addition, the study collected information on the participants’
@@ -2526,29 +2526,6 @@ cognitive skills across lengthy developmental periods.</p>
       <lpage>279</lpage>
     </element-citation>
   </ref>
-  <ref id="ref-Chumlea2009">
-    <element-citation publication-type="article-journal">
-      <person-group person-group-type="author">
-        <name><surname>Chumlea</surname><given-names>W. M. C.</given-names></name>
-        <name><surname>Choh</surname><given-names>A.</given-names></name>
-        <name><surname>Lee</surname><given-names>M.</given-names></name>
-        <name><surname>Towne</surname><given-names>B.</given-names></name>
-        <name><surname>Sherwood</surname><given-names>R. J.</given-names></name>
-        <name><surname>Duren</surname><given-names>D.</given-names></name>
-        <name><surname>Czerwinski</surname><given-names>S.</given-names></name>
-        <name><surname>Siervogel</surname><given-names>R. M.</given-names></name>
-      </person-group>
-      <article-title>The first seriatim study into old age for weight, stature and BMI: The Fels Longitudinal Study</article-title>
-      <source>The Journal of Nutrition, Health and Aging</source>
-      <year iso-8601-date="2009">2009</year>
-      <volume>13</volume>
-      <issue>1</issue>
-      <uri>https://www.sciencedirect.com/science/article/pii/S1279770723023096</uri>
-      <pub-id pub-id-type="doi">10.1007/s12603-009-0001-5</pub-id>
-      <fpage>3</fpage>
-      <lpage>5</lpage>
-    </element-citation>
-  </ref>
   <ref id="ref-Roche1992">
     <element-citation publication-type="book">
       <person-group person-group-type="author">
@@ -2920,6 +2897,26 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1093/ije/dyz115</pub-id>
       <fpage>1415</fpage>
       <lpage>1415k</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Chumlea2012">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Chumlea</surname><given-names>W. M. C.</given-names></name>
+        <name><surname>Choh</surname><given-names>A.</given-names></name>
+        <name><surname>Lee</surname><given-names>M.</given-names></name>
+        <name><surname>Towne</surname><given-names>B.</given-names></name>
+        <name><surname>Duren</surname><given-names>D.</given-names></name>
+        <name><surname>Siervogel</surname><given-names>R. M.</given-names></name>
+        <name><surname>Czerwmski</surname><given-names>S.</given-names></name>
+      </person-group>
+      <article-title>Maintaining function with aging what we have learned from the Fels Longitudinal Study</article-title>
+      <source>The Journal of Frailty &amp; Aging</source>
+      <year iso-8601-date="2012">2012</year>
+      <volume>1</volume>
+      <issue>2</issue>
+      <fpage>50</fpage>
+      <lpage>51</lpage>
     </element-citation>
   </ref>
 </ref-list>
