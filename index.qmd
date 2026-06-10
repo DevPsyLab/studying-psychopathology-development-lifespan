@@ -267,7 +267,7 @@ A depiction of the ages spanned by various longitudinal studies is in @fig-longi
 <!-- Studies cited in Petersen et al. (2015): -->
 <!-- Stockholm birth cohort study: Sivertsson, F., Carlsson, C., Almquist, Y. B., & Brännström, L. (2024). Offending trajectories from childhood to retirement age: Findings from the Stockholm birth cohort study. Journal of Criminal Justice, 91, 102155. https://doi.org/https://doi.org/10.1016/j.jcrimjus.2024.102155 -->
 
-<!-- Nod to other notable studies: Great Smoky Mountain Study, ABCD Study, HBCD, ECLS-K, Rand Conger, Fragile Families, Newcastle-upon-Tyne Thousand Families Study, etc. -->
+<!-- Nod to other notable studies: Great Smoky Mountain Study, ABCD Study, HBCD, ECLS-K, Rand Conger, Fragile Families, Newcastle-upon-Tyne Thousand Families Study, NLSY97, etc. -->
 
 ## Seminal Longitudinal Studies
 
@@ -326,7 +326,11 @@ Participants have been followed to age 66.
 
 ### NICHD Study of Early Child Care and Youth Development (SECCYD)
 
-The NICHD Study of Early Child Care and Youth Development (SECCYD) started in 1991 and recruited 1,364 children at birth from hospitals across the United States and followed them to age 26.
+The NICHD Study of Early Child Care and Youth Development (SECCYD) started in 1991 and recruited 1,364 children at birth from hospitals across the United States and followed them to age 26 [@Vandell2023].
+
+### Avon Longitudinal Study of Parents and Children (ALSPAC)
+
+The Avon Longitudinal Study of Parents and Children (ALSPAC) started in 1991 and recruited 15,247 pregnant mothers in Briston, England, and their newborns have been followed to age 32.
 
 ## Longitudinal Studies of Psychopathology
 
