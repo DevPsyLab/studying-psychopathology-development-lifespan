@@ -263,7 +263,7 @@ A modest number of longitudinal studies have followed people for lengthy develop
 <!-- Studies cited in Petersen et al. (2015): -->
 <!-- Stockholm birth cohort study: Sivertsson, F., Carlsson, C., Almquist, Y. B., & Brännström, L. (2024). Offending trajectories from childhood to retirement age: Findings from the Stockholm birth cohort study. Journal of Criminal Justice, 91, 102155. https://doi.org/https://doi.org/10.1016/j.jcrimjus.2024.102155 -->
 
-<!-- Nod to other notable studies: Great Smoky Mountain Study, ABCD Study, HBCD, ECLS-K, etc. -->
+<!-- Nod to other notable studies: Great Smoky Mountain Study, ABCD Study, HBCD, ECLS-K, Rand Conger, Fragile Families, Newcastle upon Tyne, etc. -->
 
 ## Seminal Longitudinal Studies
 
