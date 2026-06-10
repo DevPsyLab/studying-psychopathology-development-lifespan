@@ -264,13 +264,13 @@ We overview some of the seminal longitudinal studies covering a lengthy span of 
 <!-- Studies cited in Petersen et al. (2015): -->
 <!-- Stockholm birth cohort study: Sivertsson, F., Carlsson, C., Almquist, Y. B., & Brännström, L. (2024). Offending trajectories from childhood to retirement age: Findings from the Stockholm birth cohort study. Journal of Criminal Justice, 91, 102155. https://doi.org/https://doi.org/10.1016/j.jcrimjus.2024.102155 -->
 
-<!-- Nod to other notable studies: Great Smoky Mountain Study, ABCD Study, HBCD, ECLS-K, Rand Conger, Fragile Families, Newcastle upon Tyne, etc. -->
+<!-- Nod to other notable studies: Great Smoky Mountain Study, ABCD Study, HBCD, ECLS-K, Rand Conger, Fragile Families, Newcastle-upon-Tyne Thousand Families Study, etc. -->
 
 ## Seminal Longitudinal Studies
 
 ### Fels Longitudinal Study
 
-The Fels Longitudinal Study [@Roche1992] was a cohort-sequential study lasting from 1929 to 2018 that recruited 10–20 pregnant mothers each year from the Yellow Springs, Ohio area, and followed their newborns over time, eventually accruing over 1,200 child participants and following them to older adulthood [e.g., age 76\; @Chumlea2009].
+The Fels Longitudinal Study [@Roche1992] was a cohort-sequential study lasting from 1929 to 2018 that recruited 10–20 pregnant mothers each year from the Yellow Springs, Ohio area, and followed their newborns over time, eventually accruing 2,567 child participants and following them to older adulthood [e.g., age 82\; @Chumlea2012].
 The study collected data on participants' body composition, including height and weight, which had key impacts and formed the basis of pediatric growth charts.
 In addition, the study collected information on the participants' behavior—and other constructs—in childhood (based on observation) and adulthood (based on interview).
 These rich data allowed researchers to examine the extent of personality continuity and change from childhood to adulthood, and the extent to which mothers may influence the personality development of the child [@Moss1964].
