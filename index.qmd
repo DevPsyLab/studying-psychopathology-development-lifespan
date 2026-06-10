@@ -287,7 +287,7 @@ The study has yielded important insights including that children's self-control 
 ### Harvard Study of Adult Development
 
 The Harvard Study of Adult Development, which consists of the Grant Study [@Vaillant2012] and the Glueck Study [@Glueck1950].
-The Grant Study started in 1938 and recuited 268 White men from the Harvard classes of 1939–1944 at ages 18–19, and has followed them into their mid-90s.
+The Grant Study started in 1938 and recruited 268 White men from the Harvard classes of 1939–1944 at ages 18–19, and has followed them into their mid-90s.
 The Glueck Study started in 1940 and recruited 456 11–16-year-old boys who were living in poor, high-crime inner-city neighborhoods in Boston, Massachussetts, and has followed them into their 80s.
 One the key findings from the Harvard Study of Adult Development, summarized in a Harvard Gazette article [@Mineo2017], is the importance of close relationships for healthy aging:
 "Close relationships, more than money or fame, are what keep people happy throughout their lives, the study revealed.
