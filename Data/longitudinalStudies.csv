@@ -1,1 +1,8 @@
-study,studyLabel,sampleSize,yearStart,yearEnd,ageStartMin,ageStartMax,ageEndMin,ageEndMax,prenatal,country,continent
+study,studyLabel,sampleSize,yearStart,yearLastAssessment,yearEnd,ageStartMin,ageStartMax,ageEndMin,ageEndMax,prenatal,country,continent
+addHealth,National Longitudinal Study of Adolescent to Adult Health,20745,1994,2025,,12,19,39,51,FALSE,United States,North America
+cdp,Child Development Project,585,1987,2016,,5,5,34,34,FALSE,United States,North America
+dunedin,Dunedin Multidisciplinary Health and Development Study,1037,1975,2026,,3,3,52,52,FALSE,New Zealand,Oceania
+fels,Fels Longitudinal Study,2567,1929,2018,2018,0,0,82,82,TRUE,United States,North America
+glueck,Glueck Study,456,1940,2026,,11,16,100,100,FALSE,United States,North America
+grant,Grant Study,268,1938,2026,,18,19,100,100,FALSE,United States,North America
+minnesota,Minnesota Longitudinal Study of Risk and Adaptation,267,1975,2025,,0,0,50,50,TRUE,United States,North America

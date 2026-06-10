@@ -34,29 +34,88 @@ format:
 
 library("petersenlab") #located here: https://github.com/DevPsyLab/petersenlab
 library("tidyverse")
-library("sysfonts")
-library("showtext")
 ```
-
-## Import Font for Figures
 
 ## Load Data
 
 ```{r}
-
+longitudinalStudies <- read_csv("./Data/longitudinalStudies.csv")
 ```
 
-# Specify Variables
+# Plots
+
+## Longitudinal Studies
 
 ```{r}
+longitudinalStudies_plotData <- bind_rows(
+  longitudinalStudies %>%
+    mutate(
+      segment_group = "cross-section",
+      segment_type = "start_crossSection",
+      ageStart = ageStartMin,
+      ageEnd = ageStartMax
+    ) %>%
+    select(study, studyLabel, ageStart, ageEnd, segment_group, segment_type),
 
+  longitudinalStudies %>%
+    mutate(
+      segment_group = "core",
+      segment_type = "core",
+      ageStart = ageStartMax,
+      ageEnd = ageEndMin
+    ) %>%
+    select(study, studyLabel, ageStart, ageEnd, segment_group, segment_type),
+
+  longitudinalStudies %>%
+    mutate(
+      segment_group = "cross-section",
+      segment_type = "end_crossSection",
+      ageStart = ageEndMin,
+      ageEnd = ageEndMax
+    ) %>%
+    select(study, studyLabel, ageStart, ageEnd, segment_group, segment_type),
+)
+
+study_order <- longitudinalStudies %>%
+  arrange(ageEndMax) %>%
+  pull(studyLabel)
+
+longitudinalStudies_plotData <- longitudinalStudies_plotData %>%
+  mutate(studyLabelFactor = factor(studyLabel, levels = study_order))
 ```
-
-# Analyses
 
 ```{r}
+#| label: fig-longitudinalStudies
+#| fig-cap: "Ages spanned by various longitudinal studies. Dotted lines reflect cross-sectional spans. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 20–25. Age 100 represents that the study has followed individuals into their 90s (or until they decease)."
+#| fig-alt: "Ages spanned by various longitudinal studies. Dotted lines reflect cross-sectional spans. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 20–25. Age 100 represents that the study has followed individuals into their 90s (or until they decease)."
 
+plot_longitudinalStudies <- ggplot2::ggplot(
+  data = longitudinalStudies_plotData,
+  mapping = aes(
+    y = studyLabelFactor
+  )
+) +
+  geom_segment(
+    aes(
+      x = ageStart,
+      xend = ageEnd,
+      yend = studyLabel,
+      linetype = segment_group),
+    linewidth = 1
+  ) +
+  scale_linetype_manual(
+    values = c(
+      "cross-section" = "dotted",
+      "core" = "solid"
+    ),
+    guide = FALSE
+  ) +
+  labs(x = "Age", y = NULL) +
+  theme_classic()
+
+plot_longitudinalStudies
 ```
+
 
 # Session Info
 
