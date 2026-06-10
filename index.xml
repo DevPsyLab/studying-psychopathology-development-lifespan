@@ -536,8 +536,9 @@ cognitive skills across lengthy developmental periods.</p>
     years, the study would have dotted lines from ages 5–10 and from
     ages 20–25. A star at age 0 represents that participants were
     enrolled before birth and the study included prenatal assessments.
-    Age 100 represents that the study has followed individuals into
-    their 90s (or until they decease).</p></caption>
+    We truncated age at 100. Age 100 represents that the study has
+    followed individuals into their 90s (or until they
+    decease).</p></caption>
     <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/notebooks-analyses-fig-longitudinalstudies-output-1.png" />
   </fig>
   <sec id="seminal-longitudinal-studies">
@@ -622,7 +623,7 @@ cognitive skills across lengthy developmental periods.</p>
       ages 18–19, and has followed them into their mid-90s. The Glueck
       Study started in 1940 and recruited 456 11–16-year-old boys who
       were living in poor, high-crime inner-city neighborhoods in
-      Boston, Massachussetts, and has followed them into their 80s. One
+      Boston, Massachusetts, and has followed them into their 80s. One
       the key findings from the Harvard Study of Adult Development,
       summarized in a Harvard Gazette article
       (<xref alt="Mineo 2017" rid="ref-Mineo2017" ref-type="bibr">Mineo
@@ -678,6 +679,12 @@ cognitive skills across lengthy developmental periods.</p>
       and that part of that association is mediated by peer rejection
       (<xref alt="Lansford et al. 2010" rid="ref-Lansford2010" ref-type="bibr">Lansford
       et al. 2010</xref>).</p>
+    </sec>
+    <sec id="framingham-heart-study">
+      <title>Framingham Heart Study</title>
+      <p>The Framingham Heart Study started in 1938 and recruited 5,209
+      adults aged 30–62 years old in Framingham, Massachusetts.
+      Participants were followed to age 106.</p>
     </sec>
   </sec>
   <sec id="longitudinal-studies-of-psychopathology">
