@@ -299,7 +299,7 @@ Those ties protect people from life's discontents, help to delay mental and phys
 ### Minnesota Longitudinal Study of Risk and Adaptation
 
 The Minnesota Longitudinal Study of Risk and Adaptation [@Sroufe2005] started in 1975 and recruited 267 first-time mothers, who were experiencing poverty, in Minneapolis, Minnesota.
-Mothers were recruited during pregnancy, and their newborns were followed to age 50.
+Mothers were recruited during pregnancy, and their newborns have been followed to age 50.
 Key findings from the study include that insecure attachment in infancy predicts emotion regulation strategies in adulthood [@Girme2021], and the impacts of child abuse and neglect on adulthood outcomes [@Nivison2024].
 
 ### National Longitudinal Study of Adolescent to Adult Health (Add Health)
@@ -310,13 +310,19 @@ Participants have been followed to ~age 44.
 ### Child Development Project
 
 The Child Development Project [@Dodge1990] is a study that recruited of 4-year-old children the year before kindergarten in 1987 and 1988 in Nashville, Tennessee, Knoxville, Tennessee, and Bloomington, Indiana.
-Participants included 585 children, and they were followed to age 34.
+Participants included 585 children, and they have been followed to age 34.
 One of the key findings from the Child Development Project is that a hostile attribution bias, an aspect of social information processing that involves the tendency to interpret ambiguous social cues as hostile, predicts aggression and that part of that association is mediated by peer rejection [@Lansford2010].
 
 ### Framingham Heart Study
 
-The Framingham Heart Study started in 1938 and recruited 5,209 adults aged 30–62 years old in Framingham, Massachusetts.
-Participants were followed to age 106.
+The Framingham Heart Study started in 1938 and recruited 5,209 adults aged 30–62 years in Framingham, Massachusetts.
+Participants have been followed to age 106.
+
+### National Longitudinal Survey of Youth 1979
+
+The National Longitudinal Survey of Youth 1979 recruited 12,686 youths aged 14–22 years.
+The sample was recruited nationwide across the United States and was nationally representative, with a supplemental oversample of Hispanics, economically disadvantaged nonblacks and non-Hispanics, and youths in the military.
+Participants have been followed to age 66.
 
 ## Longitudinal Studies of Psychopathology
 
