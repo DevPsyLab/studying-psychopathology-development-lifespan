@@ -248,9 +248,9 @@ The piecewise approach to development limits our understanding of lifespan devel
 
 A modest number of longitudinal studies have followed people for lengthy developmental periods.
 We overview some of the seminal longitudinal studies covering a lengthy span of development.
-A depiction of the ages spanned by various longitudinal studies is in @fig-longitudinalStudies.
+A depiction of the ages spanned by various longitudinal studies is in @fig-longitudinalstudies.
 
-{{< embed notebooks/analyses.qmd#fig-longitudinalStudies >}}
+{{< embed notebooks/analyses.qmd#fig-longitudinalstudies >}}
 
 <!-- Describe findings (and limitations) from existing studies that have examined psychopathology or other constructs across the lifespan. -->
 <!-- British 1946 Birth Cohort, aka the Medical Research Council (MRC) National Survey of Health and Development (NSHD) -->
