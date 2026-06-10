@@ -1,5 +1,5 @@
 study,studyLabel,sampleSize,yearStart,yearMostRecentAssessment,yearEnd,ageStartMin,ageStartMax,ageEndMin,ageEndMax,prenatal,active,country,continent
-alspac,Avon Longitudinal Study of Parents and Children,15247,1991,2024,,0,0,29,32,TRUE,TRUE,United Kingdon,Europe
+alspac,Avon Longitudinal Study of Parents and Children,15247,1991,2024,,0,0,29,32,TRUE,TRUE,United Kingdom,Europe
 addHealth,National Longitudinal Study of Adolescent to Adult Health,20745,1994,2025,,12,19,39,51,FALSE,TRUE,United States,North America
 cdp,Child Development Project,585,1987,2016,,5,5,34,34,FALSE,TRUE,United States,North America
 dunedin,Dunedin Multidisciplinary Health and Development Study,1037,1975,2026,,3,3,52,52,FALSE,TRUE,New Zealand,Oceania
@@ -7,6 +7,7 @@ fels,Fels Longitudinal Study,2567,1929,2018,2018,0,0,82,82,TRUE,FALSE,United Sta
 framingham,Framingham Heart Study,5209,1948,2014,,30,62,93,100,FALSE,TRUE,United States,North America
 glueck,Glueck Study,456,1940,2026,,11,16,100,100,FALSE,TRUE,United States,North America
 grant,Grant Study,268,1938,2026,,18,19,100,100,FALSE,TRUE,United States,North America
+isleOfWight,Isle of Wight Study,3500,1964,1999,,9,11,44,45,FALSE,TRUE,United Kingdom,Europe
 nlsy79,National Longitudinal Survey of Youth 1979,12686,1979,2022,,14,22,57,66,FALSE,TRUE,United States,North America
 minnesota,Minnesota Longitudinal Study of Risk and Adaptation,267,1975,2025,,0,0,50,50,TRUE,TRUE,United States,North America
-seccyd,NICHD Study of Early Child Care and Youth Development,"1,364",1991,2017,,0,0,26,26,FALSE,TRUE,United States,North America
+seccyd,NICHD Study of Early Child Care and Youth Development,1364,1991,2017,,0,0,26,26,FALSE,TRUE,United States,North America
