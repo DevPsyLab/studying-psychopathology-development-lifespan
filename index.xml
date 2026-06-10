@@ -525,7 +525,8 @@ cognitive skills across lengthy developmental periods.</p>
   approach to development limits our understanding of lifespan
   development and the origins of psychopathology.</p>
   <p>A modest number of longitudinal studies have followed people for
-  lengthy developmental periods.</p>
+  lengthy developmental periods. We overview some of the seminal
+  longitudinal studies covering a lengthy span of development.</p>
   <sec id="seminal-longitudinal-studies">
     <title>Seminal Longitudinal Studies</title>
     <sec id="fels-longitudinal-study">
@@ -637,6 +638,17 @@ cognitive skills across lengthy developmental periods.</p>
       adulthood outcomes
       (<xref alt="Nivison et al. 2024" rid="ref-Nivison2024" ref-type="bibr">Nivison
       et al. 2024</xref>).</p>
+    </sec>
+    <sec id="national-longitudinal-study-of-adolescent-to-adult-health-add-health">
+      <title>National Longitudinal Study of Adolescent to Adult Health
+      (Add Health)</title>
+      <p>The National Longitudinal Study of Adolescent to Adult Health
+      (Add Health;
+      <xref alt="Harris et al. 2019" rid="ref-Harris2019" ref-type="bibr">Harris
+      et al. 2019</xref>) recruited 20,745 adolescents who were in
+      grades 7–12 (ages 12–19) during the 1994-95 school year from one
+      of 80 high schools or a paired feeder school across the United
+      States. Participants have been followed to ~age 44.</p>
     </sec>
     <sec id="child-development-project">
       <title>Child Development Project</title>
@@ -2886,6 +2898,28 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1017/S0954579424000865</pub-id>
       <fpage>2499</fpage>
       <lpage>2511</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Harris2019">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Harris</surname><given-names>Kathleen Mullan</given-names></name>
+        <name><surname>Halpern</surname><given-names>Carolyn Tucker</given-names></name>
+        <name><surname>Whitsel</surname><given-names>Eric A</given-names></name>
+        <name><surname>Hussey</surname><given-names>Jon M</given-names></name>
+        <name><surname>Killeya-Jones</surname><given-names>Ley A</given-names></name>
+        <name><surname>Tabor</surname><given-names>Joyce</given-names></name>
+        <name><surname>Dean</surname><given-names>Sarah C</given-names></name>
+      </person-group>
+      <article-title>Cohort profile: The National Longitudinal Study of Adolescent to Adult Health (Add Health)</article-title>
+      <source>International Journal of Epidemiology</source>
+      <year iso-8601-date="2019">2019</year>
+      <volume>48</volume>
+      <issue>5</issue>
+      <uri>https://doi.org/10.1093/ije/dyz115</uri>
+      <pub-id pub-id-type="doi">10.1093/ije/dyz115</pub-id>
+      <fpage>1415</fpage>
+      <lpage>1415k</lpage>
     </element-citation>
   </ref>
 </ref-list>
