@@ -318,11 +318,15 @@ One of the key findings from the Child Development Project is that a hostile att
 The Framingham Heart Study started in 1938 and recruited 5,209 adults aged 30–62 years in Framingham, Massachusetts.
 Participants have been followed to age 106.
 
-### National Longitudinal Survey of Youth 1979
+### National Longitudinal Survey of Youth 1979 (NLSY79)
 
 The National Longitudinal Survey of Youth 1979 recruited 12,686 youths aged 14–22 years.
 The sample was recruited nationwide across the United States and was nationally representative, with a supplemental oversample of Hispanics, economically disadvantaged nonblacks and non-Hispanics, and youths in the military.
 Participants have been followed to age 66.
+
+### NICHD Study of Early Child Care and Youth Development (SECCYD)
+
+The NICHD Study of Early Child Care and Youth Development (SECCYD) started in 1991 and recruited 1,364 children at birth from hospitals across the United States and followed them to age 26.
 
 ## Longitudinal Studies of Psychopathology
 
