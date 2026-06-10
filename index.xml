@@ -526,7 +526,20 @@ cognitive skills across lengthy developmental periods.</p>
   development and the origins of psychopathology.</p>
   <p>A modest number of longitudinal studies have followed people for
   lengthy developmental periods. We overview some of the seminal
-  longitudinal studies covering a lengthy span of development.</p>
+  longitudinal studies covering a lengthy span of development. A
+  depiction of the ages spanned by various longitudinal studies is in
+  <bold>?@fig-longitudinalStudies</bold>.</p>
+  <fig id="fig-longitudinalstudies">
+    <caption><p>Figure 3: Ages spanned by various longitudinal studies.
+    Dotted lines reflect cross-sectional spans. For instance, if a study
+    recruited 5–10-year-old children and followed each child for 20
+    years, the study would have dotted lines from ages 5–10 and from
+    ages 20–25. A star at age 0 represents that participants were
+    enrolled before birth and the study included prenatal assessments.
+    Age 100 represents that the study has followed individuals into
+    their 90s (or until they decease).</p></caption>
+    <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/notebooks-analyses-fig-longitudinalstudies-output-1.png" />
+  </fig>
   <sec id="seminal-longitudinal-studies">
     <title>Seminal Longitudinal Studies</title>
     <sec id="fels-longitudinal-study">
@@ -899,7 +912,7 @@ cognitive skills across lengthy developmental periods.</p>
       that span.</p>
       <p>There are two primary ways that researchers have examined
       people’s change in psychopathology across development
-      <xref alt="Figure 3" rid="fig-approachesToLongitudinalAssessment">Figure 3</xref>.
+      <xref alt="Figure 4" rid="fig-approachesToLongitudinalAssessment">Figure 4</xref>.
       The “common items” approach removes items that are age specific.
       For example, in a study of externalizing behavior from early
       childhood to adolescence, a study might remove some substance use
@@ -934,7 +947,7 @@ cognitive skills across lengthy developmental periods.</p>
       current study also employed the scale with older children to
       promote uniformity in measures”.</p>
       <fig id="fig-approachesToLongitudinalAssessment">
-        <caption><p>Figure 3: Item set A refers to items that are
+        <caption><p>Figure 4: Item set A refers to items that are
         construct-valid at only timepoint 1 (T1); item set B is
         construct-valid at both T1 and T2; item set C is construct-valid
         at only T2. A dash indicates that the item set was not assessed
@@ -1105,7 +1118,7 @@ cognitive skills across lengthy developmental periods.</p>
   <title>Solution: A Developmental Scaling Framework</title>
   <p>A conceptual depiction of an example construct-valid item design
   spanning infancy to adulthood is in
-  <xref alt="Figure 4" rid="fig-constructValidItemDesign">Figure 4</xref>.
+  <xref alt="Figure 5" rid="fig-constructValidItemDesign">Figure 5</xref>.
   In the construct-valid item design, some items represent the core of
   the phenotype and are assessed across all ages, whereas other items
   are age-specific. Despite some age-specific items, some common items
@@ -1114,13 +1127,13 @@ cognitive skills across lengthy developmental periods.</p>
   yet distinct items is widely used in educational testing to help link
   individuals’ scores across grades, and is called vertical scaling
   because the item sets appear to form a line moving upward (see
-  <xref alt="Figure 4" rid="fig-constructValidItemDesign">Figure 4</xref>).
+  <xref alt="Figure 5" rid="fig-constructValidItemDesign">Figure 5</xref>).
   For example, for a standardized test of math ability, Kindergartners
   may receive items assessing counting, 1st graders may receive items
   assessing counting and addition, 2nd graders may receive items
   assessing addition and subtraction, and so on.</p>
   <fig id="fig-constructValidItemDesign">
-    <caption><p>Figure 4: Conceptual depiction of a construct-valid item
+    <caption><p>Figure 5: Conceptual depiction of a construct-valid item
     design from infancy to adulthood. The age(s) at which an item set is
     assessed are represented by the letter <monospace>x</monospace> and
     a colored box. Some items (“Core”, in green) represent the core of
@@ -1150,9 +1163,9 @@ cognitive skills across lengthy developmental periods.</p>
       <title>Period and Cohort Effects</title>
       <p>Various types of cross-sectional and longitudinal designs are
       depicted in
-      <xref alt="Figure 5" rid="fig-longitudinalDesigns">Figure 5</xref>.</p>
+      <xref alt="Figure 6" rid="fig-longitudinalDesigns">Figure 6</xref>.</p>
       <fig id="fig-longitudinalDesigns">
-        <caption><p>Figure 5: Research Designs by Time Of Measurement
+        <caption><p>Figure 6: Research Designs by Time Of Measurement
         and Cohort. Values in the cells are ages of the participants.
         Dashed line indicates different participants were assessed at
         each time of measurement. (Figure reprinted from Petersen
