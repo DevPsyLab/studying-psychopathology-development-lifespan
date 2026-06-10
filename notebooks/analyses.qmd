@@ -39,7 +39,8 @@ library("tidyverse")
 ## Load Data
 
 ```{r}
-longitudinalStudies <- read_csv("./Data/longitudinalStudies.csv")
+getwd()
+longitudinalStudies <- read_csv("../Data/longitudinalStudies.csv") #read_csv("./Data/longitudinalStudies.csv")
 ```
 
 # Plots
@@ -112,7 +113,7 @@ plot_longitudinalStudies <- ggplot2::ggplot(
       "cross-section" = "dotted",
       "core" = "solid"
     ),
-    guide = FALSE
+    guide = "none"
   ) +
   geom_point(
     data = prenatal_df,
