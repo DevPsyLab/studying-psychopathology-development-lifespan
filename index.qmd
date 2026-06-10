@@ -291,7 +291,7 @@ The study has yielded important insights including that children's self-control 
 
 The Harvard Study of Adult Development, which consists of the Grant Study [@Vaillant2012] and the Glueck Study [@Glueck1950].
 The Grant Study started in 1938 and recruited 268 White men from the Harvard classes of 1939–1944 at ages 18–19, and has followed them into their mid-90s.
-The Glueck Study started in 1940 and recruited 456 11–16-year-old boys who were living in poor, high-crime inner-city neighborhoods in Boston, Massachussetts, and has followed them into their 80s.
+The Glueck Study started in 1940 and recruited 456 11–16-year-old boys who were living in poor, high-crime inner-city neighborhoods in Boston, Massachusetts, and has followed them into their 80s.
 One the key findings from the Harvard Study of Adult Development, summarized in a Harvard Gazette article [@Mineo2017], is the importance of close relationships for healthy aging:
 "Close relationships, more than money or fame, are what keep people happy throughout their lives, the study revealed.
 Those ties protect people from life's discontents, help to delay mental and physical decline, and are better predictors of long and happy lives than social class, IQ, or even genes...people's level of satisfaction with their relationships at age 50 was a better predictor of physical health than their cholesterol levels were."
@@ -312,6 +312,11 @@ Participants have been followed to ~age 44.
 The Child Development Project [@Dodge1990] is a study that recruited of 4-year-old children the year before kindergarten in 1987 and 1988 in Nashville, Tennessee, Knoxville, Tennessee, and Bloomington, Indiana.
 Participants included 585 children, and they were followed to age 34.
 One of the key findings from the Child Development Project is that a hostile attribution bias, an aspect of social information processing that involves the tendency to interpret ambiguous social cues as hostile, predicts aggression and that part of that association is mediated by peer rejection [@Lansford2010].
+
+### Framingham Heart Study
+
+The Framingham Heart Study started in 1938 and recruited 5,209 adults aged 30–62 years old in Framingham, Massachusetts.
+Participants were followed to age 106.
 
 ## Longitudinal Studies of Psychopathology
 
