@@ -253,13 +253,11 @@ A modest number of longitudinal studies have followed people for lengthy develop
 
 <!-- Long-term studies: -->
 <!-- Framingham Heart Study -->
-<!-- Minnesota Longitudinal Study -->
 <!-- Add Health -->
 <!-- NICHD SECCYD -->
 <!-- ALSPAC -->
 <!-- British birth cohort studies: NSHD, NCDS, BCS70, MCS -->
 <!-- Isle of Wight Study -->
-<!-- CDP -->
 
 <!-- Long-term externalizing studies: -->
 <!-- Studies cited in Petersen et al. (2015): -->
@@ -289,14 +287,20 @@ The study has yielded important insights including that children's self-control 
 
 The Harvard Study of Adult Development, which consists of the Grant Study [@Vaillant2012] and the Glueck Study [@Glueck1950].
 The Grant Study started in 1938 and recuited 268 White men from the Harvard classes of 1939–1944 at ages 18–19, and has followed them into their mid-90s.
-The Glueck Study started in 1940 and recruited 456 11–16-year-old boys who were living in poor, high-crime inner-city neighborhoods in Boston, and has followed them into their 80s.
+The Glueck Study started in 1940 and recruited 456 11–16-year-old boys who were living in poor, high-crime inner-city neighborhoods in Boston, Massachussetts, and has followed them into their 80s.
 One the key findings from the Harvard Study of Adult Development, summarized in a Harvard Gazette article [@Mineo2017], is the importance of close relationships for healthy aging:
 "Close relationships, more than money or fame, are what keep people happy throughout their lives, the study revealed.
 Those ties protect people from life's discontents, help to delay mental and physical decline, and are better predictors of long and happy lives than social class, IQ, or even genes...people's level of satisfaction with their relationships at age 50 was a better predictor of physical health than their cholesterol levels were."
 
+### Minnesota Longitudinal Study of Risk and Adaptation
+
+The Minnesota Longitudinal Study of Risk and Adaptation [@Sroufe2005] started in 1975 and recruited 267 first-time mothers, who were experiencing poverty, in Minneapolis, Minnesota.
+Mothers were recruited during pregnancy, and their newborns were followed to age 50.
+Key findings from the study include that insecure attachment in infancy predicts emotion regulation strategies in adulthood [@Girme2021], and the impacts of child abuse and neglect on adulthood outcomes [@Nivison2024].
+
 ### Child Development Project
 
-The Child Development Project [@Dodge1990] is a study that recruited two cohorts of 4-year-old children the year before kindergarten in Nashville, Tennessee, Knoxville, Tennessee, and Bloomington, Indiana.
+The Child Development Project [@Dodge1990] is a study that recruited of 4-year-old children the year before kindergarten in 1987 and 1988 in Nashville, Tennessee, Knoxville, Tennessee, and Bloomington, Indiana.
 Participants included 585 children, and they were followed to age 34.
 One of the key findings from the Child Development Project is that a hostile attribution bias, an aspect of social information processing that involves the tendency to interpret ambiguous social cues as hostile, predicts aggression and that part of that association is mediated by peer rejection [@Lansford2010].
 
