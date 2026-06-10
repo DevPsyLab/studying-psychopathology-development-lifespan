@@ -18,7 +18,6 @@ format:
     link-external-newwindow: true
     anchor-sections: true
     df-print: paged
-    notebook-links: true
     comments:
       hypothesis:
         theme: classic
