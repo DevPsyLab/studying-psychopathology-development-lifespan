@@ -1,1 +1,1 @@
-study,studyLabel,yearStart,yearEnd,ageStartMin,ageStartMax,ageEndMin,ageEndMax,prenatal,sampleSize,country,continent
+study,studyLabel,sampleSize,yearStart,yearEnd,ageStartMin,ageStartMax,ageEndMin,ageEndMax,prenatal,country,continent
