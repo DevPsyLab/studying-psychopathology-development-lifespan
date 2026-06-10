@@ -701,7 +701,16 @@ cognitive skills across lengthy developmental periods.</p>
       <p>The NICHD Study of Early Child Care and Youth Development
       (SECCYD) started in 1991 and recruited 1,364 children at birth
       from hospitals across the United States and followed them to age
-      26.</p>
+      26
+      (<xref alt="Vandell and Gülseven 2023" rid="ref-Vandell2023" ref-type="bibr">Vandell
+      and Gülseven 2023</xref>).</p>
+    </sec>
+    <sec id="avon-longitudinal-study-of-parents-and-children-alspac">
+      <title>Avon Longitudinal Study of Parents and Children
+      (ALSPAC)</title>
+      <p>The Avon Longitudinal Study of Parents and Children (ALSPAC)
+      started in 1991 and recruited 15,247 pregnant mothers in Briston,
+      England, and their newborns have been followed to age 32.</p>
     </sec>
   </sec>
   <sec id="longitudinal-studies-of-psychopathology">
@@ -2954,6 +2963,22 @@ cognitive skills across lengthy developmental periods.</p>
       <issue>2</issue>
       <fpage>50</fpage>
       <lpage>51</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Vandell2023">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Vandell</surname><given-names>Deborah Lowe</given-names></name>
+        <name><surname>Gülseven</surname><given-names>Zehra</given-names></name>
+      </person-group>
+      <article-title>The study of early child care and youth development (SECCYD): Studying development from infancy to adulthood</article-title>
+      <source>Annual Review of Developmental Psychology</source>
+      <year iso-8601-date="2023">2023</year>
+      <volume>5</volume>
+      <uri>https://www.annualreviews.org/content/journals/10.1146/annurev-devpsych-120621-035345</uri>
+      <pub-id pub-id-type="doi">10.1146/annurev-devpsych-120621-035345</pub-id>
+      <fpage>331</fpage>
+      <lpage>354</lpage>
     </element-citation>
   </ref>
 </ref-list>
