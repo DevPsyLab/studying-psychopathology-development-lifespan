@@ -247,13 +247,14 @@ The focal problem examined in this paper is that, despite calls to do so [@DeLos
 The piecewise approach to development limits our understanding of lifespan development and the origins of psychopathology.
 
 A modest number of longitudinal studies have followed people for lengthy developmental periods.
+We overview some of the seminal longitudinal studies covering a lengthy span of development.
 
 <!-- Describe findings (and limitations) from existing studies that have examined psychopathology or other constructs across the lifespan. -->
 <!-- British 1946 Birth Cohort, aka the Medical Research Council (MRC) National Survey of Health and Development (NSHD) -->
 
 <!-- Long-term studies: -->
 <!-- Framingham Heart Study -->
-<!-- Add Health -->
+<!-- NLSY -->
 <!-- NICHD SECCYD -->
 <!-- ALSPAC -->
 <!-- British birth cohort studies: NSHD, NCDS, BCS70, MCS -->
@@ -297,6 +298,11 @@ Those ties protect people from life's discontents, help to delay mental and phys
 The Minnesota Longitudinal Study of Risk and Adaptation [@Sroufe2005] started in 1975 and recruited 267 first-time mothers, who were experiencing poverty, in Minneapolis, Minnesota.
 Mothers were recruited during pregnancy, and their newborns were followed to age 50.
 Key findings from the study include that insecure attachment in infancy predicts emotion regulation strategies in adulthood [@Girme2021], and the impacts of child abuse and neglect on adulthood outcomes [@Nivison2024].
+
+### National Longitudinal Study of Adolescent to Adult Health (Add Health)
+
+The National Longitudinal Study of Adolescent to Adult Health [Add Health\; @Harris2019] recruited 20,745 adolescents who were in grades 7–12 (ages 12–19) during the 1994-95 school year from one of 80 high schools or a paired feeder school across the United States.
+Participants have been followed to ~age 44.
 
 ### Child Development Project
 
