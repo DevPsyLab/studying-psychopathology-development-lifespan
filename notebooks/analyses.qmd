@@ -82,12 +82,16 @@ study_order <- longitudinalStudies %>%
 
 longitudinalStudies_plotData <- longitudinalStudies_plotData %>%
   mutate(studyLabelFactor = factor(studyLabel, levels = study_order))
+
+prenatal_df <- longitudinalStudies %>%
+  filter(prenatal == TRUE) %>%
+  mutate(age = 0)
 ```
 
 ```{r}
 #| label: fig-longitudinalStudies
-#| fig-cap: "Ages spanned by various longitudinal studies. Dotted lines reflect cross-sectional spans. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 20–25. Age 100 represents that the study has followed individuals into their 90s (or until they decease)."
-#| fig-alt: "Ages spanned by various longitudinal studies. Dotted lines reflect cross-sectional spans. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 20–25. Age 100 represents that the study has followed individuals into their 90s (or until they decease)."
+#| fig-cap: "Ages spanned by various longitudinal studies. Dotted lines reflect cross-sectional spans. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 20–25. A star at age 0 represents that participants were enrolled before birth and the study included prenatal assessments. Age 100 represents that the study has followed individuals into their 90s (or until they decease)."
+#| fig-alt: "Ages spanned by various longitudinal studies. Dotted lines reflect cross-sectional spans. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 20–25. A star at age 0 represents that participants were enrolled before birth and the study included prenatal assessments. Age 100 represents that the study has followed individuals into their 90s (or until they decease)."
 
 plot_longitudinalStudies <- ggplot2::ggplot(
   data = longitudinalStudies_plotData,
@@ -110,12 +114,21 @@ plot_longitudinalStudies <- ggplot2::ggplot(
     ),
     guide = FALSE
   ) +
-  labs(x = "Age", y = NULL) +
+  geom_point(
+    data = prenatal_df,
+    aes(
+      x = age,
+      y = studyLabel),
+    shape = 8, # star
+    size = 5
+  ) +
+  labs(
+    x = "Age (years)",
+    y = NULL) +
   theme_classic()
 
 plot_longitudinalStudies
 ```
-
 
 # Session Info
 
