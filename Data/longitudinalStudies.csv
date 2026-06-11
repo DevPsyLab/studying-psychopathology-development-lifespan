@@ -15,6 +15,7 @@ minnesota,Minnesota Longitudinal Study of Risk and Adaptation (MLSRA),267,1975,2
 ncds,National Child Development Study (NCDS),17415,1958,2026,,0,0,68,68,FALSE,TRUE,United Kingdom,Europe
 newcastle,Newcastle Upon Tyne Thousand Families Study,1142,1947,2011,,0,0,63,64,FALSE,TRUE,United Kingdom,Europe
 nlsy79,National Longitudinal Survey of Youth 1979 (NLSY79),12686,1979,2022,,14,22,57,66,FALSE,TRUE,United States,North America
+nlsy97,National Longitudinal Survey of Youth 1997 (NLSY97),8984,1997,2024,,12,17,38,44,FALSE,TRUE,United States,North America
 nshd,National Survey of Health & Development (NSHD),5362,1946,2026,,0,0,80,80,TRUE,TRUE,United Kingdom,Europe
 seccyd,NICHD Study of Early Child Care and Youth Development (SECCYD),1364,1991,2017,,0,0,26,26,FALSE,TRUE,United States,North America
 smokyMountain,Great Smoky Mountains Study (GSMS),1420,1993,2021,,9,13,37,42,FALSE,TRUE,United States,North America
