@@ -2,6 +2,7 @@ study,studyLabel,sampleSize,yearStart,yearMostRecentAssessment,yearEnd,ageStartM
 alspac,Avon Longitudinal Study of Parents and Children (ALSPAC),15247,1991,2024,,0,0,29,32,TRUE,TRUE,United Kingdom,Europe
 addHealth,National Longitudinal Study of Adolescent to Adult Health (Add Health),20745,1994,2025,,12,19,39,51,FALSE,TRUE,United States,North America
 bcs70,1970 British Cohort Study (BCS70),17287,1970,2026,,0,0,56,56,FALSE,TRUE,United Kingdom,Europe
+cambridge,Cambridge Study in Delinquent Development (CSDD),411,1961,2023,,8,8,70,70,FALSE,TRUE,United Kingdom,Europe
 cdp,Child Development Project (CDP),585,1987,2016,,5,5,34,34,FALSE,TRUE,United States,North America
 dunedin,Dunedin Multidisciplinary Health and Development Study,1037,1975,2026,,3,3,52,52,FALSE,TRUE,New Zealand,Oceania
 eRisk,Environmental Risk (E-Risk) Longitudinal Twin Study,2232,1999,2025,,5,5,30,30,FALSE,TRUE,United Kingdom,Europe
