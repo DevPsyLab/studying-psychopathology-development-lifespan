@@ -267,7 +267,7 @@ A depiction of the ages spanned by various longitudinal studies is in @fig-longi
 <!-- Studies cited in Petersen et al. (2015): -->
 <!-- Stockholm birth cohort study: Sivertsson, F., Carlsson, C., Almquist, Y. B., & Brännström, L. (2024). Offending trajectories from childhood to retirement age: Findings from the Stockholm birth cohort study. Journal of Criminal Justice, 91, 102155. https://doi.org/https://doi.org/10.1016/j.jcrimjus.2024.102155 -->
 
-<!-- Nod to other notable studies: Great Smoky Mountain Study, ABCD Study, HBCD, ECLS-K, Rand Conger, Fragile Families, Newcastle-upon-Tyne Thousand Families Study, NLSY97, etc. -->
+<!-- Nod to other notable studies: Great Smoky Mountain Study, ABCD Study, HBCD, ECLS-K, Rand Conger, Fragile Families, Newcastle-upon-Tyne Thousand Families Study, NLSY97, Fast Track, etc. -->
 
 ## Seminal Longitudinal Studies
 
