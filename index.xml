@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-10">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-11">
 <year>2026</year>
 <month>6</month>
-<day>10</day>
+<day>11</day>
 </pub-date>
 
 
@@ -537,7 +537,7 @@ cognitive skills across lengthy developmental periods.</p>
     years, the study would have dotted lines from ages 5–10 and from
     ages 20–25. A star at age 0 represents that participants were
     enrolled before birth and the study included prenatal assessments.
-    We truncated age at 100. Age 100 represents that the study has
+    Age was truncated at 100. Age 100 represents that the study has
     followed individuals into their 90s (or until they
     decease).</p></caption>
     <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/notebooks-analyses-fig-longitudinalstudies-output-1.png" />
@@ -718,6 +718,31 @@ cognitive skills across lengthy developmental periods.</p>
       <p>The Isle of Wight Study started in 1964 and recruited ~3,500
       children aged 9–11 from the Isle of Wight, England, and followed
       them to age 45.</p>
+    </sec>
+    <sec id="national-survey-of-health-development-nshd">
+      <title>National Survey of Health &amp; Development (NSHD)</title>
+      <p>The National Survey of Health &amp; Development (NSHD) started
+      in 1946 and recruited 5,362 singleton babies born to married
+      parents in England, Scotland, and Wales, and followed them to age
+      80.</p>
+    </sec>
+    <sec id="national-child-development-study-ncds">
+      <title>National Child Development Study (NCDS)</title>
+      <p>The National Child Development Study (NCDS) started in 1958 and
+      recruited 17,415 babies born in England, Scotland, and Wales, and
+      followed them to age 68.</p>
+    </sec>
+    <sec id="british-cohort-study-bcs70">
+      <title>1970 British Cohort Study (BCS70)</title>
+      <p>The 1970 British Cohort Study (BCS70) started in 1970 and
+      recruited 17,287 babies born in England, Scotland, and Wales, and
+      followed them to age 56.</p>
+    </sec>
+    <sec id="millennium-cohort-study-mcs">
+      <title>Millennium Cohort Study (MCS)</title>
+      <p>The Millennium Cohort Study (MCS) started in 2000 and recruited
+      18,827 babies born across England, Scotland, Wales and Northern
+      Ireland, and followed them to age 23.</p>
     </sec>
   </sec>
   <sec id="longitudinal-studies-of-psychopathology">
