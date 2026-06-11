@@ -11,6 +11,7 @@ framingham,Framingham Heart Study,5209,1948,2014,,30,62,93,100,FALSE,TRUE,United
 glueck,Glueck Study,456,1940,2026,,11,16,100,100,FALSE,TRUE,United States,North America
 grant,Grant Study,268,1938,2026,,18,19,100,100,FALSE,TRUE,United States,North America
 isleOfWight,Isle of Wight Study,3500,1964,1999,,9,11,44,45,FALSE,TRUE,United Kingdom,Europe
+lsac,Longitudinal Study of Australian Children (LSAC),10090,2004,2023,,0,5,19,24,FALSE,TRUE,Australia,Oceania
 mcs,Millennium Cohort Study (MCS),18827,2000,2025,,0,1,23,23,FALSE,TRUE,United Kingdom,Europe
 minnesota,Minnesota Longitudinal Study of Risk and Adaptation (MLSRA),267,1975,2025,,0,0,50,50,TRUE,TRUE,United States,North America
 ncds,National Child Development Study (NCDS),17415,1958,2026,,0,0,68,68,FALSE,TRUE,United Kingdom,Europe
