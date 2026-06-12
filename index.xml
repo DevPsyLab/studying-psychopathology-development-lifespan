@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-11">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-12">
 <year>2026</year>
 <month>6</month>
-<day>11</day>
+<day>12</day>
 </pub-date>
 
 
@@ -530,18 +530,19 @@ cognitive skills across lengthy developmental periods.</p>
   depiction of the ages spanned by various longitudinal studies is in
   <xref alt="Figure 3" rid="fig-longitudinalstudies">Figure 3</xref>.</p>
   <fig id="fig-longitudinalstudies">
-    <caption><p>Figure 3: Ages spanned by various longitudinal studies
-    (as of this writing). Studies that are no longer active are in gray.
-    Dotted lines reflect cross-sectional spans. For instance, if a study
-    recruited 5–10-year-old children and followed each child for 20
-    years, the study would have dotted lines from ages 5–10 and from
-    ages 20–25. A star at age 0 represents that participants were
-    enrolled before birth and the study included prenatal assessments.
-    Ages spanned reflect ages when assessments were collected directly
-    from participants; ages spanned do not include links to registry
-    data (e.g., birth records, offending records). Age was truncated at
-    100. Age 100 represents that the study has followed individuals into
-    their 90s (or until they decease).</p></caption>
+    <caption><p>Figure 3: (Approximate) ages spanned by various
+    longitudinal studies, as of this writing. Studies that are no longer
+    active are in gray. Dotted lines reflect cross-sectional spans. For
+    instance, if a study recruited 5–10-year-old children and followed
+    each child for 20 years, the study would have dotted lines from ages
+    5–10 and from ages 20–25. A star at age 0 represents that
+    participants were enrolled before birth and the study included
+    prenatal assessments. Ages spanned reflect ages when assessments
+    were collected directly from participants; ages spanned do not
+    include links to registry data (e.g., birth records, offending
+    records). Age was truncated at 100. Age 100 represents that the
+    study has followed individuals into their 90s (or until they
+    decease).</p></caption>
     <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/notebooks-analyses-fig-longitudinalstudies-output-1.png" />
   </fig>
   <sec id="seminal-longitudinal-studies">
