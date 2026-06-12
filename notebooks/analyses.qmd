@@ -97,8 +97,8 @@ prenatal_df <- longitudinalStudies %>%
 
 ```{r}
 #| label: fig-longitudinalstudies
-#| fig-cap: "Ages spanned by various longitudinal studies (as of this writing). Studies that are no longer active are in gray. Dotted lines reflect cross-sectional spans. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 20–25. A star at age 0 represents that participants were enrolled before birth and the study included prenatal assessments. Ages spanned reflect ages when assessments were collected directly from participants; ages spanned do not include links to registry data (e.g., birth records, offending records). Age was truncated at 100. Age 100 represents that the study has followed individuals into their 90s (or until they decease)."
-#| fig-alt: "Ages spanned by various longitudinal studies (as of this writing). Studies that are no longer active are in gray. Dotted lines reflect cross-sectional spans. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 20–25. A star at age 0 represents that participants were enrolled before birth and the study included prenatal assessments. Ages spanned reflect ages when assessments were collected directly from participants; ages spanned do not include links to registry data (e.g., birth records, offending records). Age was truncated at 100. Age 100 represents that the study has followed individuals into their 90s (or until they decease)."
+#| fig-cap: "(Approximate) ages spanned by various longitudinal studies, as of this writing. Studies that are no longer active are in gray. Dotted lines reflect cross-sectional spans. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 20–25. A star at age 0 represents that participants were enrolled before birth and the study included prenatal assessments. Ages spanned reflect ages when assessments were collected directly from participants; ages spanned do not include links to registry data (e.g., birth records, offending records). Age was truncated at 100. Age 100 represents that the study has followed individuals into their 90s (or until they decease)."
+#| fig-alt: "(Approximate) ages spanned by various longitudinal studies, as of this writing. Studies that are no longer active are in gray. Dotted lines reflect cross-sectional spans. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 20–25. A star at age 0 represents that participants were enrolled before birth and the study included prenatal assessments. Ages spanned reflect ages when assessments were collected directly from participants; ages spanned do not include links to registry data (e.g., birth records, offending records). Age was truncated at 100. Age 100 represents that the study has followed individuals into their 90s (or until they decease)."
 
 plot_longitudinalStudies <- ggplot2::ggplot(
   data = longitudinalStudies_plotData,
@@ -137,7 +137,7 @@ plot_longitudinalStudies <- ggplot2::ggplot(
       y = studyLabel,
       color = active),
     shape = 8, # star
-    size = 5
+    size = 4
   ) +
   labs(
     x = "Age (years)",
