@@ -126,7 +126,7 @@ plot_longitudinalStudies <- ggplot2::ggplot(
   scale_color_manual(
     values = c(
       "TRUE" = "black",
-      "FALSE" = "grey70"
+      "FALSE" = "gray70"
       ),
     guide = "none"
     ) +
@@ -137,7 +137,7 @@ plot_longitudinalStudies <- ggplot2::ggplot(
       y = studyLabel,
       color = active),
     shape = 8, # star
-    size = 4
+    size = 3
   ) +
   labs(
     x = "Age (years)",
