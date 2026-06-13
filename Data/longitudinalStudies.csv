@@ -10,7 +10,7 @@ eRisk,Environmental Risk (E-Risk) Longitudinal Twin Study,2232,1999,2025,,5,5,30
 fastTrack,Fast Track,891,1991,2021,,5,7,33,37,FALSE,TRUE,United States,North America
 fels,Fels Longitudinal Study,2567,1929,2018,2018,0,0,82,82,TRUE,FALSE,United States,North America
 fragileFamilies,Future of Families and Child Wellbeing Study (FFCWS),4898,1998,2026,,0,0,27,27,FALSE,TRUE,United States,North America
-framingham,Framingham Heart Study,5209,1948,2014,,30,62,93,100,FALSE,TRUE,United States,North America
+framingham,Framingham Heart Study (FHS),5209,1948,2014,,30,62,93,100,FALSE,TRUE,United States,North America
 glueck,Glueck Study,456,1940,2026,,11,16,100,100,FALSE,TRUE,United States,North America
 grant,Grant Study,268,1938,2026,,18,19,100,100,FALSE,TRUE,United States,North America
 isleOfWight,Isle of Wight Study,3500,1964,1999,,9,11,44,45,FALSE,TRUE,United Kingdom,Europe
@@ -19,16 +19,16 @@ lsac,Longitudinal Study of Australian Children (LSAC),10090,2004,2023,,0,5,19,24
 mcs,Millennium Cohort Study (MCS),18827,2000,2025,,0,1,23,23,FALSE,TRUE,United Kingdom,Europe
 minnesota,Minnesota Longitudinal Study of Risk and Adaptation (MLSRA),267,1975,2025,,0,0,50,50,TRUE,TRUE,United States,North America
 ncds,National Child Development Study (NCDS),17415,1958,2026,,0,0,68,68,FALSE,TRUE,United Kingdom,Europe
-newcastle,Newcastle Upon Tyne Thousand Families Study,1142,1947,2011,,0,0,63,64,FALSE,TRUE,United Kingdom,Europe
+newcastle,Newcastle upon Tyne Thousand Families Study,1142,1947,2011,,0,0,63,64,FALSE,TRUE,United Kingdom,Europe
 nlscy,National Longitudinal Survey of Children and Youth (NLSCY),22831,1994,2009,2009,0,11,14,25,FALSE,FALSE,Canada,North America
 nlscya,NLSY79 Child and Young Adult (NLSCYA),11551,1986,2020,,0,16,12,50,FALSE,TRUE,United States,North America
 nlsy79,National Longitudinal Survey of Youth 1979 (NLSY79),12686,1979,2022,,14,22,57,66,FALSE,TRUE,United States,North America
 nlsy97,National Longitudinal Survey of Youth 1997 (NLSY97),8984,1997,2024,,12,17,38,44,FALSE,TRUE,United States,North America
 nshd,National Survey of Health & Development (NSHD),5362,1946,2026,,0,0,80,80,TRUE,TRUE,United Kingdom,Europe
-oregonYouth,Oregon Youth Study,206,1983,2022,,9,10,48,51,FALSE,TRUE,United States,North America
-pittsburghGirls,Pittsburgh Girls Study,2451,2000,2023,,5,8,29,32,FALSE,TRUE,United States,North America
-pittsburghYouth,Pittsburgh Youth Study,1517,1987,2010,2010,6,13,23,35,FALSE,FALSE,United States,North America
+oregonYouth,Oregon Youth Study (OYS),206,1983,2022,,9,10,48,51,FALSE,TRUE,United States,North America
+pittsburghGirls,Pittsburgh Girls Study (PGS),2451,2000,2023,,5,8,29,32,FALSE,TRUE,United States,North America
+pittsburghYouth,Pittsburgh Youth Study (PYS),1517,1987,2010,2010,6,13,23,35,FALSE,FALSE,United States,North America
 seccyd,NICHD Study of Early Child Care and Youth Development (SECCYD),1364,1991,2017,,0,0,26,26,FALSE,TRUE,United States,North America
 smokyMountain,Great Smoky Mountains Study (GSMS),1420,1993,2021,,9,13,37,42,FALSE,TRUE,United States,North America
-stockholm,Stockholm Metropolitan Study,13476,1966,1985,1985,12,13,31,32,FALSE,FALSE,Sweden,Europe
+stockholm,Stockholm Metropolitan Study (SMS),13476,1966,1985,1985,12,13,31,32,FALSE,FALSE,Sweden,Europe
 zproso,Zurich Project on the Social Development from Childhood to Adulthood (z-proso),1360,2005,2022,,7,7,24,24,FALSE,TRUE,Switzerland,Europe
