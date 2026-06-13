@@ -100,7 +100,7 @@ longitudinalStudies_plotData <- longitudinalStudies_plotData %>%
 
 # Prenatal enrollment
 prenatal_df <- longitudinalStudies %>%
-  filter(prenatal == TRUE) %>%
+  filter(prenatalRecruitment == TRUE) %>%
   mutate(
     age = 0,
     studyLabelFactor = factor(studyLabel, levels = study_order)

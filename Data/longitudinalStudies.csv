@@ -1,46 +1,46 @@
-study,studyLabel,sampleSize,yearStart,yearMostRecentAssessment,yearEnd,ageStartMin,ageStartMax,ageEndMin,ageEndMax,prenatal,active,country,continent
-abcd,Adolescent Brain Cognitive Development (ABCD) Study,11880,2017,2024,,9,10,16,17,FALSE,TRUE,United States,North America
-alspac,Avon Longitudinal Study of Parents and Children (ALSPAC),15247,1991,2024,,0,0,29,32,TRUE,TRUE,United Kingdom,Europe
-addHealth,National Longitudinal Study of Adolescent to Adult Health (Add Health),20745,1994,2025,,12,19,39,49,FALSE,TRUE,United States,North America
-bcs70,1970 British Cohort Study (BCS70),17287,1970,2026,,0,0,56,56,FALSE,TRUE,United Kingdom,Europe
-cambridge,Cambridge Study in Delinquent Development (CSDD),411,1961,2023,,8,8,70,70,FALSE,TRUE,United Kingdom,Europe
-cdp,Child Development Project (CDP),585,1987,2016,,5,5,34,34,FALSE,TRUE,United States,North America
-chicagoLong,Chicago Longitudinal Study (CLS),1539,1983,2017,,3,3,32,37,FALSE,TRUE,United States,North America
-dnbc,Danish National Birth Cohort (DNBC),96822,1996,2024,,0,0,21,28,TRUE,TRUE,Denmark,Europe
-dunedin,Dunedin Multidisciplinary Health and Development Study,1037,1975,2026,,3,3,52,52,FALSE,TRUE,New Zealand,Oceania
-elsa,English Longitudinal Study of Ageing (ELSA),18000,2002,2024,,50,100,50,100,FALSE,TRUE,United Kingdom,Europe
-eRisk,Environmental Risk (E-Risk) Longitudinal Twin Study,2232,1999,2025,,5,5,30,30,FALSE,TRUE,United Kingdom,Europe
-fastTrack,Fast Track,891,1991,2021,,5,7,33,37,FALSE,TRUE,United States,North America
-fels,Fels Longitudinal Study,2567,1929,2018,2018,0,0,82,82,TRUE,FALSE,United States,North America
-fragileFamilies,Future of Families and Child Wellbeing Study (FFCWS),4898,1998,2026,,0,0,27,27,FALSE,TRUE,United States,North America
-framingham,Framingham Heart Study (FHS),5209,1948,2014,,30,62,93,100,FALSE,TRUE,United States,North America
-glueck,Glueck Study,456,1940,2026,,11,16,100,100,FALSE,TRUE,United States,North America
-grant,Grant Study,268,1938,2026,,18,19,100,100,FALSE,TRUE,United States,North America
-hrs,Health and Retirement Study (HRS),51000,1992,2026,,51,100,51,100,FALSE,TRUE,United States,North America
-isleOfWight,Isle of Wight Study,3500,1964,1999,1999,9,11,44,45,FALSE,FALSE,United Kingdom,Europe
-iyfp,Iowa Youth and Families Project (IYFP) cohort of Family Transitions Project,451,1989,2016,,12,13,39,40,FALSE,TRUE,United States,North America
-lsac,Longitudinal Study of Australian Children (LSAC),10090,2004,2023,,0,5,19,24,FALSE,TRUE,Australia,Oceania
-mcs,Millennium Cohort Study (MCS),18827,2000,2025,,0,1,23,23,FALSE,TRUE,United Kingdom,Europe
-minnesota,Minnesota Longitudinal Study of Risk and Adaptation (MLSRA),267,1975,2025,,0,0,50,50,TRUE,TRUE,United States,North America
-moba,Norwegian Mother Father and Child Cohort Study (MoBa),114500,1999,2024,,0,0,13,25,TRUE,TRUE,Norway,Europe
-ncds,National Child Development Study (NCDS),17415,1958,2026,,0,0,68,68,FALSE,TRUE,United Kingdom,Europe
-newcastle,Newcastle upon Tyne Thousand Families Study,1142,1947,2011,,0,0,63,64,FALSE,TRUE,United Kingdom,Europe
-nlscy,National Longitudinal Survey of Children and Youth (NLSCY),22831,1994,2009,2009,0,11,14,25,FALSE,FALSE,Canada,North America
-nlscya,NLSY79 Child and Young Adult (NLSCYA),11551,1986,2020,,0,16,12,50,FALSE,TRUE,United States,North America
-nlsy79,National Longitudinal Survey of Youth 1979 (NLSY79),12686,1979,2022,,14,22,57,66,FALSE,TRUE,United States,North America
-nlsy97,National Longitudinal Survey of Youth 1997 (NLSY97),8984,1997,2024,,12,17,38,44,FALSE,TRUE,United States,North America
-nshd,National Survey of Health & Development (NSHD),5362,1946,2026,,0,0,80,80,FALSE,TRUE,United Kingdom,Europe
-oregonYouth,Oregon Youth Study (OYS),206,1983,2022,,9,10,48,51,FALSE,TRUE,United States,North America
-pittsburghGirls,Pittsburgh Girls Study (PGS),2451,2000,2023,,5,8,29,32,FALSE,TRUE,United States,North America
-pittsburghYouth,Pittsburgh Youth Study (PYS),1517,1987,2010,2010,6,13,23,35,FALSE,FALSE,United States,North America
-qlscd,Quebec Longitudinal Study of Child Development (QLSCD),2120,1997,2023,,0,0,25,26,FALSE,TRUE,Canada,North America
-seccyd,NICHD Study of Early Child Care and Youth Development (SECCYD),1364,1991,2017,,0,0,26,26,FALSE,TRUE,United States,North America
-share,Survey of Health Ageing and Retirement in Europe (SHARE),160000,2004,2024,,50,100,50,100,FALSE,TRUE,Multiple,Europe
-smokyMountain,Great Smoky Mountains Study (GSMS),1420,1993,2021,,9,13,37,42,FALSE,TRUE,United States,North America
-soep,German Socio-Economic Panel (SOEP),30000,1984,2026,,0,100,0,100,FALSE,TRUE,Germany,Europe
-stockholm,Stockholm Metropolitan Study (SMS),13476,1966,1985,1985,12,13,31,32,FALSE,FALSE,Sweden,Europe
-talent,Project Talent,377016,1960,2018,,14,18,72,76,FALSE,TRUE,United States,North America
-terman,Terman Life-Cycle Study,1528,1921,1999,1999,4,18,82,96,FALSE,FALSE,United States,North America
-trails,TRacking Adolescents' Individual Lives Survey (TRAILS),2773,2001,2023,,10,12,29,32,FALSE,TRUE,Netherlands,Europe
-wls,Wisconsin Longitudinal Study (WLS),10317,1957,2020,,18,18,81,81,FALSE,TRUE,United States,North America
-zproso,Zurich Project on the Social Development from Childhood to Adulthood (z-proso),1360,2005,2022,,7,7,24,24,FALSE,TRUE,Switzerland,Europe
+study,studyLabel,sampleSize,yearStart,yearMostRecentAssessment,yearEnd,ageStartMin,ageStartMax,ageEndMin,ageEndMax,prenatalRecruitment,active,interventionPrevention,designType,sampleType,country,continent
+abcd,Adolescent Brain Cognitive Development (ABCD) Study,11880,2017,2024,,9,10,16,17,FALSE,TRUE,FALSE,Single-cohort,General population,United States,North America
+alspac,Avon Longitudinal Study of Parents and Children (ALSPAC),15247,1991,2024,,0,0,29,32,TRUE,TRUE,FALSE,Single-cohort,General population,United Kingdom,Europe
+addHealth,National Longitudinal Study of Adolescent to Adult Health (Add Health),20745,1994,2025,,12,19,39,49,FALSE,TRUE,FALSE,Single-cohort,General population,United States,North America
+bcs70,1970 British Cohort Study (BCS70),17287,1970,2026,,0,0,56,56,FALSE,TRUE,FALSE,Single-cohort,General population,United Kingdom,Europe
+cambridge,Cambridge Study in Delinquent Development (CSDD),411,1961,2023,,8,8,70,70,FALSE,TRUE,FALSE,Single-cohort,General population,United Kingdom,Europe
+cdp,Child Development Project (CDP),585,1987,2016,,5,5,34,34,FALSE,TRUE,FALSE,Single-cohort,General population,United States,North America
+cls,Chicago Longitudinal Study (CLS),1539,1983,2017,,3,3,32,37,FALSE,TRUE,TRUE,Single-cohort,Selected high-risk,United States,North America
+dnbc,Danish National Birth Cohort (DNBC),96822,1996,2024,,0,0,21,28,TRUE,TRUE,FALSE,Single-cohort,General population,Denmark,Europe
+dunedin,Dunedin Multidisciplinary Health and Development Study,1037,1975,2026,,3,3,52,52,FALSE,TRUE,FALSE,Single-cohort,General population,New Zealand,Oceania
+elsa,English Longitudinal Study of Ageing (ELSA),18000,2002,2024,,50,100,50,100,FALSE,TRUE,FALSE,Continuing panel,General population,United Kingdom,Europe
+eRisk,Environmental Risk (E-Risk) Longitudinal Twin Study,2232,1999,2025,,5,5,30,30,FALSE,TRUE,FALSE,Single-cohort,Twin sample,United Kingdom,Europe
+fastTrack,Fast Track,891,1991,2021,,5,7,33,37,FALSE,TRUE,TRUE,Single-cohort,Selected high-risk,United States,North America
+fels,Fels Longitudinal Study,2567,1929,2018,2018,0,0,82,82,TRUE,FALSE,FALSE,Multi-cohort,General population,United States,North America
+fragileFamilies,Future of Families and Child Wellbeing Study (FFCWS),4898,1998,2026,,0,0,27,27,FALSE,TRUE,FALSE,Single-cohort,Oversampled high-risk,United States,North America
+framingham,Framingham Heart Study (FHS),5209,1948,2014,,30,62,93,100,FALSE,TRUE,FALSE,Single-cohort,General population,United States,North America
+glueck,Glueck Study,1000,1940,2026,,11,16,100,100,FALSE,TRUE,FALSE,Single-cohort,Selected high-risk,United States,North America
+grant,Grant Study,268,1938,2026,,18,19,100,100,FALSE,TRUE,FALSE,Single-cohort,Selected elite/gifted,United States,North America
+hrs,Health and Retirement Study (HRS),51000,1992,2026,,51,100,51,100,FALSE,TRUE,FALSE,Continuing panel,General population,United States,North America
+isleOfWight,Isle of Wight Study,3500,1964,1999,1999,9,11,44,45,FALSE,FALSE,FALSE,Single-cohort,General population,United Kingdom,Europe
+iyfp,Iowa Youth and Families Project (IYFP) cohort of Family Transitions Project,451,1989,2016,,12,13,39,40,FALSE,TRUE,FALSE,Single-cohort,General population,United States,North America
+lsac,Longitudinal Study of Australian Children (LSAC),10090,2004,2023,,0,5,19,24,FALSE,TRUE,FALSE,Multi-cohort,General population,Australia,Oceania
+mcs,Millennium Cohort Study (MCS),18827,2000,2025,,0,1,23,23,FALSE,TRUE,FALSE,Single-cohort,General population,United Kingdom,Europe
+minnesota,Minnesota Longitudinal Study of Risk and Adaptation (MLSRA),267,1975,2025,,0,0,50,50,TRUE,TRUE,FALSE,Single-cohort,Selected high-risk,United States,North America
+moba,Norwegian Mother Father and Child Cohort Study (MoBa),114500,1999,2024,,0,0,13,25,TRUE,TRUE,FALSE,Single-cohort,General population,Norway,Europe
+ncds,National Child Development Study (NCDS),17415,1958,2026,,0,0,68,68,FALSE,TRUE,FALSE,Single-cohort,General population,United Kingdom,Europe
+newcastle,Newcastle upon Tyne Thousand Families Study,1142,1947,2011,,0,0,63,64,FALSE,TRUE,FALSE,Single-cohort,General population,United Kingdom,Europe
+nlscy,National Longitudinal Survey of Children and Youth (NLSCY),22831,1994,2009,2009,0,11,14,25,FALSE,FALSE,FALSE,Multi-cohort,General population,Canada,North America
+nlscya,NLSY79 Child and Young Adult (NLSCYA),11551,1986,2020,,0,16,12,50,FALSE,TRUE,FALSE,Multi-cohort,General population,United States,North America
+nlsy79,National Longitudinal Survey of Youth 1979 (NLSY79),12686,1979,2022,,14,22,57,66,FALSE,TRUE,FALSE,Single-cohort,General population,United States,North America
+nlsy97,National Longitudinal Survey of Youth 1997 (NLSY97),8984,1997,2024,,12,17,38,44,FALSE,TRUE,FALSE,Single-cohort,General population,United States,North America
+nshd,National Survey of Health & Development (NSHD),5362,1946,2026,,0,0,80,80,FALSE,TRUE,FALSE,Single-cohort,General population,United Kingdom,Europe
+oregonYouth,Oregon Youth Study (OYS),206,1983,2022,,9,10,48,51,FALSE,TRUE,FALSE,Single-cohort,Selected high-risk,United States,North America
+pittsburghGirls,Pittsburgh Girls Study (PGS),2451,2000,2023,,5,8,29,32,FALSE,TRUE,FALSE,Multi-cohort,Oversampled high-risk,United States,North America
+pittsburghYouth,Pittsburgh Youth Study (PYS),1517,1987,2010,2010,6,13,23,35,FALSE,FALSE,FALSE,Multi-cohort,Selected high-risk,United States,North America
+qlscd,Quebec Longitudinal Study of Child Development (QLSCD),2120,1997,2023,,0,0,25,26,FALSE,TRUE,FALSE,Single-cohort,General population,Canada,North America
+seccyd,NICHD Study of Early Child Care and Youth Development (SECCYD),1364,1991,2017,,0,0,26,26,FALSE,TRUE,FALSE,Single-cohort,General population,United States,North America
+share,Survey of Health Ageing and Retirement in Europe (SHARE),160000,2004,2024,,50,100,50,100,FALSE,TRUE,FALSE,Continuing panel,General population,Multiple,Europe
+smokyMountain,Great Smoky Mountains Study (GSMS),1420,1993,2021,,9,13,37,42,FALSE,TRUE,FALSE,Multi-cohort,Oversampled high-risk,United States,North America
+soep,German Socio-Economic Panel (SOEP),30000,1984,2026,,0,100,0,100,FALSE,TRUE,FALSE,Continuing panel,General population,Germany,Europe
+stockholm,Stockholm Metropolitan Study (SMS),13476,1966,1985,1985,12,13,31,32,FALSE,FALSE,FALSE,Single-cohort,General population,Sweden,Europe
+talent,Project Talent,377016,1960,2018,,14,18,72,76,FALSE,TRUE,FALSE,Single-cohort,General population,United States,North America
+terman,Terman Life-Cycle Study,1528,1921,1999,1999,4,18,82,96,FALSE,FALSE,FALSE,Single-cohort,Selected elite/gifted,United States,North America
+trails,TRacking Adolescents' Individual Lives Survey (TRAILS),2773,2001,2023,,10,12,29,32,FALSE,TRUE,FALSE,Single-cohort,General population,Netherlands,Europe
+wls,Wisconsin Longitudinal Study (WLS),10317,1957,2020,,18,18,81,81,FALSE,TRUE,FALSE,Single-cohort,General population,United States,North America
+zproso,Zurich Project on the Social Development from Childhood to Adulthood (z-proso),1360,2005,2022,,7,7,24,24,FALSE,TRUE,FALSE,Single-cohort,General population,Switzerland,Europe
