@@ -17,7 +17,7 @@ framingham,Framingham Heart Study (FHS),5209,1948,2014,,30,62,93,100,FALSE,TRUE,
 glueck,Glueck Study,456,1940,2026,,11,16,100,100,FALSE,TRUE,United States,North America
 grant,Grant Study,268,1938,2026,,18,19,100,100,FALSE,TRUE,United States,North America
 hrs,Health and Retirement Study (HRS),51000,1992,2026,,51,100,51,100,FALSE,TRUE,United States,North America
-isleOfWight,Isle of Wight Study,3500,1964,1999,,9,11,44,45,FALSE,TRUE,United Kingdom,Europe
+isleOfWight,Isle of Wight Study,3500,1964,1999,1999,9,11,44,45,FALSE,FALSE,United Kingdom,Europe
 iyfp,Iowa Youth and Families Project (IYFP) cohort of Family Transitions Project,451,1989,2016,,12,13,39,40,FALSE,TRUE,United States,North America
 lsac,Longitudinal Study of Australian Children (LSAC),10090,2004,2023,,0,5,19,24,FALSE,TRUE,Australia,Oceania
 mcs,Millennium Cohort Study (MCS),18827,2000,2025,,0,1,23,23,FALSE,TRUE,United Kingdom,Europe
@@ -29,11 +29,11 @@ nlscy,National Longitudinal Survey of Children and Youth (NLSCY),22831,1994,2009
 nlscya,NLSY79 Child and Young Adult (NLSCYA),11551,1986,2020,,0,16,12,50,FALSE,TRUE,United States,North America
 nlsy79,National Longitudinal Survey of Youth 1979 (NLSY79),12686,1979,2022,,14,22,57,66,FALSE,TRUE,United States,North America
 nlsy97,National Longitudinal Survey of Youth 1997 (NLSY97),8984,1997,2024,,12,17,38,44,FALSE,TRUE,United States,North America
-nshd,National Survey of Health & Development (NSHD),5362,1946,2026,,0,0,80,80,TRUE,TRUE,United Kingdom,Europe
+nshd,National Survey of Health & Development (NSHD),5362,1946,2026,,0,0,80,80,FALSE,TRUE,United Kingdom,Europe
 oregonYouth,Oregon Youth Study (OYS),206,1983,2022,,9,10,48,51,FALSE,TRUE,United States,North America
 pittsburghGirls,Pittsburgh Girls Study (PGS),2451,2000,2023,,5,8,29,32,FALSE,TRUE,United States,North America
 pittsburghYouth,Pittsburgh Youth Study (PYS),1517,1987,2010,2010,6,13,23,35,FALSE,FALSE,United States,North America
-qlscd,Quebec Longitudinal Study of Child Development (QLSCD),2120,1997,2023,,0,0,25,26,TRUE,TRUE,Canada,North America
+qlscd,Quebec Longitudinal Study of Child Development (QLSCD),2120,1997,2023,,0,0,25,26,FALSE,TRUE,Canada,North America
 seccyd,NICHD Study of Early Child Care and Youth Development (SECCYD),1364,1991,2017,,0,0,26,26,FALSE,TRUE,United States,North America
 share,Survey of Health Ageing and Retirement in Europe (SHARE),160000,2004,2024,,50,100,50,100,FALSE,TRUE,Multiple,Europe
 smokyMountain,Great Smoky Mountains Study (GSMS),1420,1993,2021,,9,13,37,42,FALSE,TRUE,United States,North America
