@@ -47,7 +47,10 @@ longitudinalStudies <- read_csv("../Data/longitudinalStudies.csv") #read_csv("./
 ## Longitudinal Studies
 
 ```{r}
+# prepare data for plot
 longitudinalStudies_plotData <- bind_rows(
+
+  # ---- start cross-section ----
   longitudinalStudies %>%
     mutate(
       segment_group = "cross-section",
@@ -57,7 +60,10 @@ longitudinalStudies_plotData <- bind_rows(
     ) %>%
     select(study, studyLabel, ageStart, ageEnd, segment_group, segment_type),
 
+  # ---- core (ONLY if true longitudinal cohort span exists) ----
   longitudinalStudies %>%
+    mutate(has_cor = ageStartMax < ageEndMin) %>%
+    filter(has_cor) %>%
     mutate(
       segment_group = "core",
       segment_type = "core",
@@ -66,6 +72,7 @@ longitudinalStudies_plotData <- bind_rows(
     ) %>%
     select(study, studyLabel, ageStart, ageEnd, segment_group, segment_type),
 
+  # ---- end cross-section ----
   longitudinalStudies %>%
     mutate(
       segment_group = "cross-section",
@@ -73,32 +80,37 @@ longitudinalStudies_plotData <- bind_rows(
       ageStart = ageEndMin,
       ageEnd = ageEndMax
     ) %>%
-    select(study, studyLabel, ageStart, ageEnd, segment_group, segment_type),
+    select(study, studyLabel, ageStart, ageEnd, segment_group, segment_type)
 )
 
+# Merge active status
 longitudinalStudies_plotData <- longitudinalStudies_plotData %>%
   left_join(
-    longitudinalStudies %>%
-      select(study, active),
-    by = "study"
+    longitudinalStudies %>% select(study, active),
+    by = c("study")
   )
 
+# Order studies for plot
 study_order <- longitudinalStudies %>%
-  arrange(ageEndMax) %>%
+  arrange(ageEndMax, ageStartMin) %>%
   pull(studyLabel)
 
 longitudinalStudies_plotData <- longitudinalStudies_plotData %>%
   mutate(studyLabelFactor = factor(studyLabel, levels = study_order))
 
+# Prenatal enrollment
 prenatal_df <- longitudinalStudies %>%
   filter(prenatal == TRUE) %>%
-  mutate(age = 0)
+  mutate(
+    age = 0,
+    studyLabelFactor = factor(studyLabel, levels = study_order)
+  )
 ```
 
 ```{r}
 #| label: fig-longitudinalstudies
-#| fig-cap: "(Approximate) ages spanned by various longitudinal studies, as of this writing. Studies that are no longer active are in gray. Dotted lines reflect cross-sectional spans. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 20–25. A star at age 0 represents that participants were enrolled before birth and the study included prenatal assessments. Ages spanned reflect ages when assessments were collected directly from participants; ages spanned do not include links to registry data (e.g., birth records, offending records). Age was truncated at 100. Age 100 represents that the study has followed individuals into their 90s (or until they decease)."
-#| fig-alt: "(Approximate) ages spanned by various longitudinal studies, as of this writing. Studies that are no longer active are in gray. Dotted lines reflect cross-sectional spans. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 20–25. A star at age 0 represents that participants were enrolled before birth and the study included prenatal assessments. Ages spanned reflect ages when assessments were collected directly from participants; ages spanned do not include links to registry data (e.g., birth records, offending records). Age was truncated at 100. Age 100 represents that the study has followed individuals into their 90s (or until they decease)."
+#| fig-cap: "(Approximate) ages spanned by various longitudinal studies, as of this writing. Studies that are no longer active are in gray. Solid lines reflect fully longitudinal spans (i.e., following the same individuals over time). Dotted lines reflect cross-sectional spans—even if some participants may have been followed longitudinally. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 20–25. A star at age 0 represents that participants were enrolled before birth and the study included prenatal assessments. Ages spanned reflect ages when assessments were collected directly from participants; ages spanned do not include links to registry data (e.g., birth records, offending records). Age was truncated at 100. Age 100 represents that the study has followed individuals into their 90s (or until they decease)."
+#| fig-alt: "(Approximate) ages spanned by various longitudinal studies, as of this writing. Studies that are no longer active are in gray. Solid lines reflect fully longitudinal spans (i.e., following the same individuals over time). Dotted lines reflect cross-sectional spans—even if some participants may have been followed longitudinally. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 20–25. A star at age 0 represents that participants were enrolled before birth and the study included prenatal assessments. Ages spanned reflect ages when assessments were collected directly from participants; ages spanned do not include links to registry data (e.g., birth records, offending records). Age was truncated at 100. Age 100 represents that the study has followed individuals into their 90s (or until they decease)."
 
 plot_longitudinalStudies <- ggplot2::ggplot(
   data = longitudinalStudies_plotData,
@@ -113,9 +125,9 @@ plot_longitudinalStudies <- ggplot2::ggplot(
       yend = studyLabelFactor,
       linetype = segment_group,
       color = active
-      ),
+    ),
     linewidth = 1
-) +
+  ) +
   scale_linetype_manual(
     values = c(
       "cross-section" = "dotted",
@@ -127,21 +139,23 @@ plot_longitudinalStudies <- ggplot2::ggplot(
     values = c(
       "TRUE" = "black",
       "FALSE" = "gray70"
-      ),
+    ),
     guide = "none"
-    ) +
+  ) +
   geom_point(
     data = prenatal_df,
     aes(
       x = age,
-      y = studyLabel,
-      color = active),
-    shape = 8, # star
+      y = studyLabelFactor,
+      color = active
+    ),
+    shape = 8,
     size = 3
   ) +
   labs(
     x = "Age (years)",
-    y = NULL) +
+    y = NULL
+  ) +
   theme_classic()
 
 plot_longitudinalStudies
