@@ -30,6 +30,7 @@ nshd,National Survey of Health & Development (NSHD),5362,1946,2026,,0,0,80,80,TR
 oregonYouth,Oregon Youth Study (OYS),206,1983,2022,,9,10,48,51,FALSE,TRUE,United States,North America
 pittsburghGirls,Pittsburgh Girls Study (PGS),2451,2000,2023,,5,8,29,32,FALSE,TRUE,United States,North America
 pittsburghYouth,Pittsburgh Youth Study (PYS),1517,1987,2010,2010,6,13,23,35,FALSE,FALSE,United States,North America
+qlscd,Quebec Longitudinal Study of Child Development (QLSCD),2120,1997,2023,,0,0,25,26,TRUE,TRUE,Canada,North America
 seccyd,NICHD Study of Early Child Care and Youth Development (SECCYD),1364,1991,2017,,0,0,26,26,FALSE,TRUE,United States,North America
 share,Survey of Health Ageing and Retirement in Europe (SHARE),160000,2004,2024,,50,100,50,100,FALSE,TRUE,Multiple,Europe
 smokyMountain,Great Smoky Mountains Study (GSMS),1420,1993,2021,,9,13,37,42,FALSE,TRUE,United States,North America
