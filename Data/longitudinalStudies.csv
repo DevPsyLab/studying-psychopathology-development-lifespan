@@ -24,6 +24,7 @@ nlscya,NLSY79 Child and Young Adult (NLSCYA),11551,1986,2020,,0,16,12,50,FALSE,T
 nlsy79,National Longitudinal Survey of Youth 1979 (NLSY79),12686,1979,2022,,14,22,57,66,FALSE,TRUE,United States,North America
 nlsy97,National Longitudinal Survey of Youth 1997 (NLSY97),8984,1997,2024,,12,17,38,44,FALSE,TRUE,United States,North America
 nshd,National Survey of Health & Development (NSHD),5362,1946,2026,,0,0,80,80,TRUE,TRUE,United Kingdom,Europe
+oregonYouth,Oregon Youth Study,206,1983,2022,,9,10,48,51,FALSE,TRUE,United States,North America
 pittsburghGirls,Pittsburgh Girls Study,2451,2000,2023,,5,8,29,32,FALSE,TRUE,United States,North America
 pittsburghYouth,Pittsburgh Youth Study,1517,1987,2010,2010,6,13,23,35,FALSE,FALSE,United States,North America
 seccyd,NICHD Study of Early Child Care and Youth Development (SECCYD),1364,1991,2017,,0,0,26,26,FALSE,TRUE,United States,North America
