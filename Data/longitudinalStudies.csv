@@ -21,6 +21,7 @@ iyfp,Iowa Youth and Families Project (IYFP) cohort of Family Transitions Project
 lsac,Longitudinal Study of Australian Children (LSAC),10090,2004,2023,,0,5,19,24,FALSE,TRUE,Australia,Oceania
 mcs,Millennium Cohort Study (MCS),18827,2000,2025,,0,1,23,23,FALSE,TRUE,United Kingdom,Europe
 minnesota,Minnesota Longitudinal Study of Risk and Adaptation (MLSRA),267,1975,2025,,0,0,50,50,TRUE,TRUE,United States,North America
+moba,Norwegian Mother Father and Child Cohort Study (MoBa),114500,1999,2024,,0,0,13,25,TRUE,TRUE,Norway,Europe
 ncds,National Child Development Study (NCDS),17415,1958,2026,,0,0,68,68,FALSE,TRUE,United Kingdom,Europe
 newcastle,Newcastle upon Tyne Thousand Families Study,1142,1947,2011,,0,0,63,64,FALSE,TRUE,United Kingdom,Europe
 nlscy,National Longitudinal Survey of Children and Youth (NLSCY),22831,1994,2009,2009,0,11,14,25,FALSE,FALSE,Canada,North America
