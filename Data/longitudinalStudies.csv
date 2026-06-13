@@ -20,6 +20,7 @@ mcs,Millennium Cohort Study (MCS),18827,2000,2025,,0,1,23,23,FALSE,TRUE,United K
 minnesota,Minnesota Longitudinal Study of Risk and Adaptation (MLSRA),267,1975,2025,,0,0,50,50,TRUE,TRUE,United States,North America
 ncds,National Child Development Study (NCDS),17415,1958,2026,,0,0,68,68,FALSE,TRUE,United Kingdom,Europe
 newcastle,Newcastle Upon Tyne Thousand Families Study,1142,1947,2011,,0,0,63,64,FALSE,TRUE,United Kingdom,Europe
+nlscy,National Longitudinal Survey of Children and Youth (NLSCY),22831,1994,2009,2009,0,11,14,25,FALSE,FALSE,Canada,North America
 nlscya,NLSY79 Child and Young Adult (NLSCYA),11551,1986,2020,,0,16,12,50,FALSE,TRUE,United States,North America
 nlsy79,National Longitudinal Survey of Youth 1979 (NLSY79),12686,1979,2022,,14,22,57,66,FALSE,TRUE,United States,North America
 nlsy97,National Longitudinal Survey of Youth 1997 (NLSY97),8984,1997,2024,,12,17,38,44,FALSE,TRUE,United States,North America
