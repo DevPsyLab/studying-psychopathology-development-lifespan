@@ -40,6 +40,7 @@ smokyMountain,Great Smoky Mountains Study (GSMS),1420,1993,2021,,9,13,37,42,FALS
 soep,German Socio-Economic Panel (SOEP),30000,1984,2026,,0,100,0,100,FALSE,TRUE,Germany,Europe
 stockholm,Stockholm Metropolitan Study (SMS),13476,1966,1985,1985,12,13,31,32,FALSE,FALSE,Sweden,Europe
 talent,Project Talent,377016,1960,2018,,14,18,72,76,FALSE,TRUE,United States,North America
+terman,Terman Life-Cycle Study,1528,1921,1999,1999,4,18,82,96,FALSE,FALSE,United States,North America
 trails,TRacking Adolescents' Individual Lives Survey (TRAILS),2773,2001,2023,,10,12,29,32,FALSE,TRUE,Netherlands,Europe
 wls,Wisconsin Longitudinal Study (WLS),10317,1957,2020,,18,18,81,81,FALSE,TRUE,United States,North America
 zproso,Zurich Project on the Social Development from Childhood to Adulthood (z-proso),1360,2005,2022,,7,7,24,24,FALSE,TRUE,Switzerland,Europe
