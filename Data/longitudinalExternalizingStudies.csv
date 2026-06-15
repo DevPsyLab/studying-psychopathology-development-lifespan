@@ -1,2 +1,16 @@
-sample,sampleLabel,study,year,studyLabel,sampleSize,ageStartMin,ageStartMax,ageEndMin,ageEndMax,timePoints,measurementOccasions,country,continent
-cdp,Child Development Project (CDP),petersen2025,2025,Petersen et al. (2015),585,5,5,27,27,20,5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23;24;27,United States,North America
+sample,sampleLabel,study,year,studyLabel,sampleSize,ageStartMin,ageStartMax,ageEndMin,ageEndMax,registry,maxTimePointsPerChild,measurementOccasions,contentDesign,score,scoring,developmentalScaling,country,continent,note
+alspac,Avon Longitudinal Study of Parents and Children (ALSPAC),speyer2022,2022,Speyer et al. (2022),11049,4,4,16,16,FALSE,7,4;7;8;9;11;13;16,sameMeasure,raw,sum,FALSE,United Kingdom,Europe,
+cambridge,Cambridge Study in Delinquent Development (CSDD),farrington,2023,Farrington et al. (2023),411,10,10,61,61,TRUE,,,sameMeasure,raw,sum,FALSE,United Kingdom,Europe,
+cdp,Child Development Project (CDP),petersen2025,2025,Petersen et al. (2015),585,5,5,27,27,FALSE,20,5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23;24;27,constructValid,raw,proportion,FALSE,United States,North America,
+dunedin,Dunedin Multidisciplinary Health and Development Study,odgers2008,2008,Odgers et al. (2008),1037,7,7,26,26,FALSE,8,7;9;11;13;15;18;21;26,ageCommon,raw,sum,FALSE,New Zealand,Oceania,
+mcs,UK Millenium Cohort Study,zhai2026,2026,Zhai et al. (2026),11881,3,3,17,17,FALSE,6,3;5;7;11;14;17,sameMeasure,raw,notReported,FALSE,United Kingdom,Europe,
+mls,Michigan Longitudinal Study (MLS),gornik2023,2023,Gornik et al. (2023),1069,3,5,15,17,FALSE,,3;4;5;6;7;8;9;10;11;12;13;14;15;16;17,,,,,,,unclear number of timepoints per participant
+montrealBoys,Montreal Boys Sample,broidy2003,2003,Broidy et al. (2003),1037,6,6,15,15,FALSE,7,6;10;11;12;13;14;15,ageCommon,raw,mean,FALSE,Canada,North America,
+pittsburghYouth,Pittsburgh Youth Study (PYS),keijsers2012,2012,Keijsers et al. (2012),503,7,7,19,19,FALSE,13,7;8;9;10;11;12;13;14;15;16;17;18;19,constructValid,integrated,sum,FALSE,United States,North America,behavior problem severity coded from aggregated info across multiple scales
+projectAchieve,Project Achieve,shi2020,2020,Shi et al. (2020),784,6,7,17,18,FALSE,12,6.5;7.5;8.5;9.5;10.5;11.5;12.5;16.5;17.5;18.5,sameMeasure,raw,mean,FALSE,United States,North America,
+raine,Raine Study,bista2025,2025,Bista et al. (2025),2393,5,5,17,17,FALSE,5,5;8;10;14;17,sameMeasure,tScores,tScores,FALSE,Australia,Oceania,
+seccyd,NICHD Study of Early Child Care and Youth Development (SECCYD),harris2025,2025,Harris et al. (2025),1364,2,2,15,15,FALSE,11,2;3;4;5;6;7;8;9;10;11;15,constructValid,raw,developmentalScaling,TRUE,United States,North America,
+snap,Special Needs and Autism Project (SNAP),stringer2020,2020,Stringer et al. (2020),158,10,14,21,25,FALSE,3,11.6;15.5;23.2,constructValid,raw,sum,FALSE,United Kingdom,Europe,
+tampereFinland,Tampere Finland Study,korhonen2018,2018,Korhonen et al. (2018),144,4,5,16,17,FALSE,3,4.5;8.5;16.5,constructValid,tScores,tScores,FALSE,Finland,Europe,
+topp,Tracking Opportunities and Problems (TOPP) Study,kjeldsen2016,2016,Kjeldsen2016,921,2.5,2.5,14.5,14.5,FALSE,6,1.5;2.5;4.5;8.5;12.5;14.5,differentMeasures,raw,sum,FALSE,Norway,Europe,
+zuidHolland,Zuid-Holland,bongers2004,2004,Bongers et al. (2004),2600,4,16,12,18,FALSE,5,4;5;6;7;8;9;10;11;12;13;14;15;16;17;18,sameMeasure,raw,mean,FALSE,Netherlands,Europe,
