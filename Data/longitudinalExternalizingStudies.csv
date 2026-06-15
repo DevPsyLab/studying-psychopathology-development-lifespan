@@ -4,7 +4,7 @@ cambridge,Cambridge Study in Delinquent Development (CSDD),farrington,2023,Farri
 cdp,Child Development Project (CDP),petersen2025,2025,Petersen et al. (2015),585,5,5,27,27,FALSE,20,5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23;24;27,constructValid,raw,proportion,FALSE,United States,North America,
 dunedin,Dunedin Multidisciplinary Health and Development Study,odgers2008,2008,Odgers et al. (2008),1037,7,7,26,26,FALSE,8,7;9;11;13;15;18;21;26,ageCommon,raw,sum,FALSE,New Zealand,Oceania,
 mcs,UK Millenium Cohort Study,zhai2026,2026,Zhai et al. (2026),11881,3,3,17,17,FALSE,6,3;5;7;11;14;17,sameMeasure,raw,notReported,FALSE,United Kingdom,Europe,
-mls,Michigan Longitudinal Study (MLS),gornik2023,2023,Gornik et al. (2023),1069,3,5,15,17,FALSE,,3;4;5;6;7;8;9;10;11;12;13;14;15;16;17,,,,,,,unclear number of timepoints per participant
+mls,Michigan Longitudinal Study (MLS),gornik2023,2023,Gornik et al. (2023),1069,3,5,15,17,FALSE,,3;4;5;6;7;8;9;10;11;12;13;14;15;16;17,constructValid,raw,sum,FALSE,United States,North America,unclear number of timepoints per participant
 montrealBoys,Montreal Boys Sample,broidy2003,2003,Broidy et al. (2003),1037,6,6,15,15,FALSE,7,6;10;11;12;13;14;15,ageCommon,raw,mean,FALSE,Canada,North America,
 pittsburghYouth,Pittsburgh Youth Study (PYS),keijsers2012,2012,Keijsers et al. (2012),503,7,7,19,19,FALSE,13,7;8;9;10;11;12;13;14;15;16;17;18;19,constructValid,integrated,sum,FALSE,United States,North America,behavior problem severity coded from aggregated info across multiple scales
 projectAchieve,Project Achieve,shi2020,2020,Shi et al. (2020),784,6,7,17,18,FALSE,12,6.5;7.5;8.5;9.5;10.5;11.5;12.5;16.5;17.5;18.5,sameMeasure,raw,mean,FALSE,United States,North America,
