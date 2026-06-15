@@ -296,61 +296,10 @@ One the key findings from the Harvard Study of Adult Development, summarized in 
 "Close relationships, more than money or fame, are what keep people happy throughout their lives, the study revealed.
 Those ties protect people from life's discontents, help to delay mental and physical decline, and are better predictors of long and happy lives than social class, IQ, or even genes...people's level of satisfaction with their relationships at age 50 was a better predictor of physical health than their cholesterol levels were."
 
-### Minnesota Longitudinal Study of Risk and Adaptation
-
-The Minnesota Longitudinal Study of Risk and Adaptation [@Sroufe2005] started in 1975 and recruited 267 first-time mothers, who were experiencing poverty, in Minneapolis, Minnesota.
-Mothers were recruited during pregnancy, and their newborns have been followed to age 50.
-Key findings from the study include that insecure attachment in infancy predicts emotion regulation strategies in adulthood [@Girme2021], and the impacts of child abuse and neglect on adulthood outcomes [@Nivison2024].
-
-### National Longitudinal Study of Adolescent to Adult Health (Add Health)
-
-The National Longitudinal Study of Adolescent to Adult Health [Add Health\; @Harris2019] recruited 20,745 adolescents who were in grades 7–12 (ages 12–19) during the 1994-95 school year from one of 80 high schools or a paired feeder school across the United States.
-Participants have been followed to ~age 44.
-
 ### Child Development Project
 
 The Child Development Project [@Dodge1990] is a study that recruited of 4-year-old children the year before kindergarten in 1987 and 1988 in Nashville, Tennessee, Knoxville, Tennessee, and Bloomington, Indiana.
 Participants included 585 children, and they have been followed to age 34.
-One of the key findings from the Child Development Project is that a hostile attribution bias, an aspect of social information processing that involves the tendency to interpret ambiguous social cues as hostile, predicts aggression and that part of that association is mediated by peer rejection [@Lansford2010].
-
-### Framingham Heart Study
-
-The Framingham Heart Study started in 1938 and recruited 5,209 adults aged 30–62 years in Framingham, Massachusetts.
-Participants have been followed to age 106.
-
-### National Longitudinal Survey of Youth 1979 (NLSY79)
-
-The National Longitudinal Survey of Youth 1979 recruited 12,686 youths aged 14–22 years.
-The sample was recruited nationwide across the United States and was nationally representative, with a supplemental oversample of Hispanics, economically disadvantaged nonblacks and non-Hispanics, and youths in the military.
-Participants have been followed to age 66.
-
-### NICHD Study of Early Child Care and Youth Development (SECCYD)
-
-The NICHD Study of Early Child Care and Youth Development (SECCYD) started in 1991 and recruited 1,364 children at birth from hospitals across the United States and followed them to age 26 [@Vandell2023].
-
-### Avon Longitudinal Study of Parents and Children (ALSPAC)
-
-The Avon Longitudinal Study of Parents and Children (ALSPAC) started in 1991 and recruited 15,247 pregnant mothers in Briston, England, and their newborns have been followed to age 32.
-
-### Isle of Wight Study
-
-The Isle of Wight Study started in 1964 and recruited ~3,500 children aged 9–11 from the Isle of Wight, England, and followed them to age 45.
-
-### National Survey of Health & Development (NSHD)
-
-The National Survey of Health & Development (NSHD) started in 1946 and recruited 5,362 singleton babies born to married parents in England, Scotland, and Wales, and followed them to age 80.
-
-### National Child Development Study (NCDS)
-
-The National Child Development Study (NCDS) started in 1958 and recruited 17,415 babies born in England, Scotland, and Wales, and followed them to age 68.
-
-### 1970 British Cohort Study (BCS70)
-
-The 1970 British Cohort Study (BCS70) started in 1970 and recruited 17,287 babies born in England, Scotland, and Wales, and followed them to age 56.
-
-### Millennium Cohort Study (MCS)
-
-The Millennium Cohort Study (MCS) started in 2000 and recruited 18,827 babies born across England, Scotland, Wales and Northern Ireland, and followed them to age 23.
 
 ## Longitudinal Studies of Psychopathology
 
