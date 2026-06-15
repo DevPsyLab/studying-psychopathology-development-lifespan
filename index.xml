@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-14">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-15">
 <year>2026</year>
 <month>6</month>
-<day>14</day>
+<day>15</day>
 </pub-date>
 
 
@@ -646,33 +646,6 @@ cognitive skills across lengthy developmental periods.</p>
       predictor of physical health than their cholesterol levels
       were.”</p>
     </sec>
-    <sec id="minnesota-longitudinal-study-of-risk-and-adaptation">
-      <title>Minnesota Longitudinal Study of Risk and Adaptation</title>
-      <p>The Minnesota Longitudinal Study of Risk and Adaptation
-      (<xref alt="Sroufe et al. 2005" rid="ref-Sroufe2005" ref-type="bibr">Sroufe
-      et al. 2005</xref>) started in 1975 and recruited 267 first-time
-      mothers, who were experiencing poverty, in Minneapolis, Minnesota.
-      Mothers were recruited during pregnancy, and their newborns have
-      been followed to age 50. Key findings from the study include that
-      insecure attachment in infancy predicts emotion regulation
-      strategies in adulthood
-      (<xref alt="Girme et al. 2021" rid="ref-Girme2021" ref-type="bibr">Girme
-      et al. 2021</xref>), and the impacts of child abuse and neglect on
-      adulthood outcomes
-      (<xref alt="Nivison et al. 2024" rid="ref-Nivison2024" ref-type="bibr">Nivison
-      et al. 2024</xref>).</p>
-    </sec>
-    <sec id="national-longitudinal-study-of-adolescent-to-adult-health-add-health">
-      <title>National Longitudinal Study of Adolescent to Adult Health
-      (Add Health)</title>
-      <p>The National Longitudinal Study of Adolescent to Adult Health
-      (Add Health;
-      <xref alt="Harris et al. 2019" rid="ref-Harris2019" ref-type="bibr">Harris
-      et al. 2019</xref>) recruited 20,745 adolescents who were in
-      grades 7–12 (ages 12–19) during the 1994-95 school year from one
-      of 80 high schools or a paired feeder school across the United
-      States. Participants have been followed to ~age 44.</p>
-    </sec>
     <sec id="child-development-project">
       <title>Child Development Project</title>
       <p>The Child Development Project
@@ -685,72 +658,9 @@ cognitive skills across lengthy developmental periods.</p>
       Development Project is that a hostile attribution bias, an aspect
       of social information processing that involves the tendency to
       interpret ambiguous social cues as hostile, predicts aggression
-      and that part of that association is mediated by peer rejection
+      and that part of the association is mediated by peer rejection
       (<xref alt="Lansford et al. 2010" rid="ref-Lansford2010" ref-type="bibr">Lansford
       et al. 2010</xref>).</p>
-    </sec>
-    <sec id="framingham-heart-study">
-      <title>Framingham Heart Study</title>
-      <p>The Framingham Heart Study started in 1938 and recruited 5,209
-      adults aged 30–62 years in Framingham, Massachusetts. Participants
-      have been followed to age 106.</p>
-    </sec>
-    <sec id="national-longitudinal-survey-of-youth-1979-nlsy79">
-      <title>National Longitudinal Survey of Youth 1979 (NLSY79)</title>
-      <p>The National Longitudinal Survey of Youth 1979 recruited 12,686
-      youths aged 14–22 years. The sample was recruited nationwide
-      across the United States and was nationally representative, with a
-      supplemental oversample of Hispanics, economically disadvantaged
-      nonblacks and non-Hispanics, and youths in the military.
-      Participants have been followed to age 66.</p>
-    </sec>
-    <sec id="nichd-study-of-early-child-care-and-youth-development-seccyd">
-      <title>NICHD Study of Early Child Care and Youth Development
-      (SECCYD)</title>
-      <p>The NICHD Study of Early Child Care and Youth Development
-      (SECCYD) started in 1991 and recruited 1,364 children at birth
-      from hospitals across the United States and followed them to age
-      26
-      (<xref alt="Vandell and Gülseven 2023" rid="ref-Vandell2023" ref-type="bibr">Vandell
-      and Gülseven 2023</xref>).</p>
-    </sec>
-    <sec id="avon-longitudinal-study-of-parents-and-children-alspac">
-      <title>Avon Longitudinal Study of Parents and Children
-      (ALSPAC)</title>
-      <p>The Avon Longitudinal Study of Parents and Children (ALSPAC)
-      started in 1991 and recruited 15,247 pregnant mothers in Briston,
-      England, and their newborns have been followed to age 32.</p>
-    </sec>
-    <sec id="isle-of-wight-study">
-      <title>Isle of Wight Study</title>
-      <p>The Isle of Wight Study started in 1964 and recruited ~3,500
-      children aged 9–11 from the Isle of Wight, England, and followed
-      them to age 45.</p>
-    </sec>
-    <sec id="national-survey-of-health-development-nshd">
-      <title>National Survey of Health &amp; Development (NSHD)</title>
-      <p>The National Survey of Health &amp; Development (NSHD) started
-      in 1946 and recruited 5,362 singleton babies born to married
-      parents in England, Scotland, and Wales, and followed them to age
-      80.</p>
-    </sec>
-    <sec id="national-child-development-study-ncds">
-      <title>National Child Development Study (NCDS)</title>
-      <p>The National Child Development Study (NCDS) started in 1958 and
-      recruited 17,415 babies born in England, Scotland, and Wales, and
-      followed them to age 68.</p>
-    </sec>
-    <sec id="british-cohort-study-bcs70">
-      <title>1970 British Cohort Study (BCS70)</title>
-      <p>The 1970 British Cohort Study (BCS70) started in 1970 and
-      recruited 17,287 babies born in England, Scotland, and Wales, and
-      followed them to age 56.</p>
-    </sec>
-    <sec id="millennium-cohort-study-mcs">
-      <title>Millennium Cohort Study (MCS)</title>
-      <p>The Millennium Cohort Study (MCS) started in 2000 and recruited
-      18,827 babies born across England, Scotland, Wales and Northern
-      Ireland, and followed them to age 23.</p>
     </sec>
   </sec>
   <sec id="longitudinal-studies-of-psychopathology">
@@ -1171,7 +1081,12 @@ cognitive skills across lengthy developmental periods.</p>
       are at risk for impairment from being identified. Better
       identification of subthreshold externalizing is critical, in both
       research and practice, for identifying at-risk individuals in the
-      early-stage trajectory of psychopathology.</p>
+      early-stage trajectory of psychopathology. As noted by Pavlovich
+      et al.
+      (<xref alt="2026" rid="ref-Pavlovich2026" ref-type="bibr">2026</xref>),
+      “These findings…highlight the need for measures explicitly
+      developed and validated for dimensional psychopathology in
+      population-scale research.” (p. 1).</p>
     </sec>
     <sec id="not-well-suited-for-capturing-individuals-change-over-time">
       <title>Not Well-Suited for Capturing Individuals’ Change Over
@@ -2905,86 +2820,6 @@ cognitive skills across lengthy developmental periods.</p>
       <lpage>602</lpage>
     </element-citation>
   </ref>
-  <ref id="ref-Sroufe2005">
-    <element-citation publication-type="book">
-      <person-group person-group-type="author">
-        <name><surname>Sroufe</surname><given-names>L. A.</given-names></name>
-        <name><surname>Egeland</surname><given-names>B.</given-names></name>
-        <name><surname>Carlson</surname><given-names>E. A.</given-names></name>
-        <name><surname>Collins</surname><given-names>W. A.</given-names></name>
-      </person-group>
-      <source>The development of the person: The Minnesota study of risk and adaptation from birth to adulthood</source>
-      <publisher-name>Guilford Publications</publisher-name>
-      <year iso-8601-date="2005">2005</year>
-    </element-citation>
-  </ref>
-  <ref id="ref-Girme2021">
-    <element-citation publication-type="article-journal">
-      <person-group person-group-type="author">
-        <name><surname>Girme</surname><given-names>Yuthika U.</given-names></name>
-        <name><surname>Jones</surname><given-names>Rachael E.</given-names></name>
-        <name><surname>Fleck</surname><given-names>Cory</given-names></name>
-        <name><surname>Simpson</surname><given-names>Jeffry A.</given-names></name>
-        <name><surname>Overall</surname><given-names>Nickola C.</given-names></name>
-      </person-group>
-      <article-title>Infants’ attachment insecurity predicts attachment-relevant emotion regulation strategies in adulthood</article-title>
-      <source>Emotion</source>
-      <year iso-8601-date="2021">2021</year>
-      <volume>21</volume>
-      <issue>2</issue>
-      <pub-id pub-id-type="doi">10.1037/emo0000721</pub-id>
-      <fpage>260</fpage>
-      <lpage>272</lpage>
-    </element-citation>
-  </ref>
-  <ref id="ref-Nivison2024">
-    <element-citation publication-type="article-journal">
-      <person-group person-group-type="author">
-        <name><surname>Nivison</surname><given-names>Marissa D.</given-names></name>
-        <name><surname>Labella</surname><given-names>Madelyn H.</given-names></name>
-        <name><surname>Raby</surname><given-names>K. Lee</given-names></name>
-        <name><surname>Doom</surname><given-names>Jenalee R.</given-names></name>
-        <name><surname>Martin</surname><given-names>Jodi</given-names></name>
-        <name><surname>Johnson</surname><given-names>William F.</given-names></name>
-        <name><surname>Zamir</surname><given-names>Osnat</given-names></name>
-        <name><surname>Englund</surname><given-names>Michelle M.</given-names></name>
-        <name><surname>Simpson</surname><given-names>Jeffry A.</given-names></name>
-        <name><surname>Carlson</surname><given-names>Elizabeth A.</given-names></name>
-        <name><surname>Roisman</surname><given-names>Glenn I.</given-names></name>
-      </person-group>
-      <article-title>Insights into child abuse and neglect: Findings from the Minnesota Longitudinal Study of Risk and Adaptation</article-title>
-      <source>Development and Psychopathology</source>
-      <year iso-8601-date="2024">2024</year>
-      <volume>36</volume>
-      <issue>5</issue>
-      <uri>https://www.cambridge.org/core/product/D6AC2CA0EE0808CB51454FCE405A22A1</uri>
-      <pub-id pub-id-type="doi">10.1017/S0954579424000865</pub-id>
-      <fpage>2499</fpage>
-      <lpage>2511</lpage>
-    </element-citation>
-  </ref>
-  <ref id="ref-Harris2019">
-    <element-citation publication-type="article-journal">
-      <person-group person-group-type="author">
-        <name><surname>Harris</surname><given-names>Kathleen Mullan</given-names></name>
-        <name><surname>Halpern</surname><given-names>Carolyn Tucker</given-names></name>
-        <name><surname>Whitsel</surname><given-names>Eric A</given-names></name>
-        <name><surname>Hussey</surname><given-names>Jon M</given-names></name>
-        <name><surname>Killeya-Jones</surname><given-names>Ley A</given-names></name>
-        <name><surname>Tabor</surname><given-names>Joyce</given-names></name>
-        <name><surname>Dean</surname><given-names>Sarah C</given-names></name>
-      </person-group>
-      <article-title>Cohort profile: The National Longitudinal Study of Adolescent to Adult Health (Add Health)</article-title>
-      <source>International Journal of Epidemiology</source>
-      <year iso-8601-date="2019">2019</year>
-      <volume>48</volume>
-      <issue>5</issue>
-      <uri>https://doi.org/10.1093/ije/dyz115</uri>
-      <pub-id pub-id-type="doi">10.1093/ije/dyz115</pub-id>
-      <fpage>1415</fpage>
-      <lpage>1415k</lpage>
-    </element-citation>
-  </ref>
   <ref id="ref-Chumlea2012">
     <element-citation publication-type="article-journal">
       <person-group person-group-type="author">
@@ -3003,22 +2838,6 @@ cognitive skills across lengthy developmental periods.</p>
       <issue>2</issue>
       <fpage>50</fpage>
       <lpage>51</lpage>
-    </element-citation>
-  </ref>
-  <ref id="ref-Vandell2023">
-    <element-citation publication-type="article-journal">
-      <person-group person-group-type="author">
-        <name><surname>Vandell</surname><given-names>Deborah Lowe</given-names></name>
-        <name><surname>Gülseven</surname><given-names>Zehra</given-names></name>
-      </person-group>
-      <article-title>The study of early child care and youth development (SECCYD): Studying development from infancy to adulthood</article-title>
-      <source>Annual Review of Developmental Psychology</source>
-      <year iso-8601-date="2023">2023</year>
-      <volume>5</volume>
-      <uri>https://www.annualreviews.org/content/journals/10.1146/annurev-devpsych-120621-035345</uri>
-      <pub-id pub-id-type="doi">10.1146/annurev-devpsych-120621-035345</pub-id>
-      <fpage>331</fpage>
-      <lpage>354</lpage>
     </element-citation>
   </ref>
 </ref-list>
