@@ -1,0 +1,2 @@
+sample,sampleLabel,study,year,studyLabel,sampleSize,ageStartMin,ageStartMax,ageEndMin,ageEndMax,timePoints,measurementOccasions,country,continent
+cdp,Child Development Project (CDP),petersen2025,2025,Petersen et al. (2015),585,5,5,27,27,20,5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23;24;27,United States,North America
