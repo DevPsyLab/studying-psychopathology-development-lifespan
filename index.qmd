@@ -300,6 +300,7 @@ Those ties protect people from life's discontents, help to delay mental and phys
 
 The Child Development Project [@Dodge1990] is a study that recruited of 4-year-old children the year before kindergarten in 1987 and 1988 in Nashville, Tennessee, Knoxville, Tennessee, and Bloomington, Indiana.
 Participants included 585 children, and they have been followed to age 34.
+One of the key findings from the Child Development Project is that a hostile attribution bias, an aspect of social information processing that involves the tendency to interpret ambiguous social cues as hostile, predicts aggression and that part of the association is mediated by peer rejection [@Lansford2010].
 
 ## Longitudinal Studies of Psychopathology
 
