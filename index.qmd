@@ -507,6 +507,7 @@ In addition, the measures focus on extreme or clinical-range behaviors; scores a
 Considerable evidence indicates that externalizing problems [and psychopathology, more generally\; @Haslam2012; @Haslam2020; @Kotov2017; @Krueger2002; @Krueger2011; @Krueger2016; @Markon2011; @Wright2013] and their trajectories [@Burt2012; @Fairchild2013; @Walters2011; @Walters2012; @Walters2013; @Walters2015] and risk factors [@Walters2014] are best conceptualized dimensionally [or multi-dimensionally\; @Bolhuis2017; @Wakschlag2014], not categorically [@Barry2013; @Coghill2012; @Forbes2016; @Kliem2018; @Kliem2022; @Krueger2004; @Krueger2005; @Krueger2007; @Krueger2021; @Markon2005; @Sellbom2016; @Walton2011].
 Thus, the existing measures are impoverished for studying the full range of individual differences on the externalizing spectrum, which prevents subthreshold children who are at risk for impairment from being identified.
 Better identification of subthreshold externalizing is critical, in both research and practice, for identifying at-risk individuals in the early-stage trajectory of psychopathology.
+As noted by @Pavlovich2026, "These findings...highlight the need for measures explicitly developed and validated for dimensional psychopathology in population-scale research." (p. 1).
 
 ### Not Well-Suited for Capturing Individuals' Change Over Time
 
