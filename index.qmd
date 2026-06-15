@@ -298,7 +298,7 @@ Those ties protect people from life's discontents, help to delay mental and phys
 
 ### Child Development Project
 
-The Child Development Project [@Dodge1990] is a study that recruited of 4-year-old children the year before kindergarten in 1987 and 1988 in Nashville, Tennessee, Knoxville, Tennessee, and Bloomington, Indiana.
+The Child Development Project [@Dodge1990] is a study that recruited 4-year-old children the year before kindergarten in 1987 and 1988 in Nashville, Tennessee, Knoxville, Tennessee, and Bloomington, Indiana.
 Participants included 585 children, and they have been followed to age 34.
 One of the key findings from the Child Development Project is that a hostile attribution bias, an aspect of social information processing that involves the tendency to interpret ambiguous social cues as hostile, predicts later aggression and that part of the association is mediated by peer rejection [@Lansford2010].
 
@@ -310,12 +310,14 @@ Some long-term longitudinal studies have even followed children of those childre
 However, relatively few longitudinal studies attempt to assess people's *change* in a given psychopathology construct over a long period.
 Here, we focus on studies that have examined trajectories of externalizing behavior.
 
+In the Child Development Project, @Petersen2015 examined trajectories of externalizing behavior from ages 5–27 with 20 measurement occasions.
 In the Dunedin Multidisciplinary Health and Development Study, @Odgers2008 examined trajectories of antisocial conduct problems from ages 7–26 with 8 measurement occasions.
 A study using six longitudinal datasets examined trajectories of disruptive behaviors and delinquency, with the longest trajectory spanning ages 6–15 with 7 measurement occasions [@Broidy2003].
-Another study examined trajectories of various externalizing problems in children from ages 4 to 18 with 5 measurement occasions [@Bongers2004].
+In addition, a study examined trajectories of externalizing problems from ages 4–17 with 3 measurement occasions in predicting externalizing problems at age 27 [@Korhonen2018].
+Other studies have examined trajectories of externalizing problems from ages 5–17 with 5 measurement occasions [@Bista2025], from ages 6–18 with 12 measurement occasions [@Shi2020], from ages 1.5–14.5 with 6 measurement occasions [@Kjeldsen2021], from ages 8–20 with 3 measurement occasions [@KujaHalkola2015], from ages 4–16 with 7 measurement occasions [Avon Longitudinal Study of Parents and Children (ALSPAC)\; @Speyer2022], from ages 3–17 with 6 measurement occasions [UK Millennium Cohort Study\; @Zhai2026], from ages 12–23 with 3 measurement occasions [@Stringer2020], and from ages 2–15 with 11 measurement occasions [NICHD Study of Early Child Care and Youth Development (SECCYD)\; @Harris2025].
+Another study examined trajectories of various externalizing problems from ages 4 to 18 with 5 measurement occasions [@Bongers2004].
 Other studies have examined trajectories of other externalizing phenotypes, including aggression from ages 8 to 30 with 3 measurement occasions [@Huesmann1984] and from ages 8 to 42 with 4 measurement occasions [@Kokko2009].
 Studies have also examined trajectories of delinquency from ages 7 to 19 with 13 measurement occasions [Pittsburgh Youth Study\; @Keijsers2012] and from ages 8 to 46 with 9 measurement occasions [Cambridge Study in Delinquent Development\; @Farrington1990].
-In the Child Development Project, @Petersen2015 examined trajectories of externalizing behavior from ages 5–27 with 20 measurement occasions.
 
 However, as we will describe, these lengthy longitudinal studies of psychopathology [e.g., @Odgers2008]—including our own [@Petersen2015]—have important limitations in (a) how they assessed psychopathology constructs across development and (b) how they estimated people's scores on those constructs over time that prevent strong inferences regarding individuals' change over time.
 
@@ -447,6 +449,10 @@ In sum, despite these approaches being the most widely used for assessing indivi
 <!-- Using DSM disorders/diagnoses does not solve the issue. Fictitious categories. Diagnostic criteria change, leading prior categorizations to fall out of favor. -->
 
 ### Do Not Allow Charting Individuals' Change Over Time When the Construct Changes in Behavioral Manifestation
+
+<!-- Studies of cognitive development -->
+
+<!-- Hancock & Buehl, 2008; Kolen & Brennan, 2014; Lai, 2021; McArdle & Grimm, 2011; McArdle et al., 2009; Petersen et al., 2020; Tyrell et al., 2019; Ward et al., 2022; McDaniel et al., 2023 -->
 
 Current tools fail to implement the construct-valid item approach—existing measures show insufficient differences in which items are assessed at which ages.
 Moreover, even in cases where the items of a measure differ across ages (e.g., CBCL: ages 1.5–5 vs. ages 6–18), the scoring systems do not link scores across ages to be on the same scale while preserving change in level.

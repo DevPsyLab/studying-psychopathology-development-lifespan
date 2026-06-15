@@ -20,7 +20,7 @@ hrs,Health and Retirement Study (HRS),51000,1992,2026,,51,100,51,100,FALSE,TRUE,
 isleOfWight,Isle of Wight Study,3500,1964,1999,1999,9,11,44,45,FALSE,FALSE,FALSE,Single-cohort,General population,United Kingdom,Europe
 iyfp,Iowa Youth and Families Project (IYFP) cohort of Family Transitions Project,451,1989,2016,,12,13,39,40,FALSE,TRUE,FALSE,Single-cohort,General population,United States,North America
 lsac,Longitudinal Study of Australian Children (LSAC),10090,2004,2023,,0,5,19,24,FALSE,TRUE,FALSE,Multi-cohort,General population,Australia,Oceania
-mcs,Millennium Cohort Study (MCS),18827,2000,2025,,0,1,23,23,FALSE,TRUE,FALSE,Single-cohort,General population,United Kingdom,Europe
+mcs,UK Millennium Cohort Study (MCS),18827,2000,2025,,0,1,23,23,FALSE,TRUE,FALSE,Single-cohort,General population,United Kingdom,Europe
 minnesota,Minnesota Longitudinal Study of Risk and Adaptation (MLSRA),267,1975,2025,,0,0,50,50,TRUE,TRUE,FALSE,Single-cohort,Selected high-risk,United States,North America
 moba,Norwegian Mother Father and Child Cohort Study (MoBa),114500,1999,2024,,0,0,13,25,TRUE,TRUE,FALSE,Single-cohort,General population,Norway,Europe
 ncds,National Child Development Study (NCDS),17415,1958,2026,,0,0,68,68,FALSE,TRUE,FALSE,Single-cohort,General population,United Kingdom,Europe
