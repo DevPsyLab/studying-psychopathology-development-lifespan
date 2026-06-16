@@ -325,10 +325,9 @@ plot_longitudinalExternalizingStudies <- ggplot(
       color = registry
     ),
     size = 2.8,
-    nudge_y = -0.4,
-    direction = "x",
-    hjust = 0.5,
-    vjust = 0,
+    nudge_x = -0.4,
+    nudge_y = -0.1,
+    direction = "both",
     segment.color = NA,
     box.padding = 0.1,
     force = 0.5
