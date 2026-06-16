@@ -168,6 +168,7 @@ plot_longitudinalStudies
 ## Longitudinal Externalizing Studies
 
 ```{r}
+# Prepare plot data
 longitudinalExternalizingStudies_plotData <- bind_rows(
 
   # start cross-sectional span
@@ -224,7 +225,7 @@ longitudinalExternalizingStudies_plotData <- bind_rows(
     )
 )
 
-# Merge registry classification
+# Merge registry/developmental scaling info
 longitudinalExternalizingStudies_plotData <- longitudinalExternalizingStudies_plotData %>%
   left_join(
     longitudinalExternalizingStudies %>%
@@ -239,20 +240,26 @@ longitudinalExternalizingStudies_plotData <- longitudinalExternalizingStudies_pl
     )
   )
 
-# Order studies for plot
+# Study ordering
 longitudinalExternalizingStudies_order <- longitudinalExternalizingStudies %>%
   arrange(ageEndMax, ageStartMin) %>%
   pull(studyLabel)
 
+# Add numeric study positions
+study_positions <- tibble(
+  studyLabel = longitudinalExternalizingStudies_order,
+  study_num = seq_along(longitudinalExternalizingStudies_order)
+)
+
+# Main plotting data
 longitudinalExternalizingStudies_plotData <- longitudinalExternalizingStudies_plotData %>%
+  left_join(study_positions, by = "studyLabel") %>%
   mutate(
-    studyLabelFactor = factor(
-      studyLabel,
-      levels = longitudinalExternalizingStudies_order
-    )
+    line_y = study_num + 0.25
   )
 
 # Measurement occasions
+
 longitudinalExternalizingStudies_measurementOccasions <- longitudinalExternalizingStudies %>%
   filter(!is.na(measurementOccasions)) %>%
   separate_rows(
@@ -260,14 +267,11 @@ longitudinalExternalizingStudies_measurementOccasions <- longitudinalExternalizi
     sep = ";"
   ) %>%
   mutate(
-    measurementOccasions = as.numeric(
-      str_trim(measurementOccasions)
-    ),
-    studyLabelFactor = factor(
-      studyLabel,
-      levels = longitudinalExternalizingStudies_order
-    ),
-    y = as.numeric(studyLabelFactor) + 0.2,
+    measurementOccasions = as.numeric(str_trim(measurementOccasions))
+  ) %>%
+  left_join(study_positions, by = "studyLabel") %>%
+  mutate(
+    point_y = study_num + 0.35,
     plotColor = case_when(
       developmentalScaling ~ "developmentalScaling",
       registry ~ "registry",
@@ -275,15 +279,12 @@ longitudinalExternalizingStudies_measurementOccasions <- longitudinalExternalizi
     )
   )
 
-# Label positions
+# Sample labels
 longitudinalExternalizingStudies_sampleLabels <- longitudinalExternalizingStudies %>%
+  left_join(study_positions, by = "studyLabel") %>%
   mutate(
-    studyLabelFactor = factor(
-      studyLabel,
-      levels = longitudinalExternalizingStudies_order
-    ),
-    label_x = (ageStartMin + ageEndMax) / 2,
-    label_y = as.numeric(studyLabelFactor),
+    label_x = ageStartMin,
+    label_y = study_num,
     plotColor = case_when(
       developmentalScaling ~ "developmentalScaling",
       registry ~ "registry",
@@ -298,19 +299,43 @@ longitudinalExternalizingStudies_sampleLabels <- longitudinalExternalizingStudie
 #| fig-alt: "(Approximate) ages spanned by various lengthy longitudinal studies examining individuals' trajectories of externalizing behavior. The list of longitudinal studies is not exhaustive. Studies that are based on registry data are shown in gray. Measurement occasions are depicted with solid circles. Note that, in some studies, measurement occasions only apply to a subset of participants in that study, in some cases, no participant was assessed at all measurement occasions. Solid lines reflect fully longitudinal spans (i.e., the same individuals were followed over time). Dotted lines reflect ages assessed cross-sectionally—even if some participants may have been followed longitudinally. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 25–30. Studies shown entirely with dotted lines assessed their full age range cross-sectionally but still included longitudinal follow-up of participants. 'MTSFGCLS' = Montreal Two Samples Four Generations Cross-sectional and Longitudinal Studies."
 #| fig-height: 8
 
-plot_longitudinalExternalizingStudies <- ggplot(
-  longitudinalExternalizingStudies_plotData,
-  aes(y = studyLabelFactor)
-) +
+plot_longitudinalExternalizingStudies <- ggplot2::ggplot() +
   geom_segment(
+    data = longitudinalExternalizingStudies_plotData,
     aes(
       x = ageStart,
       xend = ageEnd,
-      yend = studyLabelFactor,
+      y = line_y,
+      yend = line_y,
       linetype = segment_group,
       color = plotColor
     ),
     linewidth = 1
+  ) +
+  geom_point(
+    data = longitudinalExternalizingStudies_measurementOccasions,
+    aes(
+      x = measurementOccasions,
+      y = point_y,
+      color = plotColor
+    ),
+    size = 1.5
+  ) +
+  geom_text(
+    data = longitudinalExternalizingStudies_sampleLabels,
+    aes(
+      x = label_x,
+      y = label_y,
+      label = sampleLabel,
+      color = plotColor
+    ),
+    hjust = 0,
+    vjust = 0.5,
+    size = 2.8
+  ) +
+  scale_y_continuous(
+    breaks = study_positions$study_num,
+    labels = study_positions$studyLabel
   ) +
   scale_linetype_manual(
     values = c(
@@ -323,36 +348,13 @@ plot_longitudinalExternalizingStudies <- ggplot(
     values = c(
       standard = "black",
       registry = "gray70",
-      developmentalScaling = "#2E7D32" # muted forest green
+      developmentalScaling = "#2E7D32"
     ),
     guide = "none"
   ) +
-  geom_point(
-    data = longitudinalExternalizingStudies_measurementOccasions,
-    aes(
-      x = measurementOccasions,
-      y = y,
-      color = plotColor
-    ),
-    size = 1.5
+  coord_cartesian(
+    clip = "off"
   ) +
-  ggrepel::geom_text_repel(
-    data = longitudinalExternalizingStudies_sampleLabels,
-    aes(
-      x = label_x,
-      y = label_y,
-      label = sampleLabel,
-      color = plotColor
-    ),
-    size = 2.8,
-    nudge_x = -0.4,
-    nudge_y = -0.2,
-    direction = "both",
-    segment.color = NA,
-    box.padding = 0.1,
-    force = 0.5
-  ) +
-  coord_cartesian(clip = "off") +
   labs(
     x = "Age (years)",
     y = NULL

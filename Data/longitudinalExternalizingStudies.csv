@@ -16,5 +16,5 @@ seccyd,NICHD Study of Early Child Care and Youth Development (SECCYD),harris2025
 snap,Special Needs and Autism Project (SNAP),stringer2020,2020,Stringer et al. (2020),158,10,14,21,25,FALSE,3,11.6;15.5;23.2,constructValid,raw,sum,FALSE,United Kingdom,Europe,
 stockholm,Stockholm Metropolitan Study (SMS),sivertsson2024,2024,Sivertsson et al. (2024),14608,9,9,64,64,TRUE,,,constructValid,raw,sum,FALSE,Sweden,Europe,
 tampereFinland,Tampere Finland Study,korhonen2018,2018,Korhonen et al. (2018),144,4,5,16,17,FALSE,3,4.5;8.5;16.5,constructValid,tScores,tScores,FALSE,Finland,Europe,
-topp,Tracking Opportunities and Problems (TOPP) Study,kjeldsen2016,2016,Kjeldsen et al. (2016),921,2.5,2.5,14.5,14.5,FALSE,6,1.5;2.5;4.5;8.5;12.5;14.5,differentMeasures,raw,sum,FALSE,Norway,Europe,
+topp,Tracking Opportunities and Problems (TOPP) Study,kjeldsen2016,2016,Kjeldsen et al. (2016),921,1.5,1.5,14.5,14.5,FALSE,6,1.5;2.5;4.5;8.5;12.5;14.5,differentMeasures,raw,sum,FALSE,Norway,Europe,
 zuidHolland,Zuid-Holland Study,bongers2004,2004,Bongers et al. (2004),2600,4,16,12,18,FALSE,5,4;5;6;7;8;9;10;11;12;13;14;15;16;17;18,sameMeasure,raw,mean,FALSE,Netherlands,Europe,
