@@ -404,9 +404,12 @@ In particular, there is a mismatch between theory of constructs—including how 
 Given the substantial changes in behavioral manifestation of psychopathology across development, it is important for measures to capture the constructs' changing behavioral manifestation, to stay developmentally relevant and construct valid.
 As noted by Moffitt [-@Moffitt1993, p. 694], "Measures of antisocial behavior should be sensitive to developmental heterogeneity to tap individual differences while allowing for the emergence of new forms of antisocial behavior (e.g., automobile theft) or for the forsaking of old forms (e.g., tantrums)."
 
+<!-- Figure from Petersen et al. (2026, Psychol Assessment) on age-varying behaviors -->
+
 However, measures show insufficient differences in which items are assessed at which ages to account for heterotypic continuity.
-For example, the same version of the Child Behavior Checklist (CBCL) spans ages 6–18.
-Considerable development occurs during that span.
+For example, among the most widely used measures of externalizing problems in research and practice is the Child Behavior Checklist (CBCL).
+However, the same version of the Child Behavior Checklist (CBCL) spans ages 6–18.
+Considerable development occurs during that span including key developmental transitions—from childhood to adolescence to emerging adulthood—and the CBCL does not capture such changes.
 
 There are two primary ways that researchers have examined people's change in psychopathology across development [@fig-approachesToLongitudinalAssessment \; @Petersen2020].
 The "common items" approach removes items that are age specific.
@@ -429,17 +432,27 @@ The "common items" and "upward/downward extension" approaches are by far the mos
 (Figure reprinted from @Petersen2026, Figure 1, p. 113. Petersen, I. T., Demko, Z., Lee, W.-C., & Oleson, J. J. (2026). Studying development of psychopathology using changing measures to account for heterotypic continuity. *JAACAP Open*, *4*(1), 111–123. <https://doi.org/10.1016/j.jaacop.2025.10.008>)
 :::
 
-Forcing use of the same measure across time naturally limits the ages a study can span, which prevents charting wider age spans.
-<!-- USE EXT EXAMPLE -->
-<!-- For example, one could not examine development of depression across ages 11 to 13 years using the Short Mood and Feelings Questionnaire due to changes in its functioning (in particular, some items were less relevant at age 11) that likely reflect developmental changes in manifestation of depression.20  -->
 The common items approach yields low content validity because it does not assess all construct facets, especially age-specific manifestations.
 The upward/downward extension approach violates construct validity because it assesses developmentally inappropriate items.
+
 Due to these problems, both simulation [@Petersen2021] and empirical work [@Chen2015; @Petersen2018; @Petersen2026] has shown that the "common items" and "upward/downward extension" approaches lead to inaccurate developmental inferences.
 In sum, despite these approaches being the most widely used for assessing individuals' development, they likely lead to inaccurate scores and thus inaccurate trajectories.
 
-<!-- Broeren and Odgers quotes -->
-
+The problem cannot be solved merely by age-norming.
+Generating norms from items that are invalid at a given age or from scales that have important content gaps at a given age leads to construct invalid scores and resulting norms.
+Moreover, using DSM disorders or diagnoses also does not solve the issue.
 <!-- Using DSM disorders/diagnoses does not solve the issue. Fictitious categories. Diagnostic criteria change, leading prior categorizations to fall out of favor. -->
+
+In addition, forcing use of the same measure across time naturally limits the ages a study can span, which prevents charting wider age spans.
+For example, if a researcher used the CBCL and only wanted to study trajectories where the same measure was assessed across ages, they would not be able to examine development from ages 5–6, when there is a change in the CBCL version (i.e., one for ages 1.5–5 and another for ages 6–18).
+<!-- USE EXT EXAMPLE -->
+<!-- For example, one could not examine development of depression across ages 11 to 13 years using the Short Mood and Feelings Questionnaire due to changes in its functioning (in particular, some items were less relevant at age 11) that likely reflect developmental changes in manifestation of depression.20  -->
+
+In addition to the behavioral expression of a construct changing across developmental time, the behavioral expression of a construct can also change across historical time.
+Changes in the behavioral manifestation across historical time can lead existing items and measures to become obsolete.
+For instance, many measures and longitudinal studies do not assess important contemporary manifestations of externalizing behavior, including aggression on social media and cyberbullying [@Nickerson2026].
+
+Thus, many problems arise from using the same measure across ages when the construct changes in behavioral manifestation across development and historical time.
 
 ### Do Not Allow Charting Individuals' Change Over Time When the Construct Changes in Behavioral Manifestation
 
@@ -460,7 +473,7 @@ Consider the following statement by LeBlanc [-@LeBlanc2021, p. 15], "The theoret
 Nevertheless, different scale composition is an integral part of the common concept of fraud.
 To our knowledge there is no recognized analytical procedure to assess such a construct and the life cycle validity of heteromorphous measures."
 
-The lack of scoring tools to link scores from age-differing assessments has led researchers to restrict the age range of study.
+The lack of scoring tools to link scores from age-differing assessments leads researchers to restrict the age range of study.
 For instance, in their study, Bista et al. [-@Bista2025, p. 179] noted "A different version of the questionnaire (CBCL/2–3), designed for 2–3-year-olds, was used for the year 2 follow-up [compared to the CBCL/4–18 assessed from ages 5–17].
 Therefore, we excluded age 2 from our trajectory analysis."
 
@@ -469,6 +482,9 @@ Therefore, we excluded age 2 from our trajectory analysis."
 <!-- Likert-Type responses -->
 Many measures use coarse, subjective response scales such as Likert-type response scales (e.g., "rarely", "sometimes", "often", "very often") leading to cultural bias and insensitivity to change [@Schaeffer1991; @Schwarz1999; @Paalman2013].
 Moreover, Likert-type scales tend to focus on frequency of misbehavior and ignore intensity and severity.
+It can be helpful to explicitly assess—and distinguish—frequency versus problematic impact of behavior.
+Instead of assessing relative frequency, researchers advise assessing absolute frequency of behavior—in addition to other aspects of behavior.<!-- CITE -->
+<!-- Figure from Petersen et al. (2026, Psychol Assessment) of test information by absolute frequency -->
 
 In addition, the measures focus on extreme or clinical-range behaviors; scores are thus positively skewed with floor effects and have unacceptably low reliability [including the CBCL\; @Kaat2019; @Pavlovich2026; @Tiego2023], making the CBCL and existing measures unsuitable for dimensional research [@Pavlovich2026; @Tiego2023].
 Considerable evidence indicates that externalizing problems [and psychopathology, more generally\; @Haslam2012; @Haslam2020; @Kotov2017; @Krueger2002; @Krueger2011; @Krueger2016; @Markon2011; @Wright2013] and their trajectories [@Burt2012; @Fairchild2013; @Walters2011; @Walters2012; @Walters2013; @Walters2015] and risk factors [@Walters2014] are best conceptualized dimensionally [or multi-dimensionally\; @Bolhuis2017; @Wakschlag2014], not categorically [@Barry2013; @Coghill2012; @Forbes2016; @Kliem2018; @Kliem2022; @Krueger2004; @Krueger2005; @Krueger2007; @Krueger2021; @Markon2005; @Sellbom2016; @Walton2011].
@@ -484,9 +500,9 @@ In sum, although they have been helpful, existing measures are poorly suited to 
 
 ## Example: Externalizing Psychopathology
 
-<!-- Figure from Petersen et al. (2026, Psychol Assessment) -->
+<!-- Figure from Petersen et al. (2026, Psychol Assessment) on age-varying behaviors -->
 
-<!-- Widely used measures do not assess contemporary manifestations of externalizing, including aggression on social media and cyberbullying. -->
+As we described above, existing assessment of externalizing behavior—and other aspects of psychopathology—have key limitations.
 
 # Solution: A Developmental Scaling Framework
 
@@ -507,6 +523,8 @@ However, some of the items assessed at a given age are shared with those assesse
 For instance, item set `f` can be used to help link scores from age 6 to those at age 5, and item set `g` can be used to help link scores from age 6 to those at age 7.
 Hypothetically, items could be assessed for as many or as few years as desired—as long as the items are construct valid for those ages and there enough common items between adjacent ages for linking scores across ages.
 :::
+
+<!-- Linking figure -->
 
 # Other Key Challenges to Address
 
