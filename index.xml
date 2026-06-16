@@ -1223,9 +1223,9 @@ cognitive skills across lengthy developmental periods.</p>
       (<xref alt="Burns et al. 2001" rid="ref-Burns2001" ref-type="bibr">Burns
       et al. 2001</xref>;
       <xref alt="Schwarz 1999" rid="ref-Schwarz1999" ref-type="bibr">Schwarz
-      1999</xref>)—in addition to other aspects of behavior (e.g.,
+      1999</xref>)—in addition to other aspects of behavior including
       onset, timing, duration, intensity, function, and resulting
-      impairment).</p>
+      impairment.</p>
       <fig id="fig-absoluteFrequencyInformation">
         <caption><p>Figure 7: Test Information Functions of Absolute
         Frequency Versus Dichotomized Versus Adult Self-Report Items:
@@ -1328,10 +1328,25 @@ cognitive skills across lengthy developmental periods.</p>
       1</xref>), “These findings…highlight the need for measures
       explicitly developed and validated for dimensional psychopathology
       in population-scale research.”.</p>
+      <p>To provide better phenotypic resolution, and to better identify
+      biological processes underlying psychopathology,
+      <named-content content-type="nocase">Tiego et al.</named-content>
+      (<xref alt="2023" rid="ref-Tiego2023" ref-type="bibr">2023</xref>)
+      argue for including content covering the full range, including
+      items assessing the adaptive end of the continuum (i.e., “positive
+      opposites”). For instance, in a study of externalizing behavior,
+      it would also be valuable to consider prosocial behavior (e.g.,
+      kindness, helping others, sharing, dependability, compliance,
+      accountability). Indeed, in a machine learning study of children’s
+      conduct problems in the ABCD study, prosocial behavior was the
+      strongest predictor
+      (<xref alt="Berluti et al. 2026" rid="ref-Berluti2026" ref-type="bibr">Berluti
+      et al. 2026</xref>).</p>
       <p>Because existing measures do not capture the full range of
-      individual differences, this naturally limits the measures’
-      sensitivity to detect change (i.e., responsiveness), which is
-      crucial for clinical utility and for longitudinal research.</p>
+      individual differences, this naturally further limits the
+      measures’ sensitivity to detect change (i.e., responsiveness),
+      which is crucial for clinical utility and for longitudinal
+      research.</p>
     </sec>
     <sec id="not-well-suited-for-capturing-individuals-change-over-time">
       <title>Not Well-Suited for Capturing Individuals’ Change Over
@@ -3497,7 +3512,7 @@ cognitive skills across lengthy developmental periods.</p>
       <volume>17</volume>
       <issue>1</issue>
       <uri>https://login.proxy.lib.uiowa.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;AuthType=ip,cookie,uid,url&amp;db=pdh&amp;AN=2001-14900-003</uri>
-      <pub-id pub-id-type="doi">10.1027//1015-5759.17.1.25</pub-id>
+      <pub-id pub-id-type="doi">10.1027/1015-5759.17.1.25</pub-id>
       <fpage>25</fpage>
       <lpage>35</lpage>
     </element-citation>
@@ -3520,6 +3535,26 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1037/pas0001441</pub-id>
       <fpage>295</fpage>
       <lpage>306</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Berluti2026">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Berluti</surname><given-names>Kathryn</given-names></name>
+        <name><surname>Amormino</surname><given-names>Paige</given-names></name>
+        <name><surname>Potter</surname><given-names>Alexandra</given-names></name>
+        <name><surname>Wshah</surname><given-names>Safwan</given-names></name>
+        <name><surname>Marsh</surname><given-names>Abigail</given-names></name>
+      </person-group>
+      <article-title>Machine learning prediction of conduct problems in children using the longitudinal ABCD study</article-title>
+      <source>Journal of Child Psychology and Psychiatry</source>
+      <year iso-8601-date="2026">2026</year>
+      <volume>67</volume>
+      <issue>3</issue>
+      <uri>https://acamh.onlinelibrary.wiley.com/doi/abs/10.1111/jcpp.70057</uri>
+      <pub-id pub-id-type="doi">10.1111/jcpp.70057</pub-id>
+      <fpage>390</fpage>
+      <lpage>399</lpage>
     </element-citation>
   </ref>
 </ref-list>
