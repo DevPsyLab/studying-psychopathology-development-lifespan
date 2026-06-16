@@ -225,7 +225,7 @@ The steep peak in crime rate in the adolescent years is similar to the age-crime
 **Panel B**: A stylized depiction of Moffitt's [-@Moffitt1993] developmental taxonomy of externalizing behavior, adapted to include a childhood limited subgroup.
 **Panel C**: Individuals' (*N* = 585) longitudinal trajectories of externalizing problems from childhood to adulthood based on annual assessments of mother-, father-, teacher-, peer-, and self-report (at relevant ages).
 Average trajectory in red.
-(Figure adapted from @Petersen2015, Petersen, I. T., Bates, J. E., Dodge, K. A., Lansford, J. E., & Pettit, G. S. (2015). Describing and predicting developmental profiles of externalizing problems from childhood to adulthood. *Development and Psychopathology*, *27*(3), 791–818. <https://doi.org/10.1017/S0954579414000789>).
+(Figure adapted from @Petersen2015, Figure 2, Petersen, I. T., Bates, J. E., Dodge, K. A., Lansford, J. E., & Pettit, G. S. (2015). Describing and predicting developmental profiles of externalizing problems from childhood to adulthood. *Development and Psychopathology*, *27*(3), 791–818. <https://doi.org/10.1017/S0954579414000789>).
 :::
 
 Third, in a cross-sectional study, any apparent age-related differences in a construct could reflect cohort differences instead of developmental changes.
@@ -349,7 +349,19 @@ In particular, Patterson [-@Patterson1993] noted that some externalizing behavio
 Moffitt [-@Moffitt1993, p. 679] noted that externalizing behaviors may manifest as "biting and hitting at age 4, shoplifting and truancy at age 10, selling drugs and stealing cars at age 16, robbery and rape at age 22, and fraud and child abuse at age 30", and that the prognosis for individuals who engage in externalizing behavior throughout the life-course includes "drug and alcohol addiction; unsatisfactory employment; unpaid debts; homelessness; drunk driving; violent assault; multiple and unstable relationships; spouse battery; abandoned, neglected, or abused children; and psychiatric illness".
 In general, externalizing behaviors are often expressed as overt acts in early childhood, such as physical aggression and temper tantrums; whereas externalizing behaviors are more often expressed later in development as covert and indirect or relational forms of aggression, rule breaking, and substance use [@Miller2009; @Petersen2026a].
 These age-differing behaviors show strong stability of individual differences, indicating a consistent underlying construct [@Moffitt1993; @Patterson1993].
+As depicted in @fig-absoluteFrequencyByAge, different externalizing behaviors are most common at different developmental periods—even into adulthood, consistent with the notion that externalizing behavior demonstrates heterotypic continuity.
 Consistent with the Developmental Issues Framework [@Sroufe2016], the changing expression of externalizing behavior likely reflects a combination of time-varying genetic and environmental factors, such as school entry transition, in combination with varying developmental tasks, different opportunities, and greater experience-dependent capacity [@Petersen2020].
+
+::: {#fig-absoluteFrequencyByAge}
+![](Figures/petersen2026_figure1.png){width=100% fig-alt="Frequency (per Month) of Engaging in Various Externalizing Behaviors by Age (*N* = 1,237)."}
+
+Frequency (per Month) of Engaging in Various Externalizing Behaviors by Age (*N* = 1,237).
+Items are from the Externalizing Spectrum Inventory (ESI), but unlike the True/False ESI, participants rated items on an absolute frequency scale (times per day/week/month/year).
+The gray band is the 95% confidence interval.
+The figure demonstrates that different externalizing behaviors are most common at different developmental periods, consistent with heterotypic continuity.
+As examples, hurting others' feelings on purpose (left panel) was most common in early adulthood; snapping or raising one's voice (middle panel) was most common in middle adulthood; getting in power struggles with others (right panel) was most common in older adulthood.
+(Figure reprinted from @Petersen2026b, Figure 1, p. 301. Petersen, I. T., Demko, Z., Doebler, P., Sabel, L., Oleson, J. J., & Krueger, R. F. (2026). How often is "often"? Improving assessment of the externalizing spectrum using absolute frequency. *Psychological Assessment*, *38*(4), 295–306. <https://doi.org/10.1037/pas0001441>)
+:::
 
 In addition to externalizing problems, both internalizing [@Petersen2018; @Weems2008; @Weiss2003] and thought-disordered [@Rutter2006] problems are thought to change in manifestation across development.
 
@@ -512,19 +524,6 @@ Because existing measures do not capture the full range of individual difference
 In sum, although they have been helpful, existing measures are poorly suited to classify individuals' development of psychopathology across a lengthy span, which is necessary for tracking individuals' change and identifying mechanisms in the development of psychopathology.
 
 ## Example: Externalizing Psychopathology
-
-As depicted in @fig-absoluteFrequencyByAge, different externalizing behaviors are most common at different developmental periods, consistent with heterotypic continuity.
-
-::: {#fig-absoluteFrequencyByAge}
-![](Figures/petersen2026_figure1.png){width=100% fig-alt="Frequency (per Month) of Engaging in Various Externalizing Behaviors by Age (*N* = 1,237)."}
-
-Frequency (per Month) of Engaging in Various Externalizing Behaviors by Age (*N* = 1,237).
-Items are from the Externalizing Spectrum Inventory (ESI), but unlike the True/False ESI, participants rated items on an absolute frequency scale (times per day/week/month/year).
-The gray band is the 95% confidence interval.
-The figure demonstrates that different externalizing behaviors are most common at different developmental periods, consistent with heterotypic continuity.
-As examples, hurting others' feelings on purpose (left panel) was most common in early adulthood; snapping or raising one's voice (middle panel) was most common in middle adulthood; getting in power struggles with others (right panel) was most common in older adulthood.
-(Figure reprinted from @Petersen2026b, Figure 1, p. 301. Petersen, I. T., Demko, Z., Doebler, P., Sabel, L., Oleson, J. J., & Krueger, R. F. (2026). How often is "often"? Improving assessment of the externalizing spectrum using absolute frequency. *Psychological Assessment*, *38*(4), 295–306. <https://doi.org/10.1037/pas0001441>)
-:::
 
 As we described above, existing assessment of externalizing behavior—and other aspects of psychopathology—have key limitations.
 
