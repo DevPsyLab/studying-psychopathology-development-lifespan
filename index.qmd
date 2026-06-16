@@ -499,7 +499,7 @@ Indeed, as depicted in @fig-absoluteFrequencyInformation, items assessing absolu
 In addition, if a respondent implicitly uses the target's same-aged peers as the normative reference group for determining the relative frequency of a behavior, this could have the implicit effect of resulting in age-normed scores, which works against the goal of detecting change.
 Moreover, Likert-type scales tend to focus on frequency of misbehavior and ignore intensity and severity.
 It can be helpful to explicitly assess—and distinguish—frequency versus problematic impact of behavior.
-Instead of assessing relative frequency, researchers advise assessing absolute frequency of behavior [@Burns2001; @Schwarz1999]—in addition to other aspects of behavior (e.g., onset, timing, duration, intensity, function, and resulting impairment).
+Instead of assessing relative frequency, researchers advise assessing absolute frequency of behavior [@Burns2001; @Schwarz1999]—in addition to other aspects of behavior including onset, timing, duration, intensity, function, and resulting impairment.
 
 ::: {#fig-absoluteFrequencyInformation}
 ![](Figures/petersen2026_figure4.png){width=100% fig-alt="Test Information Functions of Absolute Frequency Versus Dichotomized Versus Adult Self-Report Items: Test Information as a Function of Theta (θ)."}
@@ -517,7 +517,11 @@ Thus, the existing measures are impoverished for studying the full range of indi
 Better identification of subthreshold externalizing is critical, in both research and practice, for identifying at-risk individuals in the early-stage trajectory of psychopathology.
 As noted by Pavlovich et al. [-@Pavlovich2026, p. 1], "These findings...highlight the need for measures explicitly developed and validated for dimensional psychopathology in population-scale research.".
 
-Because existing measures do not capture the full range of individual differences, this naturally limits the measures' sensitivity to detect change (i.e., responsiveness), which is crucial for clinical utility and for longitudinal research.
+To provide better phenotypic resolution, and to better identify biological processes underlying psychopathology, @Tiego2023 argue for including content covering the full range, including items assessing the adaptive end of the continuum (i.e., "positive opposites").
+For instance, in a study of externalizing behavior, it would also be valuable to consider prosocial behavior (e.g., kindness, helping others, sharing, dependability, compliance, accountability).
+Indeed, in a machine learning study of children's conduct problems in the ABCD study, prosocial behavior was the strongest predictor [@Berluti2026].
+
+Because existing measures do not capture the full range of individual differences, this naturally further limits the measures' sensitivity to detect change (i.e., responsiveness), which is crucial for clinical utility and for longitudinal research.
 
 ### Not Well-Suited for Capturing Individuals' Change Over Time
 
