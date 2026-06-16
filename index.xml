@@ -423,10 +423,10 @@ cognitive skills across lengthy developmental periods.</p>
     (at relevant ages). Average trajectory in red. (Figure adapted from
     Petersen et al.
     (<xref alt="2015" rid="ref-Petersen2015" ref-type="bibr">2015</xref>),
-    Petersen, I. T., Bates, J. E., Dodge, K. A., Lansford, J. E., &amp;
-    Pettit, G. S. (2015). Describing and predicting developmental
-    profiles of externalizing problems from childhood to adulthood.
-    <italic>Development and Psychopathology</italic>,
+    Figure 2, Petersen, I. T., Bates, J. E., Dodge, K. A., Lansford, J.
+    E., &amp; Pettit, G. S. (2015). Describing and predicting
+    developmental profiles of externalizing problems from childhood to
+    adulthood. <italic>Development and Psychopathology</italic>,
     <italic>27</italic>(3), 791–818.
     <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/S0954579414000789">https://doi.org/10.1017/S0954579414000789</ext-link>).</p></caption>
     <table-wrap>
@@ -886,7 +886,12 @@ cognitive skills across lengthy developmental periods.</p>
     (<xref alt="Moffitt 1993" rid="ref-Moffitt1993" ref-type="bibr">Moffitt
     1993</xref>;
     <xref alt="Patterson 1993" rid="ref-Patterson1993" ref-type="bibr">Patterson
-    1993</xref>). Consistent with the Developmental Issues Framework
+    1993</xref>). As depicted in
+    <xref alt="Figure 5" rid="fig-absoluteFrequencyByAge">Figure 5</xref>,
+    different externalizing behaviors are most common at different
+    developmental periods—even into adulthood, consistent with the
+    notion that externalizing behavior demonstrates heterotypic
+    continuity. Consistent with the Developmental Issues Framework
     (<xref alt="Sroufe 2016" rid="ref-Sroufe2016" ref-type="bibr">Sroufe
     2016</xref>), the changing expression of externalizing behavior
     likely reflects a combination of time-varying genetic and
@@ -895,6 +900,29 @@ cognitive skills across lengthy developmental periods.</p>
     opportunities, and greater experience-dependent capacity
     (<xref alt="Petersen et al. 2020" rid="ref-Petersen2020" ref-type="bibr">Petersen
     et al. 2020</xref>).</p>
+    <fig id="fig-absoluteFrequencyByAge">
+      <caption><p>Figure 5: Frequency (per Month) of Engaging in Various
+      Externalizing Behaviors by Age (<italic>N</italic> = 1,237). Items
+      are from the Externalizing Spectrum Inventory (ESI), but unlike
+      the True/False ESI, participants rated items on an absolute
+      frequency scale (times per day/week/month/year). The gray band is
+      the 95% confidence interval. The figure demonstrates that
+      different externalizing behaviors are most common at different
+      developmental periods, consistent with heterotypic continuity. As
+      examples, hurting others’ feelings on purpose (left panel) was
+      most common in early adulthood; snapping or raising one’s voice
+      (middle panel) was most common in middle adulthood; getting in
+      power struggles with others (right panel) was most common in older
+      adulthood. (Figure reprinted from Petersen, Demko, Doebler, et al.
+      (<xref alt="2026" rid="ref-Petersen2026b" ref-type="bibr">2026</xref>),
+      Figure 1, p. 301. Petersen, I. T., Demko, Z., Doebler, P., Sabel,
+      L., Oleson, J. J., &amp; Krueger, R. F. (2026). How often is
+      “often”? Improving assessment of the externalizing spectrum using
+      absolute frequency. <italic>Psychological Assessment</italic>,
+      <italic>38</italic>(4), 295–306.
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/pas0001441">https://doi.org/10.1037/pas0001441</ext-link>)</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/petersen2026_figure1.png" />
+    </fig>
     <p>In addition to externalizing problems, both internalizing
     (<xref alt="Petersen et al. 2018" rid="ref-Petersen2018" ref-type="bibr">Petersen
     et al. 2018</xref>;
@@ -993,7 +1021,7 @@ cognitive skills across lengthy developmental periods.</p>
       such changes.</p>
       <p>There are two primary ways that researchers have examined
       people’s change in psychopathology across development
-      <xref alt="Figure 5" rid="fig-approachesToLongitudinalAssessment">Figure 5</xref>.
+      <xref alt="Figure 6" rid="fig-approachesToLongitudinalAssessment">Figure 6</xref>.
       The “common items” approach removes items that are age specific.
       For example, in a study of externalizing behavior from early
       childhood to adolescence, a study might remove some substance use
@@ -1031,7 +1059,7 @@ cognitive skills across lengthy developmental periods.</p>
       current study also employed the scale with older children to
       promote uniformity in measures”.</p>
       <fig id="fig-approachesToLongitudinalAssessment">
-        <caption><p>Figure 5: Item set A refers to items that are
+        <caption><p>Figure 6: Item set A refers to items that are
         construct-valid at only timepoint 1 (T1); item set B is
         construct-valid at both T1 and T2; item set C is construct-valid
         at only T2. A dash indicates that the item set was not assessed
@@ -1178,7 +1206,7 @@ cognitive skills across lengthy developmental periods.</p>
       Simms et al.
       (<xref alt="2019" rid="ref-Simms2019" ref-type="bibr">2019</xref>)].
       Indeed, as depicted in
-      <xref alt="Figure 6" rid="fig-absoluteFrequencyInformation">Figure 6</xref>,
+      <xref alt="Figure 7" rid="fig-absoluteFrequencyInformation">Figure 7</xref>,
       items assessing absolute frequency yield more information than
       dichotomized versions of the same items and than the Achenbach
       Adult Self-Report, which uses Likert-type response options. In
@@ -1199,7 +1227,7 @@ cognitive skills across lengthy developmental periods.</p>
       onset, timing, duration, intensity, function, and resulting
       impairment).</p>
       <fig id="fig-absoluteFrequencyInformation">
-        <caption><p>Figure 6: Test Information Functions of Absolute
+        <caption><p>Figure 7: Test Information Functions of Absolute
         Frequency Versus Dichotomized Versus Adult Self-Report Items:
         Test Information as a Function of Theta (θ). “Absolute
         Frequency” refers to count items; “Dichotomized” refers to
@@ -1317,33 +1345,6 @@ cognitive skills across lengthy developmental periods.</p>
   </sec>
   <sec id="example-externalizing-psychopathology">
     <title>Example: Externalizing Psychopathology</title>
-    <p>As depicted in
-    <xref alt="Figure 7" rid="fig-absoluteFrequencyByAge">Figure 7</xref>,
-    different externalizing behaviors are most common at different
-    developmental periods, consistent with heterotypic continuity.</p>
-    <fig id="fig-absoluteFrequencyByAge">
-      <caption><p>Figure 7: Frequency (per Month) of Engaging in Various
-      Externalizing Behaviors by Age (<italic>N</italic> = 1,237). Items
-      are from the Externalizing Spectrum Inventory (ESI), but unlike
-      the True/False ESI, participants rated items on an absolute
-      frequency scale (times per day/week/month/year). The gray band is
-      the 95% confidence interval. The figure demonstrates that
-      different externalizing behaviors are most common at different
-      developmental periods, consistent with heterotypic continuity. As
-      examples, hurting others’ feelings on purpose (left panel) was
-      most common in early adulthood; snapping or raising one’s voice
-      (middle panel) was most common in middle adulthood; getting in
-      power struggles with others (right panel) was most common in older
-      adulthood. (Figure reprinted from Petersen, Demko, Doebler, et al.
-      (<xref alt="2026" rid="ref-Petersen2026b" ref-type="bibr">2026</xref>),
-      Figure 1, p. 301. Petersen, I. T., Demko, Z., Doebler, P., Sabel,
-      L., Oleson, J. J., &amp; Krueger, R. F. (2026). How often is
-      “often”? Improving assessment of the externalizing spectrum using
-      absolute frequency. <italic>Psychological Assessment</italic>,
-      <italic>38</italic>(4), 295–306.
-      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/pas0001441">https://doi.org/10.1037/pas0001441</ext-link>)</p></caption>
-      <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/petersen2026_figure1.png" />
-    </fig>
     <p>As we described above, existing assessment of externalizing
     behavior—and other aspects of psychopathology—have key
     limitations.</p>
