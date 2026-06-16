@@ -271,7 +271,7 @@ longitudinalExternalizingStudies_measurementOccasions <- longitudinalExternalizi
   ) %>%
   left_join(study_positions, by = "studyLabel") %>%
   mutate(
-    point_y = study_num + 0.35,
+    point_y = study_num + 0.45,
     plotColor = case_when(
       developmentalScaling ~ "developmentalScaling",
       registry ~ "registry",
