@@ -984,9 +984,13 @@ cognitive skills across lengthy developmental periods.</p>
       tantrums).”</p>
       <p>However, measures show insufficient differences in which items
       are assessed at which ages to account for heterotypic continuity.
-      For example, the same version of the Child Behavior Checklist
+      For example, among the most widely used measures of externalizing
+      problems in research and practice is the Child Behavior Checklist
+      (CBCL). However, the same version of the Child Behavior Checklist
       (CBCL) spans ages 6–18. Considerable development occurs during
-      that span.</p>
+      that span including key developmental transitions—from childhood
+      to adolescence to emerging adulthood—and the CBCL does not capture
+      such changes.</p>
       <p>There are two primary ways that researchers have examined
       people’s change in psychopathology across development
       <xref alt="Figure 5" rid="fig-approachesToLongitudinalAssessment">Figure 5</xref>.
@@ -1051,14 +1055,12 @@ cognitive skills across lengthy developmental periods.</p>
         <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jaacop.2025.10.008">https://doi.org/10.1016/j.jaacop.2025.10.008</ext-link>)</p></caption>
         <graphic mimetype="image" mime-subtype="jpeg" xlink:href="Figures/approachesToLongitudinalAssessment.jpg" />
       </fig>
-      <p>Forcing use of the same measure across time naturally limits
-      the ages a study can span, which prevents charting wider age
-      spans. The common items approach yields low content validity
-      because it does not assess all construct facets, especially
-      age-specific manifestations. The upward/downward extension
-      approach violates construct validity because it assesses
-      developmentally inappropriate items. Due to these problems, both
-      simulation
+      <p>The common items approach yields low content validity because
+      it does not assess all construct facets, especially age-specific
+      manifestations. The upward/downward extension approach violates
+      construct validity because it assesses developmentally
+      inappropriate items.</p>
+      <p>Due to these problems, both simulation
       (<xref alt="Petersen et al. 2021" rid="ref-Petersen2021" ref-type="bibr">Petersen
       et al. 2021</xref>) and empirical work
       (<xref alt="Chen and Jaffee 2015" rid="ref-Chen2015" ref-type="bibr">Chen
@@ -1071,6 +1073,31 @@ cognitive skills across lengthy developmental periods.</p>
       despite these approaches being the most widely used for assessing
       individuals’ development, they likely lead to inaccurate scores
       and thus inaccurate trajectories.</p>
+      <p>The problem cannot be solved merely by age-norming. Generating
+      norms from items that are invalid at a given age or from scales
+      that have important content gaps at a given age leads to construct
+      invalid scores and resulting norms. Moreover, using DSM disorders
+      or diagnoses also does not solve the issue. </p>
+      <p>In addition, forcing use of the same measure across time
+      naturally limits the ages a study can span, which prevents
+      charting wider age spans. For example, if a researcher used the
+      CBCL and only wanted to study trajectories where the same measure
+      was assessed across ages, they would not be able to examine
+      development from ages 5–6, when there is a change in the CBCL
+      version (i.e., one for ages 1.5–5 and another for ages 6–18). </p>
+      <p>In addition to the behavioral expression of a construct
+      changing across developmental time, the behavioral expression of a
+      construct can also change across historical time. Changes in the
+      behavioral manifestation across historical time can lead existing
+      items and measures to become obsolete. For instance, many measures
+      and longitudinal studies do not assess important contemporary
+      manifestations of externalizing behavior, including aggression on
+      social media and cyberbullying
+      (<xref alt="Nickerson and Fredrick 2026" rid="ref-Nickerson2026" ref-type="bibr">Nickerson
+      and Fredrick 2026</xref>).</p>
+      <p>Thus, many problems arise from using the same measure across
+      ages when the construct changes in behavioral manifestation across
+      development and historical time.</p>
     </sec>
     <sec id="do-not-allow-charting-individuals-change-over-time-when-the-construct-changes-in-behavioral-manifestation">
       <title>Do Not Allow Charting Individuals’ Change Over Time When
@@ -1113,8 +1140,8 @@ cognitive skills across lengthy developmental periods.</p>
       recognized analytical procedure to assess such a construct and the
       life cycle validity of heteromorphous measures.”</p>
       <p>The lack of scoring tools to link scores from age-differing
-      assessments has led researchers to restrict the age range of
-      study. For instance, in their study, Bista et al.
+      assessments leads researchers to restrict the age range of study.
+      For instance, in their study, Bista et al.
       (<xref alt="2025, 179" rid="ref-Bista2025" ref-type="bibr">2025,
       179</xref>) noted “A different version of the questionnaire
       (CBCL/2–3), designed for 2–3-year-olds, was used for the year 2
@@ -1133,7 +1160,11 @@ cognitive skills across lengthy developmental periods.</p>
       1999</xref>;
       <xref alt="Paalman et al. 2013" rid="ref-Paalman2013" ref-type="bibr">Paalman
       et al. 2013</xref>). Moreover, Likert-type scales tend to focus on
-      frequency of misbehavior and ignore intensity and severity.</p>
+      frequency of misbehavior and ignore intensity and severity. It can
+      be helpful to explicitly assess—and distinguish—frequency versus
+      problematic impact of behavior. Instead of assessing relative
+      frequency, researchers advise assessing absolute frequency of
+      behavior—in addition to other aspects of behavior. </p>
       <p>In addition, the measures focus on extreme or clinical-range
       behaviors; scores are thus positively skewed with floor effects
       and have unacceptably low reliability (including the CBCL;
@@ -1231,6 +1262,9 @@ cognitive skills across lengthy developmental periods.</p>
   </sec>
   <sec id="example-externalizing-psychopathology">
     <title>Example: Externalizing Psychopathology</title>
+    <p>As we described above, existing assessment of externalizing
+    behavior—and other aspects of psychopathology—have key
+    limitations.</p>
   </sec>
 </sec>
 <sec id="solution-a-developmental-scaling-framework">
@@ -3272,6 +3306,23 @@ cognitive skills across lengthy developmental periods.</p>
       <source>The development of antisocial behavior and crime</source>
       <publisher-name>Springer</publisher-name>
       <year iso-8601-date="2021">2021</year>
+    </element-citation>
+  </ref>
+  <ref id="ref-Nickerson2026">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Nickerson</surname><given-names>Amanda B.</given-names></name>
+        <name><surname>Fredrick</surname><given-names>Stephanie S.</given-names></name>
+      </person-group>
+      <article-title>Cyberbullying and mental health in children and adolescents</article-title>
+      <source>Annual Review of Clinical Psychology</source>
+      <year iso-8601-date="2026">2026</year>
+      <volume>22</volume>
+      <issue>Volume 22, 2026</issue>
+      <uri>https://www.annualreviews.org/content/journals/10.1146/annurev-clinpsy-061324-073435</uri>
+      <pub-id pub-id-type="doi">10.1146/annurev-clinpsy-061324-073435</pub-id>
+      <fpage>559</fpage>
+      <lpage>586</lpage>
     </element-citation>
   </ref>
 </ref-list>
