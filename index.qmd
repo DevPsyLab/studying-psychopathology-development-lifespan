@@ -347,7 +347,7 @@ A chimera is a mythical creature with the body of a goat that, with development,
 @Patterson1993 and @Moffitt1993 argued that externalizing behavior changes in manifestation across development such that underlying antisociality is maintained while more mature features are added across development.
 In particular, Patterson [-@Patterson1993] noted that some externalizing behaviors wane with age, such as temper tantrums, whereas other externalizing behaviors emerge with age, including the ability to inflict serious damage or harm with violence, burglary, and shoplifting, in addition to problems such as academic failure, peer rejection, substance problems, and arrest.
 Moffitt [-@Moffitt1993, p. 679] noted that externalizing behaviors may manifest as "biting and hitting at age 4, shoplifting and truancy at age 10, selling drugs and stealing cars at age 16, robbery and rape at age 22, and fraud and child abuse at age 30", and that the prognosis for individuals who engage in externalizing behavior throughout the life-course includes "drug and alcohol addiction; unsatisfactory employment; unpaid debts; homelessness; drunk driving; violent assault; multiple and unstable relationships; spouse battery; abandoned, neglected, or abused children; and psychiatric illness".
-In general, externalizing behaviors are often expressed as overt acts in early childhood, such as physical aggression and temper tantrums; whereas externalizing behaviors are more often expressed later in development as covert and indirect or relational forms of aggression, rule breaking, and substance use [@Miller2009; @Petersen2026].
+In general, externalizing behaviors are often expressed as overt acts in early childhood, such as physical aggression and temper tantrums; whereas externalizing behaviors are more often expressed later in development as covert and indirect or relational forms of aggression, rule breaking, and substance use [@Miller2009; @Petersen2026a].
 These age-differing behaviors show strong stability of individual differences, indicating a consistent underlying construct [@Moffitt1993; @Patterson1993].
 Consistent with the Developmental Issues Framework [@Sroufe2016], the changing expression of externalizing behavior likely reflects a combination of time-varying genetic and environmental factors, such as school entry transition, in combination with varying developmental tasks, different opportunities, and greater experience-dependent capacity [@Petersen2020].
 
@@ -429,13 +429,13 @@ A white box indicates invalid assessment in terms of either a content gap (i.e.,
 In a study of externalizing behavior from early childhood to adulthood, "biting others" may be in item set A; "noncompliant" in B; "drug use" in C.
 The three approaches are: (1) common items: B at T1 and T2, (2) upward/downward extension: ABC at T1 and T2, or (3) construct-valid items: AB at T1; BC at T2.
 The "common items" and "upward/downward extension" approaches are by far the most widely used in the literature, even though they likely lead to inaccurate scores and thus inaccurate trajectories.
-(Figure reprinted from @Petersen2026, Figure 1, p. 113. Petersen, I. T., Demko, Z., Lee, W.-C., & Oleson, J. J. (2026). Studying development of psychopathology using changing measures to account for heterotypic continuity. *JAACAP Open*, *4*(1), 111–123. <https://doi.org/10.1016/j.jaacop.2025.10.008>)
+(Figure reprinted from @Petersen2026a, Figure 1, p. 113. Petersen, I. T., Demko, Z., Lee, W.-C., & Oleson, J. J. (2026). Studying development of psychopathology using changing measures to account for heterotypic continuity. *JAACAP Open*, *4*(1), 111–123. <https://doi.org/10.1016/j.jaacop.2025.10.008>)
 :::
 
 The common items approach yields low content validity because it does not assess all construct facets, especially age-specific manifestations.
 The upward/downward extension approach violates construct validity because it assesses developmentally inappropriate items.
 
-Due to these problems, both simulation [@Petersen2021] and empirical work [@Chen2015; @Petersen2018; @Petersen2026] has shown that the "common items" and "upward/downward extension" approaches lead to inaccurate developmental inferences.
+Due to these problems, both simulation [@Petersen2021] and empirical work [@Chen2015; @Petersen2018; @Petersen2026a] has shown that the "common items" and "upward/downward extension" approaches lead to inaccurate developmental inferences.
 In sum, despite these approaches being the most widely used for assessing individuals' development, they likely lead to inaccurate scores and thus inaccurate trajectories.
 
 The problem cannot be solved merely by age-norming.
@@ -480,11 +480,24 @@ Therefore, we excluded age 2 from our trajectory analysis."
 ### Not Well-Suited For Capturing the Full Range of Individual Differences
 
 <!-- Likert-Type responses -->
-Many measures use coarse, subjective response scales such as Likert-type response scales (e.g., "rarely", "sometimes", "often", "very often") leading to cultural bias and insensitivity to change [@Schaeffer1991; @Schwarz1999; @Paalman2013].
+Many measures use coarse, subjective response scales such as Likert-type response scales (e.g., "rarely", "sometimes", "often", "very often") leading to cultural bias [@Schaeffer1991; @Schwarz1999; @Paalman2013] and insensitivity to change.
+Items with few discrete response categories tend to show less sensitivity to the full range of individual differences [@Elliott1980] and less sensitivity to change [i.e., responsiveness\; @Grant1999] compared to items with more response options that have greater variability in scores.
+In general, items with more response options yield more information [i.e., greater reduction of uncertainty in estimates of a person's construct level; though there are diminishing returns when using more than six response options\; @Culpepper2013; @Simms2019].
+Indeed, as depicted in @fig-absoluteFrequencyInformation, items assessing absolute frequency yield more information than dichotomized versions of the same items and than the Achenbach Adult Self-Report, which uses Likert-type response options.
+In addition, if a respondent implicitly uses the target's same-aged peers as the normative reference group for determining the relative frequency of a behavior, this could have the implicit effect of resulting in age-normed scores, which works against the goal of detecting change.
 Moreover, Likert-type scales tend to focus on frequency of misbehavior and ignore intensity and severity.
 It can be helpful to explicitly assess—and distinguish—frequency versus problematic impact of behavior.
-Instead of assessing relative frequency, researchers advise assessing absolute frequency of behavior—in addition to other aspects of behavior.<!-- CITE -->
-<!-- Figure from Petersen et al. (2026, Psychol Assessment) of test information by absolute frequency -->
+Instead of assessing relative frequency, researchers advise assessing absolute frequency of behavior [@Burns2001; @Schwarz1999]—in addition to other aspects of behavior (e.g., onset, timing, duration, intensity, function, and resulting impairment).
+
+::: {#fig-absoluteFrequencyInformation}
+![](Figures/petersen2026_figure4.png){width=100% fig-alt="Test Information Functions of Absolute Frequency Versus Dichotomized Versus Adult Self-Report Items: Test Information as a Function of Theta (θ)."}
+
+Test Information Functions of Absolute Frequency Versus Dichotomized Versus Adult Self-Report Items: Test Information as a Function of Theta (θ).
+"Absolute Frequency" refers to count items; "Dichotomized" refers to dichotomized versions of the count items; "Adult Self-Report" refers to items from the Achenbach Adult Self-Report.
+"θ" represents the person's level on the latent externalizing problems factor.
+The figure demonstrates that items assessing absolute frequency yield more information than dichotomized versions of the same items and the Likert-type response options of the Adult Self-Report.
+(Figure reprinted from @Petersen2026b, Figure 4, p. 303. Petersen, I. T., Demko, Z., Doebler, P., Sabel, L., Oleson, J. J., & Krueger, R. F. (2026). How often is "often"? Improving assessment of the externalizing spectrum using absolute frequency. *Psychological Assessment*, *38*(4), 295–306. <https://doi.org/10.1037/pas0001441>)
+:::
 
 In addition, the measures focus on extreme or clinical-range behaviors; scores are thus positively skewed with floor effects and have unacceptably low reliability [including the CBCL\; @Kaat2019; @Pavlovich2026; @Tiego2023], making the CBCL and existing measures unsuitable for dimensional research [@Pavlovich2026; @Tiego2023].
 Considerable evidence indicates that externalizing problems [and psychopathology, more generally\; @Haslam2012; @Haslam2020; @Kotov2017; @Krueger2002; @Krueger2011; @Krueger2016; @Markon2011; @Wright2013] and their trajectories [@Burt2012; @Fairchild2013; @Walters2011; @Walters2012; @Walters2013; @Walters2015] and risk factors [@Walters2014] are best conceptualized dimensionally [or multi-dimensionally\; @Bolhuis2017; @Wakschlag2014], not categorically [@Barry2013; @Coghill2012; @Forbes2016; @Kliem2018; @Kliem2022; @Krueger2004; @Krueger2005; @Krueger2007; @Krueger2021; @Markon2005; @Sellbom2016; @Walton2011].
@@ -500,7 +513,18 @@ In sum, although they have been helpful, existing measures are poorly suited to 
 
 ## Example: Externalizing Psychopathology
 
-<!-- Figure from Petersen et al. (2026, Psychol Assessment) on age-varying behaviors -->
+As depicted in @fig-absoluteFrequencyByAge, different externalizing behaviors are most common at different developmental periods, consistent with heterotypic continuity.
+
+::: {#fig-absoluteFrequencyByAge}
+![](Figures/petersen2026_figure1.png){width=100% fig-alt="Frequency (per Month) of Engaging in Various Externalizing Behaviors by Age (*N* = 1,237)."}
+
+Frequency (per Month) of Engaging in Various Externalizing Behaviors by Age (*N* = 1,237).
+Items are from the Externalizing Spectrum Inventory (ESI), but unlike the True/False ESI, participants rated items on an absolute frequency scale (times per day/week/month/year).
+The gray band is the 95% confidence interval.
+The figure demonstrates that different externalizing behaviors are most common at different developmental periods, consistent with heterotypic continuity.
+As examples, hurting others' feelings on purpose (left panel) was most common in early adulthood; snapping or raising one's voice (middle panel) was most common in middle adulthood; getting in power struggles with others (right panel) was most common in older adulthood.
+(Figure reprinted from @Petersen2026b, Figure 1, p. 301. Petersen, I. T., Demko, Z., Doebler, P., Sabel, L., Oleson, J. J., & Krueger, R. F. (2026). How often is "often"? Improving assessment of the externalizing spectrum using absolute frequency. *Psychological Assessment*, *38*(4), 295–306. <https://doi.org/10.1037/pas0001441>)
+:::
 
 As we described above, existing assessment of externalizing behavior—and other aspects of psychopathology—have key limitations.
 
