@@ -326,7 +326,7 @@ plot_longitudinalExternalizingStudies <- ggplot(
     ),
     size = 2.8,
     nudge_x = -0.4,
-    nudge_y = -0.1,
+    nudge_y = -0.2,
     direction = "both",
     segment.color = NA,
     box.padding = 0.1,
