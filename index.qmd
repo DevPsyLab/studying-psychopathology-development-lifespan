@@ -297,6 +297,7 @@ Here, we focus on studies that have examined trajectories of externalizing behav
 
 [^trajectoriesFootnote]: We do not consider autoregressive/cross-lagged models because such models do not examine change in level of externalizing behavior.
 
+A depiction of the ages spanned by various longitudinal studies is in @fig-longitudinalexternalizingstudies.
 In the Child Development Project, @Petersen2015 examined trajectories of externalizing behavior from ages 5–27 with 20 measurement occasions.
 In the Dunedin Multidisciplinary Health and Development Study, @Odgers2008 examined trajectories of antisocial conduct problems from ages 7–26 with 8 measurement occasions.
 A study using six longitudinal datasets examined trajectories of disruptive behaviors and delinquency, with the longest trajectory spanning ages 6–15 with 7 measurement occasions [@Broidy2003].
@@ -308,6 +309,8 @@ Demonstrating an analytic method (moderated nonlinear factor analysis) to link s
 Studies have also leveraged registry data to examine trajectories of offending from ages 8–61 [@LeBlanc2021], from ages 10–61 [Cambridge Study in Delinquent Development\; @Farrington2023], and from ages 9–64 [Stockholm Metropolitan Study\; @Sivertsson2024].
 
 <!-- z-score trajectories -->
+
+{{< embed notebooks/analyses.qmd#fig-longitudinalexternalizingstudies >}}
 
 However, as we will describe, these lengthy longitudinal studies of psychopathology [e.g., @Odgers2008]—including our own [@Petersen2015]—have important limitations in (a) how they assessed psychopathology constructs across development and (b) how they estimated people's scores on those constructs over time that prevent strong inferences regarding individuals' change over time.
 

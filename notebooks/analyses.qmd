@@ -40,6 +40,8 @@ library("tidyverse")
 
 ```{r}
 longitudinalStudies <- read_csv("../Data/longitudinalStudies.csv") #read_csv("./Data/longitudinalStudies.csv")
+
+longitudinalExternalizingStudies <- read_csv("../Data/longitudinalExternalizingStudies.csv") #read_csv("./Data/longitudinalExternalizingStudies.csv")
 ```
 
 # Plots
@@ -159,6 +161,182 @@ plot_longitudinalStudies <- ggplot2::ggplot(
   theme_classic()
 
 plot_longitudinalStudies
+```
+
+## Longitudinal Externalizing Studies
+
+```{r}
+longitudinalExternalizingStudies_plotData <- bind_rows(
+
+  # start cross-sectional span
+  longitudinalExternalizingStudies %>%
+    mutate(
+      segment_group = "cross-section",
+      ageStart = ageStartMin,
+      ageEnd = ageStartMax
+    ) %>%
+    select(
+      sample,
+      sampleLabel,
+      study,
+      studyLabel,
+      ageStart,
+      ageEnd,
+      segment_group
+    ),
+
+  # core longitudinal span
+  longitudinalExternalizingStudies %>%
+    mutate(has_core = ageStartMax < ageEndMin) %>%
+    filter(has_core) %>%
+    mutate(
+      segment_group = "core",
+      ageStart = ageStartMax,
+      ageEnd = ageEndMin
+    ) %>%
+    select(
+      sample,
+      sampleLabel,
+      study,
+      studyLabel,
+      ageStart,
+      ageEnd,
+      segment_group
+    ),
+
+  # end cross-sectional span
+  longitudinalExternalizingStudies %>%
+    mutate(
+      segment_group = "cross-section",
+      ageStart = ageEndMin,
+      ageEnd = ageEndMax
+    ) %>%
+    select(
+      sample,
+      sampleLabel,
+      study,
+      studyLabel,
+      ageStart,
+      ageEnd,
+      segment_group
+    )
+)
+
+# Merge registry classification
+longitudinalExternalizingStudies_plotData <- longitudinalExternalizingStudies_plotData %>%
+  left_join(
+    longitudinalExternalizingStudies %>%
+      select(study, registry),
+    by = "study"
+  )
+
+# Order studies for plot
+longitudinalExternalizingStudies_order <- longitudinalExternalizingStudies %>%
+  arrange(ageEndMax, ageStartMin) %>%
+  pull(studyLabel)
+
+longitudinalExternalizingStudies_plotData <- longitudinalExternalizingStudies_plotData %>%
+  mutate(
+    studyLabelFactor = factor(
+      studyLabel,
+      levels = extStudies_order
+    )
+  )
+
+# Measurement occasions
+longitudinalExternalizingStudies_measurementOccasions <- longitudinalExternalizingStudies %>%
+  filter(!is.na(measurementOccasions)) %>%
+  separate_rows(
+    measurementOccasions,
+    sep = ";"
+  ) %>%
+  mutate(
+    measurementOccasions = as.numeric(
+      str_trim(measurementOccasions)
+    ),
+    studyLabelFactor = factor(
+      studyLabel,
+      levels = longitudinalExternalizingStudies_order
+    ),
+    y = as.numeric(studyLabelFactor) + 0.2
+  )
+
+# Label positions
+longitudinalExternalizingStudies_sampleLabels <- longitudinalExternalizingStudies %>%
+  mutate(
+    studyLabelFactor = factor(
+      studyLabel,
+      levels = longitudinalExternalizingStudies_order
+    ),
+    label_x = (ageStartMin + ageEndMax) / 2,
+    label_y = as.numeric(studyLabelFactor) + 0.2
+  )
+```
+
+```{r}
+#| label: fig-longitudinalexternalizingstudies
+#| fig-cap: "(Approximate) ages spanned by various lengthy longitudinal studies examining individuals' trajectories of externalizing behavior. The list of longitudinal studies is not exhaustive. Studies that are based on registry data are shown in gray. Measurement occasions are depicted with solid circles. Note that, in some studies, measurement occasions only apply to a subset of participants in that study, in some cases, no participant was assessed at all measurement occasions. Solid lines reflect fully longitudinal spans (i.e., the same individuals were followed over time). Dotted lines reflect ages assessed cross-sectionally—even if some participants may have been followed longitudinally. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 25–30. Studies shown entirely with dotted lines assessed their full age range cross-sectionally but still included longitudinal follow-up of participants."
+#| fig-alt: "(Approximate) ages spanned by various lengthy longitudinal studies examining individuals' trajectories of externalizing behavior. The list of longitudinal studies is not exhaustive. Studies that are based on registry data are shown in gray. Measurement occasions are depicted with solid circles. Note that, in some studies, measurement occasions only apply to a subset of participants in that study, in some cases, no participant was assessed at all measurement occasions. Solid lines reflect fully longitudinal spans (i.e., the same individuals were followed over time). Dotted lines reflect ages assessed cross-sectionally—even if some participants may have been followed longitudinally. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 25–30. Studies shown entirely with dotted lines assessed their full age range cross-sectionally but still included longitudinal follow-up of participants."
+
+plot_longitudinalExternalizingStudies <- ggplot(
+  longitudinalExternalizingStudies_plotData,
+  aes(y = studyLabelFactor)
+) +
+  geom_segment(
+    aes(
+      x = ageStart,
+      xend = ageEnd,
+      yend = studyLabelFactor,
+      linetype = segment_group,
+      color = registry
+    ),
+    linewidth = 1
+  ) +
+  scale_linetype_manual(
+    values = c(
+      "cross-section" = "dotted",
+      "core" = "solid"
+    ),
+    guide = "none"
+  ) +
+  scale_color_manual(
+    values = c(
+      "TRUE" = "gray70",
+      "FALSE" = "black"
+    ),
+    guide = "none"
+  ) +
+  geom_point(
+    data = longitudinalExternalizingStudies_measurementOccasions,
+    aes(
+      x = measurementOccasions,
+      y = y,
+      color = registry
+    ),
+    #shape = 21,
+    #fill = "white",
+    #stroke = 0.5,
+    size = 1.5
+  ) +
+  geom_text(
+    data = longitudinalExternalizingStudies_sampleLabels,
+    aes(
+      x = label_x,
+      y = label_y,
+      label = sampleLabel,
+      color = registry
+    ),
+    vjust = 1.8,
+    size = 2.8
+  ) +
+  labs(
+    x = "Age (years)",
+    y = NULL
+  ) +
+  scale_x_continuous(expand = expansion(mult = c(0.25, 0.02))) +
+  theme_classic()
+
+plot_longitudinalExternalizingStudies
 ```
 
 # Session Info
