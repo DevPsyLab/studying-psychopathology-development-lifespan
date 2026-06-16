@@ -7,7 +7,7 @@ dunedin,Dunedin Multidisciplinary Health and Development Study,odgers2008,2008,O
 mcs,UK Millenium Cohort Study,zhai2026,2026,Zhai et al. (2026),11881,3,3,17,17,FALSE,6,3;5;7;11;14;17,sameMeasure,raw,notReported,FALSE,United Kingdom,Europe,
 mls,Michigan Longitudinal Study (MLS),gornik2023,2023,Gornik et al. (2023),1069,3,5,15,17,FALSE,,3;4;5;6;7;8;9;10;11;12;13;14;15;16;17,constructValid,raw,sum,FALSE,United States,North America,unclear number of timepoints per participant
 montrealBoys,Montreal Boys Sample,broidy2003,2003,Broidy et al. (2003),1037,6,6,15,15,FALSE,7,6;10;11;12;13;14;15,ageCommon,raw,mean,FALSE,Canada,North America,
-mtsfgcls,Montreal Two Samples Four Generations Cross-sectional and Longitudinal Studies (MTSFGCLS),leBlanc2021,2021,LeBlanc (2021),928,8,8,61,61,TRUE,,,constructValid,raw,sum,FALSE,Canada,North America,
+mtsfgcls,MTSFGCLS,leBlanc2021,2021,LeBlanc (2021),928,8,8,61,61,TRUE,,,constructValid,raw,sum,FALSE,Canada,North America,
 nlscya,NLSY79 Child and Young Adult (NLSCYA),chenInPressMBR,in press,"Chen et al. (in press, MBR)",1223,5,7,9,12,FALSE,3,6;8;10,sameMeasure,raw,mnlfa,TRUE,United States,North America,
 pittsburghYouth,Pittsburgh Youth Study (PYS),keijsers2012,2012,Keijsers et al. (2012),503,7,7,19,19,FALSE,13,7;8;9;10;11;12;13;14;15;16;17;18;19,constructValid,integrated,sum,FALSE,United States,North America,behavior problem severity coded from aggregated info across multiple scales
 projectAchieve,Project Achieve,shi2020,2020,Shi et al. (2020),784,6,7,17,18,FALSE,12,6.5;7.5;8.5;9.5;10.5;11.5;12.5;16.5;17.5;18.5,sameMeasure,raw,mean,FALSE,United States,North America,
@@ -17,4 +17,4 @@ snap,Special Needs and Autism Project (SNAP),stringer2020,2020,Stringer et al. (
 stockholm,Stockholm Metropolitan Study (SMS),sivertsson2024,2024,Sivertsson et al. (2024),14608,9,9,64,64,TRUE,,,constructValid,raw,sum,FALSE,Sweden,Europe,
 tampereFinland,Tampere Finland Study,korhonen2018,2018,Korhonen et al. (2018),144,4,5,16,17,FALSE,3,4.5;8.5;16.5,constructValid,tScores,tScores,FALSE,Finland,Europe,
 topp,Tracking Opportunities and Problems (TOPP) Study,kjeldsen2016,2016,Kjeldsen et al. (2016),921,2.5,2.5,14.5,14.5,FALSE,6,1.5;2.5;4.5;8.5;12.5;14.5,differentMeasures,raw,sum,FALSE,Norway,Europe,
-zuidHolland,Zuid-Holland,bongers2004,2004,Bongers et al. (2004),2600,4,16,12,18,FALSE,5,4;5;6;7;8;9;10;11;12;13;14;15;16;17;18,sameMeasure,raw,mean,FALSE,Netherlands,Europe,
+zuidHolland,Zuid-Holland Study,bongers2004,2004,Bongers et al. (2004),2600,4,16,12,18,FALSE,5,4;5;6;7;8;9;10;11;12;13;14;15;16;17;18,sameMeasure,raw,mean,FALSE,Netherlands,Europe,
