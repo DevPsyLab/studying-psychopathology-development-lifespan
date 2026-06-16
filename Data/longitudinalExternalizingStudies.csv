@@ -6,7 +6,7 @@ cdp,Child Development Project (CDP),petersen2025,2025,Petersen et al. (2015),585
 dunedin,Dunedin Multidisciplinary Health and Development Study,odgers2008,2008,Odgers et al. (2008),1037,7,7,26,26,FALSE,8,7;9;11;13;15;18;21;26,ageCommon,raw,sum,FALSE,New Zealand,Oceania,
 mcs,UK Millenium Cohort Study,zhai2026,2026,Zhai et al. (2026),11881,3,3,17,17,FALSE,6,3;5;7;11;14;17,sameMeasure,raw,notReported,FALSE,United Kingdom,Europe,
 mls,Michigan Longitudinal Study (MLS),gornik2023,2023,Gornik et al. (2023),1069,3,5,15,17,FALSE,,3;4;5;6;7;8;9;10;11;12;13;14;15;16;17,constructValid,raw,sum,FALSE,United States,North America,unclear number of timepoints per participant
-montrealBoys,Montreal Boys Sample,broidy2003,2003,Broidy et al. (2003),1037,6,6,15,15,FALSE,7,6;10;11;12;13;14;15,ageCommon,raw,mean,FALSE,Canada,North America,
+montrealBoys,Montreal Boys Study,broidy2003,2003,Broidy et al. (2003),1037,6,6,15,15,FALSE,7,6;10;11;12;13;14;15,ageCommon,raw,mean,FALSE,Canada,North America,
 mtsfgcls,MTSFGCLS,leBlanc2021,2021,LeBlanc (2021),928,8,8,61,61,TRUE,,,constructValid,raw,sum,FALSE,Canada,North America,
 nlscya,NLSY79 Child and Young Adult (NLSCYA),chenInPressMBR,in press,"Chen et al. (in press, MBR)",1223,5,7,9,12,FALSE,3,6;8;10,sameMeasure,raw,mnlfa,TRUE,United States,North America,
 pittsburghYouth,Pittsburgh Youth Study (PYS),keijsers2012,2012,Keijsers et al. (2012),503,7,7,19,19,FALSE,13,7;8;9;10;11;12;13;14;15;16;17;18;19,constructValid,integrated,sum,FALSE,United States,North America,behavior problem severity coded from aggregated info across multiple scales
