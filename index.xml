@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-15">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-16">
 <year>2026</year>
 <month>6</month>
-<day>15</day>
+<day>16</day>
 </pub-date>
 
 
@@ -530,24 +530,24 @@ cognitive skills across lengthy developmental periods.</p>
   depiction of the ages spanned by various longitudinal studies is in
   <xref alt="Figure 3" rid="fig-longitudinalstudies">Figure 3</xref>.</p>
   <fig id="fig-longitudinalstudies">
-    <caption><p>Figure 3: (Approximate) ages spanned by various
-    longitudinal studies, as of this writing. Studies that are no longer
-    active are shown in gray. Solid lines reflect fully longitudinal
-    spans (i.e., the same individuals were followed over time). Dotted
-    lines reflect ages assessed cross-sectionally—even if some
-    participants may have been followed longitudinally. For instance, if
-    a study recruited 5–10-year-old children and followed each child for
-    20 years, the study would have dotted lines from ages 5–10 and from
-    ages 25–30. Studies shown entirely with dotted lines assessed their
-    full age range cross-sectionally but still included longitudinal
-    follow-up of some participants. A star at age 0 represents that
-    participants were enrolled before birth and the study included
-    prenatal assessments. Ages spanned reflect ages when assessments
-    were collected directly from participants; ages spanned do not
-    include links to registry data (e.g., birth records, offending
-    records). Age was truncated at 100; thus, age 100 indicates that
-    participants were followed into their 90s (or until
-    death).</p></caption>
+    <caption><p>Figure 3: (Approximate) ages spanned by various lengthy
+    longitudinal studies, as of this writing. The list of longitudinal
+    studies is not exhaustive. Studies that are no longer active are
+    shown in gray. Solid lines reflect fully longitudinal spans (i.e.,
+    the same individuals were followed over time). Dotted lines reflect
+    ages assessed cross-sectionally—even if some participants may have
+    been followed longitudinally. For instance, if a study recruited
+    5–10-year-old children and followed each child for 20 years, the
+    study would have dotted lines from ages 5–10 and from ages 25–30.
+    Studies shown entirely with dotted lines assessed their full age
+    range cross-sectionally but still included longitudinal follow-up of
+    some participants. A star at age 0 represents that participants were
+    enrolled before birth and the study included prenatal assessments.
+    Ages spanned reflect ages when assessments were collected directly
+    from participants; ages spanned do not include links to registry
+    data (e.g., birth records, offending records). Age was truncated at
+    100; thus, age 100 indicates that participants were followed into
+    their 90s (or until death).</p></caption>
     <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/notebooks-analyses-fig-longitudinalstudies-output-1.png" />
   </fig>
   <sec id="seminal-longitudinal-studies">
@@ -714,20 +714,36 @@ cognitive skills across lengthy developmental periods.</p>
     (<xref alt="Gornik et al. 2023" rid="ref-Gornik2023" ref-type="bibr">Gornik
     et al. 2023</xref>). Bongers et al.
     (<xref alt="2004" rid="ref-Bongers2004" ref-type="bibr">2004</xref>)
-    examined trajectories of various externalizing problems from ages 4
-    to 18 spanning 13 differing birth cohorts with up to 5 measurement
+    examined trajectories of various externalizing problems from ages
+    4–18 spanning 13 differing birth cohorts with up to 5 measurement
     occasions per cohort, such that any individual was followed for up
     to 8 years
     (<xref alt="Bongers et al. 2004" rid="ref-Bongers2004" ref-type="bibr">Bongers
     et al. 2004</xref>). Studies have also examined trajectories of
-    delinquency from ages 7 to 19 with 13 measurement occasions
-    (Pittsburgh Youth Study;
+    delinquency from ages 7–19 with 13 measurement occasions (Pittsburgh
+    Youth Study;
     <xref alt="Keijsers et al. 2012" rid="ref-Keijsers2012" ref-type="bibr">Keijsers
-    et al. 2012</xref>). Studies have also leveraged registry data to
-    examine trajectories of offending from from ages 10 to 61 with XX
-    measurement occasions (Cambridge Study in Delinquent Development;
+    et al. 2012</xref>). Demonstrating an analytic method (moderated
+    nonlinear factor analysis) to link scores across measures onto the
+    same scale, Chen and Bauer
+    (<xref alt="in pressb" rid="ref-ChenPM" ref-type="bibr">in
+    pressb</xref>) examined trajectories of delinquency from ages 12–26
+    with 3 measurement occasions in the National Longitudinal Study of
+    Adolescent to Adult Health (Add Health), and Chen and Bauer
+    (<xref alt="in pressa" rid="ref-ChenMBR" ref-type="bibr">in
+    pressa</xref>) examined trajectories of externalizing behavior from
+    ages 5–12 with 3 measurement occasions in the National Longitudinal
+    Survey of Youth 1979 Child and Young Adult (NLSCYA). Studies have
+    also leveraged registry data to examine trajectories of offending
+    from ages 8–61
+    (<xref alt="Le Blanc 2021" rid="ref-LeBlanc2021" ref-type="bibr">Le
+    Blanc 2021</xref>), from ages 10–61 (Cambridge Study in Delinquent
+    Development;
     <xref alt="Farrington et al. 2023" rid="ref-Farrington2023" ref-type="bibr">Farrington
-    et al. 2023</xref>)</p>
+    et al. 2023</xref>), and from ages 9–64 (Stockholm Metropolitan
+    Study;
+    <xref alt="Sivertsson et al. 2024" rid="ref-Sivertsson2024" ref-type="bibr">Sivertsson
+    et al. 2024</xref>).</p>
     <p>However, as we will describe, these lengthy longitudinal studies
     of psychopathology (e.g.,
     <xref alt="Odgers et al. 2008" rid="ref-Odgers2008" ref-type="bibr">Odgers
@@ -1050,6 +1066,17 @@ cognitive skills across lengthy developmental periods.</p>
       understanding. Absolute change is necessary to identify true
       growth for an individual, and is thus important for treatment
       monitoring and longitudinal growth curves.</p>
+      <p>There is a misperception that no simple approach to handle
+      different measures across time exists. Consider the following
+      statement by Le Blanc
+      (<xref alt="2021" rid="ref-LeBlanc2021" ref-type="bibr">2021</xref>),
+      “The theoretical position is that a form of antisocial behavior,
+      for example, fraud, has to be measured by distinct behaviors with
+      adolescents and adults, in summary adapted to their age.
+      Nevertheless, different scale composition is an integral part of
+      the common concept of fraud. To our knowledge there is no
+      recognized analytical procedure to assess such a construct and the
+      life cycle validity of heteromorphous measures.” (p. 15).</p>
       <p>The lack of scoring tools to link scores from age-differing
       assessments has led researchers to restrict the age range of
       study. For instance, in their study, Bista et al.
@@ -3171,6 +3198,41 @@ cognitive skills across lengthy developmental periods.</p>
       <year iso-8601-date="2023">2023</year>
       <fpage>47</fpage>
       <lpage>71</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-ChenPM">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Chen</surname><given-names>Siyuan Marco</given-names></name>
+        <name><surname>Bauer</surname><given-names>Daniel J.</given-names></name>
+      </person-group>
+      <article-title>Modeling construct change over time amidst potential changes in construct measurement: A longitudinal moderated factor analysis approach</article-title>
+      <source>Psychological Methods</source>
+      <pub-id pub-id-type="doi">10.1037/met0000685</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="ref-ChenMBR">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Chen</surname><given-names>Siyuan Marco</given-names></name>
+        <name><surname>Bauer</surname><given-names>Daniel J.</given-names></name>
+      </person-group>
+      <article-title>Improving the evaluation of construct change over time: Advantages of longitudinal moderated nonlinear factor analysis over conventional first-order growth models</article-title>
+      <source>Multivariate Behavioral Research</source>
+      <uri>https://doi.org/10.1080/00273171.2026.2640576</uri>
+      <pub-id pub-id-type="doi">10.1080/00273171.2026.2640576</pub-id>
+      <fpage>1</fpage>
+      <lpage>27</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-LeBlanc2021">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name><surname>Le Blanc</surname><given-names>Marc</given-names></name>
+      </person-group>
+      <source>The development of antisocial behavior and crime</source>
+      <publisher-name>Springer</publisher-name>
+      <year iso-8601-date="2021">2021</year>
     </element-citation>
   </ref>
 </ref-list>
