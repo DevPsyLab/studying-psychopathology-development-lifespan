@@ -112,8 +112,8 @@ prenatal_df <- longitudinalStudies %>%
 
 ```{r}
 #| label: fig-longitudinalstudies
-#| fig-cap: "(Approximate) ages spanned by various lengthy longitudinal studies, as of this writing. The list of longitudinal studies is not exhaustive. Studies that are no longer active are shown in gray. Solid lines reflect fully longitudinal spans (i.e., the same individuals were followed over time). Dotted lines reflect ages assessed cross-sectionally—even if some participants may have been followed longitudinally. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 25–30. Studies shown entirely with dotted lines assessed their full age range cross-sectionally but still included longitudinal follow-up of some participants. A star at age 0 represents that participants were enrolled before birth and the study included prenatal assessments. Ages spanned reflect ages when assessments were collected directly from participants; ages spanned do not include links to registry data (e.g., birth records, offending records). Age was truncated at 100; thus, age 100 indicates that participants were followed into their 90s (or until death)."
-#| fig-alt: "(Approximate) ages spanned by various lengthy longitudinal studies, as of this writing. The list of longitudinal studies is not exhaustive. Studies that are no longer active are shown in gray. Solid lines reflect fully longitudinal spans (i.e., the same individuals were followed over time). Dotted lines reflect ages assessed cross-sectionally—even if some participants may have been followed longitudinally. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 25–30. Studies shown entirely with dotted lines assessed their full age range cross-sectionally but still included longitudinal follow-up of some participants. A star at age 0 represents that participants were enrolled before birth and the study included prenatal assessments. Ages spanned reflect ages when assessments were collected directly from participants; ages spanned do not include links to registry data (e.g., birth records, offending records). Age was truncated at 100; thus, age 100 indicates that participants were followed into their 90s (or until death)."
+#| fig-cap: "(Approximate) ages spanned by various lengthy longitudinal studies, as of this writing. The list of longitudinal studies is not exhaustive. Studies that are no longer active are shown in gray. Studies that used developmental scaling to harmonize scores across ages (i.e., to link scores across ages onto the same scale) are in green. Solid lines reflect fully longitudinal spans (i.e., the same individuals were followed over time). Dotted lines reflect ages assessed cross-sectionally—even if some participants may have been followed longitudinally. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 25–30. Studies shown entirely with dotted lines assessed their full age range cross-sectionally but still included longitudinal follow-up of some participants. A star at age 0 represents that participants were enrolled before birth and the study included prenatal assessments. Ages spanned reflect ages when assessments were collected directly from participants; ages spanned do not include links to registry data (e.g., birth records, offending records). Age was truncated at 100; thus, age 100 indicates that participants were followed into their 90s (or until death)."
+#| fig-alt: "(Approximate) ages spanned by various lengthy longitudinal studies, as of this writing. The list of longitudinal studies is not exhaustive. Studies that are no longer active are shown in gray. Studies that used developmental scaling to harmonize scores across ages (i.e., to link scores across ages onto the same scale) are in green. Solid lines reflect fully longitudinal spans (i.e., the same individuals were followed over time). Dotted lines reflect ages assessed cross-sectionally—even if some participants may have been followed longitudinally. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 25–30. Studies shown entirely with dotted lines assessed their full age range cross-sectionally but still included longitudinal follow-up of some participants. A star at age 0 represents that participants were enrolled before birth and the study included prenatal assessments. Ages spanned reflect ages when assessments were collected directly from participants; ages spanned do not include links to registry data (e.g., birth records, offending records). Age was truncated at 100; thus, age 100 indicates that participants were followed into their 90s (or until death)."
 
 plot_longitudinalStudies <- ggplot2::ggplot(
   data = longitudinalStudies_plotData,
@@ -227,8 +227,15 @@ longitudinalExternalizingStudies_plotData <- bind_rows(
 longitudinalExternalizingStudies_plotData <- longitudinalExternalizingStudies_plotData %>%
   left_join(
     longitudinalExternalizingStudies %>%
-      select(study, registry),
+      select(study, registry, developmentalScaling),
     by = "study"
+  ) %>%
+  mutate(
+    plotColor = case_when(
+      developmentalScaling ~ "developmentalScaling",
+      registry ~ "registry",
+      TRUE ~ "standard"
+    )
   )
 
 # Order studies for plot
@@ -259,7 +266,12 @@ longitudinalExternalizingStudies_measurementOccasions <- longitudinalExternalizi
       studyLabel,
       levels = longitudinalExternalizingStudies_order
     ),
-    y = as.numeric(studyLabelFactor) + 0.2
+    y = as.numeric(studyLabelFactor) + 0.2,
+    plotColor = case_when(
+      developmentalScaling ~ "developmentalScaling",
+      registry ~ "registry",
+      TRUE ~ "standard"
+    )
   )
 
 # Label positions
@@ -270,7 +282,12 @@ longitudinalExternalizingStudies_sampleLabels <- longitudinalExternalizingStudie
       levels = longitudinalExternalizingStudies_order
     ),
     label_x = (ageStartMin + ageEndMax) / 2,
-    label_y = as.numeric(studyLabelFactor)
+    label_y = as.numeric(studyLabelFactor),
+    plotColor = case_when(
+      developmentalScaling ~ "developmentalScaling",
+      registry ~ "registry",
+      TRUE ~ "standard"
+    )
   )
 ```
 
@@ -289,7 +306,7 @@ plot_longitudinalExternalizingStudies <- ggplot(
       xend = ageEnd,
       yend = studyLabelFactor,
       linetype = segment_group,
-      color = registry
+      color = plotColor
     ),
     linewidth = 1
   ) +
@@ -302,8 +319,9 @@ plot_longitudinalExternalizingStudies <- ggplot(
   ) +
   scale_color_manual(
     values = c(
-      "TRUE" = "gray70",
-      "FALSE" = "black"
+      standard = "black",
+      registry = "gray70",
+      developmentalScaling = "#2E7D32" # muted forest green
     ),
     guide = "none"
   ) +
@@ -312,7 +330,7 @@ plot_longitudinalExternalizingStudies <- ggplot(
     aes(
       x = measurementOccasions,
       y = y,
-      color = registry
+      color = plotColor
     ),
     size = 1.5
   ) +
@@ -322,7 +340,7 @@ plot_longitudinalExternalizingStudies <- ggplot(
       x = label_x,
       y = label_y,
       label = sampleLabel,
-      color = registry
+      color = plotColor
     ),
     size = 2.8,
     nudge_x = -0.4,
