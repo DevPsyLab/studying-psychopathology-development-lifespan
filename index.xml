@@ -879,9 +879,9 @@ cognitive skills across lengthy developmental periods.</p>
     aggression, rule breaking, and substance use
     (<xref alt="Miller et al. 2009" rid="ref-Miller2009" ref-type="bibr">Miller
     et al. 2009</xref>;
-    <xref alt="Petersen et al. 2026" rid="ref-Petersen2026" ref-type="bibr">Petersen
-    et al. 2026</xref>). These age-differing behaviors show strong
-    stability of individual differences, indicating a consistent
+    <xref alt="Petersen, Demko, Lee, et al. 2026" rid="ref-Petersen2026a" ref-type="bibr">Petersen,
+    Demko, Lee, et al. 2026</xref>). These age-differing behaviors show
+    strong stability of individual differences, indicating a consistent
     underlying construct
     (<xref alt="Moffitt 1993" rid="ref-Moffitt1993" ref-type="bibr">Moffitt
     1993</xref>;
@@ -1046,8 +1046,9 @@ cognitive skills across lengthy developmental periods.</p>
         “common items” and “upward/downward extension” approaches are by
         far the most widely used in the literature, even though they
         likely lead to inaccurate scores and thus inaccurate
-        trajectories. (Figure reprinted from Petersen et al.
-        (<xref alt="2026" rid="ref-Petersen2026" ref-type="bibr">2026</xref>),
+        trajectories. (Figure reprinted from Petersen, Demko, Lee, et
+        al.
+        (<xref alt="2026" rid="ref-Petersen2026a" ref-type="bibr">2026</xref>),
         Figure 1, p. 113. Petersen, I. T., Demko, Z., Lee, W.-C., &amp;
         Oleson, J. J. (2026). Studying development of psychopathology
         using changing measures to account for heterotypic continuity.
@@ -1066,13 +1067,14 @@ cognitive skills across lengthy developmental periods.</p>
       (<xref alt="Chen and Jaffee 2015" rid="ref-Chen2015" ref-type="bibr">Chen
       and Jaffee 2015</xref>;
       <xref alt="Petersen et al. 2018" rid="ref-Petersen2018" ref-type="bibr">Petersen
-      et al. 2018</xref>,
-      <xref alt="2026" rid="ref-Petersen2026" ref-type="bibr">2026</xref>)
-      has shown that the “common items” and “upward/downward extension”
-      approaches lead to inaccurate developmental inferences. In sum,
-      despite these approaches being the most widely used for assessing
-      individuals’ development, they likely lead to inaccurate scores
-      and thus inaccurate trajectories.</p>
+      et al. 2018</xref>;
+      <xref alt="Petersen, Demko, Lee, et al. 2026" rid="ref-Petersen2026a" ref-type="bibr">Petersen,
+      Demko, Lee, et al. 2026</xref>) has shown that the “common items”
+      and “upward/downward extension” approaches lead to inaccurate
+      developmental inferences. In sum, despite these approaches being
+      the most widely used for assessing individuals’ development, they
+      likely lead to inaccurate scores and thus inaccurate
+      trajectories.</p>
       <p>The problem cannot be solved merely by age-norming. Generating
       norms from items that are invalid at a given age or from scales
       that have important content gaps at a given age leads to construct
@@ -1153,18 +1155,71 @@ cognitive skills across lengthy developmental periods.</p>
       Differences</title>
       <p>Many measures use coarse, subjective response scales such as
       Likert-type response scales (e.g., “rarely”, “sometimes”, “often”,
-      “very often”) leading to cultural bias and insensitivity to change
+      “very often”) leading to cultural bias
       (<xref alt="Schaeffer 1991" rid="ref-Schaeffer1991" ref-type="bibr">Schaeffer
       1991</xref>;
       <xref alt="Schwarz 1999" rid="ref-Schwarz1999" ref-type="bibr">Schwarz
       1999</xref>;
       <xref alt="Paalman et al. 2013" rid="ref-Paalman2013" ref-type="bibr">Paalman
-      et al. 2013</xref>). Moreover, Likert-type scales tend to focus on
-      frequency of misbehavior and ignore intensity and severity. It can
-      be helpful to explicitly assess—and distinguish—frequency versus
-      problematic impact of behavior. Instead of assessing relative
-      frequency, researchers advise assessing absolute frequency of
-      behavior—in addition to other aspects of behavior. </p>
+      et al. 2013</xref>) and insensitivity to change. Items with few
+      discrete response categories tend to show less sensitivity to the
+      full range of individual differences
+      (<xref alt="Elliott and Ageton 1980" rid="ref-Elliott1980" ref-type="bibr">Elliott
+      and Ageton 1980</xref>) and less sensitivity to change (i.e.,
+      responsiveness;
+      <xref alt="Grant et al. 1999" rid="ref-Grant1999" ref-type="bibr">Grant
+      et al. 1999</xref>) compared to items with more response options
+      that have greater variability in scores. In general, items with
+      more response options yield more information [i.e., greater
+      reduction of uncertainty in estimates of a person’s construct
+      level; though there are diminishing returns when using more than
+      six response options; Culpepper
+      (<xref alt="2013" rid="ref-Culpepper2013" ref-type="bibr">2013</xref>);
+      Simms et al.
+      (<xref alt="2019" rid="ref-Simms2019" ref-type="bibr">2019</xref>)].
+      Indeed, as depicted in
+      <xref alt="Figure 6" rid="fig-absoluteFrequencyInformation">Figure 6</xref>,
+      items assessing absolute frequency yield more information than
+      dichotomized versions of the same items and than the Achenbach
+      Adult Self-Report, which uses Likert-type response options. In
+      addition, if a respondent implicitly uses the target’s same-aged
+      peers as the normative reference group for determining the
+      relative frequency of a behavior, this could have the implicit
+      effect of resulting in age-normed scores, which works against the
+      goal of detecting change. Moreover, Likert-type scales tend to
+      focus on frequency of misbehavior and ignore intensity and
+      severity. It can be helpful to explicitly assess—and
+      distinguish—frequency versus problematic impact of behavior.
+      Instead of assessing relative frequency, researchers advise
+      assessing absolute frequency of behavior
+      (<xref alt="Burns et al. 2001" rid="ref-Burns2001" ref-type="bibr">Burns
+      et al. 2001</xref>;
+      <xref alt="Schwarz 1999" rid="ref-Schwarz1999" ref-type="bibr">Schwarz
+      1999</xref>)—in addition to other aspects of behavior (e.g.,
+      onset, timing, duration, intensity, function, and resulting
+      impairment).</p>
+      <fig id="fig-absoluteFrequencyInformation">
+        <caption><p>Figure 6: Test Information Functions of Absolute
+        Frequency Versus Dichotomized Versus Adult Self-Report Items:
+        Test Information as a Function of Theta (θ). “Absolute
+        Frequency” refers to count items; “Dichotomized” refers to
+        dichotomized versions of the count items; “Adult Self-Report”
+        refers to items from the Achenbach Adult Self-Report. “θ”
+        represents the person’s level on the latent externalizing
+        problems factor. The figure demonstrates that items assessing
+        absolute frequency yield more information than dichotomized
+        versions of the same items and the Likert-type response options
+        of the Adult Self-Report. (Figure reprinted from Petersen,
+        Demko, Doebler, et al.
+        (<xref alt="2026" rid="ref-Petersen2026b" ref-type="bibr">2026</xref>),
+        Figure 4, p. 303. Petersen, I. T., Demko, Z., Doebler, P.,
+        Sabel, L., Oleson, J. J., &amp; Krueger, R. F. (2026). How often
+        is “often”? Improving assessment of the externalizing spectrum
+        using absolute frequency. <italic>Psychological
+        Assessment</italic>, <italic>38</italic>(4), 295–306.
+        <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/pas0001441">https://doi.org/10.1037/pas0001441</ext-link>)</p></caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/petersen2026_figure4.png" />
+      </fig>
       <p>In addition, the measures focus on extreme or clinical-range
       behaviors; scores are thus positively skewed with floor effects
       and have unacceptably low reliability (including the CBCL;
@@ -1262,6 +1317,33 @@ cognitive skills across lengthy developmental periods.</p>
   </sec>
   <sec id="example-externalizing-psychopathology">
     <title>Example: Externalizing Psychopathology</title>
+    <p>As depicted in
+    <xref alt="Figure 7" rid="fig-absoluteFrequencyByAge">Figure 7</xref>,
+    different externalizing behaviors are most common at different
+    developmental periods, consistent with heterotypic continuity.</p>
+    <fig id="fig-absoluteFrequencyByAge">
+      <caption><p>Figure 7: Frequency (per Month) of Engaging in Various
+      Externalizing Behaviors by Age (<italic>N</italic> = 1,237). Items
+      are from the Externalizing Spectrum Inventory (ESI), but unlike
+      the True/False ESI, participants rated items on an absolute
+      frequency scale (times per day/week/month/year). The gray band is
+      the 95% confidence interval. The figure demonstrates that
+      different externalizing behaviors are most common at different
+      developmental periods, consistent with heterotypic continuity. As
+      examples, hurting others’ feelings on purpose (left panel) was
+      most common in early adulthood; snapping or raising one’s voice
+      (middle panel) was most common in middle adulthood; getting in
+      power struggles with others (right panel) was most common in older
+      adulthood. (Figure reprinted from Petersen, Demko, Doebler, et al.
+      (<xref alt="2026" rid="ref-Petersen2026b" ref-type="bibr">2026</xref>),
+      Figure 1, p. 301. Petersen, I. T., Demko, Z., Doebler, P., Sabel,
+      L., Oleson, J. J., &amp; Krueger, R. F. (2026). How often is
+      “often”? Improving assessment of the externalizing spectrum using
+      absolute frequency. <italic>Psychological Assessment</italic>,
+      <italic>38</italic>(4), 295–306.
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/pas0001441">https://doi.org/10.1037/pas0001441</ext-link>)</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/petersen2026_figure1.png" />
+    </fig>
     <p>As we described above, existing assessment of externalizing
     behavior—and other aspects of psychopathology—have key
     limitations.</p>
@@ -1271,7 +1353,7 @@ cognitive skills across lengthy developmental periods.</p>
   <title>Solution: A Developmental Scaling Framework</title>
   <p>A conceptual depiction of an example construct-valid item design
   spanning infancy to adulthood is in
-  <xref alt="Figure 6" rid="fig-constructValidItemDesign">Figure 6</xref>.
+  <xref alt="Figure 8" rid="fig-constructValidItemDesign">Figure 8</xref>.
   In the construct-valid item design, some items represent the core of
   the phenotype and are assessed across all ages, whereas other items
   are age-specific. Despite some age-specific items, some common items
@@ -1280,13 +1362,13 @@ cognitive skills across lengthy developmental periods.</p>
   yet distinct items is widely used in educational testing to help link
   individuals’ scores across grades, and is called vertical scaling
   because the item sets appear to form a line moving upward (see
-  <xref alt="Figure 6" rid="fig-constructValidItemDesign">Figure 6</xref>).
+  <xref alt="Figure 8" rid="fig-constructValidItemDesign">Figure 8</xref>).
   For example, for a standardized test of math ability, Kindergartners
   may receive items assessing counting, 1st graders may receive items
   assessing counting and addition, 2nd graders may receive items
   assessing addition and subtraction, and so on.</p>
   <fig id="fig-constructValidItemDesign">
-    <caption><p>Figure 6: Conceptual depiction of a construct-valid item
+    <caption><p>Figure 8: Conceptual depiction of a construct-valid item
     design from infancy to adulthood. The age(s) at which an item set is
     assessed are represented by the letter <monospace>x</monospace> and
     a colored box. Some items (“Core”, in green) represent the core of
@@ -1316,9 +1398,9 @@ cognitive skills across lengthy developmental periods.</p>
       <title>Period and Cohort Effects</title>
       <p>Various types of cross-sectional and longitudinal designs are
       depicted in
-      <xref alt="Figure 7" rid="fig-longitudinalDesigns">Figure 7</xref>.</p>
+      <xref alt="Figure 9" rid="fig-longitudinalDesigns">Figure 9</xref>.</p>
       <fig id="fig-longitudinalDesigns">
-        <caption><p>Figure 7: Research Designs by Time Of Measurement
+        <caption><p>Figure 9: Research Designs by Time Of Measurement
         and Cohort. Values in the cells are ages of the participants.
         Dashed line indicates different participants were assessed at
         each time of measurement. (Figure reprinted from Petersen
@@ -1539,7 +1621,7 @@ cognitive skills across lengthy developmental periods.</p>
       <lpage>180</lpage>
     </element-citation>
   </ref>
-  <ref id="ref-Petersen2026">
+  <ref id="ref-Petersen2026a">
     <element-citation publication-type="article-journal">
       <person-group person-group-type="author">
         <name><surname>Petersen</surname><given-names>Isaac T.</given-names></name>
@@ -3323,6 +3405,120 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1146/annurev-clinpsy-061324-073435</pub-id>
       <fpage>559</fpage>
       <lpage>586</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Elliott1980">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Elliott</surname><given-names>Delbert S.</given-names></name>
+        <name><surname>Ageton</surname><given-names>Suzanne S.</given-names></name>
+      </person-group>
+      <article-title>Reconciling race and class differences in self-reported and official estimates of delinquency</article-title>
+      <source>American Sociological Review</source>
+      <year iso-8601-date="1980">1980</year>
+      <volume>45</volume>
+      <issue>1</issue>
+      <uri>http://www.jstor.org/stable/2095245</uri>
+      <pub-id pub-id-type="doi">10.2307/2095245</pub-id>
+      <fpage>95</fpage>
+      <lpage>110</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Grant1999">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Grant</surname><given-names>Stanley J.</given-names></name>
+        <name><surname>Aitchison</surname><given-names>Tom</given-names></name>
+        <name><surname>Henderson</surname><given-names>Esther</given-names></name>
+        <name><surname>Christie</surname><given-names>Jim</given-names></name>
+        <name><surname>Zare</surname><given-names>Sharam</given-names></name>
+        <name><surname>McMurray</surname><given-names>John</given-names></name>
+        <name><surname>Dargie</surname><given-names>Henry</given-names></name>
+      </person-group>
+      <article-title>A comparison of the reproducibility and the sensitivity to change of visual analogue scales, Borg scales, and Likert scales in normal subjects during submaximal exercise</article-title>
+      <source>Chest</source>
+      <year iso-8601-date="1999">1999</year>
+      <volume>116</volume>
+      <issue>5</issue>
+      <uri>https://www.sciencedirect.com/science/article/pii/S0012369215515869</uri>
+      <pub-id pub-id-type="doi">10.1378/chest.116.5.1208</pub-id>
+      <fpage>1208</fpage>
+      <lpage>1217</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Simms2019">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Simms</surname><given-names>Leonard J.</given-names></name>
+        <name><surname>Zelazny</surname><given-names>Kerry</given-names></name>
+        <name><surname>Williams</surname><given-names>Trevor F.</given-names></name>
+        <name><surname>Bernstein</surname><given-names>Lee</given-names></name>
+      </person-group>
+      <article-title>Does the number of response options matter? Psychometric perspectives using personality questionnaire data</article-title>
+      <source>Psychological Assessment</source>
+      <year iso-8601-date="2019">2019</year>
+      <volume>31</volume>
+      <issue>4</issue>
+      <pub-id pub-id-type="doi">10.1037/pas0000648</pub-id>
+      <fpage>557</fpage>
+      <lpage>566</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Culpepper2013">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Culpepper</surname><given-names>Steven Andrew</given-names></name>
+      </person-group>
+      <article-title>The reliability and precision of total scores and IRT estimates as a function of polytomous IRT parameters and latent trait distribution</article-title>
+      <source>Applied Psychological Measurement</source>
+      <year iso-8601-date="2013">2013</year>
+      <volume>37</volume>
+      <issue>3</issue>
+      <uri>https://journals.sagepub.com/doi/abs/10.1177/0146621612470210</uri>
+      <pub-id pub-id-type="doi">10.1177/0146621612470210</pub-id>
+      <fpage>201</fpage>
+      <lpage>225</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Burns2001">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Burns</surname><given-names>G. Leonard</given-names></name>
+        <name><surname>Walsh</surname><given-names>James A.</given-names></name>
+        <name><surname>Patterson</surname><given-names>David R.</given-names></name>
+        <name><surname>Holte</surname><given-names>Carol S.</given-names></name>
+        <name><surname>Sommers-Flanagan</surname><given-names>Rita</given-names></name>
+        <name><surname>Parker</surname><given-names>Colleen M.</given-names></name>
+      </person-group>
+      <article-title>Attention deficit and disruptive behavior disorder symptoms: Usefulness of a frequency count rating procedure to measure these symptoms</article-title>
+      <source>European Journal of Psychological Assessment</source>
+      <year iso-8601-date="2001">2001</year>
+      <volume>17</volume>
+      <issue>1</issue>
+      <uri>https://login.proxy.lib.uiowa.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;AuthType=ip,cookie,uid,url&amp;db=pdh&amp;AN=2001-14900-003</uri>
+      <pub-id pub-id-type="doi">10.1027//1015-5759.17.1.25</pub-id>
+      <fpage>25</fpage>
+      <lpage>35</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Petersen2026b">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Petersen</surname><given-names>Isaac T.</given-names></name>
+        <name><surname>Demko</surname><given-names>Zachary</given-names></name>
+        <name><surname>Doebler</surname><given-names>Philipp</given-names></name>
+        <name><surname>Sabel</surname><given-names>Loreen</given-names></name>
+        <name><surname>Oleson</surname><given-names>Jacob J.</given-names></name>
+        <name><surname>Krueger</surname><given-names>Robert F.</given-names></name>
+      </person-group>
+      <article-title>How often is “often”? Improving assessment of the externalizing spectrum using absolute frequency</article-title>
+      <source>Psychological Assessment</source>
+      <year iso-8601-date="2026">2026</year>
+      <volume>38</volume>
+      <issue>4</issue>
+      <pub-id pub-id-type="doi">10.1037/pas0001441</pub-id>
+      <fpage>295</fpage>
+      <lpage>306</lpage>
     </element-citation>
   </ref>
 </ref-list>
