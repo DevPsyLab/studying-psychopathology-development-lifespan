@@ -302,11 +302,12 @@ In the Dunedin Multidisciplinary Health and Development Study, @Odgers2008 exami
 A study using six longitudinal datasets examined trajectories of disruptive behaviors and delinquency, with the longest trajectory spanning ages 6–15 with 7 measurement occasions [@Broidy2003].
 In addition, a study examined trajectories of externalizing problems from ages 4–17 with 3 measurement occasions in predicting externalizing problems at age 27 [@Korhonen2018].
 Other studies have examined trajectories of externalizing problems from ages 5–17 with 5 measurement occasions [@Bista2025], from ages 6–18 with 12 measurement occasions [@Shi2020], from ages 1.5–14.5 with 6 measurement occasions [@Kjeldsen2016], from ages 4–16 with 7 measurement occasions [Avon Longitudinal Study of Parents and Children (ALSPAC)\; @Speyer2022], from ages 3–17 with 6 measurement occasions [UK Millennium Cohort Study\; @Zhai2026], from ages 12–23 with 3 measurement occasions [@Stringer2020], from ages 2–15 with 11 measurement occasions [NICHD Study of Early Child Care and Youth Development (SECCYD)\; @Harris2025], and from ages 3–17 [@Gornik2023].
-@Bongers2004 examined trajectories of various externalizing problems from ages 4 to 18 spanning 13 differing birth cohorts with up to 5 measurement occasions per cohort, such that any individual was followed for up to 8 years [@Bongers2004].
-Studies have also examined trajectories of delinquency from ages 7 to 19 with 13 measurement occasions [Pittsburgh Youth Study\; @Keijsers2012].
-Studies have also leveraged registry data to examine trajectories of offending from from ages 10 to 61 with XX measurement occasions [Cambridge Study in Delinquent Development\; @Farrington2023]
+@Bongers2004 examined trajectories of various externalizing problems from ages 4–18 spanning 13 differing birth cohorts with up to 5 measurement occasions per cohort, such that any individual was followed for up to 8 years [@Bongers2004].
+Studies have also examined trajectories of delinquency from ages 7–19 with 13 measurement occasions [Pittsburgh Youth Study\; @Keijsers2012].
+Demonstrating an analytic method (moderated nonlinear factor analysis) to link scores across measures onto the same scale, @ChenPM examined trajectories of delinquency from ages 12–26 with 3 measurement occasions in the National Longitudinal Study of Adolescent to Adult Health (Add Health), and @ChenMBR examined trajectories of externalizing behavior from ages 5–12 with 3 measurement occasions in the National Longitudinal Survey of Youth 1979 Child and Young Adult (NLSCYA).
+Studies have also leveraged registry data to examine trajectories of offending from ages 8–61 [@LeBlanc2021], from ages 10–61 [Cambridge Study in Delinquent Development\; @Farrington2023], and from ages 9–64 [Stockholm Metropolitan Study\; @Sivertsson2024].
 
-<!-- z-score trajectories; Bauer paper; LeBlanc (2020, 2021); Sivertsson et al. (2024) -->
+<!-- z-score trajectories -->
 
 However, as we will describe, these lengthy longitudinal studies of psychopathology [e.g., @Odgers2008]—including our own [@Petersen2015]—have important limitations in (a) how they assessed psychopathology constructs across development and (b) how they estimated people's scores on those constructs over time that prevent strong inferences regarding individuals' change over time.
 
@@ -449,6 +450,11 @@ For instance, when using age-differing measures of externalizing behavior to acc
 Thus, the measures do not yield scores that are comparable across time and that enable change in an individual's level to be observed across a lengthy developmental span.
 Age norms and standardized scores (*T*- or *z*-scores) do not allow observing individuals' absolute change because scores have a fixed mean and variance, and they do not equal developmental understanding.
 Absolute change is necessary to identify true growth for an individual, and is thus important for treatment monitoring and longitudinal growth curves.
+
+There is a misperception that no simple approach to handle different measures across time exists.
+Consider the following statement by @LeBlanc2021, "The theoretical position is that a form of antisocial behavior, for example, fraud, has to be measured by distinct behaviors with adolescents and adults, in summary adapted to their age.
+Nevertheless, different scale composition is an integral part of the common concept of fraud.
+To our knowledge there is no recognized analytical procedure to assess such a construct and the life cycle validity of heteromorphous measures." (p. 15).
 
 The lack of scoring tools to link scores from age-differing assessments has led researchers to restrict the age range of study.
 For instance, in their study, @Bista2025 noted "A different version of the questionnaire (CBCL/2–3), designed for 2–3-year-olds, was used for the year 2 follow-up [compared to the CBCL/4–18 assessed from ages 5–17].
