@@ -676,7 +676,10 @@ cognitive skills across lengthy developmental periods.</p>
     construct over a long period. Here, we focus on studies that have
     examined trajectories of externalizing
     behavior.<xref ref-type="fn" rid="fn1">1</xref></p>
-    <p>In the Child Development Project, Petersen et al.
+    <p>A depiction of the ages spanned by various longitudinal studies
+    is in
+    <xref alt="Figure 4" rid="fig-longitudinalexternalizingstudies">Figure 4</xref>.
+    In the Child Development Project, Petersen et al.
     (<xref alt="2015" rid="ref-Petersen2015" ref-type="bibr">2015</xref>)
     examined trajectories of externalizing behavior from ages 5–27 with
     20 measurement occasions. In the Dunedin Multidisciplinary Health
@@ -744,6 +747,26 @@ cognitive skills across lengthy developmental periods.</p>
     Study;
     <xref alt="Sivertsson et al. 2024" rid="ref-Sivertsson2024" ref-type="bibr">Sivertsson
     et al. 2024</xref>).</p>
+    <fig id="fig-longitudinalexternalizingstudies">
+      <caption><p>Figure 4: (Approximate) ages spanned by various
+      lengthy longitudinal studies examining individuals’ trajectories
+      of externalizing behavior. The list of longitudinal studies is not
+      exhaustive. Studies that are based on registry data are shown in
+      gray. Measurement occasions are depicted with solid circles. Note
+      that, in some studies, measurement occasions only apply to a
+      subset of participants in that study, in some cases, no
+      participant was assessed at all measurement occasions. Solid lines
+      reflect fully longitudinal spans (i.e., the same individuals were
+      followed over time). Dotted lines reflect ages assessed
+      cross-sectionally—even if some participants may have been followed
+      longitudinally. For instance, if a study recruited 5–10-year-old
+      children and followed each child for 20 years, the study would
+      have dotted lines from ages 5–10 and from ages 25–30. Studies
+      shown entirely with dotted lines assessed their full age range
+      cross-sectionally but still included longitudinal follow-up of
+      participants.</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/notebooks-analyses-fig-longitudinalexternalizingstudies-output-1.png" />
+    </fig>
     <p>However, as we will describe, these lengthy longitudinal studies
     of psychopathology (e.g.,
     <xref alt="Odgers et al. 2008" rid="ref-Odgers2008" ref-type="bibr">Odgers
@@ -961,7 +984,7 @@ cognitive skills across lengthy developmental periods.</p>
       that span.</p>
       <p>There are two primary ways that researchers have examined
       people’s change in psychopathology across development
-      <xref alt="Figure 4" rid="fig-approachesToLongitudinalAssessment">Figure 4</xref>.
+      <xref alt="Figure 5" rid="fig-approachesToLongitudinalAssessment">Figure 5</xref>.
       The “common items” approach removes items that are age specific.
       For example, in a study of externalizing behavior from early
       childhood to adolescence, a study might remove some substance use
@@ -996,7 +1019,7 @@ cognitive skills across lengthy developmental periods.</p>
       current study also employed the scale with older children to
       promote uniformity in measures”.</p>
       <fig id="fig-approachesToLongitudinalAssessment">
-        <caption><p>Figure 4: Item set A refers to items that are
+        <caption><p>Figure 5: Item set A refers to items that are
         construct-valid at only timepoint 1 (T1); item set B is
         construct-valid at both T1 and T2; item set C is construct-valid
         at only T2. A dash indicates that the item set was not assessed
@@ -1198,7 +1221,7 @@ cognitive skills across lengthy developmental periods.</p>
   <title>Solution: A Developmental Scaling Framework</title>
   <p>A conceptual depiction of an example construct-valid item design
   spanning infancy to adulthood is in
-  <xref alt="Figure 5" rid="fig-constructValidItemDesign">Figure 5</xref>.
+  <xref alt="Figure 6" rid="fig-constructValidItemDesign">Figure 6</xref>.
   In the construct-valid item design, some items represent the core of
   the phenotype and are assessed across all ages, whereas other items
   are age-specific. Despite some age-specific items, some common items
@@ -1207,13 +1230,13 @@ cognitive skills across lengthy developmental periods.</p>
   yet distinct items is widely used in educational testing to help link
   individuals’ scores across grades, and is called vertical scaling
   because the item sets appear to form a line moving upward (see
-  <xref alt="Figure 5" rid="fig-constructValidItemDesign">Figure 5</xref>).
+  <xref alt="Figure 6" rid="fig-constructValidItemDesign">Figure 6</xref>).
   For example, for a standardized test of math ability, Kindergartners
   may receive items assessing counting, 1st graders may receive items
   assessing counting and addition, 2nd graders may receive items
   assessing addition and subtraction, and so on.</p>
   <fig id="fig-constructValidItemDesign">
-    <caption><p>Figure 5: Conceptual depiction of a construct-valid item
+    <caption><p>Figure 6: Conceptual depiction of a construct-valid item
     design from infancy to adulthood. The age(s) at which an item set is
     assessed are represented by the letter <monospace>x</monospace> and
     a colored box. Some items (“Core”, in green) represent the core of
@@ -1243,9 +1266,9 @@ cognitive skills across lengthy developmental periods.</p>
       <title>Period and Cohort Effects</title>
       <p>Various types of cross-sectional and longitudinal designs are
       depicted in
-      <xref alt="Figure 6" rid="fig-longitudinalDesigns">Figure 6</xref>.</p>
+      <xref alt="Figure 7" rid="fig-longitudinalDesigns">Figure 7</xref>.</p>
       <fig id="fig-longitudinalDesigns">
-        <caption><p>Figure 6: Research Designs by Time Of Measurement
+        <caption><p>Figure 7: Research Designs by Time Of Measurement
         and Cohort. Values in the cells are ages of the participants.
         Dashed line indicates different participants were assessed at
         each time of measurement. (Figure reprinted from Petersen
