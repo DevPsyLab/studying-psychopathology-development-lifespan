@@ -34,6 +34,7 @@ format:
 
 library("petersenlab") #located here: https://github.com/DevPsyLab/petersenlab
 library("tidyverse")
+library("ggrepel")
 ```
 
 ## Load Data
@@ -239,7 +240,7 @@ longitudinalExternalizingStudies_plotData <- longitudinalExternalizingStudies_pl
   mutate(
     studyLabelFactor = factor(
       studyLabel,
-      levels = extStudies_order
+      levels = longitudinalExternalizingStudies_order
     )
   )
 
@@ -269,7 +270,7 @@ longitudinalExternalizingStudies_sampleLabels <- longitudinalExternalizingStudie
       levels = longitudinalExternalizingStudies_order
     ),
     label_x = (ageStartMin + ageEndMax) / 2,
-    label_y = as.numeric(studyLabelFactor) + 0.2
+    label_y = as.numeric(studyLabelFactor)
   )
 ```
 
@@ -313,12 +314,9 @@ plot_longitudinalExternalizingStudies <- ggplot(
       y = y,
       color = registry
     ),
-    #shape = 21,
-    #fill = "white",
-    #stroke = 0.5,
     size = 1.5
   ) +
-  geom_text(
+  ggrepel::geom_text_repel(
     data = longitudinalExternalizingStudies_sampleLabels,
     aes(
       x = label_x,
@@ -326,14 +324,18 @@ plot_longitudinalExternalizingStudies <- ggplot(
       label = sampleLabel,
       color = registry
     ),
-    vjust = 1.8,
-    size = 2.8
+    size = 2.8,
+    nudge_y = -0.4,
+    direction = "x",
+    hjust = 0.5,
+    segment.color = NA,
+    box.padding = 0.1,
+    force = 0.5
   ) +
   labs(
     x = "Age (years)",
     y = NULL
   ) +
-  scale_x_continuous(expand = expansion(mult = c(0.25, 0.02))) +
   theme_classic()
 
 plot_longitudinalExternalizingStudies
