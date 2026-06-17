@@ -1207,12 +1207,12 @@ cognitive skills across lengthy developmental periods.</p>
       (<xref alt="2019" rid="ref-Simms2019" ref-type="bibr">2019</xref>)].
       Indeed, as depicted in
       <xref alt="Figure 7" rid="fig-absoluteFrequencyInformation">Figure 7</xref>,
-      items assessing absolute frequency yield more information than
-      dichotomized versions of the same items and than the Achenbach
-      Adult Self-Report, which uses Likert-type response options. In
-      addition, if a respondent implicitly uses the target’s same-aged
-      peers as the normative reference group for determining the
-      relative frequency of a behavior, this could have the implicit
+      items assessing absolute frequency have been shown to yield more
+      information than dichotomized versions of the same items and than
+      the Achenbach Adult Self-Report, which uses Likert-type response
+      options. In addition, if a respondent implicitly uses the target’s
+      same-aged peers as the normative reference group for determining
+      the relative frequency of a behavior, this could have the implicit
       effect of resulting in age-normed scores, which works against the
       goal of detecting change. Moreover, Likert-type scales tend to
       focus on frequency of misbehavior and ignore intensity and
@@ -1371,101 +1371,145 @@ cognitive skills across lengthy developmental periods.</p>
       or the upward/downward extension approach across ages, which are
       problematic approaches that lead to inaccurate scores and
       resulting trajectories and developmental inferences. To address
-      this concern, we propose a potential solution: a developmental
-      scaling framework.</p>
+      this concern, we propose a potential solution to account for
+      heterotypic continuity and to allow charting individuals’ change
+      across the lifespan: a developmental scaling framework.</p>
     </sec>
   </sec>
 </sec>
 <sec id="solution-a-developmental-scaling-framework">
   <title>Solution: A Developmental Scaling Framework</title>
-  <p>A conceptual depiction of an example construct-valid item design
-  spanning infancy to adulthood is in
-  <xref alt="Figure 8" rid="fig-constructValidItemDesign">Figure 8</xref>.
-  In the construct-valid item design, some items represent the core of
-  the phenotype and are assessed across all ages, whereas other items
-  are age-specific. Despite some age-specific items, some age-common
-  items are assessed at adjacent ages, which help serve as anchor items
-  for linking the scores across the adjacent ages. The use of
-  overlapping yet distinct items is widely used in educational testing
-  to help link individuals’ scores across grades, and is called vertical
-  scaling because the item sets appear to form a line moving upward (see
-  <xref alt="Figure 8" rid="fig-constructValidItemDesign">Figure 8</xref>).
-  For example, for a standardized test of math ability, Kindergartners
-  may receive items assessing counting, 1st graders may receive items
-  assessing counting and addition, 2nd graders may receive items
-  assessing addition and subtraction, and so on.</p>
-  <fig id="fig-constructValidItemDesign">
-    <caption><p>Figure 8: Conceptual depiction of a construct-valid item
-    design from infancy to adulthood. The age(s) at which an item set is
-    assessed are represented by the letter <monospace>x</monospace> and
-    a colored box. Some items (“Core”, in green) represent the core of
-    the phenotype and are assessed across all ages. Some items (in
-    varying shades of brown) are age-specific and are assessed at only
-    one or a few ages. However, some of the items assessed at a given
-    age are shared with those assessed at adjacent ages, to facilitate
-    linking the scores across ages. For instance, item set
-    <monospace>f</monospace> can be used to help link scores from age 6
-    to those at age 5, and item set <monospace>g</monospace> can be used
-    to help link scores from age 6 to those at age 7. Hypothetically,
-    items could be assessed for as many or as few years as desired—as
-    long as the items are construct valid for those ages and there
-    enough age-common items between adjacent ages for linking scores
-    across ages.</p></caption>
-    <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/constructValidItemDesign.png" />
-  </fig>
-  <p>Then, using the scores from the age-differing measures can be
-  linked. A variety of approaches can be used to link scores from
-  different measures. One such approach is the item response theory
-  (IRT) approach to developmental scaling, which is depicted in
-  <xref alt="Figure 9" rid="fig-linking">Figure 9</xref>. The IRT
-  approach to developmental scaling identifies scaling parameters that
-  minimize the differences between the probability of a person endorsing
-  the age-common items across two measures, at a given construct level.
-  That is, IRT links measures’ scales based on the difficulty and
-  discrimination of the age-common items. In developmental scaling,
-  scores on the construct-valid items at the reference age set the
-  scale, the age-common items adjusts subsequent scores to that scale,
-  and all construct-valid items (i.e., both age-common and age-unique
-  items) at a given timepoint is used to estimate each person’s score on
-  that scale. Thus, the age-common items are used to determine the
-  general form of change on an identical scale, but all developmentally
-  relevant, construct-valid items are used to estimate each person’s
-  construct level on this scale.</p>
-  <fig id="fig-linking">
-    <caption><p>Figure 9: Example of linking scores from measures across
-    ages using the item response theory approach to developmental
-    scaling. The figure illustrates the effect of linking the latent
-    externalizing problems scores, θ, across ages, using developmental
-    scaling. The left panel illustrates the test characteristic curves
-    representing the model-implied proportion out of total possible
-    scores across the latent externalizing problems score at age 4 and
-    5, before the linking process. The right panel illustrates the test
-    characteristic curves after the linking process. The shading between
-    the age 4 and age 5 test characteristic curves represents
-    differences between the two test characteristic curves in terms of
-    discrimination and/or severity, where larger differences reflect
-    scores that are less comparable. Linking minimizes differences
-    between the discrimination and severity of the age-common items.
-    Discrimination is depicted by the steepness of the slope at the
-    inflection point of the test characteristic curve. Severity is
-    represented by the value on the x-axis at the inflection point of
-    the test characteristic curve. The left panel indicates that the
-    externalizing problem items showed higher severity and somewhat
-    stronger discrimination at age 5 than at age 4. The right panel
-    shows considerably smaller differences between the two test
-    characteristic curves, which provides empirical evidence that the
-    linking successfully placed the latent externalizing problem scores
-    across age on a more comparable scale (i.e., more similar
-    discrimination and severity of the age-common items). (Figure
-    reprinted from Petersen and LeBeau
-    (<xref alt="2021" rid="ref-Petersen2021b" ref-type="bibr">2021</xref>),
-    Figure 1, p. 74. Petersen, I. T., &amp; LeBeau, B. (2021). Language
-    ability in the development of externalizing behavior problems in
-    childhood. <italic>Journal of Educational Psychology</italic>,
-    <italic>113</italic>(1), 68–85.
-    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/edu0000461">https://doi.org/10.1037/edu0000461</ext-link>)</p></caption>
-    <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2021_figure1.png" />
-  </fig>
+  <p>A developmental scaling framework informs both assessment—including
+  item selection—and scoring.</p>
+  <sec id="item-selection">
+    <title>Item Selection</title>
+    <p>When a construct changes in behavioral manifestation across
+    development, it is important to account for such changes in item
+    selection. Thus, it is important to use the construct-valid items at
+    a given age, even if that leads to using different measures across
+    ages. A conceptual depiction of an example construct-valid item
+    design spanning infancy to adulthood is in
+    <xref alt="Figure 8" rid="fig-constructValidItemDesign">Figure 8</xref>.
+    In the construct-valid item design, some items represent the core of
+    the phenotype and are assessed across all ages, whereas other items
+    are age-specific. Despite some age-specific items, some age-common
+    items are assessed at adjacent ages, which help serve as anchor
+    items for linking the scores across the adjacent ages. The use of
+    overlapping yet distinct items is widely used in educational testing
+    to help link individuals’ scores across grades, and is called
+    vertical scaling because the item sets appear to form a line moving
+    upward (see
+    <xref alt="Figure 8" rid="fig-constructValidItemDesign">Figure 8</xref>).
+    For example, for a standardized test of math ability, Kindergartners
+    may receive items assessing counting, 1st graders may receive items
+    assessing counting and addition, 2nd graders may receive items
+    assessing addition and subtraction, and so on.</p>
+    <fig id="fig-constructValidItemDesign">
+      <caption><p>Figure 8: Conceptual depiction of a construct-valid
+      item design from infancy to adulthood. The age(s) at which an item
+      set is assessed are represented by the letter
+      <monospace>x</monospace> and a colored box. Some items (“Core”, in
+      green) represent the core of the phenotype and are assessed across
+      all ages. Some items (in varying shades of brown) are age-specific
+      and are assessed at only one or a few ages. However, some of the
+      items assessed at a given age are shared with those assessed at
+      adjacent ages, to facilitate linking the scores across ages. For
+      instance, item set <monospace>f</monospace> can be used to help
+      link scores from age 6 to those at age 5, and item set
+      <monospace>g</monospace> can be used to help link scores from age
+      6 to those at age 7. Hypothetically, items could be assessed for
+      as many or as few years as desired—as long as the items are
+      construct valid for those ages and there enough age-common items
+      between adjacent ages for linking scores across
+      ages.</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/constructValidItemDesign.png" />
+    </fig>
+  </sec>
+  <sec id="scoring">
+    <title>Scoring</title>
+    <p>After the age-differing measures have been assessed, the scores
+    from the age-differing measures can be linked to be on the same
+    scale. To perform developmental scaling, a variety of approaches can
+    be used, including partial measurement invariance, the alignment
+    method, moderated nonlinear factor analysis (MNFLA), and item
+    response theory (IRT). These are all approaches to
+    harmonization—i.e., linking scores from different measures onto the
+    same scale so they can be meaningfully compared.</p>
+    <p>The partial measurement invariance method can be used to links
+    scores across different measures
+    (<xref alt="Tyrell et al. 2019" rid="ref-Tyrell2019" ref-type="bibr">Tyrell
+    et al. 2019</xref>) and can be paired with second-order growth
+    functions to examine individuals’ change over time
+    (<xref alt="Hancock and Buehl 2008" rid="ref-Hancock2008" ref-type="bibr">Hancock
+    and Buehl 2008</xref>). </p>
+    <p>The alignment method
+    (<xref alt="Muthén and Asparouhov 2014" rid="ref-Muthen2014" ref-type="bibr">Muthén
+    and Asparouhov 2014</xref>) has been used to link scores across time
+    (<xref alt="Lai 2021" rid="ref-Lai2021" ref-type="bibr">Lai
+    2021</xref>). </p>
+    <p>MNLFA
+    (<xref alt="Bauer 2017" rid="ref-Bauer2017" ref-type="bibr">Bauer
+    2017</xref>) has also been used to link scores across different
+    measures
+    (<xref alt="Curran et al. 2014" rid="ref-Curran2014" ref-type="bibr">Curran
+    et al. 2014</xref>), including across ages
+    (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
+    and Bauer in pressb</xref>,
+    <xref alt="in pressa" rid="ref-ChenMBR" ref-type="bibr">in
+    pressa</xref>). </p>
+    <p>The IRT approach to developmental scaling is depicted in
+    <xref alt="Figure 9" rid="fig-linking">Figure 9</xref>. The IRT
+    approach to developmental scaling identifies scaling parameters that
+    minimize the differences between the probability of a person
+    endorsing the age-common items across two measures, at a given
+    construct level. That is, IRT links measures’ scales based on the
+    difficulty and discrimination of the age-common items. In
+    developmental scaling, scores on the construct-valid items at the
+    reference age set the scale, the age-common items adjusts subsequent
+    scores to that scale, and all construct-valid items (i.e., both
+    age-common and age-unique items) at a given timepoint is used to
+    estimate each person’s score on that scale. Thus, the age-common
+    items are used to determine the general form of change on an
+    identical scale, but all developmentally relevant, construct-valid
+    items are used to estimate each person’s construct level on this
+    scale.</p>
+    <fig id="fig-linking">
+      <caption><p>Figure 9: Example of linking scores from measures
+      across ages using the item response theory approach to
+      developmental scaling. The figure illustrates the effect of
+      linking the latent externalizing problems scores, θ, across ages,
+      using developmental scaling. The left panel illustrates the test
+      characteristic curves representing the model-implied proportion
+      out of total possible scores across the latent externalizing
+      problems score at age 4 and 5, before the linking process. The
+      right panel illustrates the test characteristic curves after the
+      linking process. The shading between the age 4 and age 5 test
+      characteristic curves represents differences between the two test
+      characteristic curves in terms of discrimination and/or severity,
+      where larger differences reflect scores that are less comparable.
+      Linking minimizes differences between the discrimination and
+      severity of the age-common items. Discrimination is depicted by
+      the steepness of the slope at the inflection point of the test
+      characteristic curve. Severity is represented by the value on the
+      x-axis at the inflection point of the test characteristic curve.
+      The left panel indicates that the externalizing problem items
+      showed higher severity and somewhat stronger discrimination at age
+      5 than at age 4. The right panel shows considerably smaller
+      differences between the two test characteristic curves, which
+      provides empirical evidence that the linking successfully placed
+      the latent externalizing problem scores across age on a more
+      comparable scale (i.e., more similar discrimination and severity
+      of the age-common items). (Figure reprinted from Petersen and
+      LeBeau
+      (<xref alt="2021" rid="ref-Petersen2021b" ref-type="bibr">2021</xref>),
+      Figure 1, p. 74. Petersen, I. T., &amp; LeBeau, B. (2021).
+      Language ability in the development of externalizing behavior
+      problems in childhood. <italic>Journal of Educational
+      Psychology</italic>, <italic>113</italic>(1), 68–85.
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/edu0000461">https://doi.org/10.1037/edu0000461</ext-link>)</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2021_figure1.png" />
+    </fig>
+  </sec>
 </sec>
 <sec id="other-key-challenges-to-address">
   <title>Other Key Challenges to Address</title>
@@ -3635,6 +3679,109 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1037/edu0000461</pub-id>
       <fpage>68</fpage>
       <lpage>85</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Curran2014">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Curran</surname><given-names>Patrick J.</given-names></name>
+        <name><surname>McGinley</surname><given-names>James S.</given-names></name>
+        <name><surname>Bauer</surname><given-names>Daniel J.</given-names></name>
+        <name><surname>Hussong</surname><given-names>Andrea M.</given-names></name>
+        <name><surname>Burns</surname><given-names>Alison</given-names></name>
+        <name><surname>Chassin</surname><given-names>Laurie</given-names></name>
+        <name><surname>Sher</surname><given-names>Kenneth</given-names></name>
+        <name><surname>Zucker</surname><given-names>Robert</given-names></name>
+      </person-group>
+      <article-title>A moderated nonlinear factor model for the development of commensurate measures in integrative data analysis</article-title>
+      <source>Multivariate Behavioral Research</source>
+      <year iso-8601-date="2014">2014</year>
+      <volume>49</volume>
+      <issue>3</issue>
+      <uri>https://doi.org/10.1080/00273171.2014.889594</uri>
+      <pub-id pub-id-type="doi">10.1080/00273171.2014.889594</pub-id>
+      <fpage>214</fpage>
+      <lpage>231</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Bauer2017">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Bauer</surname><given-names>Daniel J.</given-names></name>
+      </person-group>
+      <article-title>A more general model for testing measurement invariance and differential item functioning</article-title>
+      <source>Psychological Methods</source>
+      <year iso-8601-date="2017">2017</year>
+      <volume>22</volume>
+      <issue>3</issue>
+      <pub-id pub-id-type="doi">10.1037/met0000077</pub-id>
+      <fpage>507</fpage>
+      <lpage>526</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Muthen2014">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Muthén</surname><given-names>Bengt O.</given-names></name>
+        <name><surname>Asparouhov</surname><given-names>Tihomir</given-names></name>
+      </person-group>
+      <article-title>IRT studies of many groups: The alignment method</article-title>
+      <source>Frontiers in Psychology</source>
+      <year iso-8601-date="2014">2014</year>
+      <volume>5</volume>
+      <issue>978</issue>
+      <uri>https://www.frontiersin.org/article/10.3389/fpsyg.2014.00978</uri>
+      <pub-id pub-id-type="doi">10.3389/fpsyg.2014.00978</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="ref-Tyrell2019">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Tyrell</surname><given-names>Fanita A.</given-names></name>
+        <name><surname>Yates</surname><given-names>Tuppett M.</given-names></name>
+        <name><surname>Widaman</surname><given-names>Keith F.</given-names></name>
+        <name><surname>Reynolds</surname><given-names>Chandra A.</given-names></name>
+        <name><surname>Fabricius</surname><given-names>William V.</given-names></name>
+      </person-group>
+      <article-title>Data harmonization: Establishing measurement invariance across different assessments of the same construct across adolescence</article-title>
+      <source>Journal of Clinical Child &amp; Adolescent Psychology</source>
+      <year iso-8601-date="2019">2019</year>
+      <volume>48</volume>
+      <issue>4</issue>
+      <uri>https://doi.org/10.1080/15374416.2019.1622124</uri>
+      <pub-id pub-id-type="doi">10.1080/15374416.2019.1622124</pub-id>
+      <fpage>555</fpage>
+      <lpage>567</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Hancock2008">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Hancock</surname><given-names>Gregory R.</given-names></name>
+        <name><surname>Buehl</surname><given-names>Michelle M.</given-names></name>
+      </person-group>
+      <article-title>Second-order latent growth models with shifting indicators</article-title>
+      <source>Journal of Modern Applied Statistical Methods</source>
+      <year iso-8601-date="2008">2008</year>
+      <volume>7</volume>
+      <issue>1</issue>
+      <pub-id pub-id-type="doi">10.22237/jmasm/1209614640</pub-id>
+      <fpage>39</fpage>
+      <lpage>55</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Lai2021">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Lai</surname><given-names>Mark H. C.</given-names></name>
+      </person-group>
+      <article-title>Adjusting for measurement noninvariance with alignment in growth modeling</article-title>
+      <source>Multivariate Behavioral Research</source>
+      <year iso-8601-date="2021">2021</year>
+      <uri>https://doi.org/10.1080/00273171.2021.1941730</uri>
+      <pub-id pub-id-type="doi">10.1080/00273171.2021.1941730</pub-id>
+      <fpage>1</fpage>
+      <lpage>18</lpage>
     </element-citation>
   </ref>
 </ref-list>
