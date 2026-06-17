@@ -1090,7 +1090,7 @@ cognitive skills across lengthy developmental periods.</p>
       construct validity because it assesses developmentally
       inappropriate items.</p>
       <p>Due to these problems, both simulation
-      (<xref alt="Petersen et al. 2021" rid="ref-Petersen2021" ref-type="bibr">Petersen
+      (<xref alt="Petersen et al. 2021" rid="ref-Petersen2021a" ref-type="bibr">Petersen
       et al. 2021</xref>) and empirical work
       (<xref alt="Chen and Jaffee 2015" rid="ref-Chen2015" ref-type="bibr">Chen
       and Jaffee 2015</xref>;
@@ -1383,12 +1383,12 @@ cognitive skills across lengthy developmental periods.</p>
   <xref alt="Figure 8" rid="fig-constructValidItemDesign">Figure 8</xref>.
   In the construct-valid item design, some items represent the core of
   the phenotype and are assessed across all ages, whereas other items
-  are age-specific. Despite some age-specific items, some common items
-  are assessed at adjacent ages, which help serve as anchor items for
-  linking the scores across the adjacent ages. The use of overlapping
-  yet distinct items is widely used in educational testing to help link
-  individuals’ scores across grades, and is called vertical scaling
-  because the item sets appear to form a line moving upward (see
+  are age-specific. Despite some age-specific items, some age-common
+  items are assessed at adjacent ages, which help serve as anchor items
+  for linking the scores across the adjacent ages. The use of
+  overlapping yet distinct items is widely used in educational testing
+  to help link individuals’ scores across grades, and is called vertical
+  scaling because the item sets appear to form a line moving upward (see
   <xref alt="Figure 8" rid="fig-constructValidItemDesign">Figure 8</xref>).
   For example, for a standardized test of math ability, Kindergartners
   may receive items assessing counting, 1st graders may receive items
@@ -1409,9 +1409,62 @@ cognitive skills across lengthy developmental periods.</p>
     to help link scores from age 6 to those at age 7. Hypothetically,
     items could be assessed for as many or as few years as desired—as
     long as the items are construct valid for those ages and there
-    enough common items between adjacent ages for linking scores across
-    ages.</p></caption>
+    enough age-common items between adjacent ages for linking scores
+    across ages.</p></caption>
     <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/constructValidItemDesign.png" />
+  </fig>
+  <p>Then, using the scores from the age-differing measures can be
+  linked. A variety of approaches can be used to link scores from
+  different measures. One such approach is the item response theory
+  (IRT) approach to developmental scaling, which is depicted in
+  <xref alt="Figure 9" rid="fig-linking">Figure 9</xref>. The IRT
+  approach to developmental scaling identifies scaling parameters that
+  minimize the differences between the probability of a person endorsing
+  the age-common items across two measures, at a given construct level.
+  That is, IRT links measures’ scales based on the difficulty and
+  discrimination of the age-common items. In developmental scaling,
+  scores on the construct-valid items at the reference age set the
+  scale, the age-common items adjusts subsequent scores to that scale,
+  and all construct-valid items (i.e., both age-common and age-unique
+  items) at a given timepoint is used to estimate each person’s score on
+  that scale. Thus, the age-common items are used to determine the
+  general form of change on an identical scale, but all developmentally
+  relevant, construct-valid items are used to estimate each person’s
+  construct level on this scale.</p>
+  <fig id="fig-linking">
+    <caption><p>Figure 9: Example of linking scores from measures across
+    ages using the item response theory approach to developmental
+    scaling. The figure illustrates the effect of linking the latent
+    externalizing problems scores, θ, across ages, using developmental
+    scaling. The left panel illustrates the test characteristic curves
+    representing the model-implied proportion out of total possible
+    scores across the latent externalizing problems score at age 4 and
+    5, before the linking process. The right panel illustrates the test
+    characteristic curves after the linking process. The shading between
+    the age 4 and age 5 test characteristic curves represents
+    differences between the two test characteristic curves in terms of
+    discrimination and/or severity, where larger differences reflect
+    scores that are less comparable. Linking minimizes differences
+    between the discrimination and severity of the age-common items.
+    Discrimination is depicted by the steepness of the slope at the
+    inflection point of the test characteristic curve. Severity is
+    represented by the value on the x-axis at the inflection point of
+    the test characteristic curve. The left panel indicates that the
+    externalizing problem items showed higher severity and somewhat
+    stronger discrimination at age 5 than at age 4. The right panel
+    shows considerably smaller differences between the two test
+    characteristic curves, which provides empirical evidence that the
+    linking successfully placed the latent externalizing problem scores
+    across age on a more comparable scale (i.e., more similar
+    discrimination and severity of the age-common items). (Figure
+    reprinted from Petersen and LeBeau
+    (<xref alt="2021" rid="ref-Petersen2021b" ref-type="bibr">2021</xref>),
+    Figure 1, p. 74. Petersen, I. T., &amp; LeBeau, B. (2021). Language
+    ability in the development of externalizing behavior problems in
+    childhood. <italic>Journal of Educational Psychology</italic>,
+    <italic>113</italic>(1), 68–85.
+    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/edu0000461">https://doi.org/10.1037/edu0000461</ext-link>)</p></caption>
+    <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/petersen2021_figure1.png" />
   </fig>
 </sec>
 <sec id="other-key-challenges-to-address">
@@ -1425,9 +1478,9 @@ cognitive skills across lengthy developmental periods.</p>
       <title>Period and Cohort Effects</title>
       <p>Various types of cross-sectional and longitudinal designs are
       depicted in
-      <xref alt="Figure 9" rid="fig-longitudinalDesigns">Figure 9</xref>.</p>
+      <xref alt="Figure 10" rid="fig-longitudinalDesigns">Figure 10</xref>.</p>
       <fig id="fig-longitudinalDesigns">
-        <caption><p>Figure 9: Research Designs by Time Of Measurement
+        <caption><p>Figure 10: Research Designs by Time Of Measurement
         and Cohort. Values in the cells are ages of the participants.
         Dashed line indicates different participants were assessed at
         each time of measurement. (Figure reprinted from Petersen
@@ -1943,7 +1996,7 @@ cognitive skills across lengthy developmental periods.</p>
       <lpage>95</lpage>
     </element-citation>
   </ref>
-  <ref id="ref-Petersen2021">
+  <ref id="ref-Petersen2021a">
     <element-citation publication-type="article-journal">
       <person-group person-group-type="author">
         <name><surname>Petersen</surname><given-names>Isaac T.</given-names></name>
@@ -3566,6 +3619,22 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1111/jcpp.70057</pub-id>
       <fpage>390</fpage>
       <lpage>399</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Petersen2021b">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Petersen</surname><given-names>Isaac T.</given-names></name>
+        <name><surname>LeBeau</surname><given-names>Brandon</given-names></name>
+      </person-group>
+      <article-title>Language ability in the development of externalizing behavior problems in childhood</article-title>
+      <source>Journal of Educational Psychology</source>
+      <year iso-8601-date="2021">2021</year>
+      <volume>113</volume>
+      <issue>1</issue>
+      <pub-id pub-id-type="doi">10.1037/edu0000461</pub-id>
+      <fpage>68</fpage>
+      <lpage>85</lpage>
     </element-citation>
   </ref>
 </ref-list>
