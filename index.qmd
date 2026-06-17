@@ -353,7 +353,7 @@ As depicted in @fig-absoluteFrequencyByAge, different externalizing behaviors ar
 Consistent with the Developmental Issues Framework [@Sroufe2016], the changing expression of externalizing behavior likely reflects a combination of time-varying genetic and environmental factors, such as school entry transition, in combination with varying developmental tasks, different opportunities, and greater experience-dependent capacity [@Petersen2020].
 
 ::: {#fig-absoluteFrequencyByAge}
-![](Figures/petersen2026_figure1.png){width=100% fig-alt="Frequency (per Month) of Engaging in Various Externalizing Behaviors by Age (*N* = 1,237)."}
+![](Figures/Petersen2026_figure1.png){width=100% fig-alt="Frequency (per Month) of Engaging in Various Externalizing Behaviors by Age (*N* = 1,237)."}
 
 Frequency (per Month) of Engaging in Various Externalizing Behaviors by Age (*N* = 1,237).
 Items are from the Externalizing Spectrum Inventory (ESI), but unlike the True/False ESI, participants rated items on an absolute frequency scale (times per day/week/month/year).
@@ -502,7 +502,7 @@ It can be helpful to explicitly assess—and distinguish—frequency versus prob
 Instead of assessing relative frequency, researchers advise assessing absolute frequency of behavior [@Burns2001; @Schwarz1999]—in addition to other aspects of behavior including onset, timing, duration, intensity, function, and resulting impairment.
 
 ::: {#fig-absoluteFrequencyInformation}
-![](Figures/petersen2026_figure4.png){width=100% fig-alt="Test Information Functions of Absolute Frequency Versus Dichotomized Versus Adult Self-Report Items: Test Information as a Function of Theta (θ)."}
+![](Figures/Petersen2026_figure4.png){width=100% fig-alt="Test Information Functions of Absolute Frequency Versus Dichotomized Versus Adult Self-Report Items: Test Information as a Function of Theta (θ)."}
 
 Test Information Functions of Absolute Frequency Versus Dichotomized Versus Adult Self-Report Items: Test Information as a Function of Theta (θ).
 "Absolute Frequency" refers to count items; "Dichotomized" refers to dichotomized versions of the count items; "Adult Self-Report" refers to items from the Achenbach Adult Self-Report.
@@ -562,7 +562,7 @@ In developmental scaling, scores on the construct-valid items at the reference a
 Thus, the age-common items are used to determine the general form of change on an identical scale, but all developmentally relevant, construct-valid items are used to estimate each person's construct level on this scale.
 
 ::: {#fig-linking}
-![](Figures/petersen2021_figure1.png){width=100% fig-alt="Example of linking scores from measures across ages using the item response theory approach to developmental scaling."}
+![](Figures/Petersen2021_figure1.png){width=100% fig-alt="Example of linking scores from measures across ages using the item response theory approach to developmental scaling."}
 
 Example of linking scores from measures across ages using the item response theory approach to developmental scaling.
 The figure illustrates the effect of linking the latent externalizing problems scores, θ, across ages, using developmental scaling.
