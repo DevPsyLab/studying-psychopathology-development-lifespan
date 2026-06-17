@@ -495,7 +495,7 @@ Therefore, we excluded age 2 from our trajectory analysis."
 Many measures use coarse, subjective response scales such as Likert-type response scales (e.g., "rarely", "sometimes", "often", "very often") leading to cultural bias [@Schaeffer1991; @Schwarz1999; @Paalman2013] and insensitivity to change.
 Items with few discrete response categories tend to show less sensitivity to the full range of individual differences [@Elliott1980] and less sensitivity to change [i.e., responsiveness\; @Grant1999] compared to items with more response options that have greater variability in scores.
 In general, items with more response options yield more information [i.e., greater reduction of uncertainty in estimates of a person's construct level; though there are diminishing returns when using more than six response options\; @Culpepper2013; @Simms2019].
-Indeed, as depicted in @fig-absoluteFrequencyInformation, items assessing absolute frequency yield more information than dichotomized versions of the same items and than the Achenbach Adult Self-Report, which uses Likert-type response options.
+Indeed, as depicted in @fig-absoluteFrequencyInformation, items assessing absolute frequency have been shown to yield more information than dichotomized versions of the same items and than the Achenbach Adult Self-Report, which uses Likert-type response options.
 In addition, if a respondent implicitly uses the target's same-aged peers as the normative reference group for determining the relative frequency of a behavior, this could have the implicit effect of resulting in age-normed scores, which works against the goal of detecting change.
 Moreover, Likert-type scales tend to focus on frequency of misbehavior and ignore intensity and severity.
 It can be helpful to explicitly assess—and distinguish—frequency versus problematic impact of behavior.
@@ -531,10 +531,16 @@ In sum, although they have been helpful, existing measures are poorly suited to 
 As we described above, existing assessment of externalizing behavior—and other aspects of psychopathology—have key limitations.
 To address this concern, the field will need to develop better assessments.
 Moreover, there are problems with how assessments are used to examine development—studies have primarily used the common items approach or the upward/downward extension approach across ages, which are problematic approaches that lead to inaccurate scores and resulting trajectories and developmental inferences.
-To address this concern, we propose a potential solution: a developmental scaling framework.
+To address this concern, we propose a potential solution to account for heterotypic continuity and to allow charting individuals' change across the lifespan: a developmental scaling framework.
 
 # Solution: A Developmental Scaling Framework
 
+A developmental scaling framework informs both assessment—including item selection—and scoring.
+
+## Item Selection
+
+When a construct changes in behavioral manifestation across development, it is important to account for such changes in item selection.
+Thus, it is important to use the construct-valid items at a given age, even if that leads to using different measures across ages.
 A conceptual depiction of an example construct-valid item design spanning infancy to adulthood is in @fig-constructValidItemDesign.
 In the construct-valid item design, some items represent the core of the phenotype and are assessed across all ages, whereas other items are age-specific.
 Despite some age-specific items, some age-common items are assessed at adjacent ages, which help serve as anchor items for linking the scores across the adjacent ages.
@@ -553,9 +559,22 @@ For instance, item set `f` can be used to help link scores from age 6 to those a
 Hypothetically, items could be assessed for as many or as few years as desired—as long as the items are construct valid for those ages and there enough age-common items between adjacent ages for linking scores across ages.
 :::
 
-Then, using the scores from the age-differing measures can be linked.
-A variety of approaches can be used to link scores from different measures.
-One such approach is the item response theory (IRT) approach to developmental scaling, which is depicted in @fig-linking.
+## Scoring
+
+After the age-differing measures have been assessed, the scores from the age-differing measures can be linked to be on the same scale.
+To perform developmental scaling, a variety of approaches can be used, including partial measurement invariance, the alignment method, moderated nonlinear factor analysis (MNFLA), and item response theory (IRT).
+These are all approaches to harmonization—i.e., linking scores from different measures onto the same scale so they can be meaningfully compared.
+
+The partial measurement invariance method can be used to links scores across different measures [@Tyrell2019] and can be paired with second-order growth functions to examine individuals' change over time [@Hancock2008].
+<!-- DESCRIBE -->
+
+The alignment method [@Muthen2014] has been used to link scores across time [@Lai2021].
+<!-- DESCRIBE -->
+
+MNLFA [@Bauer2017] has also been used to link scores across different measures [@Curran2014], including across ages [@ChenPM; @ChenMBR].
+<!-- DESCRIBE -->
+
+The IRT approach to developmental scaling is depicted in @fig-linking.
 The IRT approach to developmental scaling identifies scaling parameters that minimize the differences between the probability of a person endorsing the age-common items across two measures, at a given construct level.
 That is, IRT links measures' scales based on the difficulty and discrimination of the age-common items.
 In developmental scaling, scores on the construct-valid items at the reference age set the scale, the age-common items adjusts subsequent scores to that scale, and all construct-valid items (i.e., both age-common and age-unique items) at a given timepoint is used to estimate each person's score on that scale.
