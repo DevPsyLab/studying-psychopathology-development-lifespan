@@ -520,16 +520,18 @@ As noted by Pavlovich et al. [-@Pavlovich2026, p. 1], "These findings...highligh
 To provide better phenotypic resolution, and to better identify biological processes underlying psychopathology, @Tiego2023 argue for including content covering the full range, including items assessing the adaptive end of the continuum (i.e., "positive opposites").
 For instance, in a study of externalizing behavior, it would also be valuable to consider prosocial behavior (e.g., kindness, helping others, sharing, dependability, compliance, accountability).
 Indeed, in a machine learning study of children's conduct problems in the ABCD study, prosocial behavior was the strongest predictor [@Berluti2026].
+Moreover, measures of externalizing behavior tend to focus on just global scores or just one or a few subdimensions.
+For better phenotypic resolution, instruments should assess a wide range of phenotypes to better capture the full range of externalizing behavior, which will be important to distinguish various forms of behavior—e.g., physical versus verbal versus destructive versus relational aggression—and their functions—e.g., proactive versus reactive.
 
 Because existing measures do not capture the full range of individual differences, this naturally further limits the measures' sensitivity to detect change (i.e., responsiveness), which is crucial for clinical utility and for longitudinal research.
 
 ### Not Well-Suited for Capturing Individuals' Change Over Time
 
 In sum, although they have been helpful, existing measures are poorly suited to classify individuals' development of psychopathology across a lengthy span, which is necessary for tracking individuals' change and identifying mechanisms in the development of psychopathology.
-
-## Example: Externalizing Psychopathology
-
 As we described above, existing assessment of externalizing behavior—and other aspects of psychopathology—have key limitations.
+To address this concern, the field will need to develop better assessments.
+Moreover, there are problems with how assessments are used to examine development—studies have primarily used the common items approach or the upward/downward extension approach across ages, which are problematic approaches that lead to inaccurate scores and resulting trajectories and developmental inferences.
+To address this concern, we propose a potential solution: a developmental scaling framework.
 
 # Solution: A Developmental Scaling Framework
 
