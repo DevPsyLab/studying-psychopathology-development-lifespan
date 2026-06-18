@@ -1022,19 +1022,20 @@ cognitive skills across lengthy developmental periods.</p>
       <p>There are two primary ways that researchers have examined
       people’s change in psychopathology across development
       <xref alt="Figure 6" rid="fig-approachesToLongitudinalAssessment">Figure 6</xref>.
-      The “common items” approach removes items that are age specific.
-      For example, in a study of externalizing behavior from early
-      childhood to adolescence, a study might remove some substance use
-      items that might not be developmentally relevant at all ages. The
-      second approach, the “upward/downward extension” approach, takes
-      items that are valid at a given age and uses the items across ages
-      when the item may not be valid or useful—i.e., all items are
-      assessed at all ages. For instance, the upward extension approach
-      might take the item “disobedient to authority figures” and apply
-      it to older individuals for whom such a behavior may no longer
-      validly reflect externalizing behavior—and may instead reflect
-      prosocial functions including protesting against societally unjust
-      actions. Both the “common items” (e.g.,
+      The “common items” approach removes items that are age
+      specific.<xref ref-type="fn" rid="fn4">4</xref> For example, in a
+      study of externalizing behavior from early childhood to
+      adolescence, a study might remove some substance use items that
+      might not be developmentally relevant at all ages. The second
+      approach, the “upward/downward extension” approach, takes items
+      that are valid at a given age and uses the items across ages when
+      the item may not be valid or useful—i.e., all items are assessed
+      at all ages. For instance, the upward extension approach might
+      take the item “disobedient to authority figures” and apply it to
+      older individuals for whom such a behavior may no longer validly
+      reflect externalizing behavior—and may instead reflect prosocial
+      functions including protesting against societally unjust actions.
+      Both the “common items” (e.g.,
       <xref alt="Odgers et al. 2008" rid="ref-Odgers2008" ref-type="bibr">Odgers
       et al. 2008</xref>;
       <xref alt="Sterba et al. 2007" rid="ref-Sterba2007" ref-type="bibr">Sterba
@@ -1453,9 +1454,9 @@ cognitive skills across lengthy developmental periods.</p>
     composed of differing items across ages
     (<xref alt="Tyrell et al. 2019" rid="ref-Tyrell2019" ref-type="bibr">Tyrell
     et al. 2019</xref>). However, the partial invariance approach
-    requires identifying—and specifying—invariant items and any
-    noninvariant items, and it tends not to work as well when a large
-    proportion of items are noninvariant
+    requires identifying—and accurately specifying—invariant items and
+    any noninvariant items, and it tends not to work as well when a
+    large proportion of items are noninvariant
     (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
     2023</xref>).</p>
     <p>The alignment optimization method
@@ -1466,9 +1467,11 @@ cognitive skills across lengthy developmental periods.</p>
     a model with approximate longitudinal factorial invariance—that is,
     to retain any instances of large noninvariance across ages and to
     keep other parameters approximately invariant across ages—to adjust
-    for violations of invariance. Unlike the partial invariance method,
-    the alignment method does not require a priori identification of any
-    noninvariant items
+    for violations of invariance. The approach uses a component loss
+    function to align the item parameters across ages so that the scores
+    on the latent factors are on the same scale. Unlike the partial
+    invariance method, the alignment method does not require a priori
+    identification of any noninvariant items
     (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
     2023</xref>).</p>
     <p>MNLFA
@@ -1571,7 +1574,7 @@ cognitive skills across lengthy developmental periods.</p>
   <sec id="factorial-invariance-across-time">
     <title>Factorial Invariance Across Time</title>
     <p>Traditionally, it had been considered necessary to establish
-    factorial invariance<xref ref-type="fn" rid="fn4">4</xref> of the
+    factorial invariance<xref ref-type="fn" rid="fn5">5</xref> of the
     measure(s) across time—that is, the measure(s) assess the construct
     in the same way across time—to study individuals’ change in those
     constructs. In particular, it had been considered necessary to
@@ -3907,7 +3910,11 @@ cognitive skills across lengthy developmental periods.</p>
     persistent since age 15 but have onset prior to age 15.</p>
   </fn>
   <fn id="fn4">
-    <label>4</label><p>Factorial invariance is also called “measurement
+    <label>4</label><p>For simplicity and brevity, we refer to birth age
+    as a proxy for developmental time.</p>
+  </fn>
+  <fn id="fn5">
+    <label>5</label><p>Factorial invariance is also called “measurement
     invariance”. In this context, we prefer the term “factorial
     invariance” because, as described, the actual measures used may
     differ across time.</p>
