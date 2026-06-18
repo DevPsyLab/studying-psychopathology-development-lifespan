@@ -564,7 +564,7 @@ Hypothetically, items could be assessed for as many or as few years as desiredâ€
 ## Scoring
 
 After the age-differing measures have been assessed, the scores from the age-differing measures can be linked to be on the same scale.
-To perform developmental scaling, a variety of approaches can be used, including partial measurement invariance, the alignment method, moderated nonlinear factor analysis (MNFLA), and item response theory (IRT).
+To perform developmental scaling, a variety of approaches can be used, including partial measurement invariance, the alignment method, moderated nonlinear factor analysis (MNLFA), and item response theory (IRT).
 These are all approaches to harmonizationâ€”i.e., linking scores from different measures onto the same scale so they can be meaningfully compared.
 
 The partial invariance method can be used to link scores across different measures [@Tyrell2019] and can be paired with second-order growth functions to examine individuals' change over time [@Hancock2008].
