@@ -424,13 +424,15 @@ However, the same version of the Child Behavior Checklist (CBCL) spans ages 6–
 Considerable development occurs during that span including key developmental transitions—from childhood to adolescence to emerging adulthood—and the CBCL does not capture such changes.
 
 There are two primary ways that researchers have examined people's change in psychopathology across development [@fig-approachesToLongitudinalAssessment \; @Petersen2020].
-The "common items" approach removes items that are age specific.
+The "common items" approach removes items that are age specific.[^ageVsTimeFootnote]
 For example, in a study of externalizing behavior from early childhood to adolescence, a study might remove some substance use items that might not be developmentally relevant at all ages.
 The second approach, the "upward/downward extension" approach, takes items that are valid at a given age and uses the items across ages when the item may not be valid or useful—i.e., all items are assessed at all ages.
 For instance, the upward extension approach might take the item "disobedient to authority figures" and apply it to older individuals for whom such a behavior may no longer validly reflect externalizing behavior—and may instead reflect prosocial functions including protesting against societally unjust actions.
 Both the "common items" [e.g., @Odgers2008; @Sterba2007] and "upward/downward extension" [e.g., @BriggsGowan2016; @Broeren2013] approaches are widely used, likely because they result in the same items assessed across ages, but both have key problems.
 As an example of the common items approach, Odgers et al. [-@Odgers2008, p. 676] examined children's development of DSM-IV symptoms of conduct disorder from ages 7 to 26 years, but they dropped age-specific symptoms (e.g., running away, staying out late) "because [these symptoms] did not cover the study's age span".
 As an example of the upward extension approach, Broeren et al. [-@Broeren2013, p. 84]  examined children's development of anxiety from ages 4 to 11 years; they noted, "Although the questionnaire was originally developed to measure anxiety in preschoolers, the current study also employed the scale with older children to promote uniformity in measures".
+
+[^ageVsTimeFootnote]: For simplicity and brevity, we refer to birth age as a proxy for developmental time.
 
 ::: {#fig-approachesToLongitudinalAssessment}
 ![](Figures/approachesToLongitudinalAssessment.jpg){width=100% fig-alt="Theoretical illustration of inter-individual variability in cognitive aging trajectories."}
@@ -569,13 +571,14 @@ The partial invariance method can be used to link scores across different measur
 The partial invariance approach attempts to establish partial strong longitudinal factorial invariance—i.e., invariant intercepts and factor loadings across ages for a subset of items to set the latent factor across ages on a comparable scale, with some items' intercepts and/or factor loadings allowed to differ across ages.
 The method can allow different indicators across ages, either by dropping or adding indicators or by using item parcels composed of differing items across ages [@Tyrell2019].
 <!-- DESCRIBE -->
-However, the partial invariance approach requires identifying—and specifying—invariant items and any noninvariant items, and it tends not to work as well when a large proportion of items are noninvariant [@Lai2023].
+However, the partial invariance approach requires identifying—and accurately specifying—invariant items and any noninvariant items, and it tends not to work as well when a large proportion of items are noninvariant [@Lai2023].
 
 [^strongInvarianceFootnote]: Strong invariance is also called "scalar invariance".
 
 The alignment optimization method [@Muthen2014] has been used to link scores across time [@Lai2023].
 <!-- DESCRIBE -->
 The alignment optimization method attempts to identify a model with approximate longitudinal factorial invariance—that is, to retain any instances of large noninvariance across ages and to keep other parameters approximately invariant across ages—to adjust for violations of invariance.
+The approach uses a component loss function to align the item parameters across ages so that the scores on the latent factors are on the same scale.
 Unlike the partial invariance method, the alignment method does not require a priori identification of any noninvariant items [@Lai2023].
 
 MNLFA [@Bauer2017] has also been used to link scores across different measures [@Curran2014], including across ages [@ChenPM; @ChenMBR].
