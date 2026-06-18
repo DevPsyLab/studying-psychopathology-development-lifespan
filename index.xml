@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-17">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-18">
 <year>2026</year>
 <month>6</month>
-<day>17</day>
+<day>18</day>
 </pub-date>
 
 
@@ -1384,11 +1384,13 @@ cognitive skills across lengthy developmental periods.</p>
   <sec id="item-selection">
     <title>Item Selection</title>
     <p>When a construct changes in behavioral manifestation across
-    development, it is important to account for such changes in item
-    selection. Thus, it is important to use the construct-valid items at
-    a given age, even if that leads to using different measures across
-    ages. A conceptual depiction of an example construct-valid item
-    design spanning infancy to adulthood is in
+    development, which we would argue is the norm rather than the
+    exception when considering constructs across the lifespan, it is
+    important to account for such changes in item selection. Thus, it is
+    important to use the construct-valid items at a given age, even if
+    that leads to using different measures across ages. A conceptual
+    depiction of an example construct-valid item design spanning infancy
+    to adulthood is in
     <xref alt="Figure 8" rid="fig-constructValidItemDesign">Figure 8</xref>.
     In the construct-valid item design, some items represent the core of
     the phenotype and are assessed across all ages, whereas other items
@@ -1435,18 +1437,40 @@ cognitive skills across lengthy developmental periods.</p>
     response theory (IRT). These are all approaches to
     harmonization—i.e., linking scores from different measures onto the
     same scale so they can be meaningfully compared.</p>
-    <p>The partial measurement invariance method can be used to links
-    scores across different measures
+    <p>The partial invariance method can be used to link scores across
+    different measures
     (<xref alt="Tyrell et al. 2019" rid="ref-Tyrell2019" ref-type="bibr">Tyrell
     et al. 2019</xref>) and can be paired with second-order growth
     functions to examine individuals’ change over time
     (<xref alt="Hancock and Buehl 2008" rid="ref-Hancock2008" ref-type="bibr">Hancock
-    and Buehl 2008</xref>). </p>
-    <p>The alignment method
+    and Buehl 2008</xref>). The partial invariance approach attempts to
+    establish partial strong longitudinal factorial invariance—i.e.,
+    invariant intercepts and factor loadings across ages for a subset of
+    items to set the latent factor across ages on a comparable scale,
+    with some items’ intercepts and/or factor loadings allowed to differ
+    across ages. The method can allow different indicators across ages,
+    either by dropping or adding indicators or by using item parcels
+    composed of differing items across ages
+    (<xref alt="Tyrell et al. 2019" rid="ref-Tyrell2019" ref-type="bibr">Tyrell
+    et al. 2019</xref>). However, the partial invariance approach
+    requires identifying—and specifying—invariant items and any
+    noninvariant items, and it tends not to work as well when a large
+    proportion of items are noninvariant
+    (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
+    2023</xref>).</p>
+    <p>The alignment optimization method
     (<xref alt="Muthén and Asparouhov 2014" rid="ref-Muthen2014" ref-type="bibr">Muthén
     and Asparouhov 2014</xref>) has been used to link scores across time
-    (<xref alt="Lai 2021" rid="ref-Lai2021" ref-type="bibr">Lai
-    2021</xref>). </p>
+    (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
+    2023</xref>). The alignment optimization method attempts to identify
+    a model with approximate longitudinal factorial invariance—that is,
+    to retain any instances of large noninvariance across ages and to
+    keep other parameters approximately invariant across ages—to adjust
+    for violations of invariance. Unlike the partial invariance method,
+    the alignment method does not require a priori identification of any
+    noninvariant items
+    (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
+    2023</xref>).</p>
     <p>MNLFA
     (<xref alt="Bauer 2017" rid="ref-Bauer2017" ref-type="bibr">Bauer
     2017</xref>) has also been used to link scores across different
@@ -1546,6 +1570,31 @@ cognitive skills across lengthy developmental periods.</p>
   </sec>
   <sec id="factorial-invariance-across-time">
     <title>Factorial Invariance Across Time</title>
+    <p>Traditionally, it had been considered necessary to establish
+    factorial invariance<xref ref-type="fn" rid="fn4">4</xref> of the
+    measure(s) across time—that is, the measure(s) assess the construct
+    in the same way across time—to study individuals’ change in those
+    constructs. In particular, it had been considered necessary to
+    establish at least strong factorial invariance—i.e., invariance of
+    intercepts and factor loadings in factor analysis, or invariance of
+    difficulty and discrimination in item response theory. Otherwise, a
+    researcher may wrongly conclude that levels in the construct change
+    over time when the apparent changes in the observed scores (and the
+    latent variables) are driven by noninvariant loadings and/or
+    intercepts for one or more items
+    (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
+    2023</xref>). However, it is now understood that violations of
+    longitudinal factorial invariance do not mean that questions of
+    change cannot be answered
+    (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
+    2023</xref>). Strong factorial invariance frequently does not hold,
+    so in such situations it is necessary to adjust for noninvariance
+    (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
+    2023</xref>).</p>
+    <p>In general, at least approximate factorial invariance or partial
+    strong factorial invariance (i.e., invariance of intercepts and
+    factor loadings for a subset of items) is often considered a
+    requirement for modeling individuals’ change.</p>
   </sec>
   <sec id="integration-across-multiple-sources">
     <title>Integration Across Multiple Sources</title>
@@ -3771,18 +3820,20 @@ cognitive skills across lengthy developmental periods.</p>
       <lpage>55</lpage>
     </element-citation>
   </ref>
-  <ref id="ref-Lai2021">
+  <ref id="ref-Lai2023">
     <element-citation publication-type="article-journal">
       <person-group person-group-type="author">
         <name><surname>Lai</surname><given-names>Mark H. C.</given-names></name>
       </person-group>
       <article-title>Adjusting for measurement noninvariance with alignment in growth modeling</article-title>
       <source>Multivariate Behavioral Research</source>
-      <year iso-8601-date="2021">2021</year>
+      <year iso-8601-date="2023">2023</year>
+      <volume>58</volume>
+      <issue>1</issue>
       <uri>https://doi.org/10.1080/00273171.2021.1941730</uri>
       <pub-id pub-id-type="doi">10.1080/00273171.2021.1941730</pub-id>
-      <fpage>1</fpage>
-      <lpage>18</lpage>
+      <fpage>30</fpage>
+      <lpage>47</lpage>
     </element-citation>
   </ref>
 </ref-list>
@@ -3854,6 +3905,12 @@ cognitive skills across lengthy developmental periods.</p>
     prohibitions” and “if often truant from school” must begin before
     age 13 (p. 531). In the diagnosis of ASPD, symptoms must be
     persistent since age 15 but have onset prior to age 15.</p>
+  </fn>
+  <fn id="fn4">
+    <label>4</label><p>Factorial invariance is also called “measurement
+    invariance”. In this context, we prefer the term “factorial
+    invariance” because, as described, the actual measures used may
+    differ across time.</p>
   </fn>
 </fn-group>
 </back>

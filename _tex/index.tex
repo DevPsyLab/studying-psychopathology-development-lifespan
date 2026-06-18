@@ -190,7 +190,7 @@
 
 \leftheader{Petersen, Demko and Schumer}
 
-\date{2026-06-17}
+\date{2026-06-18}
 
 
 \abstract{The field has not adequately studied individuals' development
@@ -1489,24 +1489,25 @@ item selection---and scoring.
 \subsection{Item Selection}\label{item-selection}
 
 When a construct changes in behavioral manifestation across development,
-it is important to account for such changes in item selection. Thus, it
-is important to use the construct-valid items at a given age, even if
-that leads to using different measures across ages. A conceptual
-depiction of an example construct-valid item design spanning infancy to
-adulthood is in Figure~\ref{fig-constructValidItemDesign}. In the
-construct-valid item design, some items represent the core of the
-phenotype and are assessed across all ages, whereas other items are
-age-specific. Despite some age-specific items, some age-common items are
-assessed at adjacent ages, which help serve as anchor items for linking
-the scores across the adjacent ages. The use of overlapping yet distinct
-items is widely used in educational testing to help link individuals'
-scores across grades, and is called vertical scaling because the item
-sets appear to form a line moving upward (see
-Figure~\ref{fig-constructValidItemDesign}). For example, for a
-standardized test of math ability, Kindergartners may receive items
-assessing counting, 1st graders may receive items assessing counting and
-addition, 2nd graders may receive items assessing addition and
-subtraction, and so on.
+which we would argue is the norm rather than the exception when
+considering constructs across the lifespan, it is important to account
+for such changes in item selection. Thus, it is important to use the
+construct-valid items at a given age, even if that leads to using
+different measures across ages. A conceptual depiction of an example
+construct-valid item design spanning infancy to adulthood is in
+Figure~\ref{fig-constructValidItemDesign}. In the construct-valid item
+design, some items represent the core of the phenotype and are assessed
+across all ages, whereas other items are age-specific. Despite some
+age-specific items, some age-common items are assessed at adjacent ages,
+which help serve as anchor items for linking the scores across the
+adjacent ages. The use of overlapping yet distinct items is widely used
+in educational testing to help link individuals' scores across grades,
+and is called vertical scaling because the item sets appear to form a
+line moving upward (see Figure~\ref{fig-constructValidItemDesign}). For
+example, for a standardized test of math ability, Kindergartners may
+receive items assessing counting, 1st graders may receive items
+assessing counting and addition, 2nd graders may receive items assessing
+addition and subtraction, and so on.
 
 \begin{figure}
 
@@ -1544,15 +1545,33 @@ are all approaches to harmonization---i.e., linking scores from
 different measures onto the same scale so they can be meaningfully
 compared.
 
-The partial measurement invariance method can be used to links scores
-across different measures (\citeproc{ref-Tyrell2019}{Tyrell et al.,
-2019}) and can be paired with second-order growth functions to examine
-individuals' change over time (\citeproc{ref-Hancock2008}{Hancock \&
-Buehl, 2008}).
+The partial invariance method can be used to link scores across
+different measures (\citeproc{ref-Tyrell2019}{Tyrell et al., 2019}) and
+can be paired with second-order growth functions to examine individuals'
+change over time (\citeproc{ref-Hancock2008}{Hancock \& Buehl, 2008}).
+The partial invariance approach attempts to establish partial strong
+longitudinal factorial invariance---i.e., invariant intercepts and
+factor loadings across ages for a subset of items to set the latent
+factor across ages on a comparable scale, with some items' intercepts
+and/or factor loadings allowed to differ across ages. The method can
+allow different indicators across ages, either by dropping or adding
+indicators or by using item parcels composed of differing items across
+ages (\citeproc{ref-Tyrell2019}{Tyrell et al., 2019}). However, the
+partial invariance approach requires identifying---and
+specifying---invariant items and any noninvariant items, and it tends
+not to work as well when a large proportion of items are noninvariant
+(\citeproc{ref-Lai2023}{Lai, 2023}).
 
-The alignment method (\citeproc{ref-Muthen2014}{Muthén \& Asparouhov,
-2014}) has been used to link scores across time
-(\citeproc{ref-Lai2021}{Lai, 2021}).
+The alignment optimization method (\citeproc{ref-Muthen2014}{Muthén \&
+Asparouhov, 2014}) has been used to link scores across time
+(\citeproc{ref-Lai2023}{Lai, 2023}). The alignment optimization method
+attempts to identify a model with approximate longitudinal factorial
+invariance---that is, to retain any instances of large noninvariance
+across ages and to keep other parameters approximately invariant across
+ages---to adjust for violations of invariance. Unlike the partial
+invariance method, the alignment method does not require a priori
+identification of any noninvariant items (\citeproc{ref-Lai2023}{Lai,
+2023}).
 
 MNLFA (\citeproc{ref-Bauer2017}{Bauer, 2017}) has also been used to link
 scores across different measures (\citeproc{ref-Curran2014}{Curran et
@@ -1655,6 +1674,32 @@ Scores}\label{change-in-meaning-of-the-scores}
 
 \subsection{Factorial Invariance Across
 Time}\label{factorial-invariance-across-time}
+
+Traditionally, it had been considered necessary to establish factorial
+invariance\footnote{Factorial invariance is also called ``measurement
+  invariance''. In this context, we prefer the term ``factorial
+  invariance'' because, as described, the actual measures used may
+  differ across time.} of the measure(s) across time---that is, the
+measure(s) assess the construct in the same way across time---to study
+individuals' change in those constructs. In particular, it had been
+considered necessary to establish at least strong factorial
+invariance---i.e., invariance of intercepts and factor loadings in
+factor analysis, or invariance of difficulty and discrimination in item
+response theory. Otherwise, a researcher may wrongly conclude that
+levels in the construct change over time when the apparent changes in
+the observed scores (and the latent variables) are driven by
+noninvariant loadings and/or intercepts for one or more items
+(\citeproc{ref-Lai2023}{Lai, 2023}). However, it is now understood that
+violations of longitudinal factorial invariance do not mean that
+questions of change cannot be answered (\citeproc{ref-Lai2023}{Lai,
+2023}). Strong factorial invariance frequently does not hold, so in such
+situations it is necessary to adjust for noninvariance
+(\citeproc{ref-Lai2023}{Lai, 2023}).
+
+In general, at least approximate factorial invariance or partial strong
+factorial invariance (i.e., invariance of intercepts and factor loadings
+for a subset of items) is often considered a requirement for modeling
+individuals' change.
 
 \subsection{Integration Across Multiple
 Sources}\label{integration-across-multiple-sources}
@@ -2078,10 +2123,11 @@ psychometrically-informed approach to conceptualizing psychopathology.
 \emph{Behaviour Research and Therapy}, \emph{40}(5), 485--499.
 \url{https://doi.org/10.1016/S0005-7967(02)00016-5}
 
-\bibitem[\citeproctext]{ref-Lai2021}
-Lai, M. H. C. (2021). Adjusting for measurement noninvariance with
+\bibitem[\citeproctext]{ref-Lai2023}
+Lai, M. H. C. (2023). Adjusting for measurement noninvariance with
 alignment in growth modeling. \emph{Multivariate Behavioral Research},
-1--18. \url{https://doi.org/10.1080/00273171.2021.1941730}
+\emph{58}(1), 30--47.
+\url{https://doi.org/10.1080/00273171.2021.1941730}
 
 \bibitem[\citeproctext]{ref-Lansford2010}
 Lansford, J. E., Malone, P. S., Dodge, K. A., Pettit, G. S., \& Bates,
