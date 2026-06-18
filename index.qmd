@@ -539,7 +539,7 @@ A developmental scaling framework informs both assessment—including item selec
 
 ## Item Selection
 
-When a construct changes in behavioral manifestation across development, it is important to account for such changes in item selection.
+When a construct changes in behavioral manifestation across development, which we would argue is the norm rather than the exception when considering constructs across the lifespan, it is important to account for such changes in item selection.
 Thus, it is important to use the construct-valid items at a given age, even if that leads to using different measures across ages.
 A conceptual depiction of an example construct-valid item design spanning infancy to adulthood is in @fig-constructValidItemDesign.
 In the construct-valid item design, some items represent the core of the phenotype and are assessed across all ages, whereas other items are age-specific.
@@ -565,11 +565,18 @@ After the age-differing measures have been assessed, the scores from the age-dif
 To perform developmental scaling, a variety of approaches can be used, including partial measurement invariance, the alignment method, moderated nonlinear factor analysis (MNFLA), and item response theory (IRT).
 These are all approaches to harmonization—i.e., linking scores from different measures onto the same scale so they can be meaningfully compared.
 
-The partial measurement invariance method can be used to links scores across different measures [@Tyrell2019] and can be paired with second-order growth functions to examine individuals' change over time [@Hancock2008].
+The partial invariance method can be used to link scores across different measures [@Tyrell2019] and can be paired with second-order growth functions to examine individuals' change over time [@Hancock2008].
+The partial invariance approach attempts to establish partial strong longitudinal factorial invariance—i.e., invariant intercepts and factor loadings across ages for a subset of items to set the latent factor across ages on a comparable scale, with some items' intercepts and/or factor loadings allowed to differ across ages.
+The method can allow different indicators across ages, either by dropping or adding indicators or by using item parcels composed of differing items across ages [@Tyrell2019].
 <!-- DESCRIBE -->
+However, the partial invariance approach requires identifying—and specifying—invariant items and any noninvariant items, and it tends not to work as well when a large proportion of items are noninvariant [@Lai2023].
 
-The alignment method [@Muthen2014] has been used to link scores across time [@Lai2021].
+[^strongInvarianceFootnote]: Strong invariance is also called "scalar invariance".
+
+The alignment optimization method [@Muthen2014] has been used to link scores across time [@Lai2023].
 <!-- DESCRIBE -->
+The alignment optimization method attempts to identify a model with approximate longitudinal factorial invariance—that is, to retain any instances of large noninvariance across ages and to keep other parameters approximately invariant across ages—to adjust for violations of invariance.
+Unlike the partial invariance method, the alignment method does not require a priori identification of any noninvariant items [@Lai2023].
 
 MNLFA [@Bauer2017] has also been used to link scores across different measures [@Curran2014], including across ages [@ChenPM; @ChenMBR].
 <!-- DESCRIBE -->
@@ -620,6 +627,20 @@ Dashed line indicates different participants were assessed at each time of measu
 ### Change in Meaning of the Scores
 
 ## Factorial Invariance Across Time
+
+Traditionally, it had been considered necessary to establish factorial invariance[^invarianceFootnote] of the measure(s) across time—that is, the measure(s) assess the construct in the same way across time—to study individuals' change in those constructs.<!-- CITE -->
+In particular, it had been considered necessary to establish at least strong factorial invariance—i.e., invariance of intercepts and factor loadings in factor analysis, or invariance of difficulty and discrimination in item response theory.
+Otherwise, a researcher may wrongly conclude that levels in the construct change over time when the apparent changes in the observed scores (and the latent variables) are driven by noninvariant loadings and/or intercepts for one or more items [@Lai2023].
+However, it is now understood that violations of longitudinal factorial invariance do not mean that questions of change cannot be answered [@Lai2023].
+Strong factorial invariance frequently does not hold, so in such situations it is necessary to adjust for noninvariance [@Lai2023].
+
+In general, at least approximate factorial invariance or partial strong factorial invariance (i.e., invariance of intercepts and factor loadings for a subset of items) is often considered a requirement for modeling individuals' change.
+
+<!-- at least approximate measurement invariance or partial strong invariance;  -->
+<!-- Quantitude; many papers -->
+
+[^invarianceFootnote]: Factorial invariance is also called "measurement invariance".
+In this context, we prefer the term "factorial invariance" because, as described, the actual measures used may differ across time.
 
 ## Integration Across Multiple Sources
 
