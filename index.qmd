@@ -569,15 +569,17 @@ These are all approaches to harmonization—i.e., linking scores from different 
 
 The partial invariance method can be used to link scores across different measures [@Tyrell2019] and can be paired with second-order growth functions to examine individuals' change over time [@Hancock2008].
 The partial invariance approach attempts to establish partial strong longitudinal factorial invariance—i.e., invariant intercepts and factor loadings across ages for a subset of items to set the latent factor across ages on a comparable scale, with some items' intercepts and/or factor loadings allowed to differ across ages.
+The researcher first identifies which items show invariant factors loadings and/or intercepts and which items show noninvariant factor loadings or intercepts.
+The researcher then constrains the factors loadings across time for any items with invariant factor loadings, to serve as anchor items, and allows the factor loadings to differ across time for the items with noninvariant factors loadings.
+In addition, the researcher constrains the intercepts across time for any items with invariant intercepts, to serve as anchor items, and allows the intercepts to differ across time for the items with noninvariant intercepts.
+Then, the researcher estimates second-order growth functions (e.g., intercept and slope) of the first-order latent factor across time.
 The method can allow different indicators across ages, either by dropping or adding indicators or by using item parcels composed of differing items across ages [@Tyrell2019].
-<!-- DESCRIBE -->
 However, the partial invariance approach requires identifying—and accurately specifying—invariant items and any noninvariant items, and it tends not to work as well when a large proportion of items are noninvariant [@Lai2023].
 
 [^strongInvarianceFootnote]: Strong invariance is also called "scalar invariance".
 
 The alignment optimization method [@Muthen2014] has been used to link scores across time [@Lai2023].
-<!-- DESCRIBE -->
-The alignment optimization method attempts to identify a model with approximate longitudinal factorial invariance—that is, to retain any instances of large noninvariance across ages and to keep other parameters approximately invariant across ages—to adjust for violations of invariance.
+The alignment optimization method within confirmatory factor analysis attempts to identify a model with approximate longitudinal factorial invariance—that is, to retain any instances of large noninvariance across ages and to keep other parameters approximately invariant across ages—to adjust for violations of invariance.
 The approach uses a component loss function to align the item parameters across ages so that the scores on the latent factors are on the same scale.
 Unlike the partial invariance method, the alignment method does not require a priori identification of any noninvariant items [@Lai2023].
 
