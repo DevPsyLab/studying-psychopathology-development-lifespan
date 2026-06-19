@@ -569,7 +569,7 @@ To perform developmental scaling, a variety of approaches can be used, including
 These are all approaches to harmonization—i.e., linking scores from different measures onto the same scale so they can be meaningfully compared.
 
 The partial invariance method can be used to link scores across different measures [@Tyrell2019] and can be paired with second-order growth functions to examine individuals' change over time [@Hancock2008].
-The partial invariance approach attempts to establish partial strong longitudinal factorial invariance—i.e., invariant intercepts and factor loadings across ages for a subset of items to set the latent factor across ages on a comparable scale, with some items' intercepts and/or factor loadings allowed to differ across ages.
+The partial invariance approach attempts to establish partial strong longitudinal factorial invariance[^strongInvarianceFootnote]—i.e., invariant intercepts and factor loadings across ages for a subset of items to set the latent factor across ages on a comparable scale, with some items' intercepts and/or factor loadings allowed to differ across ages.
 The researcher first identifies which items show invariant factors loadings and/or intercepts and which items show noninvariant factor loadings or intercepts.
 The researcher then constrains the factors loadings across time for any items with invariant factor loadings, to serve as anchor items, and allows the factor loadings to differ across time for the items with noninvariant factors loadings.
 In addition, the researcher constrains the intercepts across time for any items with invariant intercepts, to serve as anchor items, and allows the intercepts to differ across time for the items with noninvariant intercepts.
