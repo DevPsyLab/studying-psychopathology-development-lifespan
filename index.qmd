@@ -463,10 +463,11 @@ For example, if a researcher used the CBCL and only wanted to study trajectories
 <!-- For example, one could not examine development of depression across ages 11 to 13 years using the Short Mood and Feelings Questionnaire due to changes in its functioning (in particular, some items were less relevant at age 11) that likely reflect developmental changes in manifestation of depression.20  -->
 
 In addition to the behavioral expression of a construct changing across developmental time, the behavioral expression of a construct can also change across historical time.
-Changes in the behavioral manifestation across historical time can lead existing items and measures to become obsolete.
+Changes in the behavioral manifestation across historical time can lead existing items and measures to become obsolete and for new items to become relevant.
 For instance, many measures and longitudinal studies do not assess important contemporary manifestations of externalizing behavior, including aggression on social media and cyberbullying [@Nickerson2026].
+Changes in the behavioral manifestation across historical time provide additional reasons to change the measure by removing no-longer-valid items and by adding newer valid items.
 
-Thus, many problems arise from using the same measure across ages when the construct changes in behavioral manifestation across development and historical time.
+In sum, many problems arise from using the same measure across ages when the construct changes in behavioral manifestation across development and historical time.
 
 ### Do Not Allow Charting Individuals' Change Over Time When the Construct Changes in Behavioral Manifestation
 
