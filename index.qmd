@@ -363,13 +363,14 @@ As examples, hurting others' feelings on purpose (left panel) was most common in
 (Figure reprinted from @Petersen2026b, Figure 1, p. 301. Petersen, I. T., Demko, Z., Doebler, P., Sabel, L., Oleson, J. J., & Krueger, R. F. (2026). How often is "often"? Improving assessment of the externalizing spectrum using absolute frequency. *Psychological Assessment*, *38*(4), 295–306. <https://doi.org/10.1037/pas0001441>)
 :::
 
-In addition to externalizing problems, both internalizing [@Petersen2018; @Weems2008; @Weiss2003] and thought-disordered [@Rutter2006] problems are thought to change in manifestation across development.
+In addition to externalizing problems, both internalizing [@Petersen2018; @Tyrell2019; @Weems2008; @Weiss2003] and thought-disordered [@Rutter2006] problems are thought to change in manifestation across development.
 
 However, more work is needed to developmentally parameterize constructs—to define constructs developmentally in terms of their features.
 Recent empirical work suggests that it is uncommon for symptoms to change from one symptom to another for a given person at the subsequent measurement occasion [@ApplegateInPress].
 Nevertheless, the authors found that adding new symptoms and subtracting symptoms—other ways that a construct can change in manifestation—were both relatively common.
 Moreover, just because a symptom persists does not mean that the behavioral manifestation of that symptom stays the same for that individual.
 For instance, even if a symptom (e.g., "fighting") persists for an individual, their manifestation of that symptom could differ in form, function, or mechanism [@Petersen2024].
+Indeed, fighting is considered to differ in meaning from childhood to adulthood [@Patterson1993; @Tyrell2019].
 Thus, as noted by @ApplegateInPress, "future causal theories will need to rest on a more detailed and nuanced description of persistence and change at the level of specific psychological problems."
 
 Moreover, where such theories do indicate changes in behavioral manifestation across development, diagnostic and taxonomic systems do not incorporate these developmental changes.
@@ -575,6 +576,7 @@ Scale refers to the size of a unit on the number line.
 If scores have the same scale across ages, a one-unit difference represents the same amount of the construct at each age.
 Location refers to the origin or zero point on the number line.
 If scores have the same location across ages, a score of zero corresponds to the same position on the construct across ages.
+Collectively, if scores have the same scale and location across ages, the same score corresponds to the same level on the construct across ages.
 CFA and IRT each have item parameters corresponding to scale and location.
 
 In CFA, scale is informed by an item's factor loading, and location is informed by an item's intercept.
@@ -636,6 +638,8 @@ The right panel shows considerably smaller differences between the two test char
 ## Potential Confounds of Change {#sec-potential-confounds-of-change}
 
 ### Practice/Retest Effects
+
+<!-- VALUE OF CHANGING MEASUREMENT TO REDUCE RETEST EFFECTS, CITE TYRELL -->
 
 ### Period and Cohort Effects
 
