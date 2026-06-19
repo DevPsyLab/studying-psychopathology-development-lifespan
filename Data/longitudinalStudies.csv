@@ -3,6 +3,7 @@ abcd,Adolescent Brain Cognitive Development (ABCD) Study,11880,2017,2024,,9,10,1
 alspac,Avon Longitudinal Study of Parents and Children (ALSPAC),15247,1991,2024,,0,0,29,32,TRUE,TRUE,FALSE,Single-cohort,General population,United Kingdom,Europe
 addHealth,National Longitudinal Study of Adolescent to Adult Health (Add Health),20745,1994,2025,,12,19,39,49,FALSE,TRUE,FALSE,Single-cohort,General population,United States,North America
 bcs70,1970 British Cohort Study (BCS70),17287,1970,2026,,0,0,56,56,FALSE,TRUE,FALSE,Single-cohort,General population,United Kingdom,Europe
+blsa,Baltimore Longitudinal Study of Aging,3400,1958,2026,,20,100,20,100,FALSE,TRUE,FALSE,Multi-cohort,General population,United States,North America
 cambridge,Cambridge Study in Delinquent Development (CSDD),411,1961,2023,,8,8,70,70,FALSE,TRUE,FALSE,Single-cohort,General population,United Kingdom,Europe
 cdp,Child Development Project (CDP),585,1987,2016,,5,5,34,34,FALSE,TRUE,FALSE,Single-cohort,General population,United States,North America
 cls,Chicago Longitudinal Study (CLS),1539,1983,2017,,3,3,32,37,FALSE,TRUE,TRUE,Single-cohort,Selected high-risk,United States,North America
