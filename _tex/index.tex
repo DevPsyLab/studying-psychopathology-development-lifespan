@@ -1254,7 +1254,7 @@ trajectories.
 
 The problem cannot be solved merely by age-norming. Generating norms
 from items that are invalid at a given age or from scales that have
-important content gaps at a given age leads to construct invalid scores
+important content gaps at a given age leads to construct-invalid scores
 and resulting norms. Moreover, using DSM disorders or diagnoses also
 does not solve the issue.
 
@@ -1547,7 +1547,45 @@ partial measurement invariance, the alignment method, moderated
 nonlinear factor analysis (MNLFA), and item response theory (IRT). These
 are all approaches to harmonization---i.e., linking scores from
 different measures onto the same scale so they can be meaningfully
-compared.
+compared. They attempt to estimate latent variables---using either
+confirmatory factor analysis (CFA) or IRT---on a common scale across
+ages. They do so by trying to align the item parameters for at least a
+subset of items. In particular, to be able to chart individuals' change
+over time, it is helpful to ensure that the scores are on the same
+number line across time---that is, they have the same scale and location
+across ages. Scale refers to the size of a unit on the number line. If
+scores have the same scale across ages, a one-unit difference represents
+the same amount of the construct at each age. Location refers to the
+origin or zero point on the number line. If scores have the same
+location across ages, a score of zero corresponds to the same position
+on the construct across ages. CFA and IRT each have item parameters
+corresponding to scale and location.
+
+In CFA, scale is informed by an item's factor loading, and location is
+informed by an item's intercept. A factor loading reflects the strength
+of association between the item and the latent factor, with larger
+loadings indicating stronger associations. For instance, an item
+assessing the extent to which the child hits others would have a
+stronger factor loading on an externalizing factor than an item
+assessing the extent to which the child likes ice cream. The intercept
+is the expected score on the item when the latent factor equals zero.
+When the latent factor is centered to have a mean of zero, the intercept
+represents the expected score on the item for someone at the mean level
+of the construct. Items with lower intercepts tend to be endorsed by
+individuals with higher levels of the latent factor and therefore often
+reflect more severe behaviors. For example, an item assessing the extent
+to which the child sets fires would be expected to have a lower
+intercept than an item assessing the extent to which the child argues.
+
+In IRT, scale is informed by an item's discrimination, and location is
+informed by an item's difficulty. An item's discrimination reflects how
+strongly the item differentiates individuals at different levels of the
+construct, with higher discrimination indicating a stronger association
+with the latent factor. In a two-parameter IRT model, an item's
+difficulty reflects the level on the latent factor where there is a 50\%
+probability of endorsing the item. Items with higher difficulty require
+a higher level of the latent factor to have a 50\% probability of
+endorsing the item and therefore represent more severe behaviors.
 
 The partial invariance method can be used to link scores across
 different measures (\citeproc{ref-Tyrell2019}{Tyrell et al., 2019}) and
@@ -1562,11 +1600,13 @@ factor loadings allowed to differ across ages. The researcher first
 identifies which items show invariant factors loadings and/or intercepts
 and which items show noninvariant factor loadings or intercepts. The
 researcher then constrains the factors loadings across time for any
-items with invariant factor loadings, to serve as anchor items, and
-allows the factor loadings to differ across time for the items with
+items with invariant factor loadings, to serve as anchor items and
+establish an equivalent scale of the measures across time, and allows
+the factor loadings to differ across time for the items with
 noninvariant factors loadings. In addition, the researcher constrains
 the intercepts across time for any items with invariant intercepts, to
-serve as anchor items, and allows the intercepts to differ across time
+serve as anchor items and establish an equivalent location of the
+measures across time, and allows the intercepts to differ across time
 for the items with noninvariant intercepts. Then, the researcher
 estimates second-order growth functions (e.g., intercept and slope) of
 the first-order latent factor across time. The method can allow
