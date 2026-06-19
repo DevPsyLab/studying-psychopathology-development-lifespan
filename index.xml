@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-18">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-19">
 <year>2026</year>
 <month>6</month>
-<day>18</day>
+<day>19</day>
 </pub-date>
 
 
@@ -1120,13 +1120,16 @@ cognitive skills across lengthy developmental periods.</p>
       changing across developmental time, the behavioral expression of a
       construct can also change across historical time. Changes in the
       behavioral manifestation across historical time can lead existing
-      items and measures to become obsolete. For instance, many measures
-      and longitudinal studies do not assess important contemporary
-      manifestations of externalizing behavior, including aggression on
-      social media and cyberbullying
+      items and measures to become obsolete and for new items to become
+      relevant. For instance, many measures and longitudinal studies do
+      not assess important contemporary manifestations of externalizing
+      behavior, including aggression on social media and cyberbullying
       (<xref alt="Nickerson and Fredrick 2026" rid="ref-Nickerson2026" ref-type="bibr">Nickerson
-      and Fredrick 2026</xref>).</p>
-      <p>Thus, many problems arise from using the same measure across
+      and Fredrick 2026</xref>). Changes in the behavioral manifestation
+      across historical time provide additional reasons to change the
+      measure by removing no-longer-valid items and by adding newer
+      valid items.</p>
+      <p>In sum, many problems arise from using the same measure across
       ages when the construct changes in behavioral manifestation across
       development and historical time.</p>
     </sec>
@@ -1434,7 +1437,7 @@ cognitive skills across lengthy developmental periods.</p>
     from the age-differing measures can be linked to be on the same
     scale. To perform developmental scaling, a variety of approaches can
     be used, including partial measurement invariance, the alignment
-    method, moderated nonlinear factor analysis (MNFLA), and item
+    method, moderated nonlinear factor analysis (MNLFA), and item
     response theory (IRT). These are all approaches to
     harmonization—i.e., linking scores from different measures onto the
     same scale so they can be meaningfully compared.</p>
@@ -1449,9 +1452,21 @@ cognitive skills across lengthy developmental periods.</p>
     invariant intercepts and factor loadings across ages for a subset of
     items to set the latent factor across ages on a comparable scale,
     with some items’ intercepts and/or factor loadings allowed to differ
-    across ages. The method can allow different indicators across ages,
-    either by dropping or adding indicators or by using item parcels
-    composed of differing items across ages
+    across ages. The researcher first identifies which items show
+    invariant factors loadings and/or intercepts and which items show
+    noninvariant factor loadings or intercepts. The researcher then
+    constrains the factors loadings across time for any items with
+    invariant factor loadings, to serve as anchor items, and allows the
+    factor loadings to differ across time for the items with
+    noninvariant factors loadings. In addition, the researcher
+    constrains the intercepts across time for any items with invariant
+    intercepts, to serve as anchor items, and allows the intercepts to
+    differ across time for the items with noninvariant intercepts. Then,
+    the researcher estimates second-order growth functions (e.g.,
+    intercept and slope) of the first-order latent factor across time.
+    The method can allow different indicators across ages, either by
+    dropping or adding indicators or by using item parcels composed of
+    differing items across ages
     (<xref alt="Tyrell et al. 2019" rid="ref-Tyrell2019" ref-type="bibr">Tyrell
     et al. 2019</xref>). However, the partial invariance approach
     requires identifying—and accurately specifying—invariant items and
@@ -1463,15 +1478,16 @@ cognitive skills across lengthy developmental periods.</p>
     (<xref alt="Muthén and Asparouhov 2014" rid="ref-Muthen2014" ref-type="bibr">Muthén
     and Asparouhov 2014</xref>) has been used to link scores across time
     (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
-    2023</xref>). The alignment optimization method attempts to identify
-    a model with approximate longitudinal factorial invariance—that is,
-    to retain any instances of large noninvariance across ages and to
-    keep other parameters approximately invariant across ages—to adjust
-    for violations of invariance. The approach uses a component loss
-    function to align the item parameters across ages so that the scores
-    on the latent factors are on the same scale. Unlike the partial
-    invariance method, the alignment method does not require a priori
-    identification of any noninvariant items
+    2023</xref>). The alignment optimization method within confirmatory
+    factor analysis attempts to identify a model with approximate
+    longitudinal factorial invariance—that is, to retain any instances
+    of large noninvariance across ages and to keep other parameters
+    approximately invariant across ages—to adjust for violations of
+    invariance. The approach uses a component loss function to align the
+    item parameters across ages so that the scores on the latent factors
+    are on the same scale. Unlike the partial invariance method, the
+    alignment method does not require a priori identification of any
+    noninvariant items
     (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
     2023</xref>).</p>
     <p>MNLFA
