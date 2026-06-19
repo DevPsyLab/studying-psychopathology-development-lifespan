@@ -1448,25 +1448,26 @@ cognitive skills across lengthy developmental periods.</p>
     functions to examine individuals’ change over time
     (<xref alt="Hancock and Buehl 2008" rid="ref-Hancock2008" ref-type="bibr">Hancock
     and Buehl 2008</xref>). The partial invariance approach attempts to
-    establish partial strong longitudinal factorial invariance—i.e.,
-    invariant intercepts and factor loadings across ages for a subset of
-    items to set the latent factor across ages on a comparable scale,
-    with some items’ intercepts and/or factor loadings allowed to differ
-    across ages. The researcher first identifies which items show
-    invariant factors loadings and/or intercepts and which items show
-    noninvariant factor loadings or intercepts. The researcher then
-    constrains the factors loadings across time for any items with
-    invariant factor loadings, to serve as anchor items, and allows the
-    factor loadings to differ across time for the items with
-    noninvariant factors loadings. In addition, the researcher
-    constrains the intercepts across time for any items with invariant
-    intercepts, to serve as anchor items, and allows the intercepts to
-    differ across time for the items with noninvariant intercepts. Then,
-    the researcher estimates second-order growth functions (e.g.,
-    intercept and slope) of the first-order latent factor across time.
-    The method can allow different indicators across ages, either by
-    dropping or adding indicators or by using item parcels composed of
-    differing items across ages
+    establish partial strong longitudinal factorial
+    invariance<xref ref-type="fn" rid="fn5">5</xref>—i.e., invariant
+    intercepts and factor loadings across ages for a subset of items to
+    set the latent factor across ages on a comparable scale, with some
+    items’ intercepts and/or factor loadings allowed to differ across
+    ages. The researcher first identifies which items show invariant
+    factors loadings and/or intercepts and which items show noninvariant
+    factor loadings or intercepts. The researcher then constrains the
+    factors loadings across time for any items with invariant factor
+    loadings, to serve as anchor items, and allows the factor loadings
+    to differ across time for the items with noninvariant factors
+    loadings. In addition, the researcher constrains the intercepts
+    across time for any items with invariant intercepts, to serve as
+    anchor items, and allows the intercepts to differ across time for
+    the items with noninvariant intercepts. Then, the researcher
+    estimates second-order growth functions (e.g., intercept and slope)
+    of the first-order latent factor across time. The method can allow
+    different indicators across ages, either by dropping or adding
+    indicators or by using item parcels composed of differing items
+    across ages
     (<xref alt="Tyrell et al. 2019" rid="ref-Tyrell2019" ref-type="bibr">Tyrell
     et al. 2019</xref>). However, the partial invariance approach
     requires identifying—and accurately specifying—invariant items and
@@ -1590,7 +1591,7 @@ cognitive skills across lengthy developmental periods.</p>
   <sec id="factorial-invariance-across-time">
     <title>Factorial Invariance Across Time</title>
     <p>Traditionally, it had been considered necessary to establish
-    factorial invariance<xref ref-type="fn" rid="fn5">5</xref> of the
+    factorial invariance<xref ref-type="fn" rid="fn6">6</xref> of the
     measure(s) across time—that is, the measure(s) assess the construct
     in the same way across time—to study individuals’ change in those
     constructs. In particular, it had been considered necessary to
@@ -3930,7 +3931,11 @@ cognitive skills across lengthy developmental periods.</p>
     as a proxy for developmental time.</p>
   </fn>
   <fn id="fn5">
-    <label>5</label><p>Factorial invariance is also called “measurement
+    <label>5</label><p>Strong invariance is also called “scalar
+    invariance”.</p>
+  </fn>
+  <fn id="fn6">
+    <label>6</label><p>Factorial invariance is also called “measurement
     invariance”. In this context, we prefer the term “factorial
     invariance” because, as described, the actual measures used may
     differ across time.</p>
