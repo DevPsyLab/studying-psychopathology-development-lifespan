@@ -926,6 +926,8 @@ cognitive skills across lengthy developmental periods.</p>
     <p>In addition to externalizing problems, both internalizing
     (<xref alt="Petersen et al. 2018" rid="ref-Petersen2018" ref-type="bibr">Petersen
     et al. 2018</xref>;
+    <xref alt="Tyrell et al. 2019" rid="ref-Tyrell2019" ref-type="bibr">Tyrell
+    et al. 2019</xref>;
     <xref alt="Weems 2008" rid="ref-Weems2008" ref-type="bibr">Weems
     2008</xref>;
     <xref alt="Weiss and Garber 2003" rid="ref-Weiss2003" ref-type="bibr">Weiss
@@ -948,7 +950,12 @@ cognitive skills across lengthy developmental periods.</p>
     persists for an individual, their manifestation of that symptom
     could differ in form, function, or mechanism
     (<xref alt="Petersen 2024" rid="ref-Petersen2024" ref-type="bibr">Petersen
-    2024</xref>). Thus, as noted by Applegate and Lahey
+    2024</xref>). Indeed, fighting is considered to differ in meaning
+    from childhood to adulthood
+    (<xref alt="Patterson 1993" rid="ref-Patterson1993" ref-type="bibr">Patterson
+    1993</xref>;
+    <xref alt="Tyrell et al. 2019" rid="ref-Tyrell2019" ref-type="bibr">Tyrell
+    et al. 2019</xref>). Thus, as noted by Applegate and Lahey
     (<xref alt="in press" rid="ref-ApplegateInPress" ref-type="bibr">in
     press</xref>), “future causal theories will need to rest on a more
     detailed and nuanced description of persistence and change at the
@@ -1452,8 +1459,10 @@ cognitive skills across lengthy developmental periods.</p>
     the same amount of the construct at each age. Location refers to the
     origin or zero point on the number line. If scores have the same
     location across ages, a score of zero corresponds to the same
-    position on the construct across ages. CFA and IRT each have item
-    parameters corresponding to scale and location.</p>
+    position on the construct across ages. Collectively, if scores have
+    the same scale and location across ages, the same score corresponds
+    to the same level on the construct across ages. CFA and IRT each
+    have item parameters corresponding to scale and location.</p>
     <p>In CFA, scale is informed by an item’s factor loading, and
     location is informed by an item’s intercept. A factor loading
     reflects the strength of association between the item and the latent
