@@ -7,6 +7,7 @@ dunedin,Dunedin Multidisciplinary Health and Development Study,odgers2008,2008,O
 mcs,UK Millenium Cohort Study,zhai2026,2026,Zhai et al. (2026),11881,3,3,17,17,FALSE,6,3;5;7;11;14;17,sameMeasure,raw,notReported,FALSE,United Kingdom,Europe,
 mls,Michigan Longitudinal Study (MLS),gornik2023,2023,Gornik et al. (2023),1069,3,5,15,17,FALSE,,3;4;5;6;7;8;9;10;11;12;13;14;15;16;17,constructValid,raw,sum,FALSE,United States,North America,unclear number of timepoints per participant
 montrealBoys,Montreal Boys Study,broidy2003,2003,Broidy et al. (2003),1037,6,6,15,15,FALSE,7,6;10;11;12;13;14;15,ageCommon,raw,mean,FALSE,Canada,North America,
+mscr,Mannheim Study of Children at Risk,sacuInPress,in press,Sacu et al. (in press),317,8,8,33,33,FALSE,8,8;11;15;19;22;23;25;33,constructValid,raw,proportion,FALSE,Germany,Europe,
 mtsfgcls,MTSFGCLS,leBlanc2021,2021,LeBlanc (2021),928,8,8,61,61,TRUE,,,constructValid,raw,sum,FALSE,Canada,North America,
 nlscya,NLSY79 Child and Young Adult (NLSCYA),chenInPressMBR,in press,"Chen et al. (in press, MBR)",1223,5,7,9,12,FALSE,3,6;8;10,sameMeasure,raw,mnlfa,TRUE,United States,North America,
 pittsburghYouth,Pittsburgh Youth Study (PYS),keijsers2012,2012,Keijsers et al. (2012),503,7,7,19,19,FALSE,13,7;8;9;10;11;12;13;14;15;16;17;18;19,constructValid,integrated,sum,FALSE,United States,North America,behavior problem severity coded from aggregated info across multiple scales
