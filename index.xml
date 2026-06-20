@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-19">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-20">
 <year>2026</year>
 <month>6</month>
-<day>19</day>
+<day>20</day>
 </pub-date>
 
 
@@ -689,10 +689,14 @@ cognitive skills across lengthy developmental periods.</p>
     and Development Study, Odgers et al.
     (<xref alt="2008" rid="ref-Odgers2008" ref-type="bibr">2008</xref>)
     examined trajectories of antisocial conduct problems from ages 7–26
-    with 8 measurement occasions. A study using six longitudinal
-    datasets examined trajectories of disruptive behaviors and
-    delinquency, with the longest trajectory spanning ages 6–15 with 7
-    measurement occasions
+    with 8 measurement occasions. In the Mannheim Study of Children at
+    Risk, Sacu et al.
+    (<xref alt="in press" rid="ref-SacuInPress" ref-type="bibr">in
+    press</xref>) examined trajectories of externalizing behavior from
+    ages 8–33 with 8 measurement occasions. A study using six
+    longitudinal datasets examined trajectories of disruptive behaviors
+    and delinquency, with the longest trajectory spanning ages 6–15 with
+    7 measurement occasions
     (<xref alt="Broidy et al. 2003" rid="ref-Broidy2003" ref-type="bibr">Broidy
     et al. 2003</xref>). In addition, a study examined trajectories of
     externalizing problems from ages 4–17 with 3 measurement occasions
@@ -3903,6 +3907,24 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1080/00273171.2021.1941730</pub-id>
       <fpage>30</fpage>
       <lpage>47</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-SacuInPress">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Sacu</surname><given-names>Seda</given-names></name>
+        <name><surname>Streit</surname><given-names>Fabian</given-names></name>
+        <name><surname>Witt</surname><given-names>Stephanie H.</given-names></name>
+        <name><surname>Banaschewski</surname><given-names>Tobias</given-names></name>
+        <name><surname>Holz</surname><given-names>Nathalie E.</given-names></name>
+        <name><surname>Schultebraucks</surname><given-names>Katharina</given-names></name>
+      </person-group>
+      <article-title>Predicting psychopathology symptom trajectories using machine learning: A 33-year prospective study</article-title>
+      <source>Journal of Child Psychology and Psychiatry</source>
+      <volume>n/a</volume>
+      <issue>n/a</issue>
+      <uri>https://acamh.onlinelibrary.wiley.com/doi/abs/10.1111/jcpp.70180</uri>
+      <pub-id pub-id-type="doi">10.1111/jcpp.70180</pub-id>
     </element-citation>
   </ref>
 </ref-list>
