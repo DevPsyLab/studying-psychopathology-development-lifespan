@@ -291,7 +291,7 @@ One of the key findings from the Child Development Project is that a hostile att
 
 Longitudinal studies such as these have had immense impacts.
 These studies have yielded many inferences that would not have been possible without longitudinal designs.
-Some long-term longitudinal studies have even followed children of those children who were initially recruited, and are thus uniquely positioned to study questions of intergenerational transmission [e.g., Kim2009].
+Some long-term longitudinal studies have even followed children of those children who were initially recruited, and are thus uniquely positioned to study questions of intergenerational transmission [e.g., @Kim2009].
 However, relatively few longitudinal studies attempt to assess people's *change* in a given psychopathology construct over a long period.
 Here, we focus on studies that have examined trajectories of externalizing behavior.[^trajectoriesFootnote]
 
