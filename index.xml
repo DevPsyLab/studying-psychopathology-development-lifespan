@@ -1148,29 +1148,39 @@ cognitive skills across lengthy developmental periods.</p>
     <sec id="do-not-allow-charting-individuals-change-over-time-when-the-construct-changes-in-behavioral-manifestation">
       <title>Do Not Allow Charting Individuals’ Change Over Time When
       the Construct Changes in Behavioral Manifestation</title>
-      <p>Current tools fail to implement the construct-valid item
-      approach—existing measures show insufficient differences in which
-      items are assessed at which ages. Moreover, even in cases where
-      the items of a measure differ across ages (e.g., CBCL: ages 1.5–5
-      vs. ages 6–18), the scoring systems do not link scores across ages
-      to be on the same scale while preserving change in level. For
-      instance, when using age-differing measures of externalizing
-      behavior to account for changes in behavioral manifestation across
-      development, Kjeldsen2016
+      <p>Current assessments fail to implement the construct-valid item
+      approach across development—existing measures show insufficient
+      differences in which items are assessed at which ages. Moreover,
+      even in cases where the items of a measure differ across ages
+      (e.g., CBCL: ages 1.5–5 vs. ages 6–18), the scoring systems do not
+      link scores across ages to be on the same scale while preserving
+      change in level. For instance, when using age-differing measures
+      of externalizing behavior to account for changes in behavioral
+      manifestation across development, Kjeldsen2016
       (<xref alt="2016, 999" rid="ref-Kjeldsen2016" ref-type="bibr">2016,
       999</xref>) noted in their study, “Due to change in measures and
       rescaled variables, only relative change across classes can be
       interpreted and not absolute (developmental) change.” Thus, the
       measures do not yield scores that are comparable across time and
       that enable change in an individual’s level to be observed across
-      a lengthy developmental span. Age norms and standardized scores
-      (<italic>T</italic>- or <italic>z</italic>-scores) do not allow
-      observing individuals’ absolute change because scores have a fixed
-      mean and variance, and they do not equal developmental
-      understanding. Absolute change is necessary to identify true
-      growth for an individual, and is thus important for treatment
-      monitoring and longitudinal growth curves. Moreover, it is
-      important for scores across ages to be on the same
+      a lengthy developmental span. In some cases, mean scores and
+      proportion of maximum scores have been used to account for the
+      age-differing measures having different numbers of items
+      (<xref alt="Owens and Shaw 2003" rid="ref-Owens2003" ref-type="bibr">Owens
+      and Shaw 2003</xref>;
+      <xref alt="Petersen et al. 2015" rid="ref-Petersen2015" ref-type="bibr">Petersen
+      et al. 2015</xref>;
+      <xref alt="Sacu et al. in press" rid="ref-SacuInPress" ref-type="bibr">Sacu
+      et al. in press</xref>). However, such approaches assume that the
+      age-differing measures have the same overall functioning in terms
+      of difficulty and discrimination (described later), which is
+      unlikely. Age norms and standardized scores (<italic>T</italic>-
+      or <italic>z</italic>-scores) do not allow observing individuals’
+      absolute change because scores have a fixed mean and variance, and
+      they do not equal developmental understanding. Absolute change is
+      necessary to identify true growth for an individual, and is thus
+      important for treatment monitoring and longitudinal growth curves.
+      Moreover, it is important for scores across ages to be on the same
       apples-to-apples scale to be able to compare scores across ages,
       as would be valuable even in a cross-sectional study that spans a
       wide age range, as might be found in an epidemiological study.</p>
@@ -4003,6 +4013,23 @@ cognitive skills across lengthy developmental periods.</p>
       <issue>n/a</issue>
       <uri>https://acamh.onlinelibrary.wiley.com/doi/abs/10.1111/jcpp.70180</uri>
       <pub-id pub-id-type="doi">10.1111/jcpp.70180</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="ref-Owens2003">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Owens</surname><given-names>Elizabeth B.</given-names></name>
+        <name><surname>Shaw</surname><given-names>Daniel S.</given-names></name>
+      </person-group>
+      <article-title>Predicting growth curves of externalizing behavior across the preschool years</article-title>
+      <source>Journal of Abnormal Child Psychology</source>
+      <year iso-8601-date="2003">2003</year>
+      <volume>31</volume>
+      <issue>6</issue>
+      <uri>http://dx.doi.org/10.1023/A:1026254005632</uri>
+      <pub-id pub-id-type="doi">10.1023/a:1026254005632</pub-id>
+      <fpage>575</fpage>
+      <lpage>590</lpage>
     </element-citation>
   </ref>
 </ref-list>
