@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-20">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-22">
 <year>2026</year>
 <month>6</month>
-<day>20</day>
+<day>22</day>
 </pub-date>
 
 
@@ -1395,7 +1395,7 @@ cognitive skills across lengthy developmental periods.</p>
 <sec id="solution-a-developmental-scaling-framework">
   <title>Solution: A Developmental Scaling Framework</title>
   <p>A developmental scaling framework informs both assessment—including
-  item selection—and scoring.</p>
+  item selection—and linking of scores.</p>
   <sec id="item-selection">
     <title>Item Selection</title>
     <p>When a construct changes in behavioral manifestation across
@@ -1442,8 +1442,8 @@ cognitive skills across lengthy developmental periods.</p>
       <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/constructValidItemDesign.png" />
     </fig>
   </sec>
-  <sec id="scoring">
-    <title>Scoring</title>
+  <sec id="linking-of-scores">
+    <title>Linking of Scores</title>
     <p>After the age-differing measures have been assessed, the scores
     from the age-differing measures can be linked to be on the same
     scale. To perform developmental scaling, a variety of approaches can
@@ -1464,9 +1464,10 @@ cognitive skills across lengthy developmental periods.</p>
     origin or zero point on the number line. If scores have the same
     location across ages, a score of zero corresponds to the same
     position on the construct across ages. Collectively, if scores have
-    the same scale and location across ages, the same score corresponds
-    to the same level on the construct across ages. CFA and IRT each
-    have item parameters corresponding to scale and location.</p>
+    the same scale and location across ages, the measure is constantly
+    calibrated across ages and the same score corresponds to the same
+    level on the construct across ages. CFA and IRT each have item
+    parameters corresponding to scale and location.</p>
     <p>In CFA, scale is informed by an item’s factor loading, and
     location is informed by an item’s intercept. A factor loading
     reflects the strength of association between the item and the latent
@@ -1516,18 +1517,35 @@ cognitive skills across lengthy developmental periods.</p>
     for any items with invariant intercepts, to serve as anchor items
     and establish an equivalent location of the measures across time,
     and allows the intercepts to differ across time for the items with
-    noninvariant intercepts. Then, the researcher estimates second-order
-    growth functions (e.g., intercept and slope) of the first-order
-    latent factor across time. The method can allow different indicators
-    across ages, either by dropping or adding indicators or by using
-    item parcels composed of differing items across ages
+    noninvariant intercepts. The anchor items thus equate the latent
+    factor over time, preventing drift in the scale calibration and
+    rendering scores comparable across time
+    (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
+    and Bauer in pressb</xref>). Then, the researcher estimates
+    second-order growth functions (e.g., intercept and slope) of the
+    first-order latent factor across time. The method can allow
+    different indicators across ages, either by dropping or adding
+    indicators or by using item parcels composed of differing items
+    across ages
     (<xref alt="Tyrell et al. 2019" rid="ref-Tyrell2019" ref-type="bibr">Tyrell
     et al. 2019</xref>). However, the partial invariance approach
     requires identifying—and accurately specifying—invariant items and
-    any noninvariant items, and it tends not to work as well when a
-    large proportion of items are noninvariant
+    any noninvariant items, which can be both inefficient and
+    error-prone
     (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
-    2023</xref>).</p>
+    2023</xref>;
+    <xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
+    and Bauer in pressb</xref>). Moreover, the partial invariance
+    approach tends not to work as well when a large proportion of items
+    are noninvariant
+    (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
+    2023</xref>), there are many timepoints, there is considerable
+    variability in the numbers of responses provided to items such as
+    might occur due to missing data or when not all items are assessed
+    at all timepoints, or the researcher wants to consider DIF as a
+    function of multiple variables or continuous variables
+    (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
+    and Bauer in pressb</xref>).</p>
     <p>The alignment optimization method
     (<xref alt="Muthén and Asparouhov 2014" rid="ref-Muthen2014" ref-type="bibr">Muthén
     and Asparouhov 2014</xref>) has been used to link scores across time
@@ -1553,7 +1571,29 @@ cognitive skills across lengthy developmental periods.</p>
     (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
     and Bauer in pressb</xref>,
     <xref alt="in pressa" rid="ref-ChenMBR" ref-type="bibr">in
-    pressa</xref>). </p>
+    pressa</xref>). Unlike the partial invariance approach, MNLFA
+    represents the measurement model in continuous time (rather than
+    discrete time). MNLFA allows simultaneous estimation of growth
+    functions while estimating and accounting for DIF effects. It allows
+    estimating DIF as a function of time and as a function of multiple
+    variables, including categorical and continuous variables. Bayesian
+    approaches can be used to apply MNLFA. A key benefit of Bayesian
+    approaches is the use of regularizing priors that allow estimating
+    the model without having to identify noninvariant/DIF items and
+    anchor items in advance
+    (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
+    and Bauer in pressb</xref>,
+    <xref alt="in pressa" rid="ref-ChenMBR" ref-type="bibr">in
+    pressa</xref>). Using regularization, unimportant DIF effects are
+    shunken toward zero—while retaining larger DIF effects—thus
+    identifying potential anchor items without having to specify them in
+    advance
+    (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
+    and Bauer in pressb</xref>). In addition, Bayesian approaches are
+    often better suited to handle small sample sizes and data with
+    sparse responses
+    (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
+    and Bauer in pressb</xref>). </p>
     <p>The IRT approach to developmental scaling is depicted in
     <xref alt="Figure 9" rid="fig-linking">Figure 9</xref>. The IRT
     approach to developmental scaling identifies scaling parameters that
@@ -1569,7 +1609,24 @@ cognitive skills across lengthy developmental periods.</p>
     items are used to determine the general form of change on an
     identical scale, but all developmentally relevant, construct-valid
     items are used to estimate each person’s construct level on this
-    scale.</p>
+    scale. Traditionally IRT represents the measurement model in
+    discrete time. Like MNFLA, however, IRT (particularly in the mixed
+    model formulation) can represent the measurement model in continuous
+    time and allows testing DIF over time and as a function of multiple
+    variables and continuous variables. Moreover, like MNLFA, it allows
+    simultaneous estimation of growth functions while estimating and
+    accounting for DIF effects. In addition, like MNFLA, IRT allows
+    Bayesian estimation and regularizizing priors to identify anchor
+    items without having to specify them in advance.</p>
+    <p>Nevertheless, regardless of the approach used, at least one
+    anchor item is necessary to link the scale of the latent factor
+    across timepoints
+    (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
+    and Bauer in pressb</xref>). Moreover, when treating time
+    continuously, the functional form of any DIF as a function of time
+    must be correctly specified
+    (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
+    and Bauer in pressb</xref>).</p>
     <fig id="fig-linking">
       <caption><p>Figure 9: Example of linking scores from measures
       across ages using the item response theory approach to
@@ -1666,8 +1723,8 @@ cognitive skills across lengthy developmental periods.</p>
     2023</xref>).</p>
     <p>In general, at least approximate factorial invariance or partial
     strong factorial invariance (i.e., invariance of intercepts and
-    factor loadings for a subset of items) is often considered a
-    requirement for modeling individuals’ change.</p>
+    factor loadings for a subset of items—the anchor items) is often
+    considered a requirement for modeling individuals’ change.</p>
   </sec>
   <sec id="integration-across-multiple-sources">
     <title>Integration Across Multiple Sources</title>
