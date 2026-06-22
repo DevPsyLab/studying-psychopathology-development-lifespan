@@ -621,9 +621,10 @@ Bayesian approaches can be used to apply MNLFA.
 A key benefit of Bayesian approaches is the use of regularizing priors that allow estimating the model without having to identify noninvariant/DIF items and anchor items in advance [@ChenPM; @ChenMBR].
 Using regularization, unimportant DIF effects are shunken toward zero—while retaining larger DIF effects—thus identifying potential anchor items without having to specify them in advance [@ChenPM].
 In addition, Bayesian approaches are often better suited to handle small sample sizes and data with sparse responses [@ChenPM].
-<!-- DESCRIBE -->
+Using a simulation, @ChenMBR found that MNLFA estimated change more accurately than traditional first- or second-order growth curve models.
 
 The IRT approach to developmental scaling is depicted in @fig-linking.
+<!-- CONCURRENT VS SEPARATE CALIBRATION -->
 The IRT approach to developmental scaling identifies scaling parameters that minimize the differences between the probability of a person endorsing the age-common items across two measures, at a given construct level.
 That is, IRT links measures' scales based on the difficulty and discrimination of the age-common items.
 In developmental scaling, scores on the construct-valid items at the reference age set the scale, the age-common items adjusts subsequent scores to that scale, and all construct-valid items (i.e., both age-common and age-unique items) at a given timepoint is used to estimate each person's score on that scale.
