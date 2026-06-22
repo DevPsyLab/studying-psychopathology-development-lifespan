@@ -631,9 +631,6 @@ Like MNFLA, however, IRT (particularly in the mixed model formulation) can repre
 Moreover, like MNLFA, it allows simultaneous estimation of growth functions while estimating and accounting for DIF effects. 
 In addition, like MNFLA, IRT allows Bayesian estimation and regularizizing priors to identify anchor items without having to specify them in advance.
 
-Nevertheless, regardless of the approach used, at least one anchor item is necessary to link the scale of the latent factor across timepoints [@ChenPM].
-Moreover, when treating time continuously, the functional form of any DIF as a function of time must be correctly specified [@ChenPM].
-
 ::: {#fig-linking}
 ![](Figures/Petersen2021_figure1.png){width=100% fig-alt="Example of linking scores from measures across ages using the item response theory approach to developmental scaling."}
 
@@ -649,6 +646,9 @@ The left panel indicates that the externalizing problem items showed higher seve
 The right panel shows considerably smaller differences between the two test characteristic curves, which provides empirical evidence that the linking successfully placed the latent externalizing problem scores across age on a more comparable scale (i.e., more similar discrimination and severity of the age-common items).
 (Figure reprinted from @Petersen2021b, Figure 1, p. 74. Petersen, I. T., & LeBeau, B. (2021). Language ability in the development of externalizing behavior problems in childhood. *Journal of Educational Psychology*, *113*(1), 68–85. <https://doi.org/10.1037/edu0000461>)
 :::
+
+Nevertheless, for many of these approaches, at least one anchor item is necessary to link the scale of the latent factor across timepoints [@ChenPM].
+Moreover, when treating time continuously, the functional form of any DIF as a function of time must be correctly specified [@ChenPM].
 
 # Other Key Challenges to Address
 
