@@ -477,10 +477,12 @@ In sum, many problems arise from using the same measure across ages when the con
 
 <!-- Hancock & Buehl, 2008; Kolen & Brennan, 2014; Lai, 2021; McArdle & Grimm, 2011; McArdle et al., 2009; Petersen et al., 2020; Tyrell et al., 2019; Ward et al., 2022; McDaniel et al., 2023; Chen and Bauer articles -->
 
-Current tools fail to implement the construct-valid item approach—existing measures show insufficient differences in which items are assessed at which ages.
+Current assessments fail to implement the construct-valid item approach across development—existing measures show insufficient differences in which items are assessed at which ages.
 Moreover, even in cases where the items of a measure differ across ages (e.g., CBCL: ages 1.5–5 vs. ages 6–18), the scoring systems do not link scores across ages to be on the same scale while preserving change in level.
 For instance, when using age-differing measures of externalizing behavior to account for changes in behavioral manifestation across development, Kjeldsen2016 [-@Kjeldsen2016, p. 999] noted in their study, "Due to change in measures and rescaled variables, only relative change across classes can be interpreted and not absolute (developmental) change."
 Thus, the measures do not yield scores that are comparable across time and that enable change in an individual's level to be observed across a lengthy developmental span.
+In some cases, mean scores and proportion of maximum scores have been used to account for the age-differing measures having different numbers of items [@Owens2003; @Petersen2015; @SacuInPress].
+However, such approaches assume that the age-differing measures have the same overall functioning in terms of difficulty and discrimination (described later), which is unlikely.
 Age norms and standardized scores (*T*- or *z*-scores) do not allow observing individuals' absolute change because scores have a fixed mean and variance, and they do not equal developmental understanding.
 Absolute change is necessary to identify true growth for an individual, and is thus important for treatment monitoring and longitudinal growth curves.
 Moreover, it is important for scores across ages to be on the same apples-to-apples scale to be able to compare scores across ages, as would be valuable even in a cross-sectional study that spans a wide age range, as might be found in an epidemiological study.
