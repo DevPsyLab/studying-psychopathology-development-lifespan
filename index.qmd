@@ -479,7 +479,7 @@ In sum, many problems arise from using the same measure across ages when the con
 
 Current assessments fail to implement the construct-valid item approach across development—existing measures show insufficient differences in which items are assessed at which ages.
 Moreover, even in cases where the items of a measure differ across ages (e.g., CBCL: ages 1.5–5 vs. ages 6–18), the scoring systems do not link scores across ages to be on the same scale while preserving change in level.
-For instance, when using age-differing measures of externalizing behavior to account for changes in behavioral manifestation across development, Kjeldsen2016 [-@Kjeldsen2016, p. 999] noted in their study, "Due to change in measures and rescaled variables, only relative change across classes can be interpreted and not absolute (developmental) change."
+For instance, when using age-differing measures of externalizing behavior to account for changes in behavioral manifestation across development, Kjeldsen et al. [-@Kjeldsen2016, p. 999] noted in their study, "Due to change in measures and rescaled variables, only relative change across classes can be interpreted and not absolute (developmental) change."
 Thus, the measures do not yield scores that are comparable across time and that enable change in an individual's level to be observed across a lengthy developmental span.
 In some cases, mean scores and proportion of maximum scores have been used to account for the age-differing measures having different numbers of items [@Owens2003; @Petersen2015; @SacuInPress].
 However, such approaches assume that the age-differing measures have the same overall functioning in terms of difficulty and discrimination (described later), which is unlikely.
