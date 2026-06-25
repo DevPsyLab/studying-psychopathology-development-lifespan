@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-24">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-25">
 <year>2026</year>
 <month>6</month>
-<day>24</day>
+<day>25</day>
 </pub-date>
 
 
@@ -3401,6 +3401,7 @@ cognitive skills across lengthy developmental periods.</p>
       <year iso-8601-date="2012">2012</year>
       <volume>1</volume>
       <issue>2</issue>
+      <pub-id pub-id-type="doi">10.14283/jfa.2012.9</pub-id>
       <fpage>50</fpage>
       <lpage>51</lpage>
     </element-citation>
