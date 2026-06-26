@@ -1739,7 +1739,7 @@ cognitive skills across lengthy developmental periods.</p>
     invariance of intercepts and factor loadings for a subset of
     items—the anchor items) is often considered a requirement for
     modeling individuals’ change. However, even that requirement is
-    inaccurate. As noted by Hancock and Curran
+    inaccurate. As noted by Hancock
     (<xref alt="2022" rid="ref-QuantitudeS3E18" ref-type="bibr">2022</xref>),
     to model differences in latent means (e.g., change over time), you
     do not need invariance; “you need to have a model that is
@@ -4069,13 +4069,14 @@ cognitive skills across lengthy developmental periods.</p>
     </element-citation>
   </ref>
   <ref id="ref-QuantitudeS3E18">
-    <element-citation>
+    <element-citation publication-type="song">
       <person-group person-group-type="author">
         <name><surname>Hancock</surname><given-names>Gregory R.</given-names></name>
         <name><surname>Curran</surname><given-names>Patrick J.</given-names></name>
       </person-group>
-      <article-title>S3E18: Aunt Roz’s guide to latent means models</article-title>
-      <year iso-8601-date="2022-02">2022</year><month>02</month>
+      <article-title>Quantitude</article-title>
+      <publisher-name>Quantitude; Quantitude</publisher-name>
+      <year iso-8601-date="2022-02-11">2022</year><month>02</month><day>11</day>
       <uri>https://quantitudepod.org/latent-means/</uri>
     </element-citation>
   </ref>
