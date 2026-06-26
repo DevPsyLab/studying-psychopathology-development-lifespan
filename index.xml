@@ -1787,7 +1787,13 @@ cognitive skills across lengthy developmental periods.</p>
     <xref alt="Seddig and Leitgöb 2018" rid="ref-Seddig2018" ref-type="bibr">Seddig
     and Leitgöb 2018</xref>;
     <xref alt="Winter and Depaoli 2020" rid="ref-Winter2020" ref-type="bibr">Winter
-    and Depaoli 2020</xref>).</p>
+    and Depaoli 2020</xref>). Robitzsch and Lüdtke
+    (<xref alt="2023, 859" rid="ref-Robitzsch2023" ref-type="bibr">2023,
+    859</xref>) argue that establishing factorial invariance is neither
+    necessary nor sufficient for comparing latent means, and they note
+    that “there is no support for preferring the partial invariance
+    approach over competing approaches, such as invariance alignment,
+    robust linking, or Bayesian approximate invariance.”</p>
   </sec>
   <sec id="integration-across-multiple-sources">
     <title>Integration Across Multiple Sources</title>
@@ -4242,6 +4248,23 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1007/978-1-4939-0317-7</pub-id>
       <fpage>566</fpage>
       <lpage></lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Robitzsch2023">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Robitzsch</surname><given-names>Alexander</given-names></name>
+        <name><surname>Lüdtke</surname><given-names>Oliver</given-names></name>
+      </person-group>
+      <article-title>Why full, partial, or approximate measurement invariance are not a prerequisite for meaningful and valid group comparisons</article-title>
+      <source>Structural Equation Modeling: A Multidisciplinary Journal</source>
+      <year iso-8601-date="2023">2023</year>
+      <volume>30</volume>
+      <issue>6</issue>
+      <uri>https://doi.org/10.1080/10705511.2023.2191292</uri>
+      <pub-id pub-id-type="doi">10.1080/10705511.2023.2191292</pub-id>
+      <fpage>859</fpage>
+      <lpage>870</lpage>
     </element-citation>
   </ref>
 </ref-list>
