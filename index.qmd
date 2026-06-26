@@ -686,8 +686,8 @@ Otherwise, a researcher may wrongly conclude that levels in the construct change
 However, it is now understood that violations of longitudinal factorial invariance do not mean that questions of change cannot be answered [@Lai2023].
 Strong factorial invariance frequently does not hold, so in such situations it is necessary to adjust for noninvariance [@Lai2023].
 
-In general, at least approximate factorial invariance or partial strong factorial invariance (i.e., invariance of intercepts and factor loadings for a subset of items—the anchor items) is often considered a requirement for modeling individuals' change.
-However, even that assumption is false.
+In general, at least partial strong factorial invariance (i.e., invariance of intercepts and factor loadings for a subset of items—the anchor items) is often considered a requirement for modeling individuals' change.
+However, even that requirement is inaccurate.
 As noted by @QuantitudeS3E18, to model differences in latent means (e.g., change over time), you do not need invariance; "you need to have a model that is correct...That means that...you are modeling [items'] invariance properly."
 There are multiple ways of handling noninvariance as described above, including alignment optimization, MNLFA, and IRT-based linking.
 In addition, another approach is to allow approximate factorial invariance.
