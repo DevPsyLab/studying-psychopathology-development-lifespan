@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-25">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-26">
 <year>2026</year>
 <month>6</month>
-<day>25</day>
+<day>26</day>
 </pub-date>
 
 
@@ -1735,10 +1735,35 @@ cognitive skills across lengthy developmental periods.</p>
     so in such situations it is necessary to adjust for noninvariance
     (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
     2023</xref>).</p>
-    <p>In general, at least approximate factorial invariance or partial
-    strong factorial invariance (i.e., invariance of intercepts and
-    factor loadings for a subset of items—the anchor items) is often
-    considered a requirement for modeling individuals’ change.</p>
+    <p>In general, at least partial strong factorial invariance (i.e.,
+    invariance of intercepts and factor loadings for a subset of
+    items—the anchor items) is often considered a requirement for
+    modeling individuals’ change. However, even that requirement is
+    inaccurate. As noted by Hancock and Curran
+    (<xref alt="2022" rid="ref-QuantitudeS3E18" ref-type="bibr">2022</xref>),
+    to model differences in latent means (e.g., change over time), you
+    do not need invariance; “you need to have a model that is
+    correct…That means that…you are modeling [items’] invariance
+    properly.” There are multiple ways of handling noninvariance as
+    described above, including alignment optimization, MNLFA, and
+    IRT-based linking. In addition, another approach is to allow
+    approximate factorial invariance. Approximate measurement invariance
+    allows invariance parameters to have small amount of noninvariance
+    rather than fixing invariance parameters to zero
+    (<xref alt="Van De Schoot et al. 2013" rid="ref-VanDeSchoot2013" ref-type="bibr">Van
+    De Schoot et al. 2013</xref>). Approximate measurement invariance is
+    more accurate than full or partial measurement invariance for
+    estimating true latent mean differences when there are many small
+    differences in the intercepts and factor loadings
+    (<xref alt="Cieciuch et al. 2014" rid="ref-Cieciuch2014" ref-type="bibr">Cieciuch
+    et al. 2014</xref>;
+    <xref alt="Van De Schoot et al. 2013" rid="ref-VanDeSchoot2013" ref-type="bibr">Van
+    De Schoot et al. 2013</xref>). Approximate measurement invariance
+    has also been applied in the longitudinal context (e.g.,
+    <xref alt="Seddig and Leitgöb 2018" rid="ref-Seddig2018" ref-type="bibr">Seddig
+    and Leitgöb 2018</xref>;
+    <xref alt="Winter and Depaoli 2020" rid="ref-Winter2020" ref-type="bibr">Winter
+    and Depaoli 2020</xref>).</p>
   </sec>
   <sec id="integration-across-multiple-sources">
     <title>Integration Across Multiple Sources</title>
@@ -4041,6 +4066,86 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1023/a:1026254005632</pub-id>
       <fpage>575</fpage>
       <lpage>590</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-QuantitudeS3E18">
+    <element-citation>
+      <person-group person-group-type="author">
+        <name><surname>Hancock</surname><given-names>Gregory R.</given-names></name>
+        <name><surname>Curran</surname><given-names>Patrick J.</given-names></name>
+      </person-group>
+      <article-title>S3E18: Aunt Roz’s guide to latent means models</article-title>
+      <year iso-8601-date="2022-02">2022</year><month>02</month>
+      <uri>https://quantitudepod.org/latent-means/</uri>
+    </element-citation>
+  </ref>
+  <ref id="ref-VanDeSchoot2013">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Van De Schoot</surname><given-names>Rens</given-names></name>
+        <name><surname>Kluytmans</surname><given-names>Anouck</given-names></name>
+        <name><surname>Tummers</surname><given-names>Lars</given-names></name>
+        <name><surname>Lugtig</surname><given-names>Peter</given-names></name>
+        <name><surname>Hox</surname><given-names>Joop</given-names></name>
+        <name><surname>Muthen</surname><given-names>Bengt</given-names></name>
+      </person-group>
+      <article-title>Facing off with Scylla and Charybdis: A comparison of scalar, partial, and the novel possibility of approximate measurement invariance</article-title>
+      <source>Frontiers in Psychology</source>
+      <year iso-8601-date="2013">2013</year>
+      <volume>4</volume>
+      <issue>770</issue>
+      <uri>https://www.frontiersin.org/article/10.3389/fpsyg.2013.00770</uri>
+      <pub-id pub-id-type="doi">10.3389/fpsyg.2013.00770</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="ref-Cieciuch2014">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Cieciuch</surname><given-names>Jan</given-names></name>
+        <name><surname>Davidov</surname><given-names>Eldad</given-names></name>
+        <name><surname>Schmidt</surname><given-names>Peter</given-names></name>
+        <name><surname>Algesheimer</surname><given-names>René</given-names></name>
+        <name><surname>Schwartz</surname><given-names>Shalom H.</given-names></name>
+      </person-group>
+      <article-title>Comparing results of an exact vs. An approximate (bayesian) measurement invariance test: A cross-country illustration with a scale to measure 19 human values</article-title>
+      <source>Frontiers in Psychology</source>
+      <year iso-8601-date="2014">2014</year>
+      <volume>5</volume>
+      <issue>982</issue>
+      <uri>https://www.frontiersin.org/article/10.3389/fpsyg.2014.00982</uri>
+      <pub-id pub-id-type="doi">10.3389/fpsyg.2014.00982</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="ref-Seddig2018">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Seddig</surname><given-names>Daniel</given-names></name>
+        <name><surname>Leitgöb</surname><given-names>Heinz</given-names></name>
+      </person-group>
+      <article-title>Approximate measurement invariance and longitudinal confirmatory factor analysis: Concept and application with panel data</article-title>
+      <source>Survey Research Methods</source>
+      <year iso-8601-date="2018">2018</year>
+      <volume>12</volume>
+      <issue>1</issue>
+      <uri>https://ojs.ub.uni-konstanz.de/srm/article/view/7210</uri>
+      <pub-id pub-id-type="doi">10.18148/srm/2018.v12i1.7210</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="ref-Winter2020">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Winter</surname><given-names>Sonja D.</given-names></name>
+        <name><surname>Depaoli</surname><given-names>Sarah</given-names></name>
+      </person-group>
+      <article-title>An illustration of Bayesian approximate measurement invariance with longitudinal data and a small sample size</article-title>
+      <source>International Journal of Behavioral Development</source>
+      <year iso-8601-date="2020">2020</year>
+      <volume>44</volume>
+      <issue>4</issue>
+      <uri>https://journals.sagepub.com/doi/abs/10.1177/0165025419880610</uri>
+      <pub-id pub-id-type="doi">10.1177/0165025419880610</pub-id>
+      <fpage>371</fpage>
+      <lpage>382</lpage>
     </element-citation>
   </ref>
 </ref-list>
