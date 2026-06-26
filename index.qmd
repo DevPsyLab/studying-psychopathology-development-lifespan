@@ -688,7 +688,7 @@ Strong factorial invariance frequently does not hold, so in such situations it i
 
 In general, at least partial strong factorial invariance (i.e., invariance of intercepts and factor loadings for a subset of items—the anchor items) is often considered a requirement for modeling individuals' change.
 However, even that requirement is inaccurate.
-As noted by @QuantitudeS3E18, to model differences in latent means (e.g., change over time), you do not need invariance; "you need to have a model that is correct...That means that...you are modeling [items'] invariance properly."
+As noted by Hancock [-@QuantitudeS3E18], to model differences in latent means (e.g., change over time), you do not need invariance; "you need to have a model that is correct...That means that...you are modeling [items'] invariance properly."
 There are multiple ways of handling noninvariance as described above, including alignment optimization, MNLFA, and IRT-based linking.
 In addition, another approach is to allow approximate factorial invariance.
 Approximate measurement invariance allows invariance parameters to have small amount of noninvariance rather than fixing invariance parameters to zero [@VanDeSchoot2013].
