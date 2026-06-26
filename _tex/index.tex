@@ -1685,28 +1685,30 @@ simulation, S. M. Chen and Bauer (\citeproc{ref-ChenMBR}{in pressa})
 found that MNLFA estimated change more accurately than traditional
 first- or second-order growth curve models.
 
-The IRT approach to developmental scaling is depicted in
-Figure~\ref{fig-linking}. The IRT approach to developmental scaling
-identifies scaling parameters that minimize the differences between the
-probability of a person endorsing the age-common items across two
-measures, at a given construct level. That is, IRT links measures'
-scales based on the difficulty and discrimination of the age-common
-items. In developmental scaling, scores on the construct-valid items at
-the reference age set the scale, the age-common items adjusts subsequent
-scores to that scale, and all construct-valid items (i.e., both
-age-common and age-unique items) at a given timepoint is used to
-estimate each person's score on that scale. Thus, the age-common items
-are used to determine the general form of change on an identical scale,
-but all developmentally relevant, construct-valid items are used to
-estimate each person's construct level on this scale. Traditionally IRT
-represents the measurement model in discrete time. Like MNFLA, however,
-IRT (particularly in the mixed model formulation) can represent the
-measurement model in continuous time and allows testing DIF over time
-and as a function of multiple variables and continuous variables.
-Moreover, like MNLFA, it allows simultaneous estimation of growth
-functions while estimating and accounting for DIF effects. In addition,
-like MNFLA, IRT allows Bayesian estimation and regularizizing priors to
-identify anchor items without having to specify them in advance.
+IRT can also be used to link scores across different measures
+(\citeproc{ref-Kolen2014}{Kolen \& Brennan, 2014}). The IRT approach to
+developmetal scaling is depicted in Figure~\ref{fig-linking}. The IRT
+approach to developmental scaling identifies scaling parameters that
+minimize the differences between the probability of a person endorsing
+the age-common items across two measures, at a given construct level.
+That is, IRT links measures' scales based on the difficulty and
+discrimination of the age-common items. In developmental scaling, scores
+on the construct-valid items at the reference age set the scale, the
+age-common items adjusts subsequent scores to that scale, and all
+construct-valid items (i.e., both age-common and age-unique items) at a
+given timepoint is used to estimate each person's score on that scale.
+Thus, the age-common items are used to determine the general form of
+change on an identical scale, but all developmentally relevant,
+construct-valid items are used to estimate each person's construct level
+on this scale. Traditionally IRT represents the measurement model in
+discrete time. Like MNFLA, however, IRT (particularly in the mixed model
+formulation) can represent the measurement model in continuous time and
+allows testing DIF over time and as a function of multiple variables and
+continuous variables. Moreover, like MNLFA, it allows simultaneous
+estimation of growth functions while estimating and accounting for DIF
+effects. In addition, like MNFLA, IRT allows Bayesian estimation and
+regularizizing priors to identify anchor items without having to specify
+them in advance.
 
 \begin{figure}
 
@@ -1803,14 +1805,18 @@ invariance\footnote{Factorial invariance is also called ``measurement
   invariance'' because, as described, the actual measures used may
   differ across time.} of the measure(s) across time---that is, the
 measure(s) assess the construct in the same way across time---to study
-individuals' change in those constructs. In particular, it had been
-considered necessary to establish at least strong factorial
-invariance---i.e., invariance of intercepts and factor loadings in
-factor analysis, or invariance of difficulty and discrimination in item
-response theory. Otherwise, a researcher may wrongly conclude that
-levels in the construct change over time when the apparent changes in
-the observed scores (and the latent variables) are driven by
-noninvariant loadings and/or intercepts for one or more items
+individuals' change in those constructs
+(\citeproc{ref-Widaman2010}{Widaman et al., 2010}). As described
+earlier, a goal of longitudinal factorial invariance is to increase
+confidence that the latent factor at multiple timepoints is on the same
+scale so that meaningful changes in people's level can be observed. In
+particular, it had been considered necessary to establish at least
+strong factorial invariance---i.e., invariance of intercepts and factor
+loadings in factor analysis, or invariance of difficulty and
+discrimination in item response theory. Otherwise, a researcher may
+wrongly conclude that levels in the construct change over time when the
+apparent changes in the observed scores (and the latent variables) are
+driven by noninvariant loadings and/or intercepts for one or more items
 (\citeproc{ref-Lai2023}{Lai, 2023}). However, it is now understood that
 violations of longitudinal factorial invariance do not mean that
 questions of change cannot be answered (\citeproc{ref-Lai2023}{Lai,
@@ -1821,12 +1827,25 @@ situations it is necessary to adjust for noninvariance
 In general, at least partial strong factorial invariance (i.e.,
 invariance of intercepts and factor loadings for a subset of items---the
 anchor items) is often considered a requirement for modeling
-individuals' change. However, even that requirement is inaccurate. As
-noted by Hancock (\citeproc{ref-QuantitudeS3E18}{2022}), to model
-differences in latent means (e.g., change over time), you do not need
-invariance; ``you need to have a model that is correct\ldots That means
-that\ldots you are modeling {[}items'{]} invariance properly.'' There
-are multiple ways of handling noninvariance as described above,
+individuals' change, such that the more items that show invariance, the
+greater the confidence that the latent factor is on a comparable scale
+at each age for examining individuals' change. However, even that
+requirement is inaccurate. As noted by Hancock
+(\citeproc{ref-QuantitudeS3E18}{2022}), to model differences in latent
+means (e.g., change over time), you do not need invariance; ``you need
+to have a model that is correct\ldots That means that\ldots you are
+modeling {[}items'{]} invariance properly.'' Theoretical considerations
+are crucial and establishing even partial longitudinal factorial
+invariance may not be required when the construct shows heterotypic
+continuity (\citeproc{ref-Knight2010}{Knight \& Zerr, 2010};
+\citeproc{ref-Petersen2020}{Petersen et al., 2020}). When the construct
+changes in manifestation, models with failed longitudinal factorial
+invariance can yield valid inferences. For instance, simulation work
+demonstrated that IRT linking approaches accurately captured changes in
+level on the latent factor even in the present of DIF and changing
+dimensionality (\citeproc{ref-Edwards2012}{Edwards \& Wirth, 2012}).
+
+There are multiple ways of handling noninvariance as described above,
 including alignment optimization, MNLFA, and IRT-based linking. In
 addition, another approach is to allow approximate factorial invariance.
 Approximate measurement invariance allows invariance parameters to have
@@ -2071,6 +2090,13 @@ Dodge, K. A., Bates, J. E., \& Pettit, G. S. (1990). Mechanisms in the
 cycle of violence. \emph{Science}, \emph{250}(4988), 1678--1683.
 \url{https://doi.org/10.1126/science.2270481}
 
+\bibitem[\citeproctext]{ref-Edwards2012}
+Edwards, M. C., \& Wirth, R. J. (2012). Valid measurement without
+factorial invariance: A longitudinal example. In G. R. Hancock \& J. R.
+Harring (Eds.), \emph{Advances in longitudinal methods in the social and
+behavioral sciences} (pp. 289--311). Information Age Publishing.
+\url{https://doi.org/10.1108/978-1-61735-891-320251015}
+
 \bibitem[\citeproctext]{ref-Elliott1980}
 Elliott, D. S., \& Ageton, S. S. (1980). Reconciling race and class
 differences in self-reported and official estimates of delinquency.
@@ -2220,6 +2246,17 @@ structure of callous-unemotional traits in german adolescents: Results
 from taxometric analyses. \emph{Research on Child and Adolescent
 Psychopathology}, \emph{50}(6), 771--780.
 \url{https://doi.org/10.1007/s10802-021-00885-y}
+
+\bibitem[\citeproctext]{ref-Knight2010}
+Knight, G. P., \& Zerr, A. A. (2010). Informed theory and measurement
+equivalence in child development research. \emph{Child Development
+Perspectives}, \emph{4}(1), 25--30.
+\url{https://doi.org/10.1111/j.1750-8606.2009.00112.x}
+
+\bibitem[\citeproctext]{ref-Kolen2014}
+Kolen, M. J., \& Brennan, R. L. (2014). \emph{Test equating, scaling,
+and linking: Methods and practices} (3rd ed., p. 566). Springer.
+\url{https://doi.org/10.1007/978-1-4939-0317-7}
 
 \bibitem[\citeproctext]{ref-Korhonen2018}
 Korhonen, M., Luoma, I., Salmelin, R., Siirtola, A., \& Puura, K.
@@ -2648,6 +2685,13 @@ Identifying continuity and change in anxious emotion.
 Weiss, B., \& Garber, J. (2003). Developmental differences in the
 phenomenology of depression. \emph{Development and Psychopathology},
 \emph{15}(2), 403--430. \url{https://doi.org/10.1017/S0954579403000221}
+
+\bibitem[\citeproctext]{ref-Widaman2010}
+Widaman, K. F., Ferrer, E., \& Conger, R. D. (2010). Factorial
+invariance within longitudinal structural equation models: Measuring the
+same construct across time. \emph{Child Development Perspectives},
+\emph{4}(1), 10--18.
+\url{https://doi.org/10.1111/j.1750-8606.2009.00110.x}
 
 \bibitem[\citeproctext]{ref-Winter2020}
 Winter, S. D., \& Depaoli, S. (2020). An illustration of {Bayesian}
