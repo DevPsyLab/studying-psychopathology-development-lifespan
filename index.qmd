@@ -700,6 +700,7 @@ In addition, another approach is to allow approximate factorial invariance.
 Approximate measurement invariance allows invariance parameters to have small amount of noninvariance rather than fixing invariance parameters to zero [@VanDeSchoot2013].
 Approximate measurement invariance is more accurate than full or partial measurement invariance for estimating true latent mean differences when there are many small differences in the intercepts and factor loadings [@Cieciuch2014; @VanDeSchoot2013].
 Approximate measurement invariance has also been applied in the longitudinal context [e.g., @Seddig2018; @Winter2020].
+Robitzsch and Lüdtke [-@Robitzsch2023, p. 859] argue that establishing factorial invariance is neither necessary nor sufficient for comparing latent means, and they note that "there is no support for preferring the partial invariance approach over competing approaches, such as invariance alignment, robust linking, or Bayesian approximate invariance."
 
 <!-- at least approximate measurement invariance or partial strong invariance;  -->
 <!-- Quantitude; many papers -->
