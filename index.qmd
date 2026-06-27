@@ -219,11 +219,20 @@ And these individual differences are crucial to identify the risk and protective
 <!-- Note that the approaches that researchers have largely used to study development (including Petersen et al., 2015 and others) have problems; i.e., they have *attempted* to study development -->
 
 ::: {#fig-externalizingByAge layout="[[1], [1,1]]" layout-valign="bottom"}
-![Age-Crime Curve (Among Those Who Have a Record of Antisocial or Criminal Behavior)](Figures/Sivertsson2024_figure1.png){#fig-ageCrimeCurve fig-alt="The age-crime participation curve from age 9 through 64 in cohort members registered for antisocial and/or criminal behavior in a birth cohort recruited in Stockholm, Sweden (*N* = 4,825), based on official crime records."}
+![Age-Crime Curve (Among Those Who Have a Record of Antisocial or Criminal Behavior)](Figures/Sivertsson2024_figure1.png){
+  #fig-ageCrimeCurve
+  fig-alt="The age-crime participation curve from age 9 through 64 in cohort members registered for antisocial and/or criminal behavior in a birth cohort recruited in Stockholm, Sweden (*N* = 4,825), based on official crime records."
+  }
 
-![A Stylized Depiction of Moffitt's [-@Moffitt1993] Developmental Taxonomy of Externalizing Behavior, Adapted to Include a Childhood Limited Subgroup.](Figures/developmentalTaxonomy.png){#fig-developmentalTaxonomy fig-alt="A stylized depiction of Moffitt's [-@Moffitt1993] developmental taxonomy of externalizing behavior, adapted to include a childhood limited subgroup."}
+![A Stylized Depiction of Moffitt's [-@Moffitt1993] Developmental Taxonomy of Externalizing Behavior, Adapted to Include a Childhood Limited Subgroup.](Figures/developmentalTaxonomy.png){
+  #fig-developmentalTaxonomy
+  fig-alt="A stylized depiction of Moffitt's [-@Moffitt1993] developmental taxonomy of externalizing behavior, adapted to include a childhood limited subgroup."
+  }
 
-![Heterogeneity of Individuals' Trajectories of Externalizing Behavior.](Figures/Petersen2015_adapted.png){#fig-extTrajectories fig-alt="Individuals' (*N* = 585) longitudinal trajectories of externalizing problems from childhood to adulthood based on annual assessments of mother-, father-, teacher-, peer-, and self-report (at relevant ages)."}
+![Heterogeneity of Individuals' Trajectories of Externalizing Behavior.](Figures/Petersen2015_adapted.png){
+  #fig-extTrajectories
+  fig-alt="Individuals' (*N* = 585) longitudinal trajectories of externalizing problems from childhood to adulthood based on annual assessments of mother-, father-, teacher-, peer-, and self-report (at relevant ages)."
+  }
 
 **Panel A**: The age-crime participation curve from age 9 through 64 in cohort members registered for antisocial and/or criminal behavior in a birth cohort recruited in Stockholm, Sweden (*N* = 4825), based on official records.
 The steep peak in crime rate in the adolescent years is similar to the age-crime curve in the United States; however, the steepness of the age-crime curve differs within country across birth cohorts [@Steffensmeier2025].
@@ -359,21 +368,20 @@ These age-differing behaviors show strong stability of individual differences, i
 As depicted in @fig-absoluteFrequencyByAge, different externalizing behaviors are most common at different developmental periods—even into adulthood, consistent with the notion that externalizing behavior demonstrates heterotypic continuity.
 Consistent with the Developmental Issues Framework [@Sroufe2016], the changing expression of externalizing behavior likely reflects a combination of time-varying genetic and environmental factors, such as school entry transition, in combination with varying developmental tasks, different opportunities, and greater experience-dependent capacity [@Petersen2020].
 
-::: {#fig-absoluteFrequencyByAge}
 ![Frequency (Per Month) of Engaging in Various Externalizing Behaviors by Age (*N* = 1,237)](Figures/Petersen2026_figure1.png){
+  #fig-absoluteFrequencyByAge
   width=100%
   fig-alt="Frequency (per Month) of Engaging in Various Externalizing Behaviors by Age (*N* = 1,237)."
   apa-note="Items are from the Externalizing Spectrum Inventory (ESI), but unlike the True/False ESI, participants rated items on an absolute frequency scale (times per day/week/month/year). The gray band is the 95% confidence interval. The figure demonstrates that different externalizing behaviors are most common at different developmental periods, consistent with heterotypic continuity. As examples, hurting others' feelings on purpose (left panel) was most common in early adulthood; snapping or raising one's voice (middle panel) was most common in middle adulthood; getting in power struggles with others (right panel) was most common in older adulthood. (Figure reprinted from @Petersen2026b, Figure 1, p. 301. Petersen, I. T., Demko, Z., Doebler, P., Sabel, L., Oleson, J. J., & Krueger, R. F. (2026). How often is \"often\"? Improving assessment of the externalizing spectrum using absolute frequency. *Psychological Assessment*, *38*(4), 295–306. <https://doi.org/10.1037/pas0001441>)."
   }
 
-::: {.content-visible when-format="html"}
-Frequency (per Month) of Engaging in Various Externalizing Behaviors by Age (*N* = 1,237).
+::: {.figure-caption .content-visible when-format="html"}
+*Note*.
 Items are from the Externalizing Spectrum Inventory (ESI), but unlike the True/False ESI, participants rated items on an absolute frequency scale (times per day/week/month/year).
 The gray band is the 95% confidence interval.
 The figure demonstrates that different externalizing behaviors are most common at different developmental periods, consistent with heterotypic continuity.
 As examples, hurting others' feelings on purpose (left panel) was most common in early adulthood; snapping or raising one's voice (middle panel) was most common in middle adulthood; getting in power struggles with others (right panel) was most common in older adulthood.
 (Figure reprinted from @Petersen2026b, Figure 1, p. 301. Petersen, I. T., Demko, Z., Doebler, P., Sabel, L., Oleson, J. J., & Krueger, R. F. (2026). How often is "often"? Improving assessment of the externalizing spectrum using absolute frequency. *Psychological Assessment*, *38*(4), 295–306. <https://doi.org/10.1037/pas0001441>)
-:::
 :::
 
 In addition to externalizing problems, both internalizing [@Petersen2018; @Tyrell2019; @Weems2008; @Weiss2003] and thought-disordered [@Rutter2006] problems are thought to change in manifestation across development.
@@ -448,14 +456,16 @@ As an example of the upward extension approach, Broeren et al. [-@Broeren2013, p
 
 [^ageVsTimeFootnote]: For simplicity and brevity, we refer to birth age as a proxy for developmental time.
 
-::: {#fig-approachesToLongitudinalAssessment}
+
 ![Approaches to Longitudinal Assessment](Figures/approachesToLongitudinalAssessment.jpg){
+  #fig-approachesToLongitudinalAssessment
   width=100%
   fig-alt="Approaches to Longitudinal Assessment."
   apa-note="Item set A refers to items that are construct-valid at only timepoint 1 (T1); item set B is construct-valid at both T1 and T2; item set C is construct-valid at only T2. A dash indicates that the item set was not assessed at a given timepoint. A white box indicates invalid assessment in terms of either a content gap (i.e., important missing items) or intrusion (i.e., invalid items at a given timepoint). In a study of externalizing behavior from early childhood to adulthood, \"biting others\" may be in item set A; \"noncompliant\" in B; \"drug use\" in C. The three approaches are: (1) common items: B at T1 and T2, (2) upward/downward extension: ABC at T1 and T2, or (3) construct-valid items: AB at T1; BC at T2. The \"common items\" and \"upward/downward extension\" approaches are by far the most widely used in the literature, even though they likely lead to inaccurate scores and thus inaccurate trajectories. (Figure reprinted from @Petersen2026a, Figure 1, p. 113. Petersen, I. T., Demko, Z., Lee, W.-C., & Oleson, J. J. (2026). Studying development of psychopathology using changing measures to account for heterotypic continuity. *JAACAP Open*, *4*(1), 111–123. <https://doi.org/10.1016/j.jaacop.2025.10.008>)."
   }
 
-::: {.content-visible when-format="html"}
+::: {.figure-caption .content-visible when-format="html"}
+*Note*.
 Item set A refers to items that are construct-valid at only timepoint 1 (T1); item set B is construct-valid at both T1 and T2; item set C is construct-valid at only T2.
 A dash indicates that the item set was not assessed at a given timepoint.
 A white box indicates invalid assessment in terms of either a content gap (i.e., important missing items) or intrusion (i.e., invalid items at a given timepoint).
@@ -463,7 +473,6 @@ In a study of externalizing behavior from early childhood to adulthood, "biting 
 The three approaches are: (1) common items: B at T1 and T2, (2) upward/downward extension: ABC at T1 and T2, or (3) construct-valid items: AB at T1; BC at T2.
 The "common items" and "upward/downward extension" approaches are by far the most widely used in the literature, even though they likely lead to inaccurate scores and thus inaccurate trajectories.
 (Figure reprinted from @Petersen2026a, Figure 1, p. 113. Petersen, I. T., Demko, Z., Lee, W.-C., & Oleson, J. J. (2026). Studying development of psychopathology using changing measures to account for heterotypic continuity. *JAACAP Open*, *4*(1), 111–123. <https://doi.org/10.1016/j.jaacop.2025.10.008>)
-:::
 :::
 
 The common items approach yields low content validity because it does not assess all construct facets, especially age-specific manifestations.
@@ -526,19 +535,19 @@ Moreover, Likert-type scales tend to focus on frequency of misbehavior and ignor
 It can be helpful to explicitly assess—and distinguish—frequency versus problematic impact of behavior.
 Instead of assessing relative frequency, researchers advise assessing absolute frequency of behavior [@Burns2001; @Schwarz1999]—in addition to other aspects of behavior including onset, timing, duration, intensity, function, and resulting impairment.
 
-::: {#fig-absoluteFrequencyInformation}
 ![Test Information Functions of Absolute Frequency Versus Dichotomized Versus Adult Self-Report Items: Test Information as a Function of Theta (θ)](Figures/Petersen2026_figure4.png){
+  #fig-absoluteFrequencyInformation
   width=100%
   fig-alt="Test Information Functions of Absolute Frequency Versus Dichotomized Versus Adult Self-Report Items: Test Information as a Function of Theta (θ)."
   apa-note="\"Absolute Frequency\" refers to count items; \"Dichotomized\" refers to dichotomized versions of the count items; \"Adult Self-Report\" refers to items from the Achenbach Adult Self-Report. \"θ\" represents the person's level on the latent externalizing problems factor. The figure demonstrates that items assessing absolute frequency yield more information than dichotomized versions of the same items and the Likert-type response options of the Adult Self-Report. (Figure reprinted from @Petersen2026b, Figure 4, p. 303. Petersen, I. T., Demko, Z., Doebler, P., Sabel, L., Oleson, J. J., & Krueger, R. F. (2026). How often is \"often\"? Improving assessment of the externalizing spectrum using absolute frequency. *Psychological Assessment*, *38*(4), 295–306. <https://doi.org/10.1037/pas0001441>)."
   }
 
-::: {.content-visible when-format="html"}
+::: {.figure-caption .content-visible when-format="html"}
+*Note*.
 "Absolute Frequency" refers to count items; "Dichotomized" refers to dichotomized versions of the count items; "Adult Self-Report" refers to items from the Achenbach Adult Self-Report.
 "θ" represents the person's level on the latent externalizing problems factor.
 The figure demonstrates that items assessing absolute frequency yield more information than dichotomized versions of the same items and the Likert-type response options of the Adult Self-Report.
 (Figure reprinted from @Petersen2026b, Figure 4, p. 303. Petersen, I. T., Demko, Z., Doebler, P., Sabel, L., Oleson, J. J., & Krueger, R. F. (2026). How often is "often"? Improving assessment of the externalizing spectrum using absolute frequency. *Psychological Assessment*, *38*(4), 295–306. <https://doi.org/10.1037/pas0001441>)
-:::
 :::
 
 In addition, the measures focus on extreme or clinical-range behaviors; scores are thus positively skewed with floor effects and have unacceptably low reliability [including the CBCL\; @Kaat2019; @Pavlovich2026; @Tiego2023], making the CBCL and existing measures unsuitable for dimensional research [@Pavlovich2026; @Tiego2023].
@@ -584,21 +593,21 @@ Despite some age-specific items, some age-common items are assessed at adjacent 
 The use of overlapping yet distinct items is widely used in educational testing to help link individuals' scores across grades, and is called vertical scaling because the item sets appear to form a line moving upward (see @fig-constructValidItemDesign).
 For example, for a standardized test of math ability, Kindergartners may receive items assessing counting, 1st graders may receive items assessing counting and addition, 2nd graders may receive items assessing addition and subtraction, and so on.
 
-::: {#fig-constructValidItemDesign}
 ![Conceptual Depiction of a Construct-Valid Item Design from Infancy to Adulthood](Figures/constructValidItemDesign.png){
+  #fig-constructValidItemDesign
   width=100%
   fig-alt="Conceptual depiction of a construct-valid item design from infancy to adulthood."
   apa-note="The age(s) at which an item set is assessed are represented by the letter `x` and a colored box. Some items (\"Core\", in green) represent the core of the phenotype and are assessed across all ages. Some items (in varying shades of brown) are age-specific and are assessed at only one or a few ages. However, some of the items assessed at a given age are shared with those assessed at adjacent ages, to facilitate linking the scores across ages. For instance, item set `f` can be used to help link scores from age 6 to those at age 5, and item set `g` can be used to help link scores from age 6 to those at age 7. Hypothetically, items could be assessed for as many or as few years as desired—as long as the items are construct valid for those ages and there enough age-common items between adjacent ages for linking scores across ages."
   }
 
-::: {.content-visible when-format="html"}
+::: {.figure-caption .content-visible when-format="html"}
+*Note*.
 The age(s) at which an item set is assessed are represented by the letter `x` and a colored box.
 Some items ("Core", in green) represent the core of the phenotype and are assessed across all ages.
 Some items (in varying shades of brown) are age-specific and are assessed at only one or a few ages.
 However, some of the items assessed at a given age are shared with those assessed at adjacent ages, to facilitate linking the scores across ages.
 For instance, item set `f` can be used to help link scores from age 6 to those at age 5, and item set `g` can be used to help link scores from age 6 to those at age 7.
 Hypothetically, items could be assessed for as many or as few years as desired—as long as the items are construct valid for those ages and there enough age-common items between adjacent ages for linking scores across ages.
-:::
 :::
 
 ## Linking of Scores
@@ -670,14 +679,15 @@ Like MNFLA, however, IRT (particularly in the mixed model formulation) can repre
 Moreover, like MNLFA, it allows simultaneous estimation of growth functions while estimating and accounting for DIF effects. 
 In addition, like MNFLA, IRT allows Bayesian estimation and regularizizing priors to identify anchor items without having to specify them in advance.
 
-::: {#fig-linking}
 ![Example of Linking Scores From Measures Across Ages Using the Item Response Theory Approach to Developmental Scaling](Figures/Petersen2021_figure1.png){
+  #fig-linking
   width=100%
   fig-alt="Example of linking scores from measures across ages using the item response theory approach to developmental scaling."
   apa-note="The figure illustrates the effect of linking the latent externalizing problems scores, θ, across ages, using developmental scaling. The left panel illustrates the test characteristic curves representing the model-implied proportion out of total possible scores across the latent externalizing problems score at age 4 and 5, before the linking process. The right panel illustrates the test characteristic curves after the linking process. The shading between the age 4 and age 5 test characteristic curves represents differences between the two test characteristic curves in terms of discrimination and/or severity, where larger differences reflect scores that are less comparable. Linking minimizes differences between the discrimination and severity of the age-common items. Discrimination is depicted by the steepness of the slope at the inflection point of the test characteristic curve. Severity is represented by the value on the x-axis at the inflection point of the test characteristic curve. The left panel indicates that the externalizing problem items showed higher severity (i.e., its inflection point is further right) and somewhat stronger discrimination (i.e., its slope is steeper) at age 5 than at age 4. The right panel shows considerably smaller differences between the two test characteristic curves, which provides empirical evidence that the linking successfully placed the latent externalizing problem scores across age on a more comparable scale (i.e., more similar discrimination and severity of the age-common items). (Figure reprinted from @Petersen2021b, Figure 1, p. 74. Petersen, I. T., & LeBeau, B. (2021). Language ability in the development of externalizing behavior problems in childhood. *Journal of Educational Psychology*, *113*(1), 68–85. <https://doi.org/10.1037/edu0000461>)."
   }
 
-::: {.content-visible when-format="html"}
+::: {.figure-caption .content-visible when-format="html"}
+*Note*.
 The figure illustrates the effect of linking the latent externalizing problems scores, θ, across ages, using developmental scaling.
 The left panel illustrates the test characteristic curves representing the model-implied proportion out of total possible scores across the latent externalizing problems score at age 4 and 5, before the linking process.
 The right panel illustrates the test characteristic curves after the linking process.
@@ -688,7 +698,6 @@ Severity is represented by the value on the x-axis at the inflection point of th
 The left panel indicates that the externalizing problem items showed higher severity (i.e., its inflection point is further right) and somewhat stronger discrimination (i.e., its slope is steeper) at age 5 than at age 4.
 The right panel shows considerably smaller differences between the two test characteristic curves, which provides empirical evidence that the linking successfully placed the latent externalizing problem scores across age on a more comparable scale (i.e., more similar discrimination and severity of the age-common items).
 (Figure reprinted from @Petersen2021b, Figure 1, p. 74. Petersen, I. T., & LeBeau, B. (2021). Language ability in the development of externalizing behavior problems in childhood. *Journal of Educational Psychology*, *113*(1), 68–85. <https://doi.org/10.1037/edu0000461>)
-:::
 :::
 
 Nevertheless, for many of these approaches, at least one anchor item is necessary to link the scale of the latent factor across timepoints [@ChenPM].
@@ -706,19 +715,18 @@ Moreover, when treating time continuously, the functional form of any DIF as a f
 
 Various types of cross-sectional and longitudinal designs are depicted in @fig-longitudinalDesigns.
 
-::: {#fig-longitudinalDesigns}
 ![Research Designs by Time of Measurement and Cohort](Figures/longitudinalDesigns.png){
+  #fig-longitudinalDesigns
   width=100%
   fig-alt="Research Designs by Time Of Measurement and Cohort"
   apa-note="Values in the cells are ages of the participants. Dashed line indicates different participants were assessed at each time of measurement. (Figure reprinted from @PetersenPrinciplesPsychAssessment, Petersen, I. T. (2026). *Principles of psychological assessment: With applied examples in R*. University of Iowa Libraries. <https://doi.org/10.25820/work.007199>)."
   }
 
-::: {.content-visible when-format="html"}
-Research Designs by Time Of Measurement and Cohort.
+::: {.figure-caption .content-visible when-format="html"}
+*Note*.
 Values in the cells are ages of the participants.
 Dashed line indicates different participants were assessed at each time of measurement.
 (Figure reprinted from @PetersenPrinciplesPsychAssessment, Petersen, I. T. (2026). *Principles of psychological assessment: With applied examples in R*. University of Iowa Libraries. <https://doi.org/10.25820/work.007199>)
-:::
 :::
 
 ### Measurement Error
