@@ -531,26 +531,7 @@ cognitive skills across lengthy developmental periods.</p>
   <xref alt="Figure 3" rid="fig-longitudinalstudies">Figure 3</xref>.</p>
   <fig id="fig-longitudinalstudies">
     <caption><p>Figure 3: (Approximate) ages spanned by various lengthy
-    longitudinal studies, as of this writing. The list of longitudinal
-    studies is not exhaustive. Studies that are no longer active are
-    shown in gray. Studies that used developmental scaling to harmonize
-    scores across ages (i.e., to link scores across ages onto the same
-    scale) are in green. Solid lines reflect fully longitudinal spans
-    (i.e., the same individuals were followed over time). Dotted lines
-    reflect ages assessed cross-sectionally—even if some participants
-    may have been followed longitudinally. For instance, if a study
-    recruited 5–10-year-old children and followed each child for 20
-    years, the study would have dotted lines from ages 5–10 and from
-    ages 25–30. Studies shown entirely with dotted lines assessed their
-    full age range cross-sectionally but still included longitudinal
-    follow-up of some participants. A star at age 0 represents that
-    participants were enrolled before birth and the study included
-    prenatal assessments. Ages spanned reflect ages when assessments
-    were collected directly from participants; ages spanned do not
-    include links to registry data (e.g., birth records, offending
-    records). Age was truncated at 100; thus, age 100 indicates that
-    participants were followed into their 90s (or until
-    death).</p></caption>
+    longitudinal studies, as of this writing.</p></caption>
     <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/notebooks-analyses-fig-longitudinalstudies-output-1.png" />
   </fig>
   <sec id="seminal-longitudinal-studies">
@@ -758,23 +739,7 @@ cognitive skills across lengthy developmental periods.</p>
     <fig id="fig-longitudinalexternalizingstudies">
       <caption><p>Figure 4: (Approximate) ages spanned by externalizing
       trajectories in various lengthy longitudinal studies examining
-      individuals’ trajectories of externalizing behavior. The list of
-      longitudinal studies is not exhaustive. Studies that are based on
-      registry data are shown in gray. Measurement occasions are
-      depicted with solid circles. Note that, in some studies,
-      measurement occasions only apply to a subset of participants in
-      that study—in some cases, no participant was assessed at all
-      measurement occasions. Solid lines reflect fully longitudinal
-      spans (i.e., the same individuals were followed over time). Dotted
-      lines reflect ages assessed cross-sectionally—even if some
-      participants may have been followed longitudinally. For instance,
-      if a study recruited 5–10-year-old children and followed each
-      child for 20 years, the study would have dotted lines from ages
-      5–10 and from ages 25–30. Studies shown entirely with dotted lines
-      assessed their full age range cross-sectionally but still included
-      longitudinal follow-up of participants. ‘MTSFGCLS’ = Montreal Two
-      Samples Four Generations Cross-sectional and Longitudinal
-      Studies.</p></caption>
+      individuals’ trajectories of externalizing behavior.</p></caption>
       <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/notebooks-analyses-fig-longitudinalexternalizingstudies-output-1.png" />
     </fig>
     <p>However, as we will describe, these lengthy longitudinal studies
@@ -906,13 +871,10 @@ cognitive skills across lengthy developmental periods.</p>
     (<xref alt="Petersen et al. 2020" rid="ref-Petersen2020" ref-type="bibr">Petersen
     et al. 2020</xref>).</p>
     <fig id="fig-absoluteFrequencyByAge">
-      <caption><p>Figure 5</p></caption>
-      <fig>
-        <caption><p>Frequency (Per Month) of Engaging in Various
-        Externalizing Behaviors by Age (<italic>N</italic> =
-        1,237)</p></caption>
-        <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2026_figure1.png" />
-      </fig>
+      <caption><p>Figure 5: Frequency (Per Month) of Engaging in Various
+      Externalizing Behaviors by Age (<italic>N</italic> =
+      1,237)</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2026_figure1.png" />
     </fig>
     <p>In addition to externalizing problems, both internalizing
     (<xref alt="Petersen et al. 2018" rid="ref-Petersen2018" ref-type="bibr">Petersen
@@ -1058,12 +1020,9 @@ cognitive skills across lengthy developmental periods.</p>
       current study also employed the scale with older children to
       promote uniformity in measures”.</p>
       <fig id="fig-approachesToLongitudinalAssessment">
-        <caption><p>Figure 6</p></caption>
-        <fig>
-          <caption><p>Approaches to Longitudinal
-          Assessment</p></caption>
-          <graphic mimetype="image" mime-subtype="jpeg" xlink:href="Figures/approachesToLongitudinalAssessment.jpg" />
-        </fig>
+        <caption><p>Figure 6: Approaches to Longitudinal
+        Assessment</p></caption>
+        <graphic mimetype="image" mime-subtype="jpeg" xlink:href="Figures/approachesToLongitudinalAssessment.jpg" />
       </fig>
       <p>The common items approach yields low content validity because
       it does not assess all construct facets, especially age-specific
@@ -1220,13 +1179,10 @@ cognitive skills across lengthy developmental periods.</p>
       onset, timing, duration, intensity, function, and resulting
       impairment.</p>
       <fig id="fig-absoluteFrequencyInformation">
-        <caption><p>Figure 7</p></caption>
-        <fig>
-          <caption><p>Test Information Functions of Absolute Frequency
-          Versus Dichotomized Versus Adult Self-Report Items: Test
-          Information as a Function of Theta (θ)</p></caption>
-          <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2026_figure4.png" />
-        </fig>
+        <caption><p>Figure 7: Test Information Functions of Absolute
+        Frequency Versus Dichotomized Versus Adult Self-Report Items:
+        Test Information as a Function of Theta (θ)</p></caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2026_figure4.png" />
       </fig>
       <p>In addition, the measures focus on extreme or clinical-range
       behaviors; scores are thus positively skewed with floor effects
@@ -1654,12 +1610,9 @@ cognitive skills across lengthy developmental periods.</p>
     assessing counting and addition, 2nd graders may receive items
     assessing addition and subtraction, and so on.</p>
     <fig id="fig-constructValidItemDesign">
-      <caption><p>Figure 8</p></caption>
-      <fig>
-        <caption><p>Conceptual Depiction of a Construct-Valid Item
-        Design from Infancy to Adulthood</p></caption>
-        <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/constructValidItemDesign.png" />
-      </fig>
+      <caption><p>Figure 8: Conceptual Depiction of a Construct-Valid
+      Item Design from Infancy to Adulthood</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/constructValidItemDesign.png" />
     </fig>
   </sec>
   <sec id="linking-of-scores">
@@ -1845,13 +1798,10 @@ cognitive skills across lengthy developmental periods.</p>
     Bayesian estimation and regularizizing priors to identify anchor
     items without having to specify them in advance.</p>
     <fig id="fig-linking">
-      <caption><p>Figure 9</p></caption>
-      <fig>
-        <caption><p>Example of Linking Scores From Measures Across Ages
-        Using the Item Response Theory Approach to Developmental
-        Scaling</p></caption>
-        <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2021_figure1.png" />
-      </fig>
+      <caption><p>Figure 9: Example of Linking Scores From Measures
+      Across Ages Using the Item Response Theory Approach to
+      Developmental Scaling</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2021_figure1.png" />
     </fig>
     <p>Nevertheless, for many of these approaches, at least one anchor
     item is necessary to link the scale of the latent factor across
@@ -1877,12 +1827,9 @@ cognitive skills across lengthy developmental periods.</p>
       depicted in
       <xref alt="Figure 10" rid="fig-longitudinalDesigns">Figure 10</xref>.</p>
       <fig id="fig-longitudinalDesigns">
-        <caption><p>Figure 10</p></caption>
-        <fig>
-          <caption><p>Research Designs by Time of Measurement and
-          Cohort</p></caption>
-          <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/longitudinalDesigns.png" />
-        </fig>
+        <caption><p>Figure 10: Research Designs by Time of Measurement
+        and Cohort</p></caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/longitudinalDesigns.png" />
       </fig>
     </sec>
     <sec id="measurement-error">
