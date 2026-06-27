@@ -10,6 +10,9 @@ Imports:
   showtext,
   downlit,
   xml2,
+  magick,
+  grid,
+  patchwork,
   petersenlab
 Remotes:
   DevPsyLab/petersenlab

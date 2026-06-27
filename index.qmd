@@ -169,8 +169,9 @@ Second, cross-sectional designs may obscure diverse patterns of change.
 Individuals show considerable heterogeneity in level and change across time in many constructs.
 As an example, despite the normative pattern of steep cognitive decline in episodic memory with age, there are a subset of individuals who do not show this same pattern.
 For instance, superagers are individuals who are older adults (age 80+) who have episodic memory at or above the normative level of middle-aged adults (50–65 years old) and who may be resilient to the typical aging process [@Godoy2021].
-Theoretical depictions of the heterogeneity of cognitive decline are depicted in @fig-lifespanCognitiveTrajectories.
+Theoretical depictions of the heterogeneity of cognitive decline are depicted in @fig-lifespancognitivetrajectories.
 
+<!-- 
 ::: {#fig-lifespanCognitiveTrajectories layout="[[53,47]]" layout-valign="bottom"}
 ![Hypothetical Models for Different Cognitive Trajectories of Aging](Figures/Borelli2018_figure1.jpg){
   #fig-lifespanCognitiveTrajectoriesSubgroups
@@ -189,6 +190,24 @@ MCI = mild cognitive impairment.
 Each grey line represents one individual hypothetical cognitive health trajectory.
 The orange line marks the threshold for functional independence; once an individual's cognitive health drops below this level, autonomous daily living is compromised.
 (Figure in Panel B reprinted from @Abrous2026, Figure 1, p. 2. Abrous, D. N., Blin, N., Boraxbekk, C.-J., Catheline, G., Fitzsimons, C. P., Hilscher, M., Lemoine, M., Lopes, L. V., Maass, A., Nilsson, M., Nyberg, L., Rasmussen, L. J., Remondes, M., Sauvage, M., Schreiber, S., & Wolbers, T. (2026). Hallmarks of healthy cognitive aging: Inter-individual differences in aging trajectories. *Ageing Research Reviews*, *119*, 103102. <https://doi.org/10.1016/j.arr.2026.103102>)
+:::
+-->
+
+{{< embed notebooks/analyses.qmd#fig-lifespancognitivetrajectories >}}
+
+::: {.figure-caption .content-visible when-format="html"}
+<p style="font-size: 90%; color: gray;">
+**Panel A**: Hypothetical models for different cognitive trajectories of aging.
+MCI = mild cognitive impairment.
+(Figure in Panel B reprinted from @Borelli2018, Figure 1, p. 222. Borelli, W. V., Carmona, K. C., Studart-Neto, A., Nitrini, R., Caramelli, P., & Costa, J. C. d. (2018). Operationalized definition of older adults with high cognitive performance. *Dementia & Neuropsychologia*, *12*(3), 221–227. <https://doi.org/10.1590/1980-57642018dn12-030001>).
+</p>
+
+<p style="font-size: 90%; color: gray;">
+**Panel B**: Theoretical illustration of inter-individual variability in cognitive aging trajectories.
+Each grey line represents one individual hypothetical cognitive health trajectory.
+The orange line marks the threshold for functional independence; once an individual's cognitive health drops below this level, autonomous daily living is compromised.
+(Figure in Panel B reprinted from @Abrous2026, Figure 1, p. 2. Abrous, D. N., Blin, N., Boraxbekk, C.-J., Catheline, G., Fitzsimons, C. P., Hilscher, M., Lemoine, M., Lopes, L. V., Maass, A., Nilsson, M., Nyberg, L., Rasmussen, L. J., Remondes, M., Sauvage, M., Schreiber, S., & Wolbers, T. (2026). Hallmarks of healthy cognitive aging: Inter-individual differences in aging trajectories. *Ageing Research Reviews*, *119*, 103102. <https://doi.org/10.1016/j.arr.2026.103102>)
+</p>
 :::
 
 Heterogeneity also applies to psychopathology trajectories including externalizing and criminal behavior.
