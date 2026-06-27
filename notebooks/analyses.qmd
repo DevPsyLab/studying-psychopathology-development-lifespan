@@ -89,6 +89,50 @@ lifespanCognitiveTrajectoriesPanelA + lifespanCognitiveTrajectoriesPanelB +
   )
 ```
 
+## Externalizing Trajectories
+
+```{r}
+#| label: fig-externalizingbyage
+#| fig-cap: "Externalizing Behavior Across Development"
+#| fig-alt: "Externalizing behavior across development"
+#| apa-note: "**Panel A**: The age-crime participation curve from age 9 through 64 in cohort members registered for antisocial and/or criminal behavior in a birth cohort recruited in Stockholm, Sweden (*N* = 4825), based on official crime records. The steep peak in crime rate in the adolescent years is similar to the age-crime curve in the United States; however, the steepness of the age-crime curve differs within country across birth cohorts [@Steffensmeier2025]. (Figure adapted from @Sivertsson2024, Figure 1, p. 7. Sivertsson, F., Carlsson, C., Almquist, Y. B., & Brännström, L. (2024). Offending trajectories from childhood to retirement age: Findings from the Stockholm birth cohort study. *Journal of Criminal Justice*, *91*, 102155. <https://doi.org/10.1016/j.jcrimjus.2024.102155>). **Panel B**: A stylized depiction of Moffitt's [-@Moffitt1993] developmental taxonomy of externalizing behavior, adapted to include a childhood limited subgroup. **Panel C**: Individuals' (*N* = 585) longitudinal trajectories of externalizing problems from childhood to adulthood based on annual assessments of mother-, father-, teacher-, peer-, and self-report (at relevant ages). Average trajectory in red. (Figure adapted from @Petersen2015, Figure 2, Petersen, I. T., Bates, J. E., Dodge, K. A., Lansford, J. E., & Pettit, G. S. (2015). Describing and predicting developmental profiles of externalizing problems from childhood to adulthood. *Development and Psychopathology*, *27*(3), 791–818. <https://doi.org/10.1017/S0954579414000789>)."
+#| fig-width: 12
+#| fig-height: 8
+#| fig-dpi: 300
+
+# Read images
+externalizingByAgeFigA <- magick::image_read("../Figures/Sivertsson2024_figure1.png") #magick::image_read("./Figures/Sivertsson2024_figure1.png")
+externalizingByAgeFigB <- magick::image_read("../Figures/developmentalTaxonomy.png") #magick::image_read("./Figures/developmentalTaxonomy.png")
+externalizingByAgeFigC <- magick::image_read("../Figures/Petersen2015_adapted.png") #magick::image_read("./Figures/Petersen2015_adapted.png")
+
+# Convert images to patchwork-compatible objects
+externalizingByAgePanelA <- patchwork::wrap_elements(
+  panel = grid::rasterGrob(as.raster(externalizingByAgeFigA), interpolate = TRUE)
+) +
+  labs(tag = "A")
+
+externalizingByAgePanelB <- patchwork::wrap_elements(
+  panel = grid::rasterGrob(as.raster(externalizingByAgeFigB), interpolate = TRUE)
+) +
+  labs(tag = "B")
+
+externalizingByAgePanelC <- patchwork::wrap_elements(
+  panel = grid::rasterGrob(as.raster(externalizingByAgeFigC), interpolate = TRUE)
+) +
+  labs(tag = "C")
+
+# Combine panels
+externalizingByAgePanelA /
+(externalizingByAgePanelB + externalizingByAgePanelC) +
+  patchwork::plot_layout(
+    heights = c(1, 1)
+  ) &
+  theme(
+    plot.tag = element_text(face = "bold", size = 14),
+    plot.margin = margin(0, 0, 0, 0)
+  )
+```
+
 ## Longitudinal Studies
 
 ```{r}
