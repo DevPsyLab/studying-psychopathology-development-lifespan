@@ -267,6 +267,20 @@ A depiction of the ages spanned by various longitudinal studies is in @fig-longi
 
 {{< embed notebooks/analyses.qmd#fig-longitudinalstudies >}}
 
+::: {.figure-caption .content-visible when-format="html"}
+*Note*.
+The list of longitudinal studies is not exhaustive.
+Studies that are no longer active are shown in gray.
+Studies that used developmental scaling to harmonize scores across ages (i.e., to link scores across ages onto the same scale) are in green.
+Solid lines reflect fully longitudinal spans (i.e., the same individuals were followed over time).
+Dotted lines reflect ages assessed cross-sectionally—even if some participants may have been followed longitudinally.
+For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 25–30.
+Studies shown entirely with dotted lines assessed their full age range cross-sectionally but still included longitudinal follow-up of some participants.
+A star at age 0 represents that participants were enrolled before birth and the study included prenatal assessments.
+Ages spanned reflect ages when assessments were collected directly from participants; ages spanned do not include links to registry data (e.g., birth records, offending records).
+Age was truncated at 100; thus, age 100 indicates that participants were followed into their 90s (or until death).
+:::
+
 <!-- Describe findings (and limitations) from existing studies that have examined psychopathology or other constructs across the lifespan. -->
 
 ## Seminal Longitudinal Studies
@@ -327,6 +341,18 @@ Studies have also leveraged registry data to examine trajectories of offending f
 <!-- z-score trajectories -->
 
 {{< embed notebooks/analyses.qmd#fig-longitudinalexternalizingstudies >}}
+
+::: {.figure-caption .content-visible when-format="html"}
+*Note*.
+The list of longitudinal studies is not exhaustive. Studies that are based on registry data are shown in gray.
+Measurement occasions are depicted with solid circles.
+Note that, in some studies, measurement occasions only apply to a subset of participants in that study—in some cases, no participant was assessed at all measurement occasions.
+Solid lines reflect fully longitudinal spans (i.e., the same individuals were followed over time).
+Dotted lines reflect ages assessed cross-sectionally—even if some participants may have been followed longitudinally.
+For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 25–30.
+Studies shown entirely with dotted lines assessed their full age range cross-sectionally but still included longitudinal follow-up of participants.
+'MTSFGCLS' = Montreal Two Samples Four Generations Cross-sectional and Longitudinal Studies.
+:::
 
 However, as we will describe, these lengthy longitudinal studies of psychopathology [e.g., @Odgers2008]—including one of our own [@Petersen2015]—have important limitations in (a) how they assessed psychopathology constructs across development and (b) how they estimated people's scores on those constructs over time that prevent strong inferences regarding individuals' change over time.
 
