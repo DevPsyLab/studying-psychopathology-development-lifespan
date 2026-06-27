@@ -225,7 +225,32 @@ cognitive skills across lengthy developmental periods.</p>
   cognitive decline are depicted in
   <xref alt="Figure 1" rid="fig-lifespanCognitiveTrajectories">Figure 1</xref>.</p>
   <fig id="fig-lifespanCognitiveTrajectories">
-    <caption><p>Figure 1</p></caption>
+    <caption><p>Figure 1: <bold>Panel A</bold>: Hypothetical models for
+    different cognitive trajectories of aging. MCI = mild cognitive
+    impairment. (Figure in Panel B reprinted from Borelli et al.
+    (<xref alt="2018" rid="ref-Borelli2018" ref-type="bibr">2018</xref>),
+    Figure 1, p. 222. Borelli, W. V., Carmona, K. C., Studart-Neto, A.,
+    Nitrini, R., Caramelli, P., &amp; Costa, J. C. d. (2018).
+    Operationalized definition of older adults with high cognitive
+    performance. <italic>Dementia &amp; Neuropsychologia</italic>,
+    <italic>12</italic>(3), 221–227.
+    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/1980-57642018dn12-030001">https://doi.org/10.1590/1980-57642018dn12-030001</ext-link>).
+    <bold>Panel B</bold>: Theoretical illustration of inter-individual
+    variability in cognitive aging trajectories. Each grey line
+    represents one individual hypothetical cognitive health trajectory.
+    The orange line marks the threshold for functional independence;
+    once an individual’s cognitive health drops below this level,
+    autonomous daily living is compromised. (Figure in Panel B reprinted
+    from Abrous et al.
+    (<xref alt="2026" rid="ref-Abrous2026" ref-type="bibr">2026</xref>),
+    Figure 1, p. 2. Abrous, D. N., Blin, N., Boraxbekk, C.-J.,
+    Catheline, G., Fitzsimons, C. P., Hilscher, M., Lemoine, M., Lopes,
+    L. V., Maass, A., Nilsson, M., Nyberg, L., Rasmussen, L. J.,
+    Remondes, M., Sauvage, M., Schreiber, S., &amp; Wolbers, T. (2026).
+    Hallmarks of healthy cognitive aging: Inter-individual differences
+    in aging trajectories. <italic>Ageing Research Reviews</italic>,
+    <italic>119</italic>, 103102.
+    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.arr.2026.103102">https://doi.org/10.1016/j.arr.2026.103102</ext-link>)</p></caption>
     <table-wrap>
       <table>
         <colgroup>
@@ -237,8 +262,8 @@ cognitive skills across lengthy developmental periods.</p>
             <td align="left"><p specific-use="wrapper">
               <boxed-text>
                 <fig id="fig-lifespanCognitiveTrajectoriesSubgroups">
-                  <caption><p>(a) Hypothetical models for different
-                  cognitive trajectories of aging.</p></caption>
+                  <caption><p>(a) Hypothetical Models for Different
+                  Cognitive Trajectories of Aging</p></caption>
                   <graphic mimetype="image" mime-subtype="jpeg" xlink:href="Figures/Borelli2018_figure1.jpg" />
                 </fig>
               </boxed-text>
@@ -246,26 +271,11 @@ cognitive skills across lengthy developmental periods.</p>
             <td align="left"><p specific-use="wrapper">
               <boxed-text>
                 <fig id="fig-lifespanCognitiveTrajectoriesIndividuals">
-                  <caption><p>(b) Theoretical illustration of
-                  inter-individual variability in cognitive aging
-                  trajectories.</p></caption>
+                  <caption><p>(b) Theoretical Illustration of
+                  Inter-Individual Variability in Cognitive Aging
+                  Trajectories</p></caption>
                   <graphic mimetype="image" mime-subtype="jpeg" xlink:href="Figures/Abrous2026_figure1.jpg" />
                 </fig>
-              </boxed-text>
-            </p></td>
-          </tr>
-        </tbody>
-      </table>
-    </table-wrap>
-    <table-wrap>
-      <table>
-        <colgroup>
-          <col width="53%" />
-        </colgroup>
-        <tbody>
-          <tr>
-            <td align="left"><p specific-use="wrapper">
-              <boxed-text>
               </boxed-text>
             </p></td>
           </tr>
@@ -429,9 +439,9 @@ cognitive skills across lengthy developmental periods.</p>
             <td align="left"><p specific-use="wrapper">
               <boxed-text>
                 <fig id="fig-ageCrimeCurve">
-                  <caption><p>(a) Age-crime curve (among those who have
-                  a record of antisocial or criminal
-                  behavior).</p></caption>
+                  <caption><p>(a) Age-Crime Curve (Among Those Who Have
+                  a Record of Antisocial or Criminal
+                  Behavior)</p></caption>
                   <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Sivertsson2024_figure1.png" />
                 </fig>
               </boxed-text>
@@ -451,11 +461,11 @@ cognitive skills across lengthy developmental periods.</p>
             <td align="left"><p specific-use="wrapper">
               <boxed-text>
                 <fig id="fig-developmentalTaxonomy">
-                  <caption><p>(b) A stylized depiction of Moffitt’s
+                  <caption><p>(b) A Stylized Depiction of Moffitt’s
                   (<xref alt="1993" rid="ref-Moffitt1993" ref-type="bibr">1993</xref>)
-                  developmental taxonomy of externalizing behavior,
-                  adapted to include a childhood limited
-                  subgroup.</p></caption>
+                  Developmental Taxonomy of Externalizing Behavior,
+                  Adapted to Include a Childhood Limited
+                  Subgroup.</p></caption>
                   <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/developmentalTaxonomy.png" />
                 </fig>
               </boxed-text>
@@ -463,8 +473,8 @@ cognitive skills across lengthy developmental periods.</p>
             <td align="left"><p specific-use="wrapper">
               <boxed-text>
                 <fig id="fig-extTrajectories">
-                  <caption><p>(c) Heterogeneity of individuals’
-                  trajectories of externalizing behavior.</p></caption>
+                  <caption><p>(c) Heterogeneity of Individuals’
+                  Trajectories of Externalizing Behavior.</p></caption>
                   <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2015_adapted.png" />
                 </fig>
               </boxed-text>
@@ -896,27 +906,32 @@ cognitive skills across lengthy developmental periods.</p>
     (<xref alt="Petersen et al. 2020" rid="ref-Petersen2020" ref-type="bibr">Petersen
     et al. 2020</xref>).</p>
     <fig id="fig-absoluteFrequencyByAge">
-      <caption><p>Figure 5: Frequency (per Month) of Engaging in Various
-      Externalizing Behaviors by Age (<italic>N</italic> = 1,237). Items
-      are from the Externalizing Spectrum Inventory (ESI), but unlike
-      the True/False ESI, participants rated items on an absolute
-      frequency scale (times per day/week/month/year). The gray band is
-      the 95% confidence interval. The figure demonstrates that
-      different externalizing behaviors are most common at different
-      developmental periods, consistent with heterotypic continuity. As
-      examples, hurting others’ feelings on purpose (left panel) was
-      most common in early adulthood; snapping or raising one’s voice
-      (middle panel) was most common in middle adulthood; getting in
-      power struggles with others (right panel) was most common in older
-      adulthood. (Figure reprinted from Petersen, Demko, Doebler, et al.
+      <caption><p>Figure 5</p></caption>
+      <p><inline-graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2026_figure1.png">
+        <alt-text>Frequency (Per Month) of Engaging in Various
+        Externalizing Behaviors by Age (N = 1,237)</alt-text>
+      </inline-graphic>{ width=100% fig-alt=“Frequency (per Month) of
+      Engaging in Various Externalizing Behaviors by Age
+      (<italic>N</italic> = 1,237).” apa-note=“Items are from the
+      Externalizing Spectrum Inventory (ESI), but unlike the True/False
+      ESI, participants rated items on an absolute frequency scale
+      (times per day/week/month/year). The gray band is the 95%
+      confidence interval. The figure demonstrates that different
+      externalizing behaviors are most common at different developmental
+      periods, consistent with heterotypic continuity. As examples,
+      hurting others’ feelings on purpose (left panel) was most common
+      in early adulthood; snapping or raising one’s voice (middle panel)
+      was most common in middle adulthood; getting in power struggles
+      with others (right panel) was most common in older adulthood.
+      (Figure reprinted from Petersen, Demko, Doebler, et al.
       (<xref alt="2026" rid="ref-Petersen2026b" ref-type="bibr">2026</xref>),
       Figure 1, p. 301. Petersen, I. T., Demko, Z., Doebler, P., Sabel,
-      L., Oleson, J. J., &amp; Krueger, R. F. (2026). How often is
-      “often”? Improving assessment of the externalizing spectrum using
-      absolute frequency. <italic>Psychological Assessment</italic>,
-      <italic>38</italic>(4), 295–306.
-      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/pas0001441">https://doi.org/10.1037/pas0001441</ext-link>)</p></caption>
-      <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2026_figure1.png" />
+      L., Oleson, J. J., &amp; Krueger, R. F. (2026). How often
+      is”often”? Improving assessment of the externalizing spectrum
+      using absolute frequency. <italic>Psychological
+      Assessment</italic>, <italic>38</italic>(4), 295–306.
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/pas0001441">https://doi.org/10.1037/pas0001441</ext-link>).”
+      }</p>
     </fig>
     <p>In addition to externalizing problems, both internalizing
     (<xref alt="Petersen et al. 2018" rid="ref-Petersen2018" ref-type="bibr">Petersen
@@ -1062,15 +1077,19 @@ cognitive skills across lengthy developmental periods.</p>
       current study also employed the scale with older children to
       promote uniformity in measures”.</p>
       <fig id="fig-approachesToLongitudinalAssessment">
-        <caption><p>Figure 6: Item set A refers to items that are
-        construct-valid at only timepoint 1 (T1); item set B is
+        <caption><p>Figure 6</p></caption>
+        <p><inline-graphic mimetype="image" mime-subtype="jpeg" xlink:href="Figures/approachesToLongitudinalAssessment.jpg">
+          <alt-text>Approaches to Longitudinal Assessment</alt-text>
+        </inline-graphic>{ width=100% fig-alt=“Approaches to
+        Longitudinal Assessment.” apa-note=“Item set A refers to items
+        that are construct-valid at only timepoint 1 (T1); item set B is
         construct-valid at both T1 and T2; item set C is construct-valid
         at only T2. A dash indicates that the item set was not assessed
         at a given timepoint. A white box indicates invalid assessment
         in terms of either a content gap (i.e., important missing items)
         or intrusion (i.e., invalid items at a given timepoint). In a
         study of externalizing behavior from early childhood to
-        adulthood, “biting others” may be in item set A; “noncompliant”
+        adulthood,”biting others” may be in item set A; “noncompliant”
         in B; “drug use” in C. The three approaches are: (1) common
         items: B at T1 and T2, (2) upward/downward extension: ABC at T1
         and T2, or (3) construct-valid items: AB at T1; BC at T2. The
@@ -1084,8 +1103,8 @@ cognitive skills across lengthy developmental periods.</p>
         Oleson, J. J. (2026). Studying development of psychopathology
         using changing measures to account for heterotypic continuity.
         <italic>JAACAP Open</italic>, <italic>4</italic>(1), 111–123.
-        <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jaacop.2025.10.008">https://doi.org/10.1016/j.jaacop.2025.10.008</ext-link>)</p></caption>
-        <graphic mimetype="image" mime-subtype="jpeg" xlink:href="Figures/approachesToLongitudinalAssessment.jpg" />
+        <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jaacop.2025.10.008">https://doi.org/10.1016/j.jaacop.2025.10.008</ext-link>).”
+        }</p>
       </fig>
       <p>The common items approach yields low content validity because
       it does not assess all construct facets, especially age-specific
@@ -1243,26 +1262,31 @@ cognitive skills across lengthy developmental periods.</p>
       onset, timing, duration, intensity, function, and resulting
       impairment.</p>
       <fig id="fig-absoluteFrequencyInformation">
-        <caption><p>Figure 7: Test Information Functions of Absolute
-        Frequency Versus Dichotomized Versus Adult Self-Report Items:
-        Test Information as a Function of Theta (θ). “Absolute
-        Frequency” refers to count items; “Dichotomized” refers to
-        dichotomized versions of the count items; “Adult Self-Report”
-        refers to items from the Achenbach Adult Self-Report. “θ”
-        represents the person’s level on the latent externalizing
-        problems factor. The figure demonstrates that items assessing
-        absolute frequency yield more information than dichotomized
-        versions of the same items and the Likert-type response options
-        of the Adult Self-Report. (Figure reprinted from Petersen,
-        Demko, Doebler, et al.
+        <caption><p>Figure 7</p></caption>
+        <p><inline-graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2026_figure4.png">
+          <alt-text>Test Information Functions of Absolute Frequency
+          Versus Dichotomized Versus Adult Self-Report Items: Test
+          Information as a Function of Theta (θ)</alt-text>
+        </inline-graphic>{ width=100% fig-alt=“Test Information
+        Functions of Absolute Frequency Versus Dichotomized Versus Adult
+        Self-Report Items: Test Information as a Function of Theta (θ).”
+        apa-note=““Absolute Frequency” refers to count items;
+        “Dichotomized” refers to dichotomized versions of the count
+        items; “Adult Self-Report” refers to items from the Achenbach
+        Adult Self-Report. “θ” represents the person’s level on the
+        latent externalizing problems factor. The figure demonstrates
+        that items assessing absolute frequency yield more information
+        than dichotomized versions of the same items and the Likert-type
+        response options of the Adult Self-Report. (Figure reprinted
+        from Petersen, Demko, Doebler, et al.
         (<xref alt="2026" rid="ref-Petersen2026b" ref-type="bibr">2026</xref>),
         Figure 4, p. 303. Petersen, I. T., Demko, Z., Doebler, P.,
         Sabel, L., Oleson, J. J., &amp; Krueger, R. F. (2026). How often
         is “often”? Improving assessment of the externalizing spectrum
         using absolute frequency. <italic>Psychological
         Assessment</italic>, <italic>38</italic>(4), 295–306.
-        <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/pas0001441">https://doi.org/10.1037/pas0001441</ext-link>)</p></caption>
-        <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2026_figure4.png" />
+        <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/pas0001441">https://doi.org/10.1037/pas0001441</ext-link>).”
+        }</p>
       </fig>
       <p>In addition, the measures focus on extreme or clinical-range
       behaviors; scores are thus positively skewed with floor effects
@@ -1690,24 +1714,27 @@ cognitive skills across lengthy developmental periods.</p>
     assessing counting and addition, 2nd graders may receive items
     assessing addition and subtraction, and so on.</p>
     <fig id="fig-constructValidItemDesign">
-      <caption><p>Figure 8: Conceptual depiction of a construct-valid
-      item design from infancy to adulthood. The age(s) at which an item
-      set is assessed are represented by the letter
-      <monospace>x</monospace> and a colored box. Some items (“Core”, in
-      green) represent the core of the phenotype and are assessed across
-      all ages. Some items (in varying shades of brown) are age-specific
-      and are assessed at only one or a few ages. However, some of the
-      items assessed at a given age are shared with those assessed at
-      adjacent ages, to facilitate linking the scores across ages. For
-      instance, item set <monospace>f</monospace> can be used to help
-      link scores from age 6 to those at age 5, and item set
-      <monospace>g</monospace> can be used to help link scores from age
-      6 to those at age 7. Hypothetically, items could be assessed for
-      as many or as few years as desired—as long as the items are
-      construct valid for those ages and there enough age-common items
-      between adjacent ages for linking scores across
-      ages.</p></caption>
-      <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/constructValidItemDesign.png" />
+      <caption><p>Figure 8</p></caption>
+      <p><inline-graphic mimetype="image" mime-subtype="png" xlink:href="Figures/constructValidItemDesign.png">
+        <alt-text>Conceptual Depiction of a Construct-Valid Item Design
+        from Infancy to Adulthood</alt-text>
+      </inline-graphic>{ width=100% fig-alt=“Conceptual depiction of a
+      construct-valid item design from infancy to adulthood.”
+      apa-note=“The age(s) at which an item set is assessed are
+      represented by the letter <monospace>x</monospace> and a colored
+      box. Some items (”Core”, in green) represent the core of the
+      phenotype and are assessed across all ages. Some items (in varying
+      shades of brown) are age-specific and are assessed at only one or
+      a few ages. However, some of the items assessed at a given age are
+      shared with those assessed at adjacent ages, to facilitate linking
+      the scores across ages. For instance, item set
+      <monospace>f</monospace> can be used to help link scores from age
+      6 to those at age 5, and item set <monospace>g</monospace> can be
+      used to help link scores from age 6 to those at age 7.
+      Hypothetically, items could be assessed for as many or as few
+      years as desired—as long as the items are construct valid for
+      those ages and there enough age-common items between adjacent ages
+      for linking scores across ages.” }</p>
     </fig>
   </sec>
   <sec id="linking-of-scores">
@@ -1893,41 +1920,13 @@ cognitive skills across lengthy developmental periods.</p>
     Bayesian estimation and regularizizing priors to identify anchor
     items without having to specify them in advance.</p>
     <fig id="fig-linking">
-      <caption><p>Figure 9: Example of linking scores from measures
-      across ages using the item response theory approach to
-      developmental scaling. The figure illustrates the effect of
-      linking the latent externalizing problems scores, θ, across ages,
-      using developmental scaling. The left panel illustrates the test
-      characteristic curves representing the model-implied proportion
-      out of total possible scores across the latent externalizing
-      problems score at age 4 and 5, before the linking process. The
-      right panel illustrates the test characteristic curves after the
-      linking process. The shading between the age 4 and age 5 test
-      characteristic curves represents differences between the two test
-      characteristic curves in terms of discrimination and/or severity,
-      where larger differences reflect scores that are less comparable.
-      Linking minimizes differences between the discrimination and
-      severity of the age-common items. Discrimination is depicted by
-      the steepness of the slope at the inflection point of the test
-      characteristic curve. Severity is represented by the value on the
-      x-axis at the inflection point of the test characteristic curve.
-      The left panel indicates that the externalizing problem items
-      showed higher severity (i.e., its inflection point is further
-      right) and somewhat stronger discrimination (i.e., its slope is
-      steeper) at age 5 than at age 4. The right panel shows
-      considerably smaller differences between the two test
-      characteristic curves, which provides empirical evidence that the
-      linking successfully placed the latent externalizing problem
-      scores across age on a more comparable scale (i.e., more similar
-      discrimination and severity of the age-common items). (Figure
-      reprinted from Petersen and LeBeau
-      (<xref alt="2021" rid="ref-Petersen2021b" ref-type="bibr">2021</xref>),
-      Figure 1, p. 74. Petersen, I. T., &amp; LeBeau, B. (2021).
-      Language ability in the development of externalizing behavior
-      problems in childhood. <italic>Journal of Educational
-      Psychology</italic>, <italic>113</italic>(1), 68–85.
-      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/edu0000461">https://doi.org/10.1037/edu0000461</ext-link>)</p></caption>
-      <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2021_figure1.png" />
+      <caption><p>Figure 9</p></caption>
+      <fig>
+        <caption><p>Example of Linking Scores From Measures Across Ages
+        Using the Item Response Theory Approach to Developmental
+        Scaling</p></caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2021_figure1.png" />
+      </fig>
     </fig>
     <p>Nevertheless, for many of these approaches, at least one anchor
     item is necessary to link the scale of the latent factor across
@@ -1953,16 +1952,12 @@ cognitive skills across lengthy developmental periods.</p>
       depicted in
       <xref alt="Figure 10" rid="fig-longitudinalDesigns">Figure 10</xref>.</p>
       <fig id="fig-longitudinalDesigns">
-        <caption><p>Figure 10: Research Designs by Time Of Measurement
-        and Cohort. Values in the cells are ages of the participants.
-        Dashed line indicates different participants were assessed at
-        each time of measurement. (Figure reprinted from Petersen
-        (<xref alt="2026" rid="ref-PetersenPrinciplesPsychAssessment" ref-type="bibr">2026</xref>),
-        Petersen, I. T. (2026). <italic>Principles of psychological
-        assessment: With applied examples in R</italic>. University of
-        Iowa Libraries.
-        <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.25820/work.007199">https://doi.org/10.25820/work.007199</ext-link>)</p></caption>
-        <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/longitudinalDesigns.png" />
+        <caption><p>Figure 10</p></caption>
+        <fig>
+          <caption><p>Research Designs by Time of Measurement and
+          Cohort</p></caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/longitudinalDesigns.png" />
+        </fig>
       </fig>
     </sec>
     <sec id="measurement-error">
@@ -2165,6 +2160,36 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1037/14048-008</pub-id>
       <fpage>119</fpage>
       <lpage>132</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Abrous2026">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Abrous</surname><given-names>Djoher Nora</given-names></name>
+        <name><surname>Blin</surname><given-names>Nicolas</given-names></name>
+        <name><surname>Boraxbekk</surname><given-names>Carl-Johan</given-names></name>
+        <name><surname>Catheline</surname><given-names>Gwenaelle</given-names></name>
+        <name><surname>Fitzsimons</surname><given-names>Carlos P.</given-names></name>
+        <name><surname>Hilscher</surname><given-names>Markus</given-names></name>
+        <name><surname>Lemoine</surname><given-names>Maël</given-names></name>
+        <name><surname>Lopes</surname><given-names>Luísa V.</given-names></name>
+        <name><surname>Maass</surname><given-names>Anne</given-names></name>
+        <name><surname>Nilsson</surname><given-names>Mats</given-names></name>
+        <name><surname>Nyberg</surname><given-names>Lars</given-names></name>
+        <name><surname>Rasmussen</surname><given-names>Lene Juel</given-names></name>
+        <name><surname>Remondes</surname><given-names>Miguel</given-names></name>
+        <name><surname>Sauvage</surname><given-names>Magdalena</given-names></name>
+        <name><surname>Schreiber</surname><given-names>Stefanie</given-names></name>
+        <name><surname>Wolbers</surname><given-names>Thomas</given-names></name>
+      </person-group>
+      <article-title>Hallmarks of healthy cognitive aging: Inter-individual differences in aging trajectories</article-title>
+      <source>Ageing Research Reviews</source>
+      <year iso-8601-date="2026">2026</year>
+      <volume>119</volume>
+      <uri>https://www.sciencedirect.com/science/article/pii/S1568163726000942</uri>
+      <pub-id pub-id-type="doi">10.1016/j.arr.2026.103102</pub-id>
+      <fpage>103102</fpage>
+      <lpage></lpage>
     </element-citation>
   </ref>
   <ref id="ref-Godoy2021">
@@ -2415,6 +2440,26 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1037/0022-006X.70.1.6</pub-id>
       <fpage>6</fpage>
       <lpage>20</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Borelli2018">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Borelli</surname><given-names>Wyllians Vendramini</given-names></name>
+        <name><surname>Carmona</surname><given-names>Karoline Carvalho</given-names></name>
+        <name><surname>Studart-Neto</surname><given-names>Adalberto</given-names></name>
+        <name><surname>Nitrini</surname><given-names>Ricardo</given-names></name>
+        <name><surname>Caramelli</surname><given-names>Paulo</given-names></name>
+        <name><surname>Costa</surname><given-names>Jaderson Costa da</given-names></name>
+      </person-group>
+      <article-title>Operationalized definition of older adults with high cognitive performance</article-title>
+      <source>Dementia &amp; Neuropsychologia</source>
+      <year iso-8601-date="2018">2018</year>
+      <volume>12</volume>
+      <issue>3</issue>
+      <pub-id pub-id-type="doi">10.1590/1980-57642018dn12-030001</pub-id>
+      <fpage>221</fpage>
+      <lpage>227</lpage>
     </element-citation>
   </ref>
   <ref id="ref-Odgers2008">
@@ -3443,18 +3488,6 @@ cognitive skills across lengthy developmental periods.</p>
       <lpage>74</lpage>
     </element-citation>
   </ref>
-  <ref id="ref-PetersenPrinciplesPsychAssessment">
-    <element-citation publication-type="book">
-      <person-group person-group-type="author">
-        <name><surname>Petersen</surname><given-names>Isaac T.</given-names></name>
-      </person-group>
-      <source>Principles of psychological assessment: With applied examples in R</source>
-      <publisher-name>University of Iowa Libraries</publisher-name>
-      <year iso-8601-date="2026">2026</year>
-      <isbn>978-0-9840378-2-7</isbn>
-      <pub-id pub-id-type="doi">10.25820/work.007199</pub-id>
-    </element-citation>
-  </ref>
   <ref id="ref-Poulton2015">
     <element-citation publication-type="article-journal">
       <person-group person-group-type="author">
@@ -4147,22 +4180,6 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1111/jcpp.70057</pub-id>
       <fpage>390</fpage>
       <lpage>399</lpage>
-    </element-citation>
-  </ref>
-  <ref id="ref-Petersen2021b">
-    <element-citation publication-type="article-journal">
-      <person-group person-group-type="author">
-        <name><surname>Petersen</surname><given-names>Isaac T.</given-names></name>
-        <name><surname>LeBeau</surname><given-names>Brandon</given-names></name>
-      </person-group>
-      <article-title>Language ability in the development of externalizing behavior problems in childhood</article-title>
-      <source>Journal of Educational Psychology</source>
-      <year iso-8601-date="2021">2021</year>
-      <volume>113</volume>
-      <issue>1</issue>
-      <pub-id pub-id-type="doi">10.1037/edu0000461</pub-id>
-      <fpage>68</fpage>
-      <lpage>85</lpage>
     </element-citation>
   </ref>
   <ref id="ref-Curran2014">
