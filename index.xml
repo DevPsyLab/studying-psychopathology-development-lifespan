@@ -225,32 +225,7 @@ cognitive skills across lengthy developmental periods.</p>
   cognitive decline are depicted in
   <xref alt="Figure 1" rid="fig-lifespanCognitiveTrajectories">Figure 1</xref>.</p>
   <fig id="fig-lifespanCognitiveTrajectories">
-    <caption><p>Figure 1: <bold>Panel A</bold>: Hypothetical models for
-    different cognitive trajectories of aging. MCI = mild cognitive
-    impairment. (Figure in Panel B reprinted from Borelli et al.
-    (<xref alt="2018" rid="ref-Borelli2018" ref-type="bibr">2018</xref>),
-    Figure 1, p. 222. Borelli, W. V., Carmona, K. C., Studart-Neto, A.,
-    Nitrini, R., Caramelli, P., &amp; Costa, J. C. d. (2018).
-    Operationalized definition of older adults with high cognitive
-    performance. <italic>Dementia &amp; Neuropsychologia</italic>,
-    <italic>12</italic>(3), 221–227.
-    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/1980-57642018dn12-030001">https://doi.org/10.1590/1980-57642018dn12-030001</ext-link>).
-    <bold>Panel B</bold>: Theoretical illustration of inter-individual
-    variability in cognitive aging trajectories. Each grey line
-    represents one individual hypothetical cognitive health trajectory.
-    The orange line marks the threshold for functional independence;
-    once an individual’s cognitive health drops below this level,
-    autonomous daily living is compromised. (Figure in Panel B reprinted
-    from Abrous et al.
-    (<xref alt="2026" rid="ref-Abrous2026" ref-type="bibr">2026</xref>),
-    Figure 1, p. 2. Abrous, D. N., Blin, N., Boraxbekk, C.-J.,
-    Catheline, G., Fitzsimons, C. P., Hilscher, M., Lemoine, M., Lopes,
-    L. V., Maass, A., Nilsson, M., Nyberg, L., Rasmussen, L. J.,
-    Remondes, M., Sauvage, M., Schreiber, S., &amp; Wolbers, T. (2026).
-    Hallmarks of healthy cognitive aging: Inter-individual differences
-    in aging trajectories. <italic>Ageing Research Reviews</italic>,
-    <italic>119</italic>, 103102.
-    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.arr.2026.103102">https://doi.org/10.1016/j.arr.2026.103102</ext-link>)</p></caption>
+    <caption><p>Figure 1</p></caption>
     <table-wrap>
       <table>
         <colgroup>
@@ -276,6 +251,21 @@ cognitive skills across lengthy developmental periods.</p>
                   trajectories.</p></caption>
                   <graphic mimetype="image" mime-subtype="jpeg" xlink:href="Figures/Abrous2026_figure1.jpg" />
                 </fig>
+              </boxed-text>
+            </p></td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <table-wrap>
+      <table>
+        <colgroup>
+          <col width="53%" />
+        </colgroup>
+        <tbody>
+          <tr>
+            <td align="left"><p specific-use="wrapper">
+              <boxed-text>
               </boxed-text>
             </p></td>
           </tr>
@@ -2177,36 +2167,6 @@ cognitive skills across lengthy developmental periods.</p>
       <lpage>132</lpage>
     </element-citation>
   </ref>
-  <ref id="ref-Abrous2026">
-    <element-citation publication-type="article-journal">
-      <person-group person-group-type="author">
-        <name><surname>Abrous</surname><given-names>Djoher Nora</given-names></name>
-        <name><surname>Blin</surname><given-names>Nicolas</given-names></name>
-        <name><surname>Boraxbekk</surname><given-names>Carl-Johan</given-names></name>
-        <name><surname>Catheline</surname><given-names>Gwenaelle</given-names></name>
-        <name><surname>Fitzsimons</surname><given-names>Carlos P.</given-names></name>
-        <name><surname>Hilscher</surname><given-names>Markus</given-names></name>
-        <name><surname>Lemoine</surname><given-names>Maël</given-names></name>
-        <name><surname>Lopes</surname><given-names>Luísa V.</given-names></name>
-        <name><surname>Maass</surname><given-names>Anne</given-names></name>
-        <name><surname>Nilsson</surname><given-names>Mats</given-names></name>
-        <name><surname>Nyberg</surname><given-names>Lars</given-names></name>
-        <name><surname>Rasmussen</surname><given-names>Lene Juel</given-names></name>
-        <name><surname>Remondes</surname><given-names>Miguel</given-names></name>
-        <name><surname>Sauvage</surname><given-names>Magdalena</given-names></name>
-        <name><surname>Schreiber</surname><given-names>Stefanie</given-names></name>
-        <name><surname>Wolbers</surname><given-names>Thomas</given-names></name>
-      </person-group>
-      <article-title>Hallmarks of healthy cognitive aging: Inter-individual differences in aging trajectories</article-title>
-      <source>Ageing Research Reviews</source>
-      <year iso-8601-date="2026">2026</year>
-      <volume>119</volume>
-      <uri>https://www.sciencedirect.com/science/article/pii/S1568163726000942</uri>
-      <pub-id pub-id-type="doi">10.1016/j.arr.2026.103102</pub-id>
-      <fpage>103102</fpage>
-      <lpage></lpage>
-    </element-citation>
-  </ref>
   <ref id="ref-Godoy2021">
     <element-citation publication-type="article-journal">
       <person-group person-group-type="author">
@@ -2455,26 +2415,6 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1037/0022-006X.70.1.6</pub-id>
       <fpage>6</fpage>
       <lpage>20</lpage>
-    </element-citation>
-  </ref>
-  <ref id="ref-Borelli2018">
-    <element-citation publication-type="article-journal">
-      <person-group person-group-type="author">
-        <name><surname>Borelli</surname><given-names>Wyllians Vendramini</given-names></name>
-        <name><surname>Carmona</surname><given-names>Karoline Carvalho</given-names></name>
-        <name><surname>Studart-Neto</surname><given-names>Adalberto</given-names></name>
-        <name><surname>Nitrini</surname><given-names>Ricardo</given-names></name>
-        <name><surname>Caramelli</surname><given-names>Paulo</given-names></name>
-        <name><surname>Costa</surname><given-names>Jaderson Costa da</given-names></name>
-      </person-group>
-      <article-title>Operationalized definition of older adults with high cognitive performance</article-title>
-      <source>Dementia &amp; Neuropsychologia</source>
-      <year iso-8601-date="2018">2018</year>
-      <volume>12</volume>
-      <issue>3</issue>
-      <pub-id pub-id-type="doi">10.1590/1980-57642018dn12-030001</pub-id>
-      <fpage>221</fpage>
-      <lpage>227</lpage>
     </element-citation>
   </ref>
   <ref id="ref-Odgers2008">
