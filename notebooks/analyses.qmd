@@ -15,16 +15,18 @@ format:
     self-contained-math: true
 ---
 
+```{r}
+#install.packages("remotes")
+#remotes::install_github("DevPsyLab/petersenlab")
+```
+
 # Intro
 
 # Preamble
 
 ## Install Libraries
 
-```{r}
-#install.packages("remotes")
-#remotes::install_github("DevPsyLab/petersenlab")
-```
+<!-- *IMPORTANT NOTE*: Because of how pandoc works, the figure and table labels must be all lowercase for cross-references to work -->
 
 ## Load Libraries
 
@@ -33,6 +35,7 @@ format:
 #| warning: false
 
 library("petersenlab") #located here: https://github.com/DevPsyLab/petersenlab
+library("knitr")
 library("tidyverse")
 ```
 
@@ -42,6 +45,8 @@ library("tidyverse")
 longitudinalStudies <- read_csv("../Data/longitudinalStudies.csv") #read_csv("./Data/longitudinalStudies.csv")
 
 longitudinalExternalizingStudies <- read_csv("../Data/longitudinalExternalizingStudies.csv") #read_csv("./Data/longitudinalExternalizingStudies.csv")
+
+externalizingFacets <- read_csv("../Data/externalizingFacets.csv") #read_csv("./Data/externalizingFacets.csv")
 ```
 
 # Plots
@@ -361,6 +366,20 @@ plot_longitudinalExternalizingStudies <- ggplot2::ggplot() +
   theme_classic()
 
 plot_longitudinalExternalizingStudies
+```
+
+# Tables
+
+## Externalizing Facets
+
+```{r}
+#| label: tbl-externalizingfacets
+#| tbl-cap: "Externalizing Facets Identified in Content Analysis of Externalizing Measures."
+
+knitr::kable(
+  externalizingFacets %>% select(facetLabel, facetDefinition, positiveOpposite),
+  col.names = c("Facet","Definition","Positive Opposite")
+)
 ```
 
 # Session Info
