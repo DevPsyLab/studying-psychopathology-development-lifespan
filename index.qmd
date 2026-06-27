@@ -269,7 +269,7 @@ A depiction of the ages spanned by various longitudinal studies is in @fig-longi
 
 ::: {.figure-caption .content-visible when-format="html"}
 *Note*.
-The list of longitudinal studies is not exhaustive.
+The list of longitudinal studies is as of this writing and is not exhaustive.
 Studies that are no longer active are shown in gray.
 Studies that used developmental scaling to harmonize scores across ages (i.e., to link scores across ages onto the same scale) are in green.
 Solid lines reflect fully longitudinal spans (i.e., the same individuals were followed over time).
