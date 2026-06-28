@@ -459,6 +459,7 @@ plot_longitudinalExternalizingStudies
 ```{r}
 #| label: tbl-externalizingfacets
 #| tbl-cap: "Externalizing Facets Identified in Content Analysis of Externalizing Measures."
+#| apa-longtable: true
 
 knitr::kable(
   externalizingFacets %>% select(facetLabel, facetDefinition, positiveOpposite),
