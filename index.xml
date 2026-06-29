@@ -1765,9 +1765,18 @@ cognitive skills across lengthy developmental periods.</p>
     to model differences in latent means (e.g., change over time), you
     do not need invariance; “you need to have a model that is
     correct…That means that…you are modeling [items’] invariance
-    properly.” Theoretical considerations are crucial and establishing
-    even partial longitudinal factorial invariance may not be required
-    when the construct shows heterotypic continuity
+    properly.” When a construct demonstrates heterotypic continuity,
+    longitudinal factorial invariance would not necessarily be expected
+    because the construct’s factor structure, by definition, changes
+    with development
+    (<xref alt="Petersen et al. 2020" rid="ref-Petersen2020" ref-type="bibr">Petersen
+    et al. 2020</xref>). That is, noninvariances across development can
+    be expected by theory
+    (<xref alt="Sterner et al. 2026" rid="ref-Sterner2026" ref-type="bibr">Sterner
+    et al. 2026</xref>). As a result, theoretical considerations are
+    crucial and establishing even partial longitudinal factorial
+    invariance may not be required when the construct shows heterotypic
+    continuity
     (<xref alt="Knight and Zerr 2010" rid="ref-Knight2010" ref-type="bibr">Knight
     and Zerr 2010</xref>;
     <xref alt="Petersen et al. 2020" rid="ref-Petersen2020" ref-type="bibr">Petersen
@@ -4214,6 +4223,23 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1177/08902070241228338</pub-id>
       <fpage>889</fpage>
       <lpage>895</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Sterner2026">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Sterner</surname><given-names>Philipp</given-names></name>
+        <name><surname>Pargent</surname><given-names>Florian</given-names></name>
+        <name><surname>Goretzko</surname><given-names>David</given-names></name>
+      </person-group>
+      <article-title>Don’t let MI be misunderstood: A causal view on measurement invariance</article-title>
+      <source>Current Research in Ecological and Social Psychology</source>
+      <year iso-8601-date="2026">2026</year>
+      <volume>10</volume>
+      <uri>https://www.sciencedirect.com/science/article/pii/S2666622725000486</uri>
+      <pub-id pub-id-type="doi">10.1016/j.cresp.2025.100261</pub-id>
+      <fpage>100261</fpage>
+      <lpage></lpage>
     </element-citation>
   </ref>
 </ref-list>
