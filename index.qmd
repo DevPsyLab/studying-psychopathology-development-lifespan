@@ -822,12 +822,20 @@ Strong factorial invariance frequently does not hold, so in such situations it m
 
 At least partial strong factorial invariance (i.e., invariance of intercepts and factor loadings for a subset of items—the anchor items) is often considered a requirement for modeling individuals' change, such that the more items that show invariance, the greater the confidence that the latent factor is on a comparable scale at each age for examining individuals' change.
 However, even that requirement may be too strong.
-Researchers have argued that, in many cases, establishing factorial invariance may be unnecessary to compare latent means [@Funder2024; @Knight2010; @Petersen2020; @QuantitudeS3E18; @Robitzsch2023; @Welzel2023a; @Welzel2023b].
+Researchers have argued that, in many cases, establishing factorial invariance may be unnecessary to compare latent means [@DeLosReyes2025; @Funder2024; @Knight2010; @Petersen2020; @QuantitudeS3E18; @Robitzsch2023; @Welzel2023a; @Welzel2023b].
 Indeed, failed longitudinal invariance can be an artifact of differing means across groups/time rather than bias or differences in the functioning of the measure [@Welzel2023a; @Welzel2023b].
 As noted by Hancock [-@QuantitudeS3E18], to model differences in latent means (e.g., change over time), you do not need invariance; "you need to have a model that is correct...That means that...you are modeling [items'] invariance properly."
+
 When a construct demonstrates heterotypic continuity, longitudinal factorial invariance would not necessarily be expected because the construct's factor structure, by definition, changes with development [@Petersen2020].
 That is, noninvariances across development can be expected by theory [@Sterner2026].
 As a result, theoretical considerations are crucial and establishing even partial longitudinal factorial invariance may not be required when the construct shows heterotypic continuity [@Knight2010; @Petersen2020].
+As noted by Millsap [-@Millsap2011, p. 1], "Measurement invariance is built on the notion that a measuring device should function in the same way across varied conditions, *so long as those varied conditions are irrelevant to the attribute being measured*" (emphasis added).
+However, age/development would not be considered irrelevant to psychopathology.
+As described earlier, externalizing (antisocial) behavior is considered to demonstrate heterotypic continuity; thus, longitudinal factorial *noninvariance* for measures assessing the development of externalizing behavior may be expected.
+As noted by De Los Reyes et al. [-@DeLosReyes2025, p. 301], "developmental variations in antisocial behavior are unlikely to reflect confounds or biases in measurement."
+They characterize such tests of invariance across development—in which the conditions (age) are relevant to the construct of interest—as a questionable research practice, noting, "To be justified in testing measurement invariance [across ages], one would have to assume that when systematic differences manifest between ratings...for younger versus older youth, they cannot possibly reflect anything valid.
+For a scholar to make such an assumption, they must again ignore decades of theory and research in developmental psychopathology."
+Moreover, removing noninvariant items is not recommended if the item retains construct validity [@Knight2010; @DeLosReyes2025].
 When the construct changes in manifestation, models with failed longitudinal factorial invariance can yield valid inferences.
 For instance, simulation work demonstrated that IRT linking approaches accurately captured changes in level on the latent factor even in the present of DIF and changing dimensionality [@Edwards2012].
 
