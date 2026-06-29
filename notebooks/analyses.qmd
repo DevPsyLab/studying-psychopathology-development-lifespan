@@ -463,7 +463,7 @@ plot_longitudinalExternalizingStudies
 
 knitr::kable(
   externalizingFacets %>% select(facetLabel, facetDefinition, positiveOpposite),
-  col.names = c("Facet","Definition","Positive Opposite")
+  col.names = c("Facet","Definition","Potential Positive Opposite")
 )
 ```
 
