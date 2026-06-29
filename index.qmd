@@ -818,10 +818,12 @@ As described earlier, a goal of longitudinal factorial invariance is to increase
 In particular, it had been considered necessary to establish at least strong factorial invariance—i.e., invariance of intercepts and factor loadings in factor analysis, or invariance of difficulty and discrimination in item response theory.
 Otherwise, a researcher may wrongly conclude that levels in the construct change over time when the apparent changes in the observed scores (and the latent variables) are driven by noninvariant loadings and/or intercepts for one or more items [@Lai2023].
 However, it is now understood that violations of longitudinal factorial invariance do not mean that questions of change cannot be answered [@Lai2023].
-Strong factorial invariance frequently does not hold, so in such situations it is necessary to adjust for noninvariance [@Lai2023].
+Strong factorial invariance frequently does not hold, so in such situations it may be necessary to find ways to accommodate or adjust for noninvariance [@Lai2023].
 
-In general, at least partial strong factorial invariance (i.e., invariance of intercepts and factor loadings for a subset of items—the anchor items) is often considered a requirement for modeling individuals' change, such that the more items that show invariance, the greater the confidence that the latent factor is on a comparable scale at each age for examining individuals' change.
-However, even that requirement is inaccurate.
+At least partial strong factorial invariance (i.e., invariance of intercepts and factor loadings for a subset of items—the anchor items) is often considered a requirement for modeling individuals' change, such that the more items that show invariance, the greater the confidence that the latent factor is on a comparable scale at each age for examining individuals' change.
+However, even that requirement may be too strong.
+Researchers have argued that, in many cases, establishing factorial invariance may be unnecessary to compare latent means [@Knight2010; @Robitzsch2023; @Petersen2020; @QuantitudeS3E18; @Welzel2023a; @Welzel2023b].
+Indeed, failed longitudinal invariance can be an artifact of differing means across groups/time rather than bias or differences in the functioning of the measure [@Welzel2023a; @Welzel2023b].
 As noted by Hancock [-@QuantitudeS3E18], to model differences in latent means (e.g., change over time), you do not need invariance; "you need to have a model that is correct...That means that...you are modeling [items'] invariance properly."
 Theoretical considerations are crucial and establishing even partial longitudinal factorial invariance may not be required when the construct shows heterotypic continuity [@Knight2010; @Petersen2020].
 When the construct changes in manifestation, models with failed longitudinal factorial invariance can yield valid inferences.
