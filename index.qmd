@@ -822,7 +822,7 @@ Strong factorial invariance frequently does not hold, so in such situations it m
 
 At least partial strong factorial invariance (i.e., invariance of intercepts and factor loadings for a subset of items—the anchor items) is often considered a requirement for modeling individuals' change, such that the more items that show invariance, the greater the confidence that the latent factor is on a comparable scale at each age for examining individuals' change.
 However, even that requirement may be too strong.
-Researchers have argued that, in many cases, establishing factorial invariance may be unnecessary to compare latent means [@Knight2010; @Robitzsch2023; @Petersen2020; @QuantitudeS3E18; @Welzel2023a; @Welzel2023b].
+Researchers have argued that, in many cases, establishing factorial invariance may be unnecessary to compare latent means [@Funder2024; @Knight2010; @Petersen2020; @QuantitudeS3E18; @Robitzsch2023; @Welzel2023a; @Welzel2023b].
 Indeed, failed longitudinal invariance can be an artifact of differing means across groups/time rather than bias or differences in the functioning of the measure [@Welzel2023a; @Welzel2023b].
 As noted by Hancock [-@QuantitudeS3E18], to model differences in latent means (e.g., change over time), you do not need invariance; "you need to have a model that is correct...That means that...you are modeling [items'] invariance properly."
 Theoretical considerations are crucial and establishing even partial longitudinal factorial invariance may not be required when the construct shows heterotypic continuity [@Knight2010; @Petersen2020].
