@@ -1741,14 +1741,16 @@ cognitive skills across lengthy developmental periods.</p>
     requirement may be too strong. Researchers have argued that, in many
     cases, establishing factorial invariance may be unnecessary to
     compare latent means
-    (<xref alt="Knight and Zerr 2010" rid="ref-Knight2010" ref-type="bibr">Knight
+    (<xref alt="Funder and Gardiner 2024" rid="ref-Funder2024" ref-type="bibr">Funder
+    and Gardiner 2024</xref>;
+    <xref alt="Knight and Zerr 2010" rid="ref-Knight2010" ref-type="bibr">Knight
     and Zerr 2010</xref>;
-    <xref alt="Robitzsch and Lüdtke 2023" rid="ref-Robitzsch2023" ref-type="bibr">Robitzsch
-    and Lüdtke 2023</xref>;
     <xref alt="Petersen et al. 2020" rid="ref-Petersen2020" ref-type="bibr">Petersen
     et al. 2020</xref>;
     <xref alt="Hancock and Curran 2022" rid="ref-QuantitudeS3E18" ref-type="bibr">Hancock
     and Curran 2022</xref>;
+    <xref alt="Robitzsch and Lüdtke 2023" rid="ref-Robitzsch2023" ref-type="bibr">Robitzsch
+    and Lüdtke 2023</xref>;
     <xref alt="Welzel, Brunkert, et al. 2023" rid="ref-Welzel2023a" ref-type="bibr">Welzel,
     Brunkert, et al. 2023</xref>;
     <xref alt="Welzel, Kruse, et al. 2023" rid="ref-Welzel2023b" ref-type="bibr">Welzel,
@@ -4195,6 +4197,23 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1177/00491241221091754</pub-id>
       <fpage>1438</fpage>
       <lpage>1455</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Funder2024">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Funder</surname><given-names>David C</given-names></name>
+        <name><surname>Gardiner</surname><given-names>Gwendolyn</given-names></name>
+      </person-group>
+      <article-title>MIsgivings about measurement invariance</article-title>
+      <source>European Journal of Personality</source>
+      <year iso-8601-date="2024">2024</year>
+      <volume>38</volume>
+      <issue>6</issue>
+      <uri>https://journals.sagepub.com/doi/abs/10.1177/08902070241228338</uri>
+      <pub-id pub-id-type="doi">10.1177/08902070241228338</pub-id>
+      <fpage>889</fpage>
+      <lpage>895</lpage>
     </element-citation>
   </ref>
 </ref-list>
