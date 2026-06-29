@@ -1728,16 +1728,37 @@ cognitive skills across lengthy developmental periods.</p>
     change cannot be answered
     (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
     2023</xref>). Strong factorial invariance frequently does not hold,
-    so in such situations it is necessary to adjust for noninvariance
+    so in such situations it may be necessary to find ways to
+    accommodate or adjust for noninvariance
     (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
     2023</xref>).</p>
-    <p>In general, at least partial strong factorial invariance (i.e.,
-    invariance of intercepts and factor loadings for a subset of
-    items—the anchor items) is often considered a requirement for
-    modeling individuals’ change, such that the more items that show
-    invariance, the greater the confidence that the latent factor is on
-    a comparable scale at each age for examining individuals’ change.
-    However, even that requirement is inaccurate. As noted by Hancock
+    <p>At least partial strong factorial invariance (i.e., invariance of
+    intercepts and factor loadings for a subset of items—the anchor
+    items) is often considered a requirement for modeling individuals’
+    change, such that the more items that show invariance, the greater
+    the confidence that the latent factor is on a comparable scale at
+    each age for examining individuals’ change. However, even that
+    requirement may be too strong. Researchers have argued that, in many
+    cases, establishing factorial invariance may be unnecessary to
+    compare latent means
+    (<xref alt="Knight and Zerr 2010" rid="ref-Knight2010" ref-type="bibr">Knight
+    and Zerr 2010</xref>;
+    <xref alt="Robitzsch and Lüdtke 2023" rid="ref-Robitzsch2023" ref-type="bibr">Robitzsch
+    and Lüdtke 2023</xref>;
+    <xref alt="Petersen et al. 2020" rid="ref-Petersen2020" ref-type="bibr">Petersen
+    et al. 2020</xref>;
+    <xref alt="Hancock and Curran 2022" rid="ref-QuantitudeS3E18" ref-type="bibr">Hancock
+    and Curran 2022</xref>;
+    <xref alt="Welzel, Brunkert, et al. 2023" rid="ref-Welzel2023a" ref-type="bibr">Welzel,
+    Brunkert, et al. 2023</xref>;
+    <xref alt="Welzel, Kruse, et al. 2023" rid="ref-Welzel2023b" ref-type="bibr">Welzel,
+    Kruse, et al. 2023</xref>). Indeed, failed longitudinal invariance
+    can be an artifact of differing means across groups/time rather than
+    bias or differences in the functioning of the measure
+    (<xref alt="Welzel, Brunkert, et al. 2023" rid="ref-Welzel2023a" ref-type="bibr">Welzel,
+    Brunkert, et al. 2023</xref>;
+    <xref alt="Welzel, Kruse, et al. 2023" rid="ref-Welzel2023b" ref-type="bibr">Welzel,
+    Kruse, et al. 2023</xref>). As noted by Hancock
     (<xref alt="2022" rid="ref-QuantitudeS3E18" ref-type="bibr">2022</xref>),
     to model differences in latent means (e.g., change over time), you
     do not need invariance; “you need to have a model that is
@@ -4137,6 +4158,43 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1080/10705511.2023.2191292</pub-id>
       <fpage>859</fpage>
       <lpage>870</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Welzel2023a">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Welzel</surname><given-names>Christian</given-names></name>
+        <name><surname>Brunkert</surname><given-names>Lennart</given-names></name>
+        <name><surname>Kruse</surname><given-names>Stefan</given-names></name>
+        <name><surname>Inglehart</surname><given-names>Ronald F.</given-names></name>
+      </person-group>
+      <article-title>Non-invariance? An overstated problem with misconceived causes</article-title>
+      <source>Sociological Methods &amp; Research</source>
+      <year iso-8601-date="2023">2023</year>
+      <volume>52</volume>
+      <issue>3</issue>
+      <uri>https://journals.sagepub.com/doi/abs/10.1177/0049124121995521</uri>
+      <pub-id pub-id-type="doi">10.1177/0049124121995521</pub-id>
+      <fpage>1368</fpage>
+      <lpage>1400</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Welzel2023b">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Welzel</surname><given-names>Christian</given-names></name>
+        <name><surname>Kruse</surname><given-names>Stefan</given-names></name>
+        <name><surname>Brunkert</surname><given-names>Lennart</given-names></name>
+      </person-group>
+      <article-title>Against the mainstream: On the limitations of non-invariance diagnostics: Response to fischer et al. And meuleman et al</article-title>
+      <source>Sociological Methods &amp; Research</source>
+      <year iso-8601-date="2023">2023</year>
+      <volume>52</volume>
+      <issue>3</issue>
+      <uri>https://journals.sagepub.com/doi/abs/10.1177/00491241221091754</uri>
+      <pub-id pub-id-type="doi">10.1177/00491241221091754</pub-id>
+      <fpage>1438</fpage>
+      <lpage>1455</lpage>
     </element-citation>
   </ref>
 </ref-list>
