@@ -825,7 +825,9 @@ However, even that requirement may be too strong.
 Researchers have argued that, in many cases, establishing factorial invariance may be unnecessary to compare latent means [@Funder2024; @Knight2010; @Petersen2020; @QuantitudeS3E18; @Robitzsch2023; @Welzel2023a; @Welzel2023b].
 Indeed, failed longitudinal invariance can be an artifact of differing means across groups/time rather than bias or differences in the functioning of the measure [@Welzel2023a; @Welzel2023b].
 As noted by Hancock [-@QuantitudeS3E18], to model differences in latent means (e.g., change over time), you do not need invariance; "you need to have a model that is correct...That means that...you are modeling [items'] invariance properly."
-Theoretical considerations are crucial and establishing even partial longitudinal factorial invariance may not be required when the construct shows heterotypic continuity [@Knight2010; @Petersen2020].
+When a construct demonstrates heterotypic continuity, longitudinal factorial invariance would not necessarily be expected because the construct's factor structure, by definition, changes with development [@Petersen2020].
+That is, noninvariances across development can be expected by theory [@Sterner2026].
+As a result, theoretical considerations are crucial and establishing even partial longitudinal factorial invariance may not be required when the construct shows heterotypic continuity [@Knight2010; @Petersen2020].
 When the construct changes in manifestation, models with failed longitudinal factorial invariance can yield valid inferences.
 For instance, simulation work demonstrated that IRT linking approaches accurately captured changes in level on the latent factor even in the present of DIF and changing dimensionality [@Edwards2012].
 
