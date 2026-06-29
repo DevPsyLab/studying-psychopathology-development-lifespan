@@ -1741,7 +1741,9 @@ cognitive skills across lengthy developmental periods.</p>
     requirement may be too strong. Researchers have argued that, in many
     cases, establishing factorial invariance may be unnecessary to
     compare latent means
-    (<xref alt="Funder and Gardiner 2024" rid="ref-Funder2024" ref-type="bibr">Funder
+    (<xref alt="De Los Reyes et al. 2025" rid="ref-DeLosReyes2025" ref-type="bibr">De
+    Los Reyes et al. 2025</xref>;
+    <xref alt="Funder and Gardiner 2024" rid="ref-Funder2024" ref-type="bibr">Funder
     and Gardiner 2024</xref>;
     <xref alt="Knight and Zerr 2010" rid="ref-Knight2010" ref-type="bibr">Knight
     and Zerr 2010</xref>;
@@ -1765,7 +1767,8 @@ cognitive skills across lengthy developmental periods.</p>
     to model differences in latent means (e.g., change over time), you
     do not need invariance; “you need to have a model that is
     correct…That means that…you are modeling [items’] invariance
-    properly.” When a construct demonstrates heterotypic continuity,
+    properly.”</p>
+    <p>When a construct demonstrates heterotypic continuity,
     longitudinal factorial invariance would not necessarily be expected
     because the construct’s factor structure, by definition, changes
     with development
@@ -1780,11 +1783,40 @@ cognitive skills across lengthy developmental periods.</p>
     (<xref alt="Knight and Zerr 2010" rid="ref-Knight2010" ref-type="bibr">Knight
     and Zerr 2010</xref>;
     <xref alt="Petersen et al. 2020" rid="ref-Petersen2020" ref-type="bibr">Petersen
-    et al. 2020</xref>). When the construct changes in manifestation,
-    models with failed longitudinal factorial invariance can yield valid
-    inferences. For instance, simulation work demonstrated that IRT
-    linking approaches accurately captured changes in level on the
-    latent factor even in the present of DIF and changing dimensionality
+    et al. 2020</xref>). As noted by Millsap
+    (<xref alt="2011, 1" rid="ref-Millsap2011" ref-type="bibr">2011,
+    1</xref>), “Measurement invariance is built on the notion that a
+    measuring device should function in the same way across varied
+    conditions, <italic>so long as those varied conditions are
+    irrelevant to the attribute being measured</italic>” (emphasis
+    added). However, age/development would not be considered irrelevant
+    to psychopathology. As described earlier, externalizing (antisocial)
+    behavior is considered to demonstrate heterotypic continuity; thus,
+    longitudinal factorial <italic>noninvariance</italic> for measures
+    assessing the development of externalizing behavior may be expected.
+    As noted by De Los Reyes et al.
+    (<xref alt="2025, 301" rid="ref-DeLosReyes2025" ref-type="bibr">2025,
+    301</xref>), “developmental variations in antisocial behavior are
+    unlikely to reflect confounds or biases in measurement.” They
+    characterize such tests of invariance across development—in which
+    the conditions (age) are relevant to the construct of interest—as a
+    questionable research practice, noting, “To be justified in testing
+    measurement invariance [across ages], one would have to assume that
+    when systematic differences manifest between ratings…for younger
+    versus older youth, they cannot possibly reflect anything valid. For
+    a scholar to make such an assumption, they must again ignore decades
+    of theory and research in developmental psychopathology.” Moreover,
+    removing noninvariant items is not recommended if the item retains
+    construct validity
+    (<xref alt="Knight and Zerr 2010" rid="ref-Knight2010" ref-type="bibr">Knight
+    and Zerr 2010</xref>;
+    <xref alt="De Los Reyes et al. 2025" rid="ref-DeLosReyes2025" ref-type="bibr">De
+    Los Reyes et al. 2025</xref>). When the construct changes in
+    manifestation, models with failed longitudinal factorial invariance
+    can yield valid inferences. For instance, simulation work
+    demonstrated that IRT linking approaches accurately captured changes
+    in level on the latent factor even in the present of DIF and
+    changing dimensionality
     (<xref alt="Edwards and Wirth 2012" rid="ref-Edwards2012" ref-type="bibr">Edwards
     and Wirth 2012</xref>).</p>
     <p>There are multiple ways of handling noninvariance as described
@@ -4011,7 +4043,7 @@ cognitive skills across lengthy developmental periods.</p>
       <article-title>Quantitude</article-title>
       <publisher-name>Quantitude; Quantitude</publisher-name>
       <year iso-8601-date="2022-02-11">2022</year><month>02</month><day>11</day>
-      <uri>https://quantitudepod.org/latent-means/ (archived at: https://perma.cc/5JL3-YUPA)</uri>
+      <uri>https://quantitudepod.org/latent-means/</uri>
     </element-citation>
   </ref>
   <ref id="ref-VanDeSchoot2013">
@@ -4240,6 +4272,39 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1016/j.cresp.2025.100261</pub-id>
       <fpage>100261</fpage>
       <lpage></lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-DeLosReyes2025">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>De Los Reyes</surname><given-names>Andres</given-names></name>
+        <name><surname>L.</surname><given-names>Oswald Frederick</given-names></name>
+        <name><surname>J.</surname><given-names>Racz Sarah</given-names></name>
+        <name><surname>Armando</surname><given-names>Pina</given-names></name>
+        <name><surname>D.</surname><given-names>McLeod Bryce</given-names></name>
+        <name><surname>Mo</surname><given-names>Wang</given-names></name>
+        <name><surname>Charamut</surname><given-names>Natalie R. and</given-names></name>
+      </person-group>
+      <article-title>Editorial: Fairness, validity, and transparency in what researchers assume when testing for measurement invariance</article-title>
+      <source>Journal of Clinical Child &amp; Adolescent Psychology</source>
+      <year iso-8601-date="2025">2025</year>
+      <volume>54</volume>
+      <issue>3</issue>
+      <uri>https://doi.org/10.1080/15374416.2025.2484813</uri>
+      <pub-id pub-id-type="doi">10.1080/15374416.2025.2484813</pub-id>
+      <fpage>299</fpage>
+      <lpage>317</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Millsap2011">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name><surname>Millsap</surname><given-names>Roger E.</given-names></name>
+      </person-group>
+      <source>Statistical approaches to measurement invariance</source>
+      <publisher-name>Taylor &amp; Francis</publisher-name>
+      <publisher-loc>New York, NY, US</publisher-loc>
+      <year iso-8601-date="2011">2011</year>
     </element-citation>
   </ref>
 </ref-list>
