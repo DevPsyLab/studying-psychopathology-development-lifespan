@@ -783,9 +783,16 @@ Moreover, when treating time continuously, the functional form of any DIF as a f
 
 ## Potential Confounds of Change {#sec-potential-confounds-of-change}
 
+It is also important for longitudinal research to consider and, to the extent possible, account for potential confounds of change, such as practice effects, period and cohort effects, measurement error, selective attrition, and changes in the meaning of the scores [@Hertzog2003].
+
 ### Practice/Retest Effects
 
-<!-- VALUE OF CHANGING MEASUREMENT TO REDUCE RETEST EFFECTS, CITE TYRELL -->
+Practice effects (also called retest effects) occur to the extent that a person's score changes due to repeated assessment rather than due to changes in their construct level.
+For instance, if researchers intend to study people's intelligence across development and they use the same measure and stimuli at each measurement occasion, it is possible that people may perform better over time because they are learning the task and thus improving their score—even if their intelligence has not changed.
+In a longitudinal study of externalizing problems using repeated surveys, retest effects might be most likely be detected in the form of decreases for a person across ages, which may reflect fatigue in reporting [@Averdijk2014].
+Lower ratings for an individual across time may be especially likely if the surveys include branching logic such that the respondent learns that additional items appear whenever they endorse an item (and that the additional items would not have appeared had they not endorsed the item).
+Ways to reduce retest effects include changing the measure and/or stimuli [@Tyrell2019] and increasing the retest interval.
+A way to account for retest effects is through the use of accelerated longitudinal (i.e., cross-sequential) designs that can separately estimate the effects of age versus timepoint because, unlike in a single-cohort longitudinal design, age and timepoint are decoupled [@Ferrer2004].
 
 ### Period and Cohort Effects
 
@@ -808,6 +815,8 @@ Dashed line indicates different participants were assessed at each time of measu
 :::
 
 ### Measurement Error
+
+## Selective Missingness and Attrition
 
 ### Change in Meaning of the Scores
 
