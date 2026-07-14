@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-06-29">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-07-14">
 <year>2026</year>
-<month>6</month>
-<day>29</day>
+<month>7</month>
+<day>14</day>
 </pub-date>
 
 
@@ -1681,8 +1681,41 @@ cognitive skills across lengthy developmental periods.</p>
   <title>Other Key Challenges to Address</title>
   <sec id="sec-potential-confounds-of-change">
     <title>Potential Confounds of Change</title>
+    <p>It is also important for longitudinal research to consider and,
+    to the extent possible, account for potential confounds of change,
+    such as practice effects, period and cohort effects, measurement
+    error, selective attrition, and changes in the meaning of the scores
+    (<xref alt="Hertzog and Nesselroade 2003" rid="ref-Hertzog2003" ref-type="bibr">Hertzog
+    and Nesselroade 2003</xref>).</p>
     <sec id="practiceretest-effects">
       <title>Practice/Retest Effects</title>
+      <p>Practice effects (also called retest effects) occur to the
+      extent that a person’s score changes due to repeated assessment
+      rather than due to changes in their construct level. For instance,
+      if researchers intend to study people’s intelligence across
+      development and they use the same measure and stimuli at each
+      measurement occasion, it is possible that people may perform
+      better over time because they are learning the task and thus
+      improving their score—even if their intelligence has not changed.
+      In a longitudinal study of externalizing problems using repeated
+      surveys, retest effects might be most likely be detected in the
+      form of decreases for a person across ages, which may reflect
+      fatigue in reporting
+      (<xref alt="Averdijk 2014" rid="ref-Averdijk2014" ref-type="bibr">Averdijk
+      2014</xref>). Lower ratings for an individual across time may be
+      especially likely if the surveys include branching logic such that
+      the respondent learns that additional items appear whenever they
+      endorse an item (and that the additional items would not have
+      appeared had they not endorsed the item). Ways to reduce retest
+      effects include changing the measure and/or stimuli
+      (<xref alt="Tyrell et al. 2019" rid="ref-Tyrell2019" ref-type="bibr">Tyrell
+      et al. 2019</xref>) and increasing the retest interval. A way to
+      account for retest effects is through the use of accelerated
+      longitudinal (i.e., cross-sequential) designs that can separately
+      estimate the effects of age versus timepoint because, unlike in a
+      single-cohort longitudinal design, age and timepoint are decoupled
+      (<xref alt="Ferrer et al. 2004" rid="ref-Ferrer2004" ref-type="bibr">Ferrer
+      et al. 2004</xref>).</p>
     </sec>
     <sec id="period-and-cohort-effects">
       <title>Period and Cohort Effects</title>
@@ -1698,6 +1731,9 @@ cognitive skills across lengthy developmental periods.</p>
     <sec id="measurement-error">
       <title>Measurement Error</title>
     </sec>
+  </sec>
+  <sec id="selective-missingness-and-attrition">
+    <title>Selective Missingness and Attrition</title>
     <sec id="change-in-meaning-of-the-scores">
       <title>Change in Meaning of the Scores</title>
     </sec>
@@ -4305,6 +4341,58 @@ cognitive skills across lengthy developmental periods.</p>
       <publisher-name>Taylor &amp; Francis</publisher-name>
       <publisher-loc>New York, NY, US</publisher-loc>
       <year iso-8601-date="2011">2011</year>
+    </element-citation>
+  </ref>
+  <ref id="ref-Averdijk2014">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Averdijk</surname><given-names>Margit</given-names></name>
+      </person-group>
+      <article-title>Methodological challenges in the study of age−victimization patterns. Can we use the accelerated design of the NCVS to reconstruct victim careers?</article-title>
+      <source>International Review of Victimology</source>
+      <year iso-8601-date="2014">2014</year>
+      <volume>20</volume>
+      <issue>3</issue>
+      <uri>https://journals.sagepub.com/doi/abs/10.1177/0269758014537147</uri>
+      <pub-id pub-id-type="doi">10.1177/0269758014537147</pub-id>
+      <fpage>265</fpage>
+      <lpage>288</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Hertzog2003">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Hertzog</surname><given-names>Christopher</given-names></name>
+        <name><surname>Nesselroade</surname><given-names>John R.</given-names></name>
+      </person-group>
+      <article-title>Assessing psychological change in adulthood: An overview of methodological issues</article-title>
+      <source>Psychology and Aging</source>
+      <year iso-8601-date="2003">2003</year>
+      <volume>18</volume>
+      <issue>4</issue>
+      <uri>http://ezproxy.lib.indiana.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=pdh&amp;AN=pag-18-4-639&amp;site=ehost-live
+      christopher.hertzog@psych.gatech.edu</uri>
+      <pub-id pub-id-type="doi">10.1037/0882-7974.18.4.639</pub-id>
+      <fpage>639</fpage>
+      <lpage>657</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Ferrer2004">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Ferrer</surname><given-names>Emilio</given-names></name>
+        <name><surname>Salthouse</surname><given-names>Timothy A.</given-names></name>
+        <name><surname>Stewart</surname><given-names>Walter F.</given-names></name>
+        <name><surname>Schwartz</surname><given-names>Brian S.</given-names></name>
+      </person-group>
+      <article-title>Modeling age and retest processes in longitudinal studies of cognitive abilities</article-title>
+      <source>Psychology and Aging</source>
+      <year iso-8601-date="2004">2004</year>
+      <volume>19</volume>
+      <issue>2</issue>
+      <pub-id pub-id-type="doi">10.1037/0882-7974.19.2.243</pub-id>
+      <fpage>243</fpage>
+      <lpage>259</lpage>
     </element-citation>
   </ref>
 </ref-list>
