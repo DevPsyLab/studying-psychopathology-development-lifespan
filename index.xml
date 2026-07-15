@@ -1750,7 +1750,7 @@ cognitive skills across lengthy developmental periods.</p>
       <mml:math display="inline" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mtext mathvariant="normal">age</mml:mtext><mml:mo>=</mml:mo><mml:mtext mathvariant="normal">period</mml:mtext><mml:mo>−</mml:mo><mml:mtext mathvariant="normal">cohort</mml:mtext></mml:mrow></mml:math></alternatives></inline-formula>.</p>
       <p>Various types of cross-sectional and longitudinal designs are
       depicted in
-      <xref alt="Figure 10" rid="fig-longitudinalDesigns">Figure 10</xref>.<xref ref-type="fn" rid="fn6">6</xref>
+      <xref alt="Figure 10" rid="fig-longitudinalDesigns">Figure 10</xref>.
       In a cross-sectional study, any age-related differences are
       confounded with cohort differences. Thus, age-related differences
       in a cross-sectional study may not reflect development. In a
@@ -1805,7 +1805,7 @@ cognitive skills across lengthy developmental periods.</p>
   <sec id="factorial-invariance-across-time">
     <title>Factorial Invariance Across Time</title>
     <p>Traditionally, it had been considered necessary to establish
-    factorial invariance<xref ref-type="fn" rid="fn7">7</xref> of the
+    factorial invariance<xref ref-type="fn" rid="fn6">6</xref> of the
     measure(s) across time—that is, the measure(s) assess the construct
     in the same way across time—to study individuals’ change in those
     constructs
@@ -4459,54 +4459,6 @@ cognitive skills across lengthy developmental periods.</p>
       <lpage>259</lpage>
     </element-citation>
   </ref>
-  <ref id="ref-Schaie2005">
-    <element-citation publication-type="book">
-      <person-group person-group-type="author">
-        <name><surname>Schaie</surname><given-names>K. Warner</given-names></name>
-      </person-group>
-      <source>Developmental influences on adult intelligence: The Seattle Longitudinal Study</source>
-      <publisher-name>Oxford University Press</publisher-name>
-      <year iso-8601-date="2005">2005</year>
-    </element-citation>
-  </ref>
-  <ref id="ref-Masche2004">
-    <element-citation publication-type="article-journal">
-      <person-group person-group-type="author">
-        <name><surname>Masche</surname><given-names>J. Gowert</given-names></name>
-        <name><surname>Dulmen</surname><given-names>Manfred H. M. van</given-names></name>
-      </person-group>
-      <article-title>Advances in disentangling age, cohort, and time effects: No quadrature of the circle, but a help</article-title>
-      <source>Developmental Review</source>
-      <year iso-8601-date="2004">2004</year>
-      <volume>24</volume>
-      <issue>3</issue>
-      <uri>https://www.sciencedirect.com/science/article/pii/S0273229704000206</uri>
-      <pub-id pub-id-type="doi">10.1016/j.dr.2004.04.002</pub-id>
-      <fpage>322</fpage>
-      <lpage>342</lpage>
-    </element-citation>
-  </ref>
-  <ref id="ref-Whitbourne2019">
-    <element-citation>
-      <person-group person-group-type="author">
-        <name><surname>Whitbourne</surname><given-names>Susan Krauss</given-names></name>
-      </person-group>
-      <article-title>Longitudinal, cross-sectional, and sequential designs in lifespan developmental psychology</article-title>
-      <publisher-name>Oxford University Press</publisher-name>
-      <year iso-8601-date="2019">2019</year>
-    </element-citation>
-  </ref>
-  <ref id="ref-Little2024">
-    <element-citation publication-type="book">
-      <person-group person-group-type="author">
-        <name><surname>Little</surname><given-names>Todd D.</given-names></name>
-      </person-group>
-      <source>Longitudinal structural equation modeling</source>
-      <publisher-name>Guilford Publications</publisher-name>
-      <year iso-8601-date="2024">2024</year>
-      <edition>2nd</edition>
-    </element-citation>
-  </ref>
   <ref id="ref-Yang2013">
     <element-citation publication-type="book">
       <person-group person-group-type="author">
@@ -4613,20 +4565,7 @@ cognitive skills across lengthy developmental periods.</p>
     invariance”.</p>
   </fn>
   <fn id="fn6">
-    <label>6</label><p>Although the depictions of cohort-sequential and
-    cross-sequential designs differ from the depictions by Schaie
-    (<xref alt="2005" rid="ref-Schaie2005" ref-type="bibr">2005</xref>)
-    (i.e., they are reversed), they are consistent with contemporary
-    definitions of these designs
-    (<xref alt="Little 2024" rid="ref-Little2024" ref-type="bibr">Little
-    2024</xref>;
-    <xref alt="Masche and Dulmen 2004" rid="ref-Masche2004" ref-type="bibr">Masche
-    and Dulmen 2004</xref>;
-    <xref alt="Whitbourne 2019" rid="ref-Whitbourne2019" ref-type="bibr">Whitbourne
-    2019</xref>).</p>
-  </fn>
-  <fn id="fn7">
-    <label>7</label><p>Factorial invariance is also called “measurement
+    <label>6</label><p>Factorial invariance is also called “measurement
     invariance”. In this context, we prefer the term “factorial
     invariance” because, as described, the actual measures used may
     differ across time.</p>
