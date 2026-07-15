@@ -796,7 +796,39 @@ A way to account for retest effects is through the use of accelerated longitudin
 
 ### Period and Cohort Effects
 
-Various types of cross-sectional and longitudinal designs are depicted in @fig-longitudinalDesigns.
+Researchers are commonly interested in how people develop as a function of age.
+Age refers to a person's chronological age at the time of measurement.
+However, apparent age-related differences in a cross-sectional or longitudinal study could reflect period or cohort effects instead of development.
+Thus, it is important to consider and, to the extent possible, account for period and cohort effects.
+
+Period refers to the historical time at which measurement occurs.
+If a group of people are assessed during a given time period (e.g., during a war, recession, pandemic, or stressor), their scores could be influenced by the historical time period.
+The extent to which scores are attributable to the time period in which they are assessed is called a period effect.
+
+Cohort refers to a group of people who experience similar events or historical contexts at similar ages.
+Cohort commonly refers to birth cohort, which represents the group of people who were born around the same time.
+If a group of people were born around the same time (e.g., in 1940), their scores may differ from those of people born in other eras because they experienced different historical, social, educational, economic, or technological contexts during development.
+The extent to which scores are attributable to an individual's birth cohort is called a cohort effect.
+
+Part of the challenge of estimating the unique contributions of age, period, and cohort is that they are related.
+If you know two of these (e.g., age and period), you can determine the third (e.g., cohort).
+That is, $\text{age} = \text{period} - \text{cohort}$.
+
+Various types of cross-sectional and longitudinal designs are depicted in @fig-longitudinalDesigns.[^researchDesignsFootnote]
+In a cross-sectional study, any age-related differences are confounded with cohort differences.
+Thus, age-related differences in a cross-sectional study may not reflect development.
+In a single-cohort longitudinal design, any observed changes with age could be due to period effects (rather than developmental change associated with aging) or could be specific to that cohort.
+To combat these limitations, studies may employ longitudinal sequential designs, such as time-sequential, cross-sequential, or cohort-sequential designs.
+For instance, a cross-sequential study (also called accelerated longitudinal study) starts as a cross-sectional study with participants from multiple cohorts, and then follows the participants longitudinally.
+Longitudinal sequential designs provide greater leverage for distinguishing age, period, and cohort influences by collecting information from multiple cohorts at multiple periods and ages.
+Nevertheless, they do not completely eliminate the confounding between age, period, and cohort [@Rohrer2025].
+
+No research design can fully disentangle age, period, and cohort effects.
+Confidence that observed age-related differences reflect developmental change increases when there is converging evidence across multiple research designs.
+However, there may be ways, in a given study of accounting for period or cohort effects.
+For instance, in an accelerated longitudinal study, it would be valuable to evaluate the extent to which the differing cohorts are comparable—i.e., that they show similar scores at the same ages.
+Moreover, there is an entire set of analytic approaches, known as age-period-cohort analysis [@Yang2013], whose goal is to disentangle the effects of age, period, and cohort.
+@Rohrer2025 provides additional suggestions for considering age, period, and cohort effects.
 
 ![Research Designs by Time of Measurement and Cohort](Figures/longitudinalDesigns.png){
   #fig-longitudinalDesigns
@@ -814,9 +846,11 @@ Dashed line indicates different participants were assessed at each time of measu
 </p>
 :::
 
+[^researchDesignsFootnote]: Although the depictions of cohort-sequential and cross-sequential designs differ from the depictions by @Schaie2005 (i.e., they are reversed), they are consistent with contemporary definitions of these designs [@Little2024; @Masche2004; @Whitbourne2019].
+
 ### Measurement Error
 
-## Selective Missingness and Attrition
+### Selective Missingness and Attrition
 
 ### Change in Meaning of the Scores
 
