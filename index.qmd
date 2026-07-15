@@ -814,7 +814,7 @@ Part of the challenge of estimating the unique contributions of age, period, and
 If you know two of these (e.g., age and period), you can determine the third (e.g., cohort).
 That is, $\text{age} = \text{period} - \text{cohort}$.
 
-Various types of cross-sectional and longitudinal designs are depicted in @fig-longitudinalDesigns.[^researchDesignsFootnote]
+Various types of cross-sectional and longitudinal designs are depicted in @fig-longitudinalDesigns.
 In a cross-sectional study, any age-related differences are confounded with cohort differences.
 Thus, age-related differences in a cross-sectional study may not reflect development.
 In a single-cohort longitudinal design, any observed changes with age could be due to period effects (rather than developmental change associated with aging) or could be specific to that cohort.
@@ -834,7 +834,7 @@ Moreover, there is an entire set of analytic approaches, known as age-period-coh
   #fig-longitudinalDesigns
   width=100%
   fig-alt="Research Designs by Time Of Measurement and Cohort"
-  apa-note="Values in the cells are ages of the participants. Dashed line indicates different participants were assessed at each time of measurement. (Figure reprinted from @PetersenPrinciplesPsychAssessment, Petersen, I. T. (2026). *Principles of psychological assessment: With applied examples in R*. University of Iowa Libraries. <https://doi.org/10.25820/work.007199>)."
+  apa-note="Values in the cells are ages of the participants. Dashed line indicates different participants were assessed at each time of measurement. (Figure reprinted from @PetersenPrinciplesPsychAssessment, Petersen, I. T. (2026). *Principles of psychological assessment: With applied examples in R*. University of Iowa Libraries. <https://doi.org/10.25820/work.007199>). Although the depictions of cohort-sequential and cross-sequential designs differ from the depictions by @Schaie2005 (i.e., they are reversed), they are consistent with contemporary definitions of these designs [@Little2024; @Masche2004; @Whitbourne2019]."
   }
 
 ::: {.figure-caption .content-visible when-format="html"}
@@ -845,8 +845,6 @@ Dashed line indicates different participants were assessed at each time of measu
 (Figure reprinted from @PetersenPrinciplesPsychAssessment, Petersen, I. T. (2026). *Principles of psychological assessment: With applied examples in R*. University of Iowa Libraries. <https://doi.org/10.25820/work.007199>)
 </p>
 :::
-
-[^researchDesignsFootnote]: Although the depictions of cohort-sequential and cross-sequential designs differ from the depictions by @Schaie2005 (i.e., they are reversed), they are consistent with contemporary definitions of these designs [@Little2024; @Masche2004; @Whitbourne2019].
 
 ### Measurement Error
 
