@@ -798,7 +798,7 @@ A way to account for retest effects is through the use of accelerated longitudin
 
 Researchers are commonly interested in how people develop as a function of age.
 Age refers to a person's chronological age at the time of measurement.
-Age is a proxy for development—a stand-in for the myriad ways one's biology and social roles—and their corresponding employment, income, and family structure—change as people age [@Rohrer2025].
+Age is a proxy for development—a stand-in for the myriad ways one's biology and social roles—and one's corresponding employment, income, and family structure—change as people age [@Rohrer2025].
 However, apparent age-related differences in a cross-sectional or longitudinal study could reflect period or cohort effects instead of development.
 Thus, it is important to consider and, to the extent possible, account for period and cohort effects.
 
@@ -810,6 +810,7 @@ Cohort refers to a group of people who experience similar events or historical c
 Cohort commonly refers to birth cohort, which represents the group of people who were born around the same time.
 If a group of people were born around the same time (e.g., in 1940), their scores may differ from those of people born in other eras because they experienced different historical, social, educational, economic, or technological contexts during development.
 The extent to which scores are attributable to an individual's birth cohort is called a cohort effect—that is, "the (enduring, constant) effects of having been a certain age at a certain point in historic time." [@Rohrer2025, p. 2].
+Like age, period and cohort are proxy variables for other, causal processes.
 
 Part of the challenge of estimating the unique contributions of age, period, and cohort is that they are deterministically related.
 If you know two of these (e.g., age and period), you can determine the third (e.g., cohort).
