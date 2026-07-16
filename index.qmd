@@ -844,7 +844,8 @@ Moreover, there is an entire set of analytic approaches, known as age-period-coh
 *Note*.
 Values in the cells are ages of the participants.
 Dashed line indicates different participants were assessed at each time of measurement.
-(Figure reprinted from @PetersenPrinciplesPsychAssessment, Petersen, I. T. (2026). *Principles of psychological assessment: With applied examples in R*. University of Iowa Libraries. <https://doi.org/10.25820/work.007199>)
+(Figure reprinted from @PetersenPrinciplesPsychAssessment, Petersen, I. T. (2026). *Principles of psychological assessment: With applied examples in R*. University of Iowa Libraries. <https://doi.org/10.25820/work.007199>).
+Although the depictions of cohort-sequential and cross-sequential designs differ from the depictions by @Schaie2005 (i.e., they are reversed), they are consistent with contemporary definitions of these designs [@Little2024; @Masche2004; @Whitbourne2019].
 </p>
 :::
 
