@@ -792,6 +792,7 @@ For instance, if researchers intend to study people's intelligence across develo
 In a longitudinal study of externalizing problems using repeated surveys, retest effects might be most likely be detected in the form of decreases for a person across ages, which may reflect fatigue in reporting [@Averdijk2014].
 Lower ratings for an individual across time may be especially likely if the surveys include branching logic such that the respondent learns that additional items appear whenever they endorse an item (and that the additional items would not have appeared had they not endorsed the item).
 Ways to reduce retest effects include changing the measure and/or stimuli [@Tyrell2019] and increasing the retest interval.
+Thus, an added benefit of accounting for heterotypic continuity (by changing the measure across development to align with changes in the construct manifestation) is the reduction of retest effects.
 A way to account for retest effects is through the use of accelerated longitudinal (i.e., cross-sequential) designs that can separately estimate the effects of age versus timepoint because, unlike in a single-cohort longitudinal design, age and timepoint are decoupled [@Ferrer2004].
 
 ### Period and Cohort Effects
