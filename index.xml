@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-07-16">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-07-17">
 <year>2026</year>
 <month>7</month>
-<day>16</day>
+<day>17</day>
 </pub-date>
 
 
@@ -1709,11 +1709,15 @@ cognitive skills across lengthy developmental periods.</p>
       appeared had they not endorsed the item). Ways to reduce retest
       effects include changing the measure and/or stimuli
       (<xref alt="Tyrell et al. 2019" rid="ref-Tyrell2019" ref-type="bibr">Tyrell
-      et al. 2019</xref>) and increasing the retest interval. A way to
-      account for retest effects is through the use of accelerated
-      longitudinal (i.e., cross-sequential) designs that can separately
-      estimate the effects of age versus timepoint because, unlike in a
-      single-cohort longitudinal design, age and timepoint are decoupled
+      et al. 2019</xref>) and increasing the retest interval. Thus, an
+      added benefit of accounting for heterotypic continuity (by
+      changing the measure across development to align with changes in
+      the construct manifestation) is the reduction of retest effects. A
+      way to account for retest effects is through the use of
+      accelerated longitudinal (i.e., cross-sequential) designs that can
+      separately estimate the effects of age versus timepoint because,
+      unlike in a single-cohort longitudinal design, age and timepoint
+      are decoupled
       (<xref alt="Ferrer et al. 2004" rid="ref-Ferrer2004" ref-type="bibr">Ferrer
       et al. 2004</xref>).</p>
     </sec>
