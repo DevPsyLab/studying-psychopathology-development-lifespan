@@ -642,6 +642,7 @@ We also identified potential positive opposites of each facet.
 {{< embed notebooks/analyses.qmd#tbl-externalizingfacets >}}
 
 Because existing measures do not capture the full range of individual differences, this naturally further limits the measures' sensitivity to detect change (i.e., responsiveness), which is crucial for clinical utility and for longitudinal research.
+Moreover, it is important for measures not to show restriction of range owing to ceiling or floor effects.
 
 ### Not Well-Suited for Capturing Individuals' Change Over Time
 
@@ -855,6 +856,13 @@ Moreover, there is an entire set of analytic approaches, known as age-period-coh
 @Rohrer2025 provides additional suggestions for considering age, period, and cohort effects.
 
 ### Measurement Error
+
+A common way of examining change is with difference scores.
+However, difference scores are notoriously unreliable.
+Difference scores tend to be lower in reliability than each of the indices that compose it, especially when the two indexes are correlated because differences depend on the reliability of both indices in the subtraction [@Revelle2019].
+Ways of accounting for (random) measurement error include (a) combining multiple measures in estimation of a latent variable and (b) using growth curve models with at least three timepoints to estimate model-implied trajectories and reduce the influence of occasion-specific random error.
+
+In general, the inference of change is strengthened to the extent that: (a) the magnitude of the difference between the scores at the two time points is large (i.e., a large effect size), (b) the measurement error (unreliability) at both time points is small, (c) the measure has the same meaning and is on a comparable scale at each time point, and (d) evidence suggests that the differences across time are not likely to be due to potential confounds of change such as practice effects, cohort effects, period effects, or selective attrition.
 
 ### Selective Missingness and Attrition
 
