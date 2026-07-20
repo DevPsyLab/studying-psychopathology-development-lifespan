@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-07-17">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-07-20">
 <year>2026</year>
 <month>7</month>
-<day>17</day>
+<day>20</day>
 </pub-date>
 
 
@@ -1754,7 +1754,7 @@ cognitive skills across lengthy developmental periods.</p>
       a cohort effect—that is, “the (enduring, constant) effects of
       having been a certain age at a certain point in historic time.”
       (<xref alt="Rohrer 2025, 2" rid="ref-Rohrer2025" ref-type="bibr">Rohrer
-      2025, 2</xref>). Like age, period and cohort are proxy variables
+      2025, 2</xref>). Period and cohort—like age—are proxy variables
       for other, causal processes.</p>
       <p>Part of the challenge of estimating the unique contributions of
       age, period, and cohort is that they are deterministically
@@ -1773,39 +1773,48 @@ cognitive skills across lengthy developmental periods.</p>
       could be due to period effects (rather than developmental change
       associated with aging) or could be specific to that cohort. To
       combat these limitations, studies may employ longitudinal
-      sequential designs, such as time-sequential, cross-sequential, or
-      cohort-sequential designs. For instance, a cross-sequential study
-      (also called accelerated longitudinal study) starts as a
-      cross-sectional study with participants from multiple cohorts, and
-      then follows the participants longitudinally. Longitudinal
-      sequential designs provide greater leverage for distinguishing
-      age, period, and cohort influences by collecting information from
-      multiple cohorts at multiple periods and ages. Nevertheless, they
-      do not completely eliminate the confounding between age, period,
-      and cohort
+      sequential designs that incorporate multiple cohorts, such as
+      time-sequential, cross-sequential, or cohort-sequential designs.
+      For instance, a cross-sequential study (also called accelerated
+      longitudinal study) starts as a cross-sectional study with
+      participants from multiple cohorts, and then follows the
+      participants longitudinally. In a cohort-sequential design,
+      multiple cohorts enter the study at the same age (e.g., age 22)
+      and are then followed longitudinally (typically across the same
+      duration and ages), like starting a longitudinal study at the same
+      age over and over again. A time-sequential design is an extension
+      of a time-lag design. A time-lag design assesses multiple cohorts
+      at the same age (e.g., age 12). A time-sequential design adds age
+      groups to a time-lag design, repeatedly assessing the same age
+      range (e.g., ages 12–18), with some participants followed
+      longitudinally.</p>
+      <fig id="fig-longitudinalDesigns">
+        <caption><p>Figure 10: Research Designs by Time of Measurement
+        and Cohort</p></caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/longitudinalDesigns.png" />
+      </fig>
+      <p>Longitudinal sequential designs provide greater leverage for
+      distinguishing age, period, and cohort influences by collecting
+      information from multiple cohorts at multiple periods and ages.
+      Nevertheless, they do not completely eliminate the confounding
+      between age, period, and cohort
       (<xref alt="Rohrer 2025" rid="ref-Rohrer2025" ref-type="bibr">Rohrer
-      2025</xref>).</p>
-      <p>No research design can fully disentangle age, period, and
-      cohort effects. Confidence that observed age-related differences
-      reflect developmental change increases when there is converging
-      evidence across multiple research designs. However, there may be
-      ways, in a given study of accounting for period or cohort effects.
-      For instance, in an accelerated longitudinal study, it would be
-      valuable to evaluate the extent to which the differing cohorts are
-      comparable—i.e., that they show similar scores at the same ages.
-      Moreover, there is an entire set of analytic approaches, known as
-      age-period-cohort analysis
+      2025</xref>). No research design can fully disentangle age,
+      period, and cohort effects. Confidence that observed age-related
+      differences reflect developmental change increases when there is
+      converging evidence across multiple research designs. However,
+      there may be ways in a given study of accounting for period or
+      cohort effects. For instance, in an accelerated longitudinal
+      study, it would be valuable to evaluate the extent to which the
+      differing cohorts are comparable—i.e., that they show similar
+      scores at the same ages. Moreover, there is an entire set of
+      analytic approaches, known as age-period-cohort analysis
       (<xref alt="Yang and Land 2013" rid="ref-Yang2013" ref-type="bibr">Yang
       and Land 2013</xref>), whose goal is to disentangle the effects of
       age, period, and cohort. Rohrer
       (<xref alt="2025" rid="ref-Rohrer2025" ref-type="bibr">2025</xref>)
       provides additional suggestions for considering age, period, and
       cohort effects.</p>
-      <fig id="fig-longitudinalDesigns">
-        <caption><p>Figure 10: Research Designs by Time of Measurement
-        and Cohort</p></caption>
-        <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/longitudinalDesigns.png" />
-      </fig>
     </sec>
     <sec id="measurement-error">
       <title>Measurement Error</title>
