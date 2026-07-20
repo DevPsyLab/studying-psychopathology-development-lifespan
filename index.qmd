@@ -860,6 +860,16 @@ Moreover, there is an entire set of analytic approaches, known as age-period-coh
 
 ### Change in Meaning of the Scores
 
+Another potential confound of change is if the same score has different meaning (with respect to the construct) at different points in development.
+That is, the scores are not on the same number line across time—they do not have the same scale or location across ages.
+If scores do not have the same scale or location across ages, any inferences about change (or lack thereof) could be incorrect.
+Consider, for example, if a behavior such as physical aggression becomes more severe (i.e., higher difficulty) with age.
+In this example, the same score—i.e., endorsement of physical aggression—would reflect a higher level externalizing behavior in adulthood compared to early childhood.
+Or, consider if a behavior such as disobedience becomes less construct-valid (i.e., lower discrimination) with age.
+In this example, the same score difference—i.e., between endorsement (1) versus non-endorsement (0) of disobedience to authority—would reflect a greater difference in the level of externalizing behavior in early childhood compared to adulthood.
+Thus, it is important to consider and account for changes in the meaning of scores across development.
+Next, we describe longitudinal factorial invariance as a way to evaluate—and account for—the possibility that scores have changed in meaning across ages.
+
 ## Factorial Invariance Across Time
 
 Traditionally, it had been considered necessary to establish factorial invariance[^invarianceFootnote] of the measure(s) across time—that is, the measure(s) assess the construct in the same way across time—to study individuals' change in those constructs [@Widaman2010].
