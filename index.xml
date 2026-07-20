@@ -1419,7 +1419,8 @@ cognitive skills across lengthy developmental periods.</p>
       individual differences, this naturally further limits the
       measures’ sensitivity to detect change (i.e., responsiveness),
       which is crucial for clinical utility and for longitudinal
-      research.</p>
+      research. Moreover, it is important for measures not to show
+      restriction of range owing to ceiling or floor effects.</p>
     </sec>
     <sec id="not-well-suited-for-capturing-individuals-change-over-time">
       <title>Not Well-Suited for Capturing Individuals’ Change Over
@@ -1818,6 +1819,28 @@ cognitive skills across lengthy developmental periods.</p>
     </sec>
     <sec id="measurement-error">
       <title>Measurement Error</title>
+      <p>A common way of examining change is with difference scores.
+      However, difference scores are notoriously unreliable. Difference
+      scores tend to be lower in reliability than each of the indices
+      that compose it, especially when the two indexes are correlated
+      because differences depend on the reliability of both indices in
+      the subtraction
+      (<xref alt="Revelle and Condon 2019" rid="ref-Revelle2019" ref-type="bibr">Revelle
+      and Condon 2019</xref>). Ways of accounting for (random)
+      measurement error include (a) combining multiple measures in
+      estimation of a latent variable and (b) using growth curve models
+      with at least three timepoints to estimate model-implied
+      trajectories and reduce the influence of occasion-specific random
+      error.</p>
+      <p>In general, the inference of change is strengthened to the
+      extent that: (a) the magnitude of the difference between the
+      scores at the two time points is large (i.e., a large effect
+      size), (b) the measurement error (unreliability) at both time
+      points is small, (c) the measure has the same meaning and is on a
+      comparable scale at each time point, and (d) evidence suggests
+      that the differences across time are not likely to be due to
+      potential confounds of change such as practice effects, cohort
+      effects, period effects, or selective attrition.</p>
     </sec>
     <sec id="selective-missingness-and-attrition">
       <title>Selective Missingness and Attrition</title>
@@ -4529,6 +4552,22 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1177/25152459251342750</pub-id>
       <fpage>25152459251342750</fpage>
       <lpage></lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Revelle2019">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Revelle</surname><given-names>William</given-names></name>
+        <name><surname>Condon</surname><given-names>David M.</given-names></name>
+      </person-group>
+      <article-title>Reliability from \alpha to \omega: A tutorial</article-title>
+      <source>Psychological Assessment</source>
+      <year iso-8601-date="2019">2019</year>
+      <volume>31</volume>
+      <issue>12</issue>
+      <pub-id pub-id-type="doi">10.1037/pas0000754</pub-id>
+      <fpage>1395</fpage>
+      <lpage>1411</lpage>
     </element-citation>
   </ref>
 </ref-list>
