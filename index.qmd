@@ -866,6 +866,8 @@ In general, the inference of change is strengthened to the extent that: (a) the 
 
 ### Selective Missingness and Attrition
 
+<!-- Nicholson2017 -->
+
 ### Change in Meaning of the Scores
 
 Another potential confound of change is if the same score has different meaning (with respect to the construct) at different points in development.
@@ -913,7 +915,7 @@ Approximate measurement invariance is more accurate than full or partial measure
 Approximate measurement invariance has also been applied in the longitudinal context [e.g., @Seddig2018; @Winter2020].
 Robitzsch and Lüdtke [-@Robitzsch2023, p. 859] argue that establishing factorial invariance is neither necessary nor sufficient for comparing latent means, and they note that "there is no support for preferring the partial invariance approach over competing approaches, such as invariance alignment, robust linking, or Bayesian approximate invariance."
 
-<!-- at least approximate measurement invariance or partial strong invariance;  -->
+<!-- at least approximate measurement invariance or partial strong invariance; -->
 <!-- Quantitude; many papers -->
 
 [^invarianceFootnote]: Factorial invariance is also called "measurement invariance".
