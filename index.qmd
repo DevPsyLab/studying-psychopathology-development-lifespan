@@ -785,6 +785,7 @@ Moreover, when treating time continuously, the functional form of any DIF as a f
 ## Potential Confounds of Change {#sec-potential-confounds-of-change}
 
 It is also important for longitudinal research to consider and, to the extent possible, account for potential confounds of change, such as practice effects, period and cohort effects, measurement error, selective attrition, and changes in the meaning of the scores [@Hertzog2003].
+By confound of change, we mean that such effects can make it appear that people have changed in their level on the construct when, it reality, they have not changed (or vice versa).
 
 ### Practice/Retest Effects
 
@@ -857,16 +858,28 @@ Moreover, there is an entire set of analytic approaches, known as age-period-coh
 
 ### Measurement Error
 
-A common way of examining change is with difference scores.
-However, difference scores are notoriously unreliable.
+Measurement error is another potential confound of change that can make it look like change has occurred when, in reality, change has not occurred.
+Consider the difference between scores at two measurement occasions, a so called "difference score", which is a common way of examining change.
+Difference scores are notoriously unreliable.
 Difference scores tend to be lower in reliability than each of the indices that compose it, especially when the two indexes are correlated because differences depend on the reliability of both indices in the subtraction [@Revelle2019].
+To be reliable, difference scores require high reliability of the individual indices compared to the correlation between them.
+That is, the more two things are the same thing, the more likely that subtracting one from the other leaves measurement error rather than construct variance.
 Ways of accounting for (random) measurement error include (a) combining multiple measures in estimation of a latent variable and (b) using growth curve models with at least three timepoints to estimate model-implied trajectories and reduce the influence of occasion-specific random error.
 
-In general, the inference of change is strengthened to the extent that: (a) the magnitude of the difference between the scores at the two time points is large (i.e., a large effect size), (b) the measurement error (unreliability) at both time points is small, (c) the measure has the same meaning and is on a comparable scale at each time point, and (d) evidence suggests that the differences across time are not likely to be due to potential confounds of change such as practice effects, cohort effects, period effects, or selective attrition.
+In general, the inference of change is strengthened to the extent that: (a) the magnitude of the difference between the scores at the time points is large (i.e., a large effect size), (b) the measurement error (unreliability) at each time point is small, (c) the measure has the same meaning and is on a comparable scale at each time point, and (d) evidence suggests that the differences across time are not likely to be due to potential confounds of change such as practice effects, cohort effects, period effects, or selective attrition.
 
 ### Selective Missingness and Attrition
 
-<!-- Nicholson2017 -->
+Another potential confound of change is selective (or systematic) missingness or attrition.
+If people who drop out of a longitudinal study differ in systematic ways from those who are retained, inferences about growth patterns and about associations with growth parameters can be biased.
+Consider an intervention study with two groups: a treatment group that received a medication and a control group that received a placebo.
+The control group showed a 30% reduction in externalizing problems, on average.
+In the treatment group, some individuals showed a reduction in externalizing problems whereas others dropped out of the study due to side effects or worsening behavior.
+If we analyzed only those who were followed until the end of the study, it might appear that the treatment was effective merely because we were excluding individuals for whom the treatment was harmful.
+Thus, it is important to report the extent of missingness, whether missingness is systematically related to demographic and study variables, and to leverage modern approaches for handling missing data so one does not exclude participants in the analysis merely because they have missing data [@Nicholson2017].
+Multiple imputation and full information maximum likelihood are useful if data are missing at random or completely at random [@Nicholson2017].
+Enders [-@Enders2022; -@Enders2025] provides contemporary guidelines for handling missing data, including when data are missing not at random using selection models and pattern mixture models—including in longitudinal studies [@Enders2022].
+@Nicholson2017 provides recommendations for reporting about attrition and missingness in longitudinal studies.
 
 ### Change in Meaning of the Scores
 
