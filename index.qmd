@@ -970,7 +970,3 @@ Although this manuscript focuses on development of psychopathology, the principl
 
 ::: {#refs}
 :::
-
-# This Section Is an Appendix {#apx-a}
-
-# Another Appendix {#apx-b}
