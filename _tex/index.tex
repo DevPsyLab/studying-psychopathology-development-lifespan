@@ -190,7 +190,7 @@
 
 \leftheader{Petersen, Demko and Schumer}
 
-\date{2026-07-21}
+\date{2026-07-22}
 
 
 \abstract{The field has not adequately studied individuals' development
@@ -1845,7 +1845,10 @@ It is also important for longitudinal research to consider and, to the
 extent possible, account for potential confounds of change, such as
 practice effects, period and cohort effects, measurement error,
 selective attrition, and changes in the meaning of the scores
-(\citeproc{ref-Hertzog2003}{Hertzog \& Nesselroade, 2003}).
+(\citeproc{ref-Hertzog2003}{Hertzog \& Nesselroade, 2003}). By confound
+of change, we mean that such effects can make it appear that people have
+changed in their level on the construct when, it reality, they have not
+changed (or vice versa).
 
 \subsubsection{Practice/Retest Effects}\label{practiceretest-effects}
 
@@ -1981,21 +1984,28 @@ considering age, period, and cohort effects.
 
 \subsubsection{Measurement Error}\label{measurement-error}
 
-A common way of examining change is with difference scores. However,
-difference scores are notoriously unreliable. Difference scores tend to
-be lower in reliability than each of the indices that compose it,
-especially when the two indexes are correlated because differences
-depend on the reliability of both indices in the subtraction
-(\citeproc{ref-Revelle2019}{Revelle \& Condon, 2019}). Ways of
+Measurement error is another potential confound of change that can make
+it look like change has occurred when, in reality, change has not
+occurred. Consider the difference between scores at two measurement
+occasions, a so called ``difference score'', which is a common way of
+examining change. Difference scores are notoriously unreliable.
+Difference scores tend to be lower in reliability than each of the
+indices that compose it, especially when the two indexes are correlated
+because differences depend on the reliability of both indices in the
+subtraction (\citeproc{ref-Revelle2019}{Revelle \& Condon, 2019}). To be
+reliable, difference scores require high reliability of the individual
+indices compared to the correlation between them. That is, the more two
+things are the same thing, the more likely that subtracting one from the
+other leaves measurement error rather than construct variance. Ways of
 accounting for (random) measurement error include (a) combining multiple
 measures in estimation of a latent variable and (b) using growth curve
 models with at least three timepoints to estimate model-implied
 trajectories and reduce the influence of occasion-specific random error.
 
 In general, the inference of change is strengthened to the extent that:
-(a) the magnitude of the difference between the scores at the two time
+(a) the magnitude of the difference between the scores at the time
 points is large (i.e., a large effect size), (b) the measurement error
-(unreliability) at both time points is small, (c) the measure has the
+(unreliability) at each time point is small, (c) the measure has the
 same meaning and is on a comparable scale at each time point, and (d)
 evidence suggests that the differences across time are not likely to be
 due to potential confounds of change such as practice effects, cohort
@@ -2003,6 +2013,35 @@ effects, period effects, or selective attrition.
 
 \subsubsection{Selective Missingness and
 Attrition}\label{selective-missingness-and-attrition}
+
+Another potential confound of change is selective (or systematic)
+missingness or attrition. If people who drop out of a longitudinal study
+differ in systematic ways from those who are retained, inferences about
+growth patterns and about associations with growth parameters can be
+biased. Consider an intervention study with two groups: a treatment
+group that received a medication and a control group that received a
+placebo. The control group showed a 30\% reduction in externalizing
+problems, on average. In the treatment group, some individuals showed a
+reduction in externalizing problems whereas others dropped out of the
+study due to side effects or worsening behavior. If we analyzed only
+those who were followed until the end of the study, it might appear that
+the treatment was effective merely because we were excluding individuals
+for whom the treatment was harmful. Thus, it is important to report the
+extent of missingness, whether missingness is systematically related to
+demographic and study variables, and to leverage modern approaches for
+handling missing data so one does not exclude participants in the
+analysis merely because they have missing data
+(\citeproc{ref-Nicholson2017}{Nicholson et al., 2017}). Multiple
+imputation and full information maximum likelihood are useful if data
+are missing at random or completely at random
+(\citeproc{ref-Nicholson2017}{Nicholson et al., 2017}). Enders
+(\citeproc{ref-Enders2022}{2022}, \citeproc{ref-Enders2025}{2025})
+provides contemporary guidelines for handling missing data, including
+when data are missing not at random using selection models and pattern
+mixture models---including in longitudinal studies
+(\citeproc{ref-Enders2022}{Enders, 2022}). Nicholson et al.
+(\citeproc{ref-Nicholson2017}{2017}) provides recommendations for
+reporting about attrition and missingness in longitudinal studies.
 
 \subsubsection{Change in Meaning of the
 Scores}\label{change-in-meaning-of-the-scores}
@@ -2400,6 +2439,15 @@ differences in self-reported and official estimates of delinquency.
 \emph{American Sociological Review}, \emph{45}(1), 95--110.
 \url{https://doi.org/10.2307/2095245}
 
+\bibitem[\citeproctext]{ref-Enders2022}
+Enders, C. K. (2022). \emph{Applied missing data analysis}. Guilford
+Publications.
+
+\bibitem[\citeproctext]{ref-Enders2025}
+Enders, C. K. (2025). Missing data: An update on the state of the art.
+\emph{Psychological Methods}, \emph{30}(2), 322--339.
+\url{https://doi.org/10.1037/met0000563}
+
 \bibitem[\citeproctext]{ref-Fairchild2013}
 Fairchild, G., Goozen, S. H. M. van, Calder, A. J., \& Goodyer, I. M.
 (2013). Research review: Evaluating and reformulating the developmental
@@ -2715,6 +2763,12 @@ change from the {Fels Longitudinal Study}. \emph{Vita Humana},
 Muthén, B. O., \& Asparouhov, T. (2014). {IRT} studies of many groups:
 The alignment method. \emph{Frontiers in Psychology}, \emph{5}(978).
 \url{https://doi.org/10.3389/fpsyg.2014.00978}
+
+\bibitem[\citeproctext]{ref-Nicholson2017}
+Nicholson, J. S., Deboeck, P. R., \& Howard, W. (2017). Attrition in
+developmental psychology: A review of modern missing data reporting and
+practices. \emph{International Journal of Behavioral Development},
+\emph{41}(1), 143--153. \url{https://doi.org/10.1177/0165025415618275}
 
 \bibitem[\citeproctext]{ref-Nickerson2026}
 Nickerson, A. B., \& Fredrick, S. S. (2026). Cyberbullying and mental

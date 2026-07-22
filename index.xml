@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-07-21">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-07-22">
 <year>2026</year>
 <month>7</month>
-<day>21</day>
+<day>22</day>
 </pub-date>
 
 
@@ -1687,7 +1687,10 @@ cognitive skills across lengthy developmental periods.</p>
     such as practice effects, period and cohort effects, measurement
     error, selective attrition, and changes in the meaning of the scores
     (<xref alt="Hertzog and Nesselroade 2003" rid="ref-Hertzog2003" ref-type="bibr">Hertzog
-    and Nesselroade 2003</xref>).</p>
+    and Nesselroade 2003</xref>). By confound of change, we mean that
+    such effects can make it appear that people have changed in their
+    level on the construct when, it reality, they have not changed (or
+    vice versa).</p>
     <sec id="practiceretest-effects">
       <title>Practice/Retest Effects</title>
       <p>Practice effects (also called retest effects) occur to the
@@ -1819,31 +1822,74 @@ cognitive skills across lengthy developmental periods.</p>
     </sec>
     <sec id="measurement-error">
       <title>Measurement Error</title>
-      <p>A common way of examining change is with difference scores.
-      However, difference scores are notoriously unreliable. Difference
-      scores tend to be lower in reliability than each of the indices
-      that compose it, especially when the two indexes are correlated
-      because differences depend on the reliability of both indices in
-      the subtraction
+      <p>Measurement error is another potential confound of change that
+      can make it look like change has occurred when, in reality, change
+      has not occurred. Consider the difference between scores at two
+      measurement occasions, a so called “difference score”, which is a
+      common way of examining change. Difference scores are notoriously
+      unreliable. Difference scores tend to be lower in reliability than
+      each of the indices that compose it, especially when the two
+      indexes are correlated because differences depend on the
+      reliability of both indices in the subtraction
       (<xref alt="Revelle and Condon 2019" rid="ref-Revelle2019" ref-type="bibr">Revelle
-      and Condon 2019</xref>). Ways of accounting for (random)
-      measurement error include (a) combining multiple measures in
-      estimation of a latent variable and (b) using growth curve models
-      with at least three timepoints to estimate model-implied
-      trajectories and reduce the influence of occasion-specific random
-      error.</p>
+      and Condon 2019</xref>). To be reliable, difference scores require
+      high reliability of the individual indices compared to the
+      correlation between them. That is, the more two things are the
+      same thing, the more likely that subtracting one from the other
+      leaves measurement error rather than construct variance. Ways of
+      accounting for (random) measurement error include (a) combining
+      multiple measures in estimation of a latent variable and (b) using
+      growth curve models with at least three timepoints to estimate
+      model-implied trajectories and reduce the influence of
+      occasion-specific random error.</p>
       <p>In general, the inference of change is strengthened to the
       extent that: (a) the magnitude of the difference between the
-      scores at the two time points is large (i.e., a large effect
-      size), (b) the measurement error (unreliability) at both time
-      points is small, (c) the measure has the same meaning and is on a
-      comparable scale at each time point, and (d) evidence suggests
-      that the differences across time are not likely to be due to
-      potential confounds of change such as practice effects, cohort
-      effects, period effects, or selective attrition.</p>
+      scores at the time points is large (i.e., a large effect size),
+      (b) the measurement error (unreliability) at each time point is
+      small, (c) the measure has the same meaning and is on a comparable
+      scale at each time point, and (d) evidence suggests that the
+      differences across time are not likely to be due to potential
+      confounds of change such as practice effects, cohort effects,
+      period effects, or selective attrition.</p>
     </sec>
     <sec id="selective-missingness-and-attrition">
       <title>Selective Missingness and Attrition</title>
+      <p>Another potential confound of change is selective (or
+      systematic) missingness or attrition. If people who drop out of a
+      longitudinal study differ in systematic ways from those who are
+      retained, inferences about growth patterns and about associations
+      with growth parameters can be biased. Consider an intervention
+      study with two groups: a treatment group that received a
+      medication and a control group that received a placebo. The
+      control group showed a 30% reduction in externalizing problems, on
+      average. In the treatment group, some individuals showed a
+      reduction in externalizing problems whereas others dropped out of
+      the study due to side effects or worsening behavior. If we
+      analyzed only those who were followed until the end of the study,
+      it might appear that the treatment was effective merely because we
+      were excluding individuals for whom the treatment was harmful.
+      Thus, it is important to report the extent of missingness, whether
+      missingness is systematically related to demographic and study
+      variables, and to leverage modern approaches for handling missing
+      data so one does not exclude participants in the analysis merely
+      because they have missing data
+      (<xref alt="Nicholson et al. 2017" rid="ref-Nicholson2017" ref-type="bibr">Nicholson
+      et al. 2017</xref>). Multiple imputation and full information
+      maximum likelihood are useful if data are missing at random or
+      completely at random
+      (<xref alt="Nicholson et al. 2017" rid="ref-Nicholson2017" ref-type="bibr">Nicholson
+      et al. 2017</xref>). Enders
+      (<xref alt="2022" rid="ref-Enders2022" ref-type="bibr">2022</xref>,
+      <xref alt="2025" rid="ref-Enders2025" ref-type="bibr">2025</xref>)
+      provides contemporary guidelines for handling missing data,
+      including when data are missing not at random using selection
+      models and pattern mixture models—including in longitudinal
+      studies
+      (<xref alt="Enders 2022" rid="ref-Enders2022" ref-type="bibr">Enders
+      2022</xref>). Nicholson et al.
+      (<xref alt="2017" rid="ref-Nicholson2017" ref-type="bibr">2017</xref>)
+      provides recommendations for reporting about attrition and
+      missingness in longitudinal studies.</p>
     </sec>
     <sec id="change-in-meaning-of-the-scores">
       <title>Change in Meaning of the Scores</title>
@@ -4568,6 +4614,49 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1037/pas0000754</pub-id>
       <fpage>1395</fpage>
       <lpage>1411</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Nicholson2017">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Nicholson</surname><given-names>Jody S.</given-names></name>
+        <name><surname>Deboeck</surname><given-names>Pascal R.</given-names></name>
+        <name><surname>Howard</surname><given-names>Waylon</given-names></name>
+      </person-group>
+      <article-title>Attrition in developmental psychology: A review of modern missing data reporting and practices</article-title>
+      <source>International Journal of Behavioral Development</source>
+      <year iso-8601-date="2017">2017</year>
+      <volume>41</volume>
+      <issue>1</issue>
+      <uri>https://journals.sagepub.com/doi/abs/10.1177/0165025415618275</uri>
+      <pub-id pub-id-type="doi">10.1177/0165025415618275</pub-id>
+      <fpage>143</fpage>
+      <lpage>153</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Enders2022">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name><surname>Enders</surname><given-names>Craig K.</given-names></name>
+      </person-group>
+      <source>Applied missing data analysis</source>
+      <publisher-name>Guilford Publications</publisher-name>
+      <year iso-8601-date="2022">2022</year>
+    </element-citation>
+  </ref>
+  <ref id="ref-Enders2025">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Enders</surname><given-names>Craig K.</given-names></name>
+      </person-group>
+      <article-title>Missing data: An update on the state of the art</article-title>
+      <source>Psychological Methods</source>
+      <year iso-8601-date="2025">2025</year>
+      <volume>30</volume>
+      <issue>2</issue>
+      <pub-id pub-id-type="doi">10.1037/met0000563</pub-id>
+      <fpage>322</fpage>
+      <lpage>339</lpage>
     </element-citation>
   </ref>
 </ref-list>
