@@ -2062,6 +2062,43 @@ cognitive skills across lengthy developmental periods.</p>
   </sec>
   <sec id="integration-across-multiple-sources">
     <title>Integration Across Multiple Sources</title>
+    <p>There is widespread agreement that including multiple sources of
+    data—e.g.. multiple informants or multiple measurement methods—is
+    preferable. However, there is less agreement about how to use the
+    multiple sources of data
+    (<xref alt="Bauer et al. 2013" rid="ref-Bauer2013" ref-type="bibr">Bauer
+    et al. 2013</xref>), particularly because informants often show low
+    correspondence with each other when rating the same person. Some of
+    these discrepancies may be confounded by the person behaving
+    differently in different contexts or with different people. The
+    inclusion of multiple measurement methods can help account for
+    measurement error given the considerable variance that is
+    attributable to method bias
+    (<xref alt="Podsakoff et al. 2012" rid="ref-Podsakoff2012" ref-type="bibr">Podsakoff
+    et al. 2012</xref>). The inclusion of multiple informants can be
+    relevant for informing about the pervasiveness of a person’s
+    behavior across contexts (e.g., home, school). The most accurate
+    informant(s) for a person can change with development, so finding
+    ways to leverage the information from multiple informants will be
+    crucial to study development of psychopathology across the lifespan
+    (<xref alt="De Los Reyes 2026" rid="ref-DeLosReyes2026" ref-type="bibr">De
+    Los Reyes 2026</xref>). Some researchers advocate for integrating
+    scores using principal component approaches (while disentangling
+    variance attributable to trait, perspective, and context;
+    <xref alt="Kraemer et al. 2003" rid="ref-Kraemer2003" ref-type="bibr">Kraemer
+    et al. 2003</xref>) or latent variable approaches (e.g.,
+    <xref alt="Bauer et al. 2013" rid="ref-Bauer2013" ref-type="bibr">Bauer
+    et al. 2013</xref>), and others advocate for keeping different
+    informants’ ratings separate without integrating them (but including
+    them in the same model;
+    <xref alt="Aitken et al. 2023" rid="ref-Aitken2023" ref-type="bibr">Aitken
+    et al. 2023</xref>). De Los Reyes et al.
+    (<xref alt="2013" rid="ref-DeLosReyes2013" ref-type="bibr">2013</xref>)
+    provide the Operations Triad Model as a framework for using and
+    interpreting reports from multiple informants (for more information,
+    see
+    <xref alt="Makol et al. 2025" rid="ref-Makol2025" ref-type="bibr">Makol
+    et al. 2025</xref>).</p>
   </sec>
   <sec id="obsolescence-of-items-and-measures">
     <title>Obsolescence of Items and Measures</title>
@@ -4673,6 +4710,116 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1037/met0000563</pub-id>
       <fpage>322</fpage>
       <lpage>339</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Bauer2013">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Bauer</surname><given-names>Daniel J.</given-names></name>
+        <name><surname>Howard</surname><given-names>Andrea L.</given-names></name>
+        <name><surname>Baldasaro</surname><given-names>Ruth E.</given-names></name>
+        <name><surname>Curran</surname><given-names>Patrick J.</given-names></name>
+        <name><surname>Hussong</surname><given-names>Andrea M.</given-names></name>
+        <name><surname>Chassin</surname><given-names>Laurie</given-names></name>
+        <name><surname>Zucker</surname><given-names>Robert A.</given-names></name>
+      </person-group>
+      <article-title>A trifactor model for integrating ratings across multiple informants</article-title>
+      <source>Psychological Methods</source>
+      <year iso-8601-date="2013">2013</year>
+      <volume>18</volume>
+      <issue>4</issue>
+      <pub-id pub-id-type="doi">10.1037/a0032475</pub-id>
+      <fpage>475</fpage>
+      <lpage>493</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Aitken2023">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Aitken</surname><given-names>Madison</given-names></name>
+        <name><surname>Plamondon</surname><given-names>André</given-names></name>
+        <name><surname>Krzeczkowski</surname><given-names>John</given-names></name>
+        <name><surname>Kil</surname><given-names>Hali</given-names></name>
+        <name><surname>Andrade</surname><given-names>Brendan F.</given-names></name>
+      </person-group>
+      <article-title>Systematic integration of multi-informant externalizing ratings in clinical settings</article-title>
+      <source>Research on Child and Adolescent Psychopathology</source>
+      <year iso-8601-date="2023">2023</year>
+      <uri>https://doi.org/10.1007/s10802-023-01119-z</uri>
+      <pub-id pub-id-type="doi">10.1007/s10802-023-01119-z</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="ref-Kraemer2003">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Kraemer</surname><given-names>Helena C.</given-names></name>
+        <name><surname>Measelle</surname><given-names>Jeffrey R.</given-names></name>
+        <name><surname>Ablow</surname><given-names>Jennifer C.</given-names></name>
+        <name><surname>Essex</surname><given-names>Marilyn J.</given-names></name>
+        <name><surname>Boyce</surname><given-names>W. Thomas</given-names></name>
+        <name><surname>Kupfer</surname><given-names>David J.</given-names></name>
+      </person-group>
+      <article-title>A new approach to integrating data from multiple informants in psychiatric assessment and research: Mixing and matching contexts and perspectives</article-title>
+      <source>American Journal of Psychiatry</source>
+      <year iso-8601-date="2003">2003</year>
+      <volume>160</volume>
+      <issue>9</issue>
+      <uri>https://ajp.psychiatryonline.org/doi/abs/10.1176/appi.ajp.160.9.1566</uri>
+      <pub-id pub-id-type="doi">10.1176/appi.ajp.160.9.1566</pub-id>
+      <fpage>1566</fpage>
+      <lpage>1577</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Podsakoff2012">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Podsakoff</surname><given-names>Philip M.</given-names></name>
+        <name><surname>MacKenzie</surname><given-names>Scott B.</given-names></name>
+        <name><surname>Podsakoff</surname><given-names>Nathan P.</given-names></name>
+      </person-group>
+      <article-title>Sources of method bias in social science research and recommendations on how to control it</article-title>
+      <source>Annual Review of Psychology</source>
+      <year iso-8601-date="2012">2012</year>
+      <volume>63</volume>
+      <issue>1</issue>
+      <uri>https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-120710-100452</uri>
+      <pub-id pub-id-type="doi">10.1146/annurev-psych-120710-100452</pub-id>
+      <fpage>539</fpage>
+      <lpage>569</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-DeLosReyes2013">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>De Los Reyes</surname><given-names>Andres</given-names></name>
+        <name><surname>Thomas</surname><given-names>Sarah A.</given-names></name>
+        <name><surname>Goodman</surname><given-names>Kimberly L.</given-names></name>
+        <name><surname>Kundey</surname><given-names>Shannon M. A.</given-names></name>
+      </person-group>
+      <article-title>Principles underlying the use of multiple informants’ reports</article-title>
+      <source>Annual Review of Clinical Psychology</source>
+      <year iso-8601-date="2013">2013</year>
+      <volume>9</volume>
+      <issue>1</issue>
+      <uri>https://www.annualreviews.org/doi/abs/10.1146/annurev-clinpsy-050212-185617</uri>
+      <pub-id pub-id-type="doi">10.1146/annurev-clinpsy-050212-185617</pub-id>
+      <fpage>123</fpage>
+      <lpage>149</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Makol2025">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name><surname>Makol</surname><given-names>Bridget A.</given-names></name>
+        <name><surname>Yang</surname><given-names>Junhui</given-names></name>
+        <name><surname>Wang</surname><given-names>Mo</given-names></name>
+        <name><surname>De Los Reyes</surname><given-names>Andres</given-names></name>
+      </person-group>
+      <source>Youth development in context: Integrating multiple informants to assess behavior</source>
+      <publisher-name>Springer Nature Switzerland</publisher-name>
+      <publisher-loc>Cham, Switzerland</publisher-loc>
+      <year iso-8601-date="2025">2025</year>
+      <pub-id pub-id-type="doi">10.1007/978-3-031-80549-3</pub-id>
     </element-citation>
   </ref>
 </ref-list>
