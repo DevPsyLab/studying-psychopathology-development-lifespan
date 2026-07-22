@@ -571,7 +571,7 @@ In sum, many problems arise from using the same measure across ages when the con
 
 <!-- Studies of cognitive development -->
 
-<!-- Hancock & Buehl, 2008; Kolen & Brennan, 2014; Lai, 2021; McArdle & Grimm, 2011; McArdle et al., 2009; Petersen et al., 2020; Tyrell et al., 2019; Ward et al., 2022; McDaniel et al., 2023; Chen and Bauer articles -->
+<!-- Kolen & Brennan, 2014; Lai, 2021; McArdle & Grimm, 2011; McArdle et al., 2009; Ward et al., 2022; McDaniel et al., 2023; Chen and Bauer articles -->
 
 Current assessments fail to implement the construct-valid item approach across development—existing measures show insufficient differences in which items are assessed at which ages.
 Moreover, even in cases where the items of a measure differ across ages (e.g., CBCL: ages 1.5–5 vs. ages 6–18), the scoring systems do not link scores across ages to be on the same scale while preserving change in level.
@@ -597,7 +597,7 @@ Then, the researchers apply widely used methods to link the scores from the diff
 The same general methods are also used to place people's scores on the same scale for standardized tests like the ACT, SAT, GRE, MCAT, LSAT, etc., despite repondents receiving different item content.
 For examples of studies applying linking methods to academic and cognitive skills see.<!-- INSERT -->
 However, the use of linking methods is rare in studies of social and behavioral development broadly and psychopathology specfically.
-For studies that have applied such methods in studying social and behavioral development, see studies on self-concept [@Hancock2008], self-regulation [@Hosch2022], underactivity/overactivity [and their subdimensions\; @McDermott2013], thought-disordered problems [@Petersen2026a], internalizing problems [@Harris2025; @Petersen2018; @Petersen2026a; @Tyrell2019], and externalizing problems [@Harris2025; @Petersen2021b; @Petersen2022; @Petersen2026a].
+For studies that have applied such methods in studying social and behavioral development, see studies on self-concept [@Hancock2008], self-regulation [@Hosch2022], underactivity/overactivity [and their subdimensions\; @McDermott2013], thought-disordered problems [@Petersen2026a], internalizing problems [@Harris2025; @Petersen2018; @Petersen2026a; @Tyrell2019], and externalizing problems [@ChenMBR; @ChenPM; @Harris2025; @Petersen2021b; @Petersen2022; @Petersen2026a].
 
 Moreover, psychopathology assessments do not include such scoring tools.
 The lack of scoring tools to link scores from age-differing psychopathology assessments leads researchers to restrict the age range of study.
