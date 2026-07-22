@@ -942,7 +942,13 @@ In this context, we prefer the term "factorial invariance" because, as described
 
 ## Obsolescence of Items and Measures
 
-<!-- items/measures can become obsolete; can miss contemporary manifestations (e.g., cyberaggression, aggression on social media) -->
+Another challenge is that questionniare items—whether the particular wording or the behavior itself—can become obsolete and irrelevant with secular changes.
+For instance, due to technological changes, items focused on television use—without considering other forms of screen use—may miss important contemporary screen-related use.
+Additionally, ways people use substances change over historical time.
+For instance, vaping is a more contemporary way that many adolescents use nicotine.
+The ways aggressive behavior manifests also changes across historical time.
+Items focused on physical aggression would miss important contemporary manifestations of aggression, including cyberaggression, cyberbullying, online harassment, aggression on social media (e.g., exclusion).
+In sum, it is important to keep items relevant for current use, and that naturally means changing item content and/or wording across historical time, a further reason why linking of scores (given differing item content) is crucial.
 
 # Conclusion
 
