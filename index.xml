@@ -981,9 +981,58 @@ cognitive skills across lengthy developmental periods.</p>
       of the common concept of fraud. To our knowledge there is no
       recognized analytical procedure to assess such a construct and the
       life cycle validity of heteromorphous measures.”</p>
-      <p>The lack of scoring tools to link scores from age-differing
-      assessments leads researchers to restrict the age range of study.
-      For instance, in their study, Bista et al.
+      <p>However, considerable research in educational psychology links
+      scores across age-differing measures to be on the same scale. For
+      instance, standardized tests are frequently administered in
+      schools to determine the extent of growth across grades. Because
+      of large changes in ability level across grades, the same math and
+      reading items cannot be administered at all grades. Otherwise,
+      respondents would receive items that are too easy (thus evoking
+      boredom) or too difficult (thus evoking frustration), relative to
+      their ability. To address this, the test developers write the
+      tests such that some items are in common across adjacent
+      grades—used for linking the scores across grades onto the same
+      scale—along with items that are unique to a particular grade.
+      Then, the researchers apply widely used methods to link the scores
+      from the different measures to be on the same scale so they can
+      observe individuals’ growth across grades. The same general
+      methods are also used to place people’s scores on the same scale
+      for standardized tests like the ACT, SAT, GRE, MCAT, LSAT, etc.,
+      despite repondents receiving different item content. For examples
+      of studies applying linking methods to academic and cognitive
+      skills see. However, the use of linking methods is rare in studies
+      of social and behavioral development broadly and psychopathology
+      specfically. For studies that have applied such methods in
+      studying social and behavioral development, see studies on
+      self-concept
+      (<xref alt="Hancock and Buehl 2008" rid="ref-Hancock2008" ref-type="bibr">Hancock
+      and Buehl 2008</xref>), self-regulation
+      (<xref alt="Hosch et al. 2022" rid="ref-Hosch2022" ref-type="bibr">Hosch
+      et al. 2022</xref>), underactivity/overactivity (and their
+      subdimensions;
+      <xref alt="McDermott et al. 2013" rid="ref-McDermott2013" ref-type="bibr">McDermott
+      et al. 2013</xref>), thought-disordered problems
+      (<xref alt="Petersen et al. 2026" rid="ref-Petersen2026a" ref-type="bibr">Petersen
+      et al. 2026</xref>), internalizing problems
+      (<xref alt="Harris et al. 2025" rid="ref-Harris2025" ref-type="bibr">Harris
+      et al. 2025</xref>;
+      <xref alt="Petersen et al. 2018" rid="ref-Petersen2018" ref-type="bibr">Petersen
+      et al. 2018</xref>,
+      <xref alt="2026" rid="ref-Petersen2026a" ref-type="bibr">2026</xref>;
+      <xref alt="Tyrell et al. 2019" rid="ref-Tyrell2019" ref-type="bibr">Tyrell
+      et al. 2019</xref>), and externalizing problems
+      (<xref alt="Harris et al. 2025" rid="ref-Harris2025" ref-type="bibr">Harris
+      et al. 2025</xref>;
+      <xref alt="Petersen and LeBeau 2021" rid="ref-Petersen2021b" ref-type="bibr">Petersen
+      and LeBeau 2021</xref>,
+      <xref alt="2022" rid="ref-Petersen2022" ref-type="bibr">2022</xref>;
+      <xref alt="Petersen et al. 2026" rid="ref-Petersen2026a" ref-type="bibr">Petersen
+      et al. 2026</xref>).</p>
+      <p>Moreover, psychopathology assessments do not include such
+      scoring tools. The lack of scoring tools to link scores from
+      age-differing psychopathology assessments leads researchers to
+      restrict the age range of study. For instance, in their study,
+      Bista et al.
       (<xref alt="2025, 179" rid="ref-Bista2025" ref-type="bibr">2025,
       179</xref>) noted “A different version of the questionnaire
       (CBCL/2–3), designed for 2–3-year-olds, was used for the year 2
@@ -1680,12 +1729,17 @@ cognitive skills across lengthy developmental periods.</p>
 </sec>
 <sec id="other-key-challenges-to-address">
   <title>Other Key Challenges to Address</title>
+  <p>In addition to linking scores across time to be on the same scale,
+  to study the development of psychopathology across the lifespan, there
+  are additional key challenges to address, including considering and/or
+  addressing potential confounds of change, factorial invariance,
+  integration across multiple sources, and obsolescence of items.</p>
   <sec id="sec-potential-confounds-of-change">
     <title>Potential Confounds of Change</title>
-    <p>It is also important for longitudinal research to consider and,
-    to the extent possible, account for potential confounds of change,
-    such as practice effects, period and cohort effects, measurement
-    error, selective attrition, and changes in the meaning of the scores
+    <p>It is important for longitudinal research to consider and, to the
+    extent possible, account for potential confounds of change, such as
+    practice effects, period and cohort effects, measurement error,
+    selective attrition, and changes in the meaning of the scores
     (<xref alt="Hertzog and Nesselroade 2003" rid="ref-Hertzog2003" ref-type="bibr">Hertzog
     and Nesselroade 2003</xref>). By confound of change, we mean that
     such effects can make it appear that people have changed in their
@@ -4167,6 +4221,22 @@ cognitive skills across lengthy developmental periods.</p>
       <lpage>399</lpage>
     </element-citation>
   </ref>
+  <ref id="ref-Petersen2021b">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Petersen</surname><given-names>Isaac T.</given-names></name>
+        <name><surname>LeBeau</surname><given-names>Brandon</given-names></name>
+      </person-group>
+      <article-title>Language ability in the development of externalizing behavior problems in childhood</article-title>
+      <source>Journal of Educational Psychology</source>
+      <year iso-8601-date="2021">2021</year>
+      <volume>113</volume>
+      <issue>1</issue>
+      <pub-id pub-id-type="doi">10.1037/edu0000461</pub-id>
+      <fpage>68</fpage>
+      <lpage>85</lpage>
+    </element-citation>
+  </ref>
   <ref id="ref-Curran2014">
     <element-citation publication-type="article-journal">
       <person-group person-group-type="author">
@@ -4826,6 +4896,63 @@ cognitive skills across lengthy developmental periods.</p>
       <publisher-loc>Cham, Switzerland</publisher-loc>
       <year iso-8601-date="2025">2025</year>
       <pub-id pub-id-type="doi">10.1007/978-3-031-80549-3</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="ref-McDermott2013">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>McDermott</surname><given-names>Paul A.</given-names></name>
+        <name><surname>Watkins</surname><given-names>Marley W.</given-names></name>
+        <name><surname>Rovine</surname><given-names>Michael J.</given-names></name>
+        <name><surname>Rikoon</surname><given-names>Samuel H.</given-names></name>
+      </person-group>
+      <article-title>Assessing changes in socioemotional adjustment across early school transitions―New national scales for children at risk</article-title>
+      <source>Journal of School Psychology</source>
+      <year iso-8601-date="2013">2013</year>
+      <volume>51</volume>
+      <issue>1</issue>
+      <uri>http://www.sciencedirect.com/science/article/pii/S0022440512000854</uri>
+      <pub-id pub-id-type="doi">10.1016/j.jsp.2012.10.002</pub-id>
+      <fpage>97</fpage>
+      <lpage>115</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Hosch2022">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Hosch</surname><given-names>Alexis</given-names></name>
+        <name><surname>Oleson</surname><given-names>Jacob J.</given-names></name>
+        <name><surname>Harris</surname><given-names>Jordan L.</given-names></name>
+        <name><surname>Goeltz</surname><given-names>Mary Taylor</given-names></name>
+        <name><surname>Neumann</surname><given-names>Tabea</given-names></name>
+        <name><surname>LeBeau</surname><given-names>Brandon</given-names></name>
+        <name><surname>Hazeltine</surname><given-names>Eliot</given-names></name>
+        <name><surname>Petersen</surname><given-names>Isaac T.</given-names></name>
+      </person-group>
+      <article-title>Studying children’s growth in self-regulation using changing measures to account for heterotypic continuity: A bayesian approach to developmental scaling</article-title>
+      <source>Developmental Science</source>
+      <year iso-8601-date="2022">2022</year>
+      <volume>25</volume>
+      <issue>6</issue>
+      <pub-id pub-id-type="doi">10.1111/desc.13280</pub-id>
+      <fpage>e13280</fpage>
+      <lpage></lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Petersen2022">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Petersen</surname><given-names>Isaac T.</given-names></name>
+        <name><surname>LeBeau</surname><given-names>Brandon</given-names></name>
+      </person-group>
+      <article-title>Creating a developmental scale to chart the development of psychopathology with different informants and measures across time</article-title>
+      <source>Journal of Psychopathology and Clinical Science</source>
+      <year iso-8601-date="2022">2022</year>
+      <volume>131</volume>
+      <issue>6</issue>
+      <pub-id pub-id-type="doi">10.1037/abn0000649</pub-id>
+      <fpage>611</fpage>
+      <lpage>625</lpage>
     </element-citation>
   </ref>
 </ref-list>
