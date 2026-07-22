@@ -2062,10 +2062,12 @@ cognitive skills across lengthy developmental periods.</p>
   </sec>
   <sec id="integration-across-multiple-sources">
     <title>Integration Across Multiple Sources</title>
-    <p>There is widespread agreement that including multiple sources of
-    data—e.g.. multiple informants or multiple measurement methods—is
-    preferable. However, there is less agreement about how to use the
-    multiple sources of data
+    <p>The most accurate informant(s) for a person can change with
+    development, so it may be necessary to include different informants
+    across time. There is widespread agreement that including multiple
+    sources of data—e.g.. multiple informants or multiple measurement
+    methods—is preferable. However, there is less agreement about how to
+    use the multiple sources of data
     (<xref alt="Bauer et al. 2013" rid="ref-Bauer2013" ref-type="bibr">Bauer
     et al. 2013</xref>), particularly because informants often show low
     correspondence with each other when rating the same person. Some of
@@ -2077,14 +2079,12 @@ cognitive skills across lengthy developmental periods.</p>
     (<xref alt="Podsakoff et al. 2012" rid="ref-Podsakoff2012" ref-type="bibr">Podsakoff
     et al. 2012</xref>). The inclusion of multiple informants can be
     relevant for informing about the pervasiveness of a person’s
-    behavior across contexts (e.g., home, school). The most accurate
-    informant(s) for a person can change with development, so finding
-    ways to leverage the information from multiple informants will be
-    crucial to study development of psychopathology across the lifespan
-    (<xref alt="De Los Reyes 2026" rid="ref-DeLosReyes2026" ref-type="bibr">De
-    Los Reyes 2026</xref>). Some researchers advocate for integrating
-    scores using principal component approaches (while disentangling
-    variance attributable to trait, perspective, and context;
+    behavior across contexts (e.g., home, school). As a result of
+    including multiple or different informants across development, it is
+    important to consider how to leverage the multi-informant ratings.
+    Some researchers advocate for integrating scores using principal
+    component approaches (while disentangling variance attributable to
+    trait, perspective, and context;
     <xref alt="Kraemer et al. 2003" rid="ref-Kraemer2003" ref-type="bibr">Kraemer
     et al. 2003</xref>) or latent variable approaches (e.g.,
     <xref alt="Bauer et al. 2013" rid="ref-Bauer2013" ref-type="bibr">Bauer
@@ -2092,13 +2092,22 @@ cognitive skills across lengthy developmental periods.</p>
     informants’ ratings separate without integrating them (but including
     them in the same model;
     <xref alt="Aitken et al. 2023" rid="ref-Aitken2023" ref-type="bibr">Aitken
-    et al. 2023</xref>). De Los Reyes et al.
+    et al. 2023</xref>). As an example of a latent variable modeling
+    approach, Bauer et al.
+    (<xref alt="2013" rid="ref-Bauer2013" ref-type="bibr">2013</xref>)
+    demonstrates a trifactor model that attempts to disentangle
+    construct variance from the method effects tied to the specific item
+    and the informant. De Los Reyes et al.
     (<xref alt="2013" rid="ref-DeLosReyes2013" ref-type="bibr">2013</xref>)
     provide the Operations Triad Model as a framework for using and
     interpreting reports from multiple informants (for more information,
     see
     <xref alt="Makol et al. 2025" rid="ref-Makol2025" ref-type="bibr">Makol
-    et al. 2025</xref>).</p>
+    et al. 2025</xref>). In sum, finding ways to leverage the
+    information from multiple informants will be crucial to study
+    development of psychopathology across the lifespan
+    (<xref alt="De Los Reyes 2026" rid="ref-DeLosReyes2026" ref-type="bibr">De
+    Los Reyes 2026</xref>).</p>
   </sec>
   <sec id="obsolescence-of-items-and-measures">
     <title>Obsolescence of Items and Measures</title>
@@ -2134,14 +2143,11 @@ cognitive skills across lengthy developmental periods.</p>
 <sec id="references">
   <title>References</title>
 </sec>
-<sec id="apx-a">
-  <title>This Section Is an Appendix</title>
-</sec>
 </body>
 
 <back>
 <ref-list>
-  <title>Another Appendix</title>
+  <title></title>
   <ref id="ref-Insel2008">
     <element-citation publication-type="article-journal">
       <person-group person-group-type="author">
