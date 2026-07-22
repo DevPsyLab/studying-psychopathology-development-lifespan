@@ -588,7 +588,19 @@ Consider the following statement by LeBlanc [-@LeBlanc2021, p. 15], "The theoret
 Nevertheless, different scale composition is an integral part of the common concept of fraud.
 To our knowledge there is no recognized analytical procedure to assess such a construct and the life cycle validity of heteromorphous measures."
 
-The lack of scoring tools to link scores from age-differing assessments leads researchers to restrict the age range of study.
+However, considerable research in educational psychology links scores across age-differing measures to be on the same scale.
+For instance, standardized tests are frequently administered in schools to determine the extent of growth across grades.
+Because of large changes in ability level across grades, the same math and reading items cannot be administered at all grades.
+Otherwise, respondents would receive items that are too easy (thus evoking boredom) or too difficult (thus evoking frustration), relative to their ability.
+To address this, the test developers write the tests such that some items are in common across adjacent grades—used for linking the scores across grades onto the same scale—along with items that are unique to a particular grade.
+Then, the researchers apply widely used methods to link the scores from the different measures to be on the same scale so they can observe individuals' growth across grades.
+The same general methods are also used to place people's scores on the same scale for standardized tests like the ACT, SAT, GRE, MCAT, LSAT, etc., despite repondents receiving different item content.
+For examples of studies applying linking methods to academic and cognitive skills see.<!-- INSERT -->
+However, the use of linking methods is rare in studies of social and behavioral development broadly and psychopathology specfically.
+For studies that have applied such methods in studying social and behavioral development, see studies on self-concept [@Hancock2008], self-regulation [@Hosch2022], underactivity/overactivity [and their subdimensions\; @McDermott2013], thought-disordered problems [@Petersen2026a], internalizing problems [@Harris2025; @Petersen2018; @Petersen2026a; @Tyrell2019], and externalizing problems [@Harris2025; @Petersen2021b; @Petersen2022; @Petersen2026a].
+
+Moreover, psychopathology assessments do not include such scoring tools.
+The lack of scoring tools to link scores from age-differing psychopathology assessments leads researchers to restrict the age range of study.
 For instance, in their study, Bista et al. [-@Bista2025, p. 179] noted "A different version of the questionnaire (CBCL/2–3), designed for 2–3-year-olds, was used for the year 2 follow-up [compared to the CBCL/4–18 assessed from ages 5–17].
 Therefore, we excluded age 2 from our trajectory analysis."
 
@@ -782,9 +794,11 @@ Moreover, when treating time continuously, the functional form of any DIF as a f
 
 # Other Key Challenges to Address
 
+In addition to linking scores across time to be on the same scale, to study the development of psychopathology across the lifespan, there are additional key challenges to address, including considering and/or addressing potential confounds of change, factorial invariance, integration across multiple sources, and obsolescence of items.
+
 ## Potential Confounds of Change {#sec-potential-confounds-of-change}
 
-It is also important for longitudinal research to consider and, to the extent possible, account for potential confounds of change, such as practice effects, period and cohort effects, measurement error, selective attrition, and changes in the meaning of the scores [@Hertzog2003].
+It is important for longitudinal research to consider and, to the extent possible, account for potential confounds of change, such as practice effects, period and cohort effects, measurement error, selective attrition, and changes in the meaning of the scores [@Hertzog2003].
 By confound of change, we mean that such effects can make it appear that people have changed in their level on the construct when, it reality, they have not changed (or vice versa).
 
 ### Practice/Retest Effects
