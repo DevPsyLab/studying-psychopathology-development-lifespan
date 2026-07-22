@@ -936,9 +936,14 @@ In this context, we prefer the term "factorial invariance" because, as described
 
 ## Integration Across Multiple Sources
 
-<!-- @DeLosReyes2026 -->
-
-<!-- relevant for informing pervasiveness of behavior across contexts (e.g., home, school) -->
+There is widespread agreement that including multiple sources of data—e.g.. multiple informants or multiple measurement methods—is preferable.
+However, there is less agreement about how to use the multiple sources of data [@Bauer2013], particularly because informants often show low correspondence with each other when rating the same person.
+Some of these discrepancies may be confounded by the person behaving differently in different contexts or with different people.
+The inclusion of multiple measurement methods can help account for measurement error given the considerable variance that is attributable to method bias [@Podsakoff2012].
+The inclusion of multiple informants can be relevant for informing about the pervasiveness of a person's behavior across contexts (e.g., home, school).
+The most accurate informant(s) for a person can change with development, so finding ways to leverage the information from multiple informants will be crucial to study development of psychopathology across the lifespan [@DeLosReyes2026].
+Some researchers advocate for integrating scores using principal component approaches [while disentangling variance attributable to trait, perspective, and context\; @Kraemer2003] or latent variable approaches [e.g., @Bauer2013], and others advocate for keeping different informants' ratings separate without integrating them [but including them in the same model\; @Aitken2023].
+@DeLosReyes2013 provide the Operations Triad Model as a framework for using and interpreting reports from multiple informants [for more information, see @Makol2025].
 
 ## Obsolescence of Items and Measures
 
