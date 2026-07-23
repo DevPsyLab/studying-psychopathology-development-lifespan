@@ -190,7 +190,7 @@
 
 \leftheader{Petersen, Demko and Schumer}
 
-\date{2026-07-22}
+\date{2026-07-23}
 
 
 \abstract{The field has not adequately studied individuals' development
@@ -1204,8 +1204,10 @@ trajectories.
 The problem cannot be solved merely by age-norming. Generating norms
 from items that are invalid at a given age or from scales that have
 important content gaps at a given age leads to construct-invalid scores
-and resulting norms. Moreover, using DSM disorders or diagnoses also
-does not solve the issue.
+and resulting norms. Moreover, age-norming prevents observing absolute
+growth and is problematic in longitudinal studies
+(\citeproc{ref-Moeller2015}{Moeller, 2015}). Likewise, using DSM
+disorders or diagnoses also does not solve the issue.
 
 In addition, forcing use of the same measure across time naturally
 limits the ages a study can span, which prevents charting wider age
@@ -1293,13 +1295,20 @@ the different measures to be on the same scale so they can observe
 individuals' growth across grades. The same general methods are also
 used to place people's scores on the same scale for standardized tests
 like the ACT, SAT, GRE, MCAT, LSAT, etc., despite repondents receiving
-different item content. For examples of studies applying linking methods
-to academic and cognitive skills see. However, the use of linking
-methods is rare in studies of social and behavioral development broadly
-and psychopathology specfically. For studies that have applied such
-methods in studying social and behavioral development, see studies on
+different item content. For examples of studies applying various linking
+methods to academic and cognitive skills, see McArdle et al.
+(\citeproc{ref-McArdle2009}{2009}), McArdle and Grimm
+(\citeproc{ref-McArdle2011}{2011}); Murayama et al.
+(\citeproc{ref-Murayama2013}{2013}); Petscher et al.
+(\citeproc{ref-Petscher2018}{2018}), Ward et al.
+(\citeproc{ref-Ward2022}{2022}), and Weeks
+(\citeproc{ref-Weeks2018}{2018}). However, the use of linking methods is
+rare in studies of social and behavioral development broadly and
+psychopathology specfically. For studies that have applied such methods
+in studying social and behavioral development, see studies on
 self-concept (\citeproc{ref-Hancock2008}{Hancock \& Buehl, 2008}),
-self-regulation (\citeproc{ref-Hosch2022}{Hosch et al., 2022}),
+neuroticism (\citeproc{ref-Lai2023}{Lai, 2023}), self-regulation
+(\citeproc{ref-Hosch2022}{Hosch et al., 2022}),
 underactivity/overactivity (and their subdimensions;
 \citeproc{ref-McDermott2013}{McDermott et al., 2013}),
 thought-disordered problems (\citeproc{ref-Petersen2026a}{Petersen,
@@ -1680,16 +1689,20 @@ partial measurement invariance, the alignment method, moderated
 nonlinear factor analysis (MNLFA), and item response theory (IRT). These
 are all approaches to harmonization---i.e., linking scores from
 different measures onto the same scale so they can be meaningfully
-compared. They attempt to estimate latent variables---using either
-confirmatory factor analysis (CFA) or IRT---on a common scale across
-ages. They do so by trying to align the item parameters for at least a
-subset of items. In particular, to be able to chart individuals' change
-over time, it is helpful to ensure that the scores are on the same
-number line across time---that is, they have the same scale and location
-across ages. Scale refers to the size of a unit on the number line. If
-scores have the same scale across ages, a one-unit difference represents
-the same amount of the construct at each age. Location refers to the
-origin or zero point on the number line. If scores have the same
+compared. Harmonization is also used for integrative data analysis, to
+pool data from different measures in different studies
+(\citeproc{ref-Curran2008}{Curran et al., 2008};
+\citeproc{ref-McDaniel2023}{McDaniel et al., 2023}). The aforementioned
+approaches to harmonization attempt to estimate latent variables---using
+either confirmatory factor analysis (CFA) or IRT---on a common scale
+across ages. They do so by trying to align the item parameters for at
+least a subset of items. In particular, to be able to chart individuals'
+change over time, it is helpful to ensure that the scores are on the
+same number line across time---that is, they have the same scale and
+location across ages. Scale refers to the size of a unit on the number
+line. If scores have the same scale across ages, a one-unit difference
+represents the same amount of the construct at each age. Location refers
+to the origin or zero point on the number line. If scores have the same
 location across ages, a score of zero corresponds to the same position
 on the construct across ages. Collectively, if scores have the same
 scale and location across ages, the measure is constantly calibrated
@@ -1722,6 +1735,8 @@ difficulty reflects the level on the latent factor where there is a 50\%
 probability of endorsing the item. Items with higher difficulty require
 a higher level of the latent factor to have a 50\% probability of
 endorsing the item and therefore represent more severe behaviors.
+
+\subsubsection{Partial Invariance}\label{partial-invariance}
 
 The partial invariance method can be used to link scores across
 different measures (\citeproc{ref-Tyrell2019}{Tyrell et al., 2019}) and
@@ -1765,6 +1780,8 @@ the researcher wants to consider DIF as a function of multiple variables
 or continuous variables (\citeproc{ref-ChenPM}{S. M. Chen \& Bauer, in
 pressb}).
 
+\subsubsection{Alignment Optimization}\label{alignment-optimization}
+
 The alignment optimization method (\citeproc{ref-Muthen2014}{Muthén \&
 Asparouhov, 2014}) has been used to link scores across time
 (\citeproc{ref-Lai2023}{Lai, 2023}). The alignment optimization method
@@ -1778,11 +1795,15 @@ factors are on the same scale. Unlike the partial invariance method, the
 alignment method does not require a priori identification of any
 noninvariant items (\citeproc{ref-Lai2023}{Lai, 2023}).
 
+\subsubsection{Moderated Nonlinear Factor
+Analysis}\label{moderated-nonlinear-factor-analysis}
+
 MNLFA (\citeproc{ref-Bauer2017}{Bauer, 2017}) has also been used to link
 scores across different measures (\citeproc{ref-Curran2014}{Curran et
 al., 2014}), including across ages (\citeproc{ref-ChenPM}{S. M. Chen \&
-Bauer, in pressb}, \citeproc{ref-ChenMBR}{in pressa}). Unlike the
-partial invariance approach, MNLFA represents the measurement model in
+Bauer, in pressb}, \citeproc{ref-ChenMBR}{in pressa};
+\citeproc{ref-Student2025}{Student, 2025}). Unlike the partial
+invariance approach, MNLFA represents the measurement model in
 continuous time (rather than discrete time). MNLFA allows simultaneous
 estimation of growth functions while estimating and accounting for DIF
 effects. It allows estimating DIF as a function of time and as a
@@ -1801,6 +1822,8 @@ handle small sample sizes and data with sparse responses
 simulation, S. M. Chen and Bauer (\citeproc{ref-ChenMBR}{in pressa})
 found that MNLFA estimated change more accurately than traditional
 first- or second-order growth curve models.
+
+\subsubsection{Item Response Theory}\label{item-response-theory}
 
 IRT can also be used to link scores across different measures
 (\citeproc{ref-Kolen2014}{Kolen \& Brennan, 2014}). The IRT approach to
@@ -2106,10 +2129,11 @@ the same score difference---i.e., between endorsement (1) versus
 non-endorsement (0) of disobedience to authority---would reflect a
 greater difference in the level of externalizing behavior in early
 childhood compared to adulthood. Thus, it is important to consider and
-account for changes in the meaning of scores across development. Next,
-we describe longitudinal factorial invariance as a way to evaluate---and
-account for---the possibility that scores have changed in meaning across
-ages.
+account for changes in the meaning of scores across development. If a
+measure changes in the construct it assesses, this is called construct
+shift. Next, we describe longitudinal factorial invariance as a way to
+evaluate---and account for---the possibility that scores have changed in
+meaning across ages.
 
 \subsection{Factorial Invariance Across
 Time}\label{factorial-invariance-across-time}
@@ -2507,6 +2531,13 @@ and {IRT} estimates as a function of polytomous {IRT} parameters and
 latent trait distribution. \emph{Applied Psychological Measurement},
 \emph{37}(3), 201--225. \url{https://doi.org/10.1177/0146621612470210}
 
+\bibitem[\citeproctext]{ref-Curran2008}
+Curran, P. J., Hussong, A. M., Cai, L., Huang, W., Chassin, L., Sher, K.
+J., \& Zucker, R. A. (2008). Pooling data from multiple longitudinal
+studies: The role of item response theory in integrative data analysis.
+\emph{Developmental Psychology}, \emph{44}(2), 365.
+\url{https://doi.org/10.1037/0012-1649.44.2.365}
+
 \bibitem[\citeproctext]{ref-Curran2014}
 Curran, P. J., McGinley, J. S., Bauer, D. J., Hussong, A. M., Burns, A.,
 Chassin, L., Sher, K., \& Zucker, R. (2014). A moderated nonlinear
@@ -2662,7 +2693,7 @@ change in adulthood: An overview of methodological issues.
 Hosch, A., Oleson, J. J., Harris, J. L., Goeltz, M. T., Neumann, T.,
 LeBeau, B., Hazeltine, E., \& Petersen, I. T. (2022). Studying
 children's growth in self-regulation using changing measures to account
-for heterotypic continuity: A bayesian approach to developmental
+for heterotypic continuity: A {Bayesian} approach to developmental
 scaling. \emph{Developmental Science}, \emph{25}(6), e13280.
 \url{https://doi.org/10.1111/desc.13280}
 
@@ -2862,6 +2893,27 @@ disentangling age, cohort, and time effects: No quadrature of the
 circle, but a help. \emph{Developmental Review}, \emph{24}(3), 322--342.
 \url{https://doi.org/10.1016/j.dr.2004.04.002}
 
+\bibitem[\citeproctext]{ref-McArdle2011}
+McArdle, J. J., \& Grimm, K. J. (2011). An empirical example of change
+analysis by linking longitudinal item response data from multiple tests.
+In A. A. von Davier (Ed.), \emph{Statistical models for test equating,
+scaling, and linking} (pp. 71--88). Springer Science \& Business Media.
+
+\bibitem[\citeproctext]{ref-McArdle2009}
+McArdle, J. J., Grimm, K. J., Hamagami, F., Bowles, R. P., \& Meredith,
+W. (2009). Modeling life-span growth curves of cognition using
+longitudinal data with multiple samples and changing scales of
+measurement. \emph{Psychological Methods}, \emph{14}(2), 126--149.
+\url{https://doi.org/10.1037/a0015857}
+
+\bibitem[\citeproctext]{ref-McDaniel2023}
+McDaniel, H. L., Saavedra, L. M., Morgan-López, A. A., Bradshaw, C. P.,
+Lochman, J. E., Kaihoi, C. A., Powell, N. P., Qu, L., \& Yaros, A. C.
+(2023). Harmonizing social, emotional, and behavioral constructs in
+prevention science: Digging into the weeds of aligning disparate
+measures. \emph{Prevention Science}.
+\url{https://doi.org/10.1007/s11121-022-01467-0}
+
 \bibitem[\citeproctext]{ref-McDermott2013}
 McDermott, P. A., Watkins, M. W., Rovine, M. J., \& Rikoon, S. H.
 (2013). Assessing changes in socioemotional adjustment across early
@@ -2883,6 +2935,11 @@ invariance}. Taylor \& Francis.
 Mineo, L. (2017). \emph{Good genes are nice, but joy is better}.
 \url{https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/}
 
+\bibitem[\citeproctext]{ref-Moeller2015}
+Moeller, J. (2015). A word on standardization in longitudinal studies:
+don't. \emph{Frontiers in Psychology}, \emph{6}(1389), 1--4.
+\url{https://doi.org/10.3389/fpsyg.2015.01389}
+
 \bibitem[\citeproctext]{ref-Moffitt1993}
 Moffitt, T. E. (1993). Adolescence-limited and life-course-persistent
 antisocial behavior: A developmental taxonomy. \emph{Psychological
@@ -2901,6 +2958,13 @@ childhood self-control predicts health, wealth, and public safety.
 Moss, H. A., \& Kagan, J. (1964). Report on personality consistency and
 change from the {Fels Longitudinal Study}. \emph{Vita Humana},
 \emph{7}(2), 127--138. \url{https://doi.org/10.1159/000270073}
+
+\bibitem[\citeproctext]{ref-Murayama2013}
+Murayama, K., Pekrun, R., Lichtenfeld, S., \& Hofe, R. vom. (2013).
+Predicting long-term growth in students' mathematics achievement: The
+unique contributions of motivation and cognitive strategies. \emph{Child
+Development}, \emph{84}(4), 1475--1490.
+\url{https://doi.org/10.1111/cdev.12036}
 
 \bibitem[\citeproctext]{ref-Muthen2014}
 Muthén, B. O., \& Asparouhov, T. (2014). {IRT} studies of many groups:
@@ -3014,6 +3078,12 @@ problems from adolescence to emerging adulthood: Accounting for
 heterotypic continuity with vertical scaling. \emph{Developmental
 Psychology}, \emph{54}(3), 586--599.
 \url{https://doi.org/10.1037/dev0000449}
+
+\bibitem[\citeproctext]{ref-Petscher2018}
+Petscher, Y., Justice, L. M., \& Hogan, T. (2018). Modeling the early
+language trajectory of language development when the measures change and
+its relation to poor reading comprehension. \emph{Child Development},
+\emph{89}(6), 2136--2156. \url{https://doi.org/10.1111/cdev.12880}
 
 \bibitem[\citeproctext]{ref-Podsakoff2012}
 Podsakoff, P. M., MacKenzie, S. B., \& Podsakoff, N. P. (2012). Sources
@@ -3156,6 +3226,11 @@ emotional and behavioral problems from childhood to early adult life.
 \emph{Autism}, \emph{24}(4), 1011--1024.
 \url{https://doi.org/10.1177/1362361320908972}
 
+\bibitem[\citeproctext]{ref-Student2025}
+Student, S. R. (2025). Vertical scaling with moderated nonlinear factor
+analysis. \emph{Journal of Educational Measurement}, \emph{62}(4),
+929--958. \url{https://doi.org/10.1111/jedm.70019}
+
 \bibitem[\citeproctext]{ref-Tackett2022}
 Tackett, J. L., \& Hallquist, M. (2022). The need to grow: Developmental
 considerations and challenges for modern psychiatric taxonomies.
@@ -3243,6 +3318,19 @@ nature of externalizing behaviors in adolescence: Evidence from a direct
 comparison of categorical, dimensional, and hybrid models. \emph{Journal
 of Abnormal Child Psychology}, \emph{39}(4), 553--561.
 \url{https://doi.org/10.1007/s10802-010-9478-y}
+
+\bibitem[\citeproctext]{ref-Ward2022}
+Ward, C., Oleson, J., Tomblin, J. B., \& Walker, E. (2022). Modeling
+population and subject-specific growth in a latent trait measured by
+multiple instruments over time using a hierarchical {Bayesian}
+framework. \emph{Journal of Applied Statistics}, \emph{49}(2), 449--465.
+\url{https://doi.org/10.1080/02664763.2020.1817346}
+
+\bibitem[\citeproctext]{ref-Weeks2018}
+Weeks, J. P. (2018). An application of multidimensional vertical
+scaling. \emph{Measurement: Interdisciplinary Research and
+Perspectives}, \emph{16}(3), 139--154.
+\url{https://doi.org/10.1080/15366367.2018.1502005}
 
 \bibitem[\citeproctext]{ref-Weems2008}
 Weems, C. F. (2008). Developmental trajectories of childhood anxiety:

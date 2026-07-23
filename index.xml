@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-07-22">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-07-23">
 <year>2026</year>
 <month>7</month>
-<day>22</day>
+<day>23</day>
 </pub-date>
 
 
@@ -905,8 +905,12 @@ cognitive skills across lengthy developmental periods.</p>
       <p>The problem cannot be solved merely by age-norming. Generating
       norms from items that are invalid at a given age or from scales
       that have important content gaps at a given age leads to
-      construct-invalid scores and resulting norms. Moreover, using DSM
-      disorders or diagnoses also does not solve the issue. </p>
+      construct-invalid scores and resulting norms. Moreover,
+      age-norming prevents observing absolute growth and is problematic
+      in longitudinal studies
+      (<xref alt="Moeller 2015" rid="ref-Moeller2015" ref-type="bibr">Moeller
+      2015</xref>). Likewise, using DSM disorders or diagnoses also does
+      not solve the issue. </p>
       <p>In addition, forcing use of the same measure across time
       naturally limits the ages a study can span, which prevents
       charting wider age spans. For example, if a researcher used the
@@ -999,14 +1003,28 @@ cognitive skills across lengthy developmental periods.</p>
       methods are also used to place people’s scores on the same scale
       for standardized tests like the ACT, SAT, GRE, MCAT, LSAT, etc.,
       despite repondents receiving different item content. For examples
-      of studies applying linking methods to academic and cognitive
-      skills see. However, the use of linking methods is rare in studies
-      of social and behavioral development broadly and psychopathology
+      of studies applying various linking methods to academic and
+      cognitive skills, see McArdle et al.
+      (<xref alt="2009" rid="ref-McArdle2009" ref-type="bibr">2009</xref>),
+      McArdle and Grimm
+      (<xref alt="2011" rid="ref-McArdle2011" ref-type="bibr">2011</xref>);
+      Murayama et al.
+      (<xref alt="2013" rid="ref-Murayama2013" ref-type="bibr">2013</xref>);
+      Petscher et al.
+      (<xref alt="2018" rid="ref-Petscher2018" ref-type="bibr">2018</xref>),
+      Ward et al.
+      (<xref alt="2022" rid="ref-Ward2022" ref-type="bibr">2022</xref>),
+      and Weeks
+      (<xref alt="2018" rid="ref-Weeks2018" ref-type="bibr">2018</xref>).
+      However, the use of linking methods is rare in studies of social
+      and behavioral development broadly and psychopathology
       specfically. For studies that have applied such methods in
       studying social and behavioral development, see studies on
       self-concept
       (<xref alt="Hancock and Buehl 2008" rid="ref-Hancock2008" ref-type="bibr">Hancock
-      and Buehl 2008</xref>), self-regulation
+      and Buehl 2008</xref>), neuroticism
+      (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
+      2023</xref>), self-regulation
       (<xref alt="Hosch et al. 2022" rid="ref-Hosch2022" ref-type="bibr">Hosch
       et al. 2022</xref>), underactivity/overactivity (and their
       subdimensions;
@@ -1541,23 +1559,29 @@ cognitive skills across lengthy developmental periods.</p>
     method, moderated nonlinear factor analysis (MNLFA), and item
     response theory (IRT). These are all approaches to
     harmonization—i.e., linking scores from different measures onto the
-    same scale so they can be meaningfully compared. They attempt to
-    estimate latent variables—using either confirmatory factor analysis
-    (CFA) or IRT—on a common scale across ages. They do so by trying to
-    align the item parameters for at least a subset of items. In
-    particular, to be able to chart individuals’ change over time, it is
-    helpful to ensure that the scores are on the same number line across
-    time—that is, they have the same scale and location across ages.
-    Scale refers to the size of a unit on the number line. If scores
-    have the same scale across ages, a one-unit difference represents
-    the same amount of the construct at each age. Location refers to the
-    origin or zero point on the number line. If scores have the same
-    location across ages, a score of zero corresponds to the same
-    position on the construct across ages. Collectively, if scores have
-    the same scale and location across ages, the measure is constantly
-    calibrated across ages and the same score corresponds to the same
-    level on the construct across ages. CFA and IRT each have item
-    parameters corresponding to scale and location.</p>
+    same scale so they can be meaningfully compared. Harmonization is
+    also used for integrative data analysis, to pool data from different
+    measures in different studies
+    (<xref alt="Curran et al. 2008" rid="ref-Curran2008" ref-type="bibr">Curran
+    et al. 2008</xref>;
+    <xref alt="McDaniel et al. 2023" rid="ref-McDaniel2023" ref-type="bibr">McDaniel
+    et al. 2023</xref>). The aforementioned approaches to harmonization
+    attempt to estimate latent variables—using either confirmatory
+    factor analysis (CFA) or IRT—on a common scale across ages. They do
+    so by trying to align the item parameters for at least a subset of
+    items. In particular, to be able to chart individuals’ change over
+    time, it is helpful to ensure that the scores are on the same number
+    line across time—that is, they have the same scale and location
+    across ages. Scale refers to the size of a unit on the number line.
+    If scores have the same scale across ages, a one-unit difference
+    represents the same amount of the construct at each age. Location
+    refers to the origin or zero point on the number line. If scores
+    have the same location across ages, a score of zero corresponds to
+    the same position on the construct across ages. Collectively, if
+    scores have the same scale and location across ages, the measure is
+    constantly calibrated across ages and the same score corresponds to
+    the same level on the construct across ages. CFA and IRT each have
+    item parameters corresponding to scale and location.</p>
     <p>In CFA, scale is informed by an item’s factor loading, and
     location is informed by an item’s intercept. A factor loading
     reflects the strength of association between the item and the latent
@@ -1584,151 +1608,167 @@ cognitive skills across lengthy developmental periods.</p>
     endorsing the item. Items with higher difficulty require a higher
     level of the latent factor to have a 50% probability of endorsing
     the item and therefore represent more severe behaviors.</p>
-    <p>The partial invariance method can be used to link scores across
-    different measures
-    (<xref alt="Tyrell et al. 2019" rid="ref-Tyrell2019" ref-type="bibr">Tyrell
-    et al. 2019</xref>) and can be paired with second-order growth
-    functions to examine individuals’ change over time
-    (<xref alt="Hancock and Buehl 2008" rid="ref-Hancock2008" ref-type="bibr">Hancock
-    and Buehl 2008</xref>). The partial invariance approach attempts to
-    establish partial strong longitudinal factorial
-    invariance<xref ref-type="fn" rid="fn5">5</xref>—i.e., invariant
-    intercepts and factor loadings across ages for a subset of items to
-    set the latent factor across ages on a comparable scale, with some
-    items’ intercepts and/or factor loadings allowed to differ across
-    ages. The researcher first identifies which items show invariant
-    factors loadings and/or intercepts and which items show noninvariant
-    factor loadings or intercepts. The researcher then constrains the
-    factors loadings across time for any items with invariant factor
-    loadings, to serve as anchor items and establish an equivalent scale
-    of the measures across time, and allows the factor loadings to
-    differ across time for the items with noninvariant factors loadings.
-    In addition, the researcher constrains the intercepts across time
-    for any items with invariant intercepts, to serve as anchor items
-    and establish an equivalent location of the measures across time,
-    and allows the intercepts to differ across time for the items with
-    noninvariant intercepts. The anchor items thus equate the latent
-    factor over time, preventing drift in the scale calibration and
-    rendering scores comparable across time
-    (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
-    and Bauer in pressb</xref>). Then, the researcher estimates
-    second-order growth functions (e.g., intercept and slope) of the
-    first-order latent factor across time. The method can allow
-    different indicators across ages, either by dropping or adding
-    indicators or by using item parcels composed of differing items
-    across ages
-    (<xref alt="Tyrell et al. 2019" rid="ref-Tyrell2019" ref-type="bibr">Tyrell
-    et al. 2019</xref>). However, the partial invariance approach
-    requires identifying—and accurately specifying—invariant items and
-    any noninvariant items, which can be both inefficient and
-    error-prone
-    (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
-    2023</xref>;
-    <xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
-    and Bauer in pressb</xref>). Moreover, the partial invariance
-    approach tends not to work as well when a large proportion of items
-    are noninvariant
-    (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
-    2023</xref>), there are many timepoints, there is considerable
-    variability in the numbers of responses provided to items such as
-    might occur due to missing data or when not all items are assessed
-    at all timepoints, or the researcher wants to consider DIF as a
-    function of multiple variables or continuous variables
-    (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
-    and Bauer in pressb</xref>).</p>
-    <p>The alignment optimization method
-    (<xref alt="Muthén and Asparouhov 2014" rid="ref-Muthen2014" ref-type="bibr">Muthén
-    and Asparouhov 2014</xref>) has been used to link scores across time
-    (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
-    2023</xref>). The alignment optimization method within confirmatory
-    factor analysis attempts to identify a model with approximate
-    longitudinal factorial invariance—that is, to retain any instances
-    of large noninvariance across ages and to keep other parameters
-    approximately invariant across ages—to adjust for violations of
-    invariance. The approach uses a component loss function to align the
-    item parameters across ages so that the scores on the latent factors
-    are on the same scale. Unlike the partial invariance method, the
-    alignment method does not require a priori identification of any
-    noninvariant items
-    (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
-    2023</xref>).</p>
-    <p>MNLFA
-    (<xref alt="Bauer 2017" rid="ref-Bauer2017" ref-type="bibr">Bauer
-    2017</xref>) has also been used to link scores across different
-    measures
-    (<xref alt="Curran et al. 2014" rid="ref-Curran2014" ref-type="bibr">Curran
-    et al. 2014</xref>), including across ages
-    (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
-    and Bauer in pressb</xref>,
-    <xref alt="in pressa" rid="ref-ChenMBR" ref-type="bibr">in
-    pressa</xref>). Unlike the partial invariance approach, MNLFA
-    represents the measurement model in continuous time (rather than
-    discrete time). MNLFA allows simultaneous estimation of growth
-    functions while estimating and accounting for DIF effects. It allows
-    estimating DIF as a function of time and as a function of multiple
-    variables, including categorical and continuous variables. Bayesian
-    approaches can be used to apply MNLFA. A key benefit of Bayesian
-    approaches is the use of regularizing priors that allow estimating
-    the model without having to identify noninvariant/DIF items and
-    anchor items in advance
-    (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
-    and Bauer in pressb</xref>,
-    <xref alt="in pressa" rid="ref-ChenMBR" ref-type="bibr">in
-    pressa</xref>). Using regularization, unimportant DIF effects are
-    shunken toward zero—while retaining larger DIF effects—thus
-    identifying potential anchor items without having to specify them in
-    advance
-    (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
-    and Bauer in pressb</xref>). In addition, Bayesian approaches are
-    often better suited to handle small sample sizes and data with
-    sparse responses
-    (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
-    and Bauer in pressb</xref>). Using a simulation, Chen and Bauer
-    (<xref alt="in pressa" rid="ref-ChenMBR" ref-type="bibr">in
-    pressa</xref>) found that MNLFA estimated change more accurately
-    than traditional first- or second-order growth curve models.</p>
-    <p>IRT can also be used to link scores across different measures
-    (<xref alt="Kolen and Brennan 2014" rid="ref-Kolen2014" ref-type="bibr">Kolen
-    and Brennan 2014</xref>). The IRT approach to developmetal scaling
-    is depicted in
-    <xref alt="Figure 9" rid="fig-linking">Figure 9</xref>. The IRT
-    approach to developmental scaling identifies scaling parameters that
-    minimize the differences between the probability of a person
-    endorsing the age-common items across two measures, at a given
-    construct level. That is, IRT links measures’ scales based on the
-    difficulty and discrimination of the age-common items. In
-    developmental scaling, scores on the construct-valid items at the
-    reference age set the scale, the age-common items adjusts subsequent
-    scores to that scale, and all construct-valid items (i.e., both
-    age-common and age-unique items) at a given timepoint is used to
-    estimate each person’s score on that scale. Thus, the age-common
-    items are used to determine the general form of change on an
-    identical scale, but all developmentally relevant, construct-valid
-    items are used to estimate each person’s construct level on this
-    scale. Traditionally IRT represents the measurement model in
-    discrete time. Like MNFLA, however, IRT (particularly in the mixed
-    model formulation) can represent the measurement model in continuous
-    time and allows testing DIF over time and as a function of multiple
-    variables and continuous variables. Moreover, like MNLFA, it allows
-    simultaneous estimation of growth functions while estimating and
-    accounting for DIF effects. In addition, like MNFLA, IRT allows
-    Bayesian estimation and regularizizing priors to identify anchor
-    items without having to specify them in advance.</p>
-    <fig id="fig-linking">
-      <caption><p>Figure 9: Example of Linking Scores From Measures
-      Across Ages Using the Item Response Theory Approach to
-      Developmental Scaling</p></caption>
-      <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2021_figure1.png" />
-    </fig>
-    <p>Nevertheless, for many of these approaches, at least one anchor
-    item is necessary to link the scale of the latent factor across
-    timepoints
-    (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
-    and Bauer in pressb</xref>). Moreover, when treating time
-    continuously, the functional form of any DIF as a function of time
-    must be correctly specified
-    (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
-    and Bauer in pressb</xref>).</p>
+    <sec id="partial-invariance">
+      <title>Partial Invariance</title>
+      <p>The partial invariance method can be used to link scores across
+      different measures
+      (<xref alt="Tyrell et al. 2019" rid="ref-Tyrell2019" ref-type="bibr">Tyrell
+      et al. 2019</xref>) and can be paired with second-order growth
+      functions to examine individuals’ change over time
+      (<xref alt="Hancock and Buehl 2008" rid="ref-Hancock2008" ref-type="bibr">Hancock
+      and Buehl 2008</xref>). The partial invariance approach attempts
+      to establish partial strong longitudinal factorial
+      invariance<xref ref-type="fn" rid="fn5">5</xref>—i.e., invariant
+      intercepts and factor loadings across ages for a subset of items
+      to set the latent factor across ages on a comparable scale, with
+      some items’ intercepts and/or factor loadings allowed to differ
+      across ages. The researcher first identifies which items show
+      invariant factors loadings and/or intercepts and which items show
+      noninvariant factor loadings or intercepts. The researcher then
+      constrains the factors loadings across time for any items with
+      invariant factor loadings, to serve as anchor items and establish
+      an equivalent scale of the measures across time, and allows the
+      factor loadings to differ across time for the items with
+      noninvariant factors loadings. In addition, the researcher
+      constrains the intercepts across time for any items with invariant
+      intercepts, to serve as anchor items and establish an equivalent
+      location of the measures across time, and allows the intercepts to
+      differ across time for the items with noninvariant intercepts. The
+      anchor items thus equate the latent factor over time, preventing
+      drift in the scale calibration and rendering scores comparable
+      across time
+      (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
+      and Bauer in pressb</xref>). Then, the researcher estimates
+      second-order growth functions (e.g., intercept and slope) of the
+      first-order latent factor across time. The method can allow
+      different indicators across ages, either by dropping or adding
+      indicators or by using item parcels composed of differing items
+      across ages
+      (<xref alt="Tyrell et al. 2019" rid="ref-Tyrell2019" ref-type="bibr">Tyrell
+      et al. 2019</xref>). However, the partial invariance approach
+      requires identifying—and accurately specifying—invariant items and
+      any noninvariant items, which can be both inefficient and
+      error-prone
+      (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
+      2023</xref>;
+      <xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
+      and Bauer in pressb</xref>). Moreover, the partial invariance
+      approach tends not to work as well when a large proportion of
+      items are noninvariant
+      (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
+      2023</xref>), there are many timepoints, there is considerable
+      variability in the numbers of responses provided to items such as
+      might occur due to missing data or when not all items are assessed
+      at all timepoints, or the researcher wants to consider DIF as a
+      function of multiple variables or continuous variables
+      (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
+      and Bauer in pressb</xref>).</p>
+    </sec>
+    <sec id="alignment-optimization">
+      <title>Alignment Optimization</title>
+      <p>The alignment optimization method
+      (<xref alt="Muthén and Asparouhov 2014" rid="ref-Muthen2014" ref-type="bibr">Muthén
+      and Asparouhov 2014</xref>) has been used to link scores across
+      time (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
+      2023</xref>). The alignment optimization method within
+      confirmatory factor analysis attempts to identify a model with
+      approximate longitudinal factorial invariance—that is, to retain
+      any instances of large noninvariance across ages and to keep other
+      parameters approximately invariant across ages—to adjust for
+      violations of invariance. The approach uses a component loss
+      function to align the item parameters across ages so that the
+      scores on the latent factors are on the same scale. Unlike the
+      partial invariance method, the alignment method does not require a
+      priori identification of any noninvariant items
+      (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
+      2023</xref>).</p>
+    </sec>
+    <sec id="moderated-nonlinear-factor-analysis">
+      <title>Moderated Nonlinear Factor Analysis</title>
+      <p>MNLFA
+      (<xref alt="Bauer 2017" rid="ref-Bauer2017" ref-type="bibr">Bauer
+      2017</xref>) has also been used to link scores across different
+      measures
+      (<xref alt="Curran et al. 2014" rid="ref-Curran2014" ref-type="bibr">Curran
+      et al. 2014</xref>), including across ages
+      (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
+      and Bauer in pressb</xref>,
+      <xref alt="in pressa" rid="ref-ChenMBR" ref-type="bibr">in
+      pressa</xref>;
+      <xref alt="Student 2025" rid="ref-Student2025" ref-type="bibr">Student
+      2025</xref>). Unlike the partial invariance approach, MNLFA
+      represents the measurement model in continuous time (rather than
+      discrete time). MNLFA allows simultaneous estimation of growth
+      functions while estimating and accounting for DIF effects. It
+      allows estimating DIF as a function of time and as a function of
+      multiple variables, including categorical and continuous
+      variables. Bayesian approaches can be used to apply MNLFA. A key
+      benefit of Bayesian approaches is the use of regularizing priors
+      that allow estimating the model without having to identify
+      noninvariant/DIF items and anchor items in advance
+      (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
+      and Bauer in pressb</xref>,
+      <xref alt="in pressa" rid="ref-ChenMBR" ref-type="bibr">in
+      pressa</xref>). Using regularization, unimportant DIF effects are
+      shunken toward zero—while retaining larger DIF effects—thus
+      identifying potential anchor items without having to specify them
+      in advance
+      (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
+      and Bauer in pressb</xref>). In addition, Bayesian approaches are
+      often better suited to handle small sample sizes and data with
+      sparse responses
+      (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
+      and Bauer in pressb</xref>). Using a simulation, Chen and Bauer
+      (<xref alt="in pressa" rid="ref-ChenMBR" ref-type="bibr">in
+      pressa</xref>) found that MNLFA estimated change more accurately
+      than traditional first- or second-order growth curve models.</p>
+    </sec>
+    <sec id="item-response-theory">
+      <title>Item Response Theory</title>
+      <p>IRT can also be used to link scores across different measures
+      (<xref alt="Kolen and Brennan 2014" rid="ref-Kolen2014" ref-type="bibr">Kolen
+      and Brennan 2014</xref>). The IRT approach to developmetal scaling
+      is depicted in
+      <xref alt="Figure 9" rid="fig-linking">Figure 9</xref>. The IRT
+      approach to developmental scaling identifies scaling parameters
+      that minimize the differences between the probability of a person
+      endorsing the age-common items across two measures, at a given
+      construct level. That is, IRT links measures’ scales based on the
+      difficulty and discrimination of the age-common items. In
+      developmental scaling, scores on the construct-valid items at the
+      reference age set the scale, the age-common items adjusts
+      subsequent scores to that scale, and all construct-valid items
+      (i.e., both age-common and age-unique items) at a given timepoint
+      is used to estimate each person’s score on that scale. Thus, the
+      age-common items are used to determine the general form of change
+      on an identical scale, but all developmentally relevant,
+      construct-valid items are used to estimate each person’s construct
+      level on this scale. Traditionally IRT represents the measurement
+      model in discrete time. Like MNFLA, however, IRT (particularly in
+      the mixed model formulation) can represent the measurement model
+      in continuous time and allows testing DIF over time and as a
+      function of multiple variables and continuous variables. Moreover,
+      like MNLFA, it allows simultaneous estimation of growth functions
+      while estimating and accounting for DIF effects. In addition, like
+      MNFLA, IRT allows Bayesian estimation and regularizizing priors to
+      identify anchor items without having to specify them in
+      advance.</p>
+      <fig id="fig-linking">
+        <caption><p>Figure 9: Example of Linking Scores From Measures
+        Across Ages Using the Item Response Theory Approach to
+        Developmental Scaling</p></caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2021_figure1.png" />
+      </fig>
+      <p>Nevertheless, for many of these approaches, at least one anchor
+      item is necessary to link the scale of the latent factor across
+      timepoints
+      (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
+      and Bauer in pressb</xref>). Moreover, when treating time
+      continuously, the functional form of any DIF as a function of time
+      must be correctly specified
+      (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
+      and Bauer in pressb</xref>).</p>
+    </sec>
   </sec>
 </sec>
 <sec id="other-key-challenges-to-address">
@@ -1969,9 +2009,11 @@ cognitive skills across lengthy developmental periods.</p>
       reflect a greater difference in the level of externalizing
       behavior in early childhood compared to adulthood. Thus, it is
       important to consider and account for changes in the meaning of
-      scores across development. Next, we describe longitudinal
-      factorial invariance as a way to evaluate—and account for—the
-      possibility that scores have changed in meaning across ages.</p>
+      scores across development. If a measure changes in the construct
+      it assesses, this is called construct shift. Next, we describe
+      longitudinal factorial invariance as a way to evaluate—and account
+      for—the possibility that scores have changed in meaning across
+      ages.</p>
     </sec>
   </sec>
   <sec id="factorial-invariance-across-time">
@@ -4933,7 +4975,7 @@ cognitive skills across lengthy developmental periods.</p>
         <name><surname>Hazeltine</surname><given-names>Eliot</given-names></name>
         <name><surname>Petersen</surname><given-names>Isaac T.</given-names></name>
       </person-group>
-      <article-title>Studying children’s growth in self-regulation using changing measures to account for heterotypic continuity: A bayesian approach to developmental scaling</article-title>
+      <article-title>Studying children’s growth in self-regulation using changing measures to account for heterotypic continuity: A Bayesian approach to developmental scaling</article-title>
       <source>Developmental Science</source>
       <year iso-8601-date="2022">2022</year>
       <volume>25</volume>
@@ -4957,6 +4999,187 @@ cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1037/abn0000649</pub-id>
       <fpage>611</fpage>
       <lpage>625</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-McArdle2011">
+    <element-citation publication-type="chapter">
+      <person-group person-group-type="author">
+        <name><surname>McArdle</surname><given-names>John J.</given-names></name>
+        <name><surname>Grimm</surname><given-names>Kevin J.</given-names></name>
+      </person-group>
+      <article-title>An empirical example of change analysis by linking longitudinal item response data from multiple tests</article-title>
+      <source>Statistical models for test equating, scaling, and linking</source>
+      <person-group person-group-type="editor">
+        <name><surname>Davier</surname><given-names>Alina A. von</given-names></name>
+      </person-group>
+      <publisher-name>Springer Science &amp; Business Media</publisher-name>
+      <publisher-loc>New York, NY, US</publisher-loc>
+      <year iso-8601-date="2011">2011</year>
+      <fpage>71</fpage>
+      <lpage>88</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-McArdle2009">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>McArdle</surname><given-names>John J.</given-names></name>
+        <name><surname>Grimm</surname><given-names>Kevin J.</given-names></name>
+        <name><surname>Hamagami</surname><given-names>Fumiaki</given-names></name>
+        <name><surname>Bowles</surname><given-names>Ryan P.</given-names></name>
+        <name><surname>Meredith</surname><given-names>William</given-names></name>
+      </person-group>
+      <article-title>Modeling life-span growth curves of cognition using longitudinal data with multiple samples and changing scales of measurement</article-title>
+      <source>Psychological Methods</source>
+      <year iso-8601-date="2009">2009</year>
+      <volume>14</volume>
+      <issue>2</issue>
+      <pub-id pub-id-type="doi">10.1037/a0015857</pub-id>
+      <fpage>126</fpage>
+      <lpage>149</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Ward2022">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Ward</surname><given-names>Caitlin</given-names></name>
+        <name><surname>Oleson</surname><given-names>Jacob</given-names></name>
+        <name><surname>Tomblin</surname><given-names>J. Bruce</given-names></name>
+        <name><surname>Walker</surname><given-names>Elizabeth</given-names></name>
+      </person-group>
+      <article-title>Modeling population and subject-specific growth in a latent trait measured by multiple instruments over time using a hierarchical Bayesian framework</article-title>
+      <source>Journal of Applied Statistics</source>
+      <year iso-8601-date="2022">2022</year>
+      <volume>49</volume>
+      <issue>2</issue>
+      <pub-id pub-id-type="doi">10.1080/02664763.2020.1817346</pub-id>
+      <fpage>449</fpage>
+      <lpage>465</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-McDaniel2023">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>McDaniel</surname><given-names>Heather L.</given-names></name>
+        <name><surname>Saavedra</surname><given-names>Lissette M.</given-names></name>
+        <name><surname>Morgan-López</surname><given-names>Antonio A.</given-names></name>
+        <name><surname>Bradshaw</surname><given-names>Catherine P.</given-names></name>
+        <name><surname>Lochman</surname><given-names>John E.</given-names></name>
+        <name><surname>Kaihoi</surname><given-names>Chelsea A.</given-names></name>
+        <name><surname>Powell</surname><given-names>Nicole P.</given-names></name>
+        <name><surname>Qu</surname><given-names>Lixin</given-names></name>
+        <name><surname>Yaros</surname><given-names>Anna C.</given-names></name>
+      </person-group>
+      <article-title>Harmonizing social, emotional, and behavioral constructs in prevention science: Digging into the weeds of aligning disparate measures</article-title>
+      <source>Prevention Science</source>
+      <year iso-8601-date="2023">2023</year>
+      <uri>https://doi.org/10.1007/s11121-022-01467-0</uri>
+      <pub-id pub-id-type="doi">10.1007/s11121-022-01467-0</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="ref-Curran2008">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Curran</surname><given-names>Patrick J.</given-names></name>
+        <name><surname>Hussong</surname><given-names>Andrea M.</given-names></name>
+        <name><surname>Cai</surname><given-names>L.</given-names></name>
+        <name><surname>Huang</surname><given-names>W.</given-names></name>
+        <name><surname>Chassin</surname><given-names>L.</given-names></name>
+        <name><surname>Sher</surname><given-names>K. J.</given-names></name>
+        <name><surname>Zucker</surname><given-names>R. A.</given-names></name>
+      </person-group>
+      <article-title>Pooling data from multiple longitudinal studies: The role of item response theory in integrative data analysis</article-title>
+      <source>Developmental Psychology</source>
+      <year iso-8601-date="2008">2008</year>
+      <volume>44</volume>
+      <issue>2</issue>
+      <pub-id pub-id-type="doi">10.1037/0012-1649.44.2.365</pub-id>
+      <fpage>365</fpage>
+      <lpage></lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Student2025">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Student</surname><given-names>Sanford R.</given-names></name>
+      </person-group>
+      <article-title>Vertical scaling with moderated nonlinear factor analysis</article-title>
+      <source>Journal of Educational Measurement</source>
+      <year iso-8601-date="2025">2025</year>
+      <volume>62</volume>
+      <issue>4</issue>
+      <uri>https://onlinelibrary.wiley.com/doi/abs/10.1111/jedm.70019</uri>
+      <pub-id pub-id-type="doi">10.1111/jedm.70019</pub-id>
+      <fpage>929</fpage>
+      <lpage>958</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Weeks2018">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Weeks</surname><given-names>Jonathan P.</given-names></name>
+      </person-group>
+      <article-title>An application of multidimensional vertical scaling</article-title>
+      <source>Measurement: Interdisciplinary Research and Perspectives</source>
+      <year iso-8601-date="2018">2018</year>
+      <volume>16</volume>
+      <issue>3</issue>
+      <uri>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=aph&amp;AN=131751897&amp;site=ehost-live&amp;scope=site</uri>
+      <pub-id pub-id-type="doi">10.1080/15366367.2018.1502005</pub-id>
+      <fpage>139</fpage>
+      <lpage>154</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Murayama2013">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Murayama</surname><given-names>Kou</given-names></name>
+        <name><surname>Pekrun</surname><given-names>Reinhard</given-names></name>
+        <name><surname>Lichtenfeld</surname><given-names>Stephanie</given-names></name>
+        <name><surname>Hofe</surname><given-names>Rudolf vom</given-names></name>
+      </person-group>
+      <article-title>Predicting long-term growth in students’ mathematics achievement: The unique contributions of motivation and cognitive strategies</article-title>
+      <source>Child Development</source>
+      <year iso-8601-date="2013">2013</year>
+      <volume>84</volume>
+      <issue>4</issue>
+      <uri>https://onlinelibrary.wiley.com/doi/abs/10.1111/cdev.12036</uri>
+      <pub-id pub-id-type="doi">10.1111/cdev.12036</pub-id>
+      <fpage>1475</fpage>
+      <lpage>1490</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Petscher2018">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Petscher</surname><given-names>Yaacov</given-names></name>
+        <name><surname>Justice</surname><given-names>Laura M.</given-names></name>
+        <name><surname>Hogan</surname><given-names>Tiffany</given-names></name>
+      </person-group>
+      <article-title>Modeling the early language trajectory of language development when the measures change and its relation to poor reading comprehension</article-title>
+      <source>Child Development</source>
+      <year iso-8601-date="2018">2018</year>
+      <volume>89</volume>
+      <issue>6</issue>
+      <uri>http://dx.doi.org/10.1111/cdev.12880</uri>
+      <pub-id pub-id-type="doi">10.1111/cdev.12880</pub-id>
+      <fpage>2136</fpage>
+      <lpage>2156</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Moeller2015">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Moeller</surname><given-names>Julia</given-names></name>
+      </person-group>
+      <article-title>A word on standardization in longitudinal studies: don’t</article-title>
+      <source>Frontiers in Psychology</source>
+      <year iso-8601-date="2015">2015</year>
+      <volume>6</volume>
+      <issue>1389</issue>
+      <uri>http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01389</uri>
+      <pub-id pub-id-type="doi">10.3389/fpsyg.2015.01389</pub-id>
+      <fpage>1</fpage>
+      <lpage>4</lpage>
     </element-citation>
   </ref>
 </ref-list>
