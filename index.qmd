@@ -594,7 +594,7 @@ Otherwise, respondents would receive items that are too easy (thus evoking bored
 To address this, the test developers write the tests such that some items are in common across adjacent grades—used for linking the scores across grades onto the same scale—along with items that are unique to a particular grade.
 Then, the researchers apply widely used methods to link the scores from the different measures to be on the same scale so they can observe individuals' growth across grades.
 The same general methods are also used to place people's scores on the same scale for standardized tests like the ACT, SAT, GRE, MCAT, LSAT, etc., despite repondents receiving different item content.
-For examples of studies applying various linking methods to academic and cognitive skills, see @McArdle2009, @McArdle2011; @Murayama2013; @Petscher2018, @Ward2022, and @Weeks2018.
+For examples of studies applying various linking methods to academic and cognitive skills, see @McArdle2009, @McArdle2011, @Murayama2013, @Petscher2018, @Ward2022, and @Weeks2018.
 However, the use of linking methods is rare in studies of social and behavioral development broadly and psychopathology specfically.
 For studies that have applied such methods in studying social and behavioral development, see studies on self-concept [@Hancock2008], neuroticism [@Lai2023], self-regulation [@Hosch2022], underactivity/overactivity [and their subdimensions\; @McDermott2013], thought-disordered problems [@Petersen2026a], internalizing problems [@Harris2025; @Petersen2018; @Petersen2026a; @Tyrell2019], and externalizing problems [@ChenMBR; @ChenPM; @Harris2025; @Petersen2021b; @Petersen2022; @Petersen2026a].
 
