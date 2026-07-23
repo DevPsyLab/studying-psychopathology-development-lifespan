@@ -552,7 +552,8 @@ In sum, despite these approaches being the most widely used for assessing indivi
 
 The problem cannot be solved merely by age-norming.
 Generating norms from items that are invalid at a given age or from scales that have important content gaps at a given age leads to construct-invalid scores and resulting norms.
-Moreover, using DSM disorders or diagnoses also does not solve the issue.
+Moreover, age-norming prevents observing absolute growth and is problematic in longitudinal studies [@Moeller2015].
+Likewise, using DSM disorders or diagnoses also does not solve the issue.
 <!-- Using DSM disorders/diagnoses does not solve the issue. Fictitious categories. Diagnostic criteria change, leading prior categorizations to fall out of favor. -->
 
 In addition, forcing use of the same measure across time naturally limits the ages a study can span, which prevents charting wider age spans.
@@ -570,8 +571,6 @@ In sum, many problems arise from using the same measure across ages when the con
 ### Do Not Allow Charting Individuals' Change Over Time When the Construct Changes in Behavioral Manifestation
 
 <!-- Studies of cognitive development -->
-
-<!-- Kolen & Brennan, 2014; Lai, 2021; McArdle & Grimm, 2011; McArdle et al., 2009; Ward et al., 2022; McDaniel et al., 2023; Chen and Bauer articles -->
 
 Current assessments fail to implement the construct-valid item approach across development—existing measures show insufficient differences in which items are assessed at which ages.
 Moreover, even in cases where the items of a measure differ across ages (e.g., CBCL: ages 1.5–5 vs. ages 6–18), the scoring systems do not link scores across ages to be on the same scale while preserving change in level.
@@ -595,9 +594,9 @@ Otherwise, respondents would receive items that are too easy (thus evoking bored
 To address this, the test developers write the tests such that some items are in common across adjacent grades—used for linking the scores across grades onto the same scale—along with items that are unique to a particular grade.
 Then, the researchers apply widely used methods to link the scores from the different measures to be on the same scale so they can observe individuals' growth across grades.
 The same general methods are also used to place people's scores on the same scale for standardized tests like the ACT, SAT, GRE, MCAT, LSAT, etc., despite repondents receiving different item content.
-For examples of studies applying linking methods to academic and cognitive skills see.<!-- INSERT -->
+For examples of studies applying various linking methods to academic and cognitive skills, see @McArdle2009, @McArdle2011; @Murayama2013; @Petscher2018, @Ward2022, and @Weeks2018.
 However, the use of linking methods is rare in studies of social and behavioral development broadly and psychopathology specfically.
-For studies that have applied such methods in studying social and behavioral development, see studies on self-concept [@Hancock2008], self-regulation [@Hosch2022], underactivity/overactivity [and their subdimensions\; @McDermott2013], thought-disordered problems [@Petersen2026a], internalizing problems [@Harris2025; @Petersen2018; @Petersen2026a; @Tyrell2019], and externalizing problems [@ChenMBR; @ChenPM; @Harris2025; @Petersen2021b; @Petersen2022; @Petersen2026a].
+For studies that have applied such methods in studying social and behavioral development, see studies on self-concept [@Hancock2008], neuroticism [@Lai2023], self-regulation [@Hosch2022], underactivity/overactivity [and their subdimensions\; @McDermott2013], thought-disordered problems [@Petersen2026a], internalizing problems [@Harris2025; @Petersen2018; @Petersen2026a; @Tyrell2019], and externalizing problems [@ChenMBR; @ChenPM; @Harris2025; @Petersen2021b; @Petersen2022; @Petersen2026a].
 
 Moreover, psychopathology assessments do not include such scoring tools.
 The lack of scoring tools to link scores from age-differing psychopathology assessments leads researchers to restrict the age range of study.
@@ -702,7 +701,8 @@ Hypothetically, items could be assessed for as many or as few years as desired�
 After the age-differing measures have been assessed, the scores from the age-differing measures can be linked to be on the same scale.
 To perform developmental scaling, a variety of approaches can be used, including partial measurement invariance, the alignment method, moderated nonlinear factor analysis (MNLFA), and item response theory (IRT).
 These are all approaches to harmonization—i.e., linking scores from different measures onto the same scale so they can be meaningfully compared.
-They attempt to estimate latent variables—using either confirmatory factor analysis (CFA) or IRT—on a common scale across ages.
+Harmonization is also used for integrative data analysis, to pool data from different measures in different studies [@Curran2008; @McDaniel2023].
+The aforementioned approaches to harmonization attempt to estimate latent variables—using either confirmatory factor analysis (CFA) or IRT—on a common scale across ages.
 <!-- DESCRIBE COMMONALITIES/SIMILARITIES AMONG THE APPROACHES -->
 They do so by trying to align the item parameters for at least a subset of items.
 In particular, to be able to chart individuals' change over time, it is helpful to ensure that the scores are on the same number line across time—that is, they have the same scale and location across ages.
@@ -726,6 +726,8 @@ An item's discrimination reflects how strongly the item differentiates individua
 In a two-parameter IRT model, an item's difficulty reflects the level on the latent factor where there is a 50% probability of endorsing the item.
 Items with higher difficulty require a higher level of the latent factor to have a 50% probability of endorsing the item and therefore represent more severe behaviors.
 
+### Partial Invariance
+
 The partial invariance method can be used to link scores across different measures [@Tyrell2019] and can be paired with second-order growth functions to examine individuals' change over time [@Hancock2008].
 The partial invariance approach attempts to establish partial strong longitudinal factorial invariance[^strongInvarianceFootnote]—i.e., invariant intercepts and factor loadings across ages for a subset of items to set the latent factor across ages on a comparable scale, with some items' intercepts and/or factor loadings allowed to differ across ages.
 The researcher first identifies which items show invariant factors loadings and/or intercepts and which items show noninvariant factor loadings or intercepts.
@@ -739,12 +741,16 @@ Moreover, the partial invariance approach tends not to work as well when a large
 
 [^strongInvarianceFootnote]: Strong invariance is also called "scalar invariance".
 
+### Alignment Optimization
+
 The alignment optimization method [@Muthen2014] has been used to link scores across time [@Lai2023].
 The alignment optimization method within confirmatory factor analysis attempts to identify a model with approximate longitudinal factorial invariance—that is, to retain any instances of large noninvariance across ages and to keep other parameters approximately invariant across ages—to adjust for violations of invariance.
 The approach uses a component loss function to align the item parameters across ages so that the scores on the latent factors are on the same scale.
 Unlike the partial invariance method, the alignment method does not require a priori identification of any noninvariant items [@Lai2023].
 
-MNLFA [@Bauer2017] has also been used to link scores across different measures [@Curran2014], including across ages [@ChenPM; @ChenMBR].
+### Moderated Nonlinear Factor Analysis
+
+MNLFA [@Bauer2017] has also been used to link scores across different measures [@Curran2014], including across ages [@ChenPM; @ChenMBR; @Student2025].
 Unlike the partial invariance approach, MNLFA represents the measurement model in continuous time (rather than discrete time).
 MNLFA allows simultaneous estimation of growth functions while estimating and accounting for DIF effects.
 It allows estimating DIF as a function of time and as a function of multiple variables, including categorical and continuous variables.
@@ -753,6 +759,8 @@ A key benefit of Bayesian approaches is the use of regularizing priors that allo
 Using regularization, unimportant DIF effects are shunken toward zero—while retaining larger DIF effects—thus identifying potential anchor items without having to specify them in advance [@ChenPM].
 In addition, Bayesian approaches are often better suited to handle small sample sizes and data with sparse responses [@ChenPM].
 Using a simulation, @ChenMBR found that MNLFA estimated change more accurately than traditional first- or second-order growth curve models.
+
+### Item Response Theory
 
 IRT can also be used to link scores across different measures [@Kolen2014].
 The IRT approach to developmetal scaling is depicted in @fig-linking.
@@ -905,6 +913,7 @@ In this example, the same score—i.e., endorsement of physical aggression—wou
 Or, consider if a behavior such as disobedience becomes less construct-valid (i.e., lower discrimination) with age.
 In this example, the same score difference—i.e., between endorsement (1) versus non-endorsement (0) of disobedience to authority—would reflect a greater difference in the level of externalizing behavior in early childhood compared to adulthood.
 Thus, it is important to consider and account for changes in the meaning of scores across development.
+If a measure changes in the construct it assesses, this is called construct shift.
 Next, we describe longitudinal factorial invariance as a way to evaluate—and account for—the possibility that scores have changed in meaning across ages.
 
 ## Factorial Invariance Across Time
