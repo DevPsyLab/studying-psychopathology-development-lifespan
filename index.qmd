@@ -23,12 +23,7 @@ author:
       - writing
       - editing
     affiliations:
-      - name: University of Iowa
-        department: Department of Psychological and Brain Sciences
-        address: G60 Psychological and Brain Sciences Building
-        city: Iowa City
-        region: IA
-        postal-code: 52242
+      - ref: uiowaPBS
   - given: Zachary
     family: Demko
     orcid: 0000-0002-5717-6205
@@ -43,12 +38,7 @@ author:
       - software
       - editing
     affiliations:
-      - name: University of Iowa
-        department: Department of Psychological and Brain Sciences
-        address: G60 Psychological and Brain Sciences Building
-        city: Iowa City
-        region: IA
-        postal-code: 52242
+      - ref: uiowaPBS
   - given: Megan
     family: Schumer
     orcid: 0009-0009-5488-6541
@@ -57,12 +47,15 @@ author:
     role:
       - editing
     affiliations:
-      - name: University of Iowa
-        department: Department of Psychological and Brain Sciences
-        address: G60 Psychological and Brain Sciences Building
-        city: Iowa City
-        region: IA
-        postal-code: 52242
+      - ref: uiowaPBS
+affiliations:
+  - id: uiowaPBS
+    name: University of Iowa
+    department: Department of Psychological and Brain Sciences
+    address: G60 Psychological and Brain Sciences Building
+    city: Iowa City
+    region: IA
+    postal-code: 52242
 author-note:
   status-changes: 
     affiliation-change: ~
