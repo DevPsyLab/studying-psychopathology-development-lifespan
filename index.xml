@@ -58,7 +58,7 @@ administration</role>
 draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
 <role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
 editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">editing</role>
-<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="aff" rid="uiowaPBS">a</xref>
 <xref ref-type="corresp" rid="cor-1">&#x002A;</xref>
 </contrib>
 <contrib contrib-type="author">
@@ -81,7 +81,7 @@ analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/forma
 <role vocab="https://credit.niso.org" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">software</role>
 <role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
 editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">editing</role>
-<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="aff" rid="uiowaPBS">a</xref>
 </contrib>
 <contrib contrib-type="author">
 <contrib-id contrib-id-type="orcid">0009-0009-5488-6541</contrib-id>
@@ -94,10 +94,10 @@ editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writin
 <email>megan-schumer@uiowa.edu</email>
 <role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
 editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">editing</role>
-<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="aff" rid="uiowaPBS">a</xref>
 </contrib>
 </contrib-group>
-<aff id="aff-1">
+<aff id="uiowaPBS">
 <institution content-type="dept">Department of Psychological and Brain
 Sciences</institution>
 <institution-wrap>
@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-07-23">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-07-24">
 <year>2026</year>
 <month>7</month>
-<day>23</day>
+<day>24</day>
 </pub-date>
 
 
