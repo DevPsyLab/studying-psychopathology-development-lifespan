@@ -27,6 +27,8 @@ format:
     csl: apa.csl
     include-in-header:
       - file: "includes/google_analytics.html"
+    email-obfuscation: javascript
+    axe: true
   #apaquarto-html:
   #  toc: true
   apaquarto-docx:
