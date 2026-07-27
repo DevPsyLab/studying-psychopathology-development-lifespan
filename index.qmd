@@ -968,9 +968,12 @@ In sum, it is important to keep items relevant for current use, and that natural
 
 # Conclusion
 
+Due to a variety of challenges—both conceptual and methodological—that we discuss, the field has not adequately studied individuals' development of psychopathology across the lifespan, instead taking a piecewise approach to development that limits our understanding of lifespan development and the origins of psychopathology.
+To address these challenges, we discuss the importance of defining psychopathology constructs from a developmental perspective, developing new assessments that (a) capture changes in behavioral manifestation of psychopathology, (b) apply scoring systems that allow charting individuals' change over time in the face of changing behavioral manifestation, and (c) capture the full range of individual differences.
+We introduce a developmental scaling framework to help address these challenges.
 Addressing these challenges will allow charting individuals' trajectories of psychopathology across the lifespan and identifying risk and protective factors that influence their developmental courses.
 Doing so is critical for understanding how psychopathology develops, when to intervene, and how to most effectively prevent psychopathology.
-Although this manuscript focuses on development of psychopathology, the principles discussed likely apply to many other developmental domains.
+Although this paper focuses on development of psychopathology, the principles discussed likely apply to many other developmental domains.
 
 # References
 
