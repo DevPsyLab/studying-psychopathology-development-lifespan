@@ -447,12 +447,12 @@ As examples, hurting others' feelings on purpose (left panel) was most common in
 In addition to externalizing problems, both internalizing [@Petersen2018; @Tyrell2019; @Weems2008; @Weiss2003] and thought-disordered [@Rutter2006] problems are thought to change in manifestation across development.
 
 However, more work is needed to developmentally parameterize constructs—to define constructs developmentally in terms of their features.
-Recent empirical work suggests that it is uncommon for symptoms to change from one symptom to another for a given person at the subsequent measurement occasion [@ApplegateInPress].
+Recent empirical work suggests that it is uncommon for symptoms to change from one symptom to another for a given person at the subsequent measurement occasion [@Applegate2026].
 Nevertheless, the authors found that adding new symptoms and subtracting symptoms—other ways that a construct can change in manifestation—were both relatively common.
 Moreover, just because a symptom persists does not mean that the behavioral manifestation of that symptom stays the same for that individual.
 For instance, even if a symptom (e.g., "fighting") persists for an individual, their manifestation of that symptom could differ in form, function, or mechanism [@Petersen2024].
 Indeed, fighting is considered to differ in meaning from childhood to adulthood [@Patterson1993; @Tyrell2019].
-Thus, as noted by @ApplegateInPress, "future causal theories will need to rest on a more detailed and nuanced description of persistence and change at the level of specific psychological problems."
+Thus, as noted by @Applegate2026, "future causal theories will need to rest on a more detailed and nuanced description of persistence and change at the level of specific psychological problems."
 
 Moreover, where such theories do indicate changes in behavioral manifestation across development, diagnostic and taxonomic systems do not incorporate these developmental changes.
 
