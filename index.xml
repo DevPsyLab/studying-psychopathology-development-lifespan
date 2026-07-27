@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-07-24">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-07-27">
 <year>2026</year>
 <month>7</month>
-<day>24</day>
+<day>27</day>
 </pub-date>
 
 
@@ -338,7 +338,7 @@ cognitive skills across lengthy developmental periods.</p>
   research, we would miss the great individual differences in people’s
   developmental courses. And these individual differences are crucial to
   identify the risk and protective mechanisms that explain these
-  differing developmental courses. </p>
+  differing developmental courses.</p>
   <fig id="fig-externalizingbyage">
     <caption><p>Figure 2: Externalizing Behavior Across
     Development</p></caption>
@@ -605,8 +605,8 @@ cognitive skills across lengthy developmental periods.</p>
     <p>However, as we will describe, these lengthy longitudinal studies
     of psychopathology (e.g.,
     <xref alt="Odgers et al. 2008" rid="ref-Odgers2008" ref-type="bibr">Odgers
-    et al. 2008</xref>)—including one of our own
-    (<xref alt="Petersen et al. 2015" rid="ref-Petersen2015" ref-type="bibr">Petersen
+    et al. 2008</xref>)—including some of our own (e.g.,
+    <xref alt="Petersen et al. 2015" rid="ref-Petersen2015" ref-type="bibr">Petersen
     et al. 2015</xref>)—have important limitations in (a) how they
     assessed psychopathology constructs across development and (b) how
     they estimated people’s scores on those constructs over time that
@@ -1752,7 +1752,7 @@ cognitive skills across lengthy developmental periods.</p>
       function of multiple variables and continuous variables. Moreover,
       like MNLFA, it allows simultaneous estimation of growth functions
       while estimating and accounting for DIF effects. In addition, like
-      MNFLA, IRT allows Bayesian estimation and regularizizing priors to
+      MNFLA, IRT allows Bayesian estimation and regularizing priors to
       identify anchor items without having to specify them in
       advance.</p>
       <fig id="fig-linking">
