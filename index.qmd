@@ -228,7 +228,6 @@ The heterogeneous trajectories of externalizing problems are depicted in @fig-ex
 
 In sum, if we rely solely on normative age-related patterns of cognitive functioning or psychopathology from cross-sectional research, we would miss the great individual differences in people's developmental courses.
 And these individual differences are crucial to identify the risk and protective mechanisms that explain these differing developmental courses.
-<!-- Note that the approaches that researchers have largely used to study development (including Petersen et al., 2015 and others) have problems; i.e., they have *attempted* to study development -->
 
 <!--
 ::: {#fig-externalizingByAge layout="[[1], [1,1]]" layout-valign="bottom"}
@@ -386,7 +385,8 @@ Studies shown entirely with dotted lines assessed their full age range cross-sec
 </p>
 :::
 
-However, as we will describe, these lengthy longitudinal studies of psychopathology [e.g., @Odgers2008]—including one of our own [@Petersen2015]—have important limitations in (a) how they assessed psychopathology constructs across development and (b) how they estimated people's scores on those constructs over time that prevent strong inferences regarding individuals' change over time.
+<!-- Note that the approaches that researchers have largely used to study development (including Petersen et al., 2015 and others) have problems; i.e., they have *attempted* to study development -->
+However, as we will describe, these lengthy longitudinal studies of psychopathology [e.g., @Odgers2008]—including some of our own [e.g., @Petersen2015]—have important limitations in (a) how they assessed psychopathology constructs across development and (b) how they estimated people's scores on those constructs over time that prevent strong inferences regarding individuals' change over time.
 
 # Reasons for the Problem
 
@@ -498,8 +498,6 @@ In particular, there is a mismatch between theory of constructs—including how 
 Given the substantial changes in behavioral manifestation of psychopathology across development, it is important for measures to capture the constructs' changing behavioral manifestation, to stay developmentally relevant and construct valid.
 As noted by Moffitt [-@Moffitt1993, p. 694], "Measures of antisocial behavior should be sensitive to developmental heterogeneity to tap individual differences while allowing for the emergence of new forms of antisocial behavior (e.g., automobile theft) or for the forsaking of old forms (e.g., tantrums)."
 
-<!-- Figure from Petersen et al. (2026, Psychol Assessment) on age-varying behaviors -->
-
 However, measures show insufficient differences in which items are assessed at which ages to account for heterotypic continuity.
 For example, among the most widely used measures of externalizing problems in research and practice is the Child Behavior Checklist (CBCL).
 However, the same version of the Child Behavior Checklist (CBCL) spans ages 6–18.
@@ -563,8 +561,6 @@ In sum, many problems arise from using the same measure across ages when the con
 
 ### Do Not Allow Charting Individuals' Change Over Time When the Construct Changes in Behavioral Manifestation
 
-<!-- Studies of cognitive development -->
-
 Current assessments fail to implement the construct-valid item approach across development—existing measures show insufficient differences in which items are assessed at which ages.
 Moreover, even in cases where the items of a measure differ across ages (e.g., CBCL: ages 1.5–5 vs. ages 6–18), the scoring systems do not link scores across ages to be on the same scale while preserving change in level.
 For instance, when using age-differing measures of externalizing behavior to account for changes in behavioral manifestation across development, Kjeldsen et al. [-@Kjeldsen2016, p. 999] noted in their study, "Due to change in measures and rescaled variables, only relative change across classes can be interpreted and not absolute (developmental) change."
@@ -598,7 +594,6 @@ Therefore, we excluded age 2 from our trajectory analysis."
 
 ### Not Well-Suited For Capturing the Full Range of Individual Differences
 
-<!-- Likert-Type responses -->
 Many measures use coarse, subjective response scales such as Likert-type response scales (e.g., "rarely", "sometimes", "often", "very often") leading to cultural bias [@Schaeffer1991; @Schwarz1999; @Paalman2013] and insensitivity to change.
 Items with few discrete response categories tend to show less sensitivity to the full range of individual differences [@Elliott1980] and less sensitivity to change [i.e., responsiveness\; @Grant1999] compared to items with more response options that have greater variability in scores.
 In general, items with more response options yield more information [i.e., greater reduction of uncertainty in estimates of a person's construct level; though there are diminishing returns when using more than six response options\; @Culpepper2013; @Simms2019].
@@ -765,7 +760,7 @@ Thus, the age-common items are used to determine the general form of change on a
 Traditionally IRT represents the measurement model in discrete time.
 Like MNFLA, however, IRT (particularly in the mixed model formulation) can represent the measurement model in continuous time and allows testing DIF over time and as a function of multiple variables and continuous variables.
 Moreover, like MNLFA, it allows simultaneous estimation of growth functions while estimating and accounting for DIF effects. 
-In addition, like MNFLA, IRT allows Bayesian estimation and regularizizing priors to identify anchor items without having to specify them in advance.
+In addition, like MNFLA, IRT allows Bayesian estimation and regularizing priors to identify anchor items without having to specify them in advance.
 
 ![Example of Linking Scores From Measures Across Ages Using the Item Response Theory Approach to Developmental Scaling](Figures/Petersen2021_figure1.png){
   #fig-linking
@@ -943,9 +938,6 @@ Approximate measurement invariance allows invariance parameters to have small am
 Approximate measurement invariance is more accurate than full or partial measurement invariance for estimating true latent mean differences when there are many small differences in the intercepts and factor loadings [@Cieciuch2014; @VanDeSchoot2013].
 Approximate measurement invariance has also been applied in the longitudinal context [e.g., @Seddig2018; @Winter2020].
 Robitzsch and Lüdtke [-@Robitzsch2023, p. 859] argue that establishing factorial invariance is neither necessary nor sufficient for comparing latent means, and they note that "there is no support for preferring the partial invariance approach over competing approaches, such as invariance alignment, robust linking, or Bayesian approximate invariance."
-
-<!-- at least approximate measurement invariance or partial strong invariance; -->
-<!-- Quantitude; many papers -->
 
 [^invarianceFootnote]: Factorial invariance is also called "measurement invariance".
 In this context, we prefer the term "factorial invariance" because, as described, the actual measures used may differ across time.
