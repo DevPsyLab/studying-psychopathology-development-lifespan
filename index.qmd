@@ -147,11 +147,11 @@ citation:
 When entrenched, psychopathology is costly and difficult to treat [@Insel2008; @Wakschlag2019].
 Understanding its developmental origins is therefore crucial for preventing later, more severe psychopathology.
 Developmental science seeks to build a bridge that spans the lifespan—from infancy to older adulthood—and not just transitory periods in people's lives.
-However, the field has not adequately studied individuals' development of psychopathology across the lifespan, instead taking a piecewise approach to development that focuses on narrower age ranges.
-The focus on narrow age ranges restricts our ability to understand development across important transitions, such as puberty, school entry, and entry into parenthood, thus limiting our understanding of lifespan development and the origins of psychopathology.
+However, the field has not adequately studied individuals' development of psychopathology across the lifespan; instead, it has taken a piecewise approach to development that focuses on narrower age ranges.
+The focus on narrow age ranges restricts our ability to understand development across important transitions, such as puberty, school entry, and entry into parenthood, which in turn limits our understanding of lifespan development and the origins of psychopathology.
 In this paper, we describe reasons why this is the case—beyond logistical challenges of time and money.
 And we propose solutions to these challenges by introducing a developmental scaling framework for psychopathology.
-Using externalizing psychopathology as an example, we draw on our content analysis of over 270 externalizing measures, as well as lessons from the study of other constructs such as academic and cognitive skills across lengthy developmental periods.
+Using externalizing psychopathology as an example, we draw on our content analysis of more than 270 externalizing measures, as well as lessons from the study of other constructs such as academic and cognitive skills across lengthy developmental periods.
 
 # The Goal
 
@@ -160,7 +160,7 @@ A variety of methods, including cross-sectional and longitudinal designs, could 
 In a cross-sectional design, people are assessed at one timepoint.
 In a longitudinal design, the same individuals are followed across time.
 
-Cross-sectional designs provide the ability to cheaply and quickly assess a wide age range, providing a snapshot at a particular point in time.
+Cross-sectional designs provide the ability to relatively cheaply and quickly assess a wide age range, providing a snapshot at a particular point in time.
 Cross-sectional designs may inform our understanding of general normative patterns of change—such as the typical pattern of cognitive growth and decline across the lifespan.
 Thus, cross-sectional designs provide an important starting point.
 
@@ -168,7 +168,7 @@ However, cross-sectional designs have key limitations.
 First, cross-sectional designs do not allow examining individuals' change over time.
 Second, cross-sectional designs may obscure diverse patterns of change.
 Individuals show considerable heterogeneity in level and change across time in many constructs.
-As an example, despite the normative pattern of steep cognitive decline in episodic memory with age, there are a subset of individuals who do not show this same pattern.
+As an example, despite the normative pattern of steep cognitive decline in episodic memory with aging, there are a subset of individuals who do not show this same pattern.
 For instance, superagers are individuals who are older adults (age 80+) who have episodic memory at or above the normative level of middle-aged adults (50–65 years old) and who may be resilient to the typical aging process [@Godoy2021].
 Theoretical depictions of the heterogeneity of cognitive decline are depicted in @fig-lifespancognitivetrajectories.
 
@@ -213,10 +213,10 @@ The orange line marks the threshold for functional independence; once an individ
 
 Heterogeneity also applies to psychopathology trajectories including externalizing and criminal behavior.
 The age-crime curve depicts the well-known strong association between age and engagement in crime, with crime rates peaking markedly (in many Western countries) in adolescence around ages 15–19.
-An example of the age-crime curve is depicted in @fig-externalizingbyage.
+An example of the age-crime curve is depicted in @fig-externalizing-by-age.
 
 However, Moffitt's [-@Moffitt1993] developmental taxonomy of externalizing ("antisocial") behavior posits that there are heterogeneous subgroups such that one subgroup exhibits low levels of externalizing behavior across the lifespan, an "adolescence limited" subgroup exhibits high levels of externalizing behavior during adolescence but low levels during childhood and adulthood, and a "life-course persistent" subgroup that exhibits high levels of externalizing behavior across the lifespan; in addition, more recent work has identified a "childhood limited" subgroup that exhibits high levels of externalizing behavior during childhood but low levels after childhood [@Fairchild2013; @Odgers2008].
-The developmental taxonomy is depicted in @fig-externalizingbyage.
+The developmental taxonomy is depicted in @fig-externalizing-by-age.
 Moffitt's general hypothesis is that life-course persistent externalizing behavior results from early disruptions in brain development either in utero (resulting from, for example, maternal substance use, poor prenatal nutrition, genetics, or exposure to toxins), during delivery (e.g., delivery complications), or after birth (e.g., child abuse or neglect, or exposure to toxins) that lead to impaired cognitive abilities and difficult temperament, in perhaps conjunction with coercive parent–child interactions or other adverse, criminogenic environments.
 Adolescence-limited externalizing behavior, by contrast, is thought to reflect a more normative—even adaptive—pattern of social behavior that is driven by exposure to deviant peers and a maturity gap.
 Childhood-limited externalizing behavior, though not hypothesized by the original taxonomy, may in some cases reflect recovery and in other cases reflect a shift from externalizing problems into problems in other domains [@Odgers2008].
@@ -231,14 +231,14 @@ For instance, in a longitudinal study examining the development of externalizing
 
 Since @Moffitt1993 proposed the developmental taxonomy of externalizing behavior, work has examined individual differences in externalizing trajectories to determine whether they are best represented by categories—i.e., taxa such as adolescence-limited, life-course persistent, etc.—or dimensionally.
 Findings have consistently shown that variation in externalizing trajectories is better represented dimensionally than with categories [@Fairchild2013; @Walters2011; @Walters2012; @Walters2013; @Walters2015], suggesting that differences between people in their developmental course of externalizing behavior appear to reflect differences in degree rather than kind (i.e., quantitative differences rather than qualitative differences).
-For example, the trajectories in @Petersen2015 were characterized by marked individual differences—some individuals stayed low, some increased, some decreased, some increased then decreased, and seemingly everything in between.
-The heterogeneous trajectories of externalizing problems are depicted in @fig-externalizingbyage.
+For example, the trajectories in @Petersen2015 were characterized by marked individual differences; some individuals stayed low, some increased, some decreased, some increased then decreased, and seemingly everything in between.
+The heterogeneous trajectories of externalizing problems are depicted in @fig-externalizing-by-age.
 
-In sum, if we rely solely on normative age-related patterns of cognitive functioning or psychopathology from cross-sectional research, we would miss the great individual differences in people's developmental courses.
+In sum, if we rely solely on normative age-related patterns of cognitive functioning or psychopathology from cross-sectional research, we would miss the immense differences in people's developmental courses.
 And these individual differences are crucial to identify the risk and protective mechanisms that explain these differing developmental courses.
 
 <!--
-::: {#fig-externalizingByAge layout="[[1], [1,1]]" layout-valign="bottom"}
+::: {#fig-externalizing-by-age layout="[[1], [1,1]]" layout-valign="bottom"}
 ![Age-Crime Curve (Among Those Who Have a Record of Antisocial or Criminal Behavior)](Figures/Sivertsson2024_figure1.png){
   #fig-ageCrimeCurve
   fig-alt="The age-crime participation curve from age 9 through 64 in cohort members registered for antisocial and/or criminal behavior in a birth cohort recruited in Stockholm, Sweden (*N* = 4,825), based on official crime records."
@@ -258,11 +258,11 @@ And these individual differences are crucial to identify the risk and protective
 :::
 -->
 
-{{< embed notebooks/analyses.qmd#fig-externalizingbyage >}}
+{{< embed notebooks/analyses.qmd#fig-externalizing-by-age >}}
 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
-**Panel A**: The age-crime participation curve from age 9 through 64 in cohort members registered for antisocial and/or criminal behavior in a birth cohort recruited in Stockholm, Sweden (*N* = 4825), based on official records.
+**Panel A**: The age-crime participation curve from age 9 through 64 in cohort members who were registered for antisocial and/or criminal behavior in a birth cohort recruited in Stockholm, Sweden (*N* = 4825), based on official records.
 The steep peak in crime rate in the adolescent years is similar to the age-crime curve in the United States; however, the steepness of the age-crime curve differs within country across birth cohorts [@Steffensmeier2025].
 (Figure adapted from @Sivertsson2024, Figure 1, p. 7. Sivertsson, F., Carlsson, C., Almquist, Y. B., & Brännström, L. (2024). Offending trajectories from childhood to retirement age: Findings from the Stockholm birth cohort study. *Journal of Criminal Justice*, *91*, 102155. <https://doi.org/10.1016/j.jcrimjus.2024.102155>).
 </p>
@@ -279,8 +279,8 @@ Average trajectory in red.
 :::
 
 Third, in a cross-sectional study, any apparent age-related differences in a construct could reflect cohort differences instead of developmental changes.
-For example, average differences in stress between 5-year-olds and 10-year-olds could reflect the differing experiences that the 10-year-olds shared—such as going to school during the Coronavirus pandemic.
-Fourth, findings from cross-sectional studies can differ from findings examining the same people over time, which violates the convergence assumption.
+For example, average differences in stress between 5-year-olds and 10-year-olds could reflect the differing experiences that the 10-year-olds shared, such as going to school during the Coronavirus pandemic.
+Fourth, findings from cross-sectional studies can differ from findings that are based on examining the same people over time—a violation of the convergence assumption.
 In cross-sectional studies, the convergence assumption is the assumption that cross-sectional age differences and longitudinal age changes converge onto a common trajectory.
 An example where the convergence assumption has been shown to be violated is in studies of cognitive decline.
 In particular, cross-sectional studies overestimate age-related cognitive declines compared to following the same people over time in a longitudinal study, which may reflect cohort effects such as the Flynn effect [where population intelligence scores at a given age tend to increase across generations\; @Ackerman2013].
@@ -296,8 +296,8 @@ However, even cross-sectional work spanning the lifespan is not often conducted.
 The focal problem examined in this paper is that, despite calls to do so [@DeLosReyes2026], the field has not adequately studied individuals' development of psychopathology across the lifespan, instead taking a piecewise approach to development.
 The piecewise approach to development limits our understanding of lifespan development and the origins of psychopathology.
 
-A modest number of longitudinal studies have followed people for lengthy developmental periods.
-We overview some of the seminal longitudinal studies covering a lengthy span of development.
+A modest number of longitudinal studies have followed people over lengthy developmental periods.
+We overview some of the seminal longitudinal studies that cover a lengthy span of development.
 A depiction of the ages spanned by various longitudinal studies is in @fig-longitudinalstudies.
 
 {{< embed notebooks/analyses.qmd#fig-longitudinalstudies >}}
@@ -324,7 +324,7 @@ Age was truncated at 100; thus, age 100 indicates that participants were followe
 
 ### Fels Longitudinal Study
 
-The Fels Longitudinal Study [@Roche1992] was a cohort-sequential study lasting from 1929 to 2018 that recruited 10–20 pregnant mothers each year from the Yellow Springs, Ohio area, and followed their newborns over time, eventually accruing 2,567 child participants and following them to older adulthood [e.g., age 82\; @Chumlea2012].
+The Fels Longitudinal Study [@Roche1992] was a cohort-sequential study lasting from 1929 to 2018 that recruited 10–20 pregnant mothers each year from the Yellow Springs, Ohio area, and followed their newborns over time, eventually accruing 2,567 child participants and following them into older adulthood [e.g., age 82\; @Chumlea2012].
 The study collected data on participants' body composition, including height and weight, which had key impacts and formed the basis of pediatric growth charts.
 In addition, the study collected information on the participants' behavior—and other constructs—in childhood (based on observation) and adulthood (based on interview).
 These rich data allowed researchers to examine the extent of personality continuity and change from childhood to adulthood, and the extent to which mothers may influence the personality development of the child [@Moss1964].
@@ -343,7 +343,7 @@ The study has yielded important insights including that children's self-control 
 The Harvard Study of Adult Development, which consists of the Grant Study [@Vaillant2012] and the Glueck Study [@Glueck1950].
 The Grant Study started in 1938 and recruited 268 White men from the Harvard classes of 1939–1944 at ages 18–19, and has followed them into their mid-90s.
 The Glueck Study started in 1940 and recruited 456 11–16-year-old boys who were living in poor, high-crime inner-city neighborhoods in Boston, Massachusetts, and has followed them into their 80s.
-One the key findings from the Harvard Study of Adult Development, summarized in a Harvard Gazette article [@Mineo2017], is the importance of close relationships for healthy aging:
+One of the key findings from the Harvard Study of Adult Development, summarized in a Harvard Gazette article [@Mineo2017], is the importance of close relationships for healthy aging:
 "Close relationships, more than money or fame, are what keep people happy throughout their lives, the study revealed.
 Those ties protect people from life's discontents, help to delay mental and physical decline, and are better predictors of long and happy lives than social class, IQ, or even genes...people's level of satisfaction with their relationships at age 50 was a better predictor of physical health than their cholesterol levels were."
 
@@ -363,21 +363,21 @@ Here, we focus on studies that have examined trajectories of externalizing behav
 
 [^trajectoriesFootnote]: We do not consider autoregressive/cross-lagged models because such models do not examine change in level of externalizing behavior.
 
-A depiction of the ages spanned by various longitudinal studies is in @fig-longitudinalexternalizingstudies.
+A depiction of the ages spanned by various longitudinal studies is in @fig-longitudinal-externalizing-studies.
 In the Child Development Project, @Petersen2015 examined trajectories of externalizing behavior from ages 5–27 with 20 measurement occasions.
 In the Dunedin Multidisciplinary Health and Development Study, @Odgers2008 examined trajectories of antisocial conduct problems from ages 7–26 with 8 measurement occasions.
 In the Mannheim Study of Children at Risk, @SacuInPress examined trajectories of externalizing behavior from ages 8–33 with 8 measurement occasions.
 A study using six longitudinal datasets examined trajectories of disruptive behaviors and delinquency, with the longest trajectory spanning ages 6–15 with 7 measurement occasions [@Broidy2003].
 In addition, a study examined trajectories of externalizing problems from ages 4–17 with 3 measurement occasions in predicting externalizing problems at age 27 [@Korhonen2018].
 Other studies have examined trajectories of externalizing problems from ages 5–17 with 5 measurement occasions [@Bista2025], from ages 6–18 with 12 measurement occasions [@Shi2020], from ages 1.5–14.5 with 6 measurement occasions [@Kjeldsen2016], from ages 4–16 with 7 measurement occasions [Avon Longitudinal Study of Parents and Children (ALSPAC)\; @Speyer2022], from ages 3–17 with 6 measurement occasions [UK Millennium Cohort Study\; @Zhai2026], from ages 12–23 with 3 measurement occasions [@Stringer2020], from ages 2–15 with 11 measurement occasions [NICHD Study of Early Child Care and Youth Development [SECCYD]\; @Harris2025], and from ages 3–17 [@Gornik2023].
-@Bongers2004 examined trajectories of various externalizing problems from ages 4–18 spanning 13 differing birth cohorts with up to 5 measurement occasions per cohort, such that any individual was followed for up to 8 years [@Bongers2004].
+@Bongers2004 examined trajectories of various externalizing problems from ages 4–18 spanning 13 different birth cohorts with up to 5 measurement occasions per cohort, such that any individual was followed for up to 8 years [@Bongers2004].
 Studies have also examined trajectories of delinquency from ages 7–19 with 13 measurement occasions [Pittsburgh Youth Study\; @Keijsers2012].
 Demonstrating an analytic method (moderated nonlinear factor analysis) to link scores across measures onto the same scale, @ChenPM examined trajectories of delinquency from ages 12–26 with 3 measurement occasions in the National Longitudinal Study of Adolescent to Adult Health (Add Health), and @ChenMBR examined trajectories of externalizing behavior from ages 5–12 with 3 measurement occasions in the National Longitudinal Survey of Youth 1979 Child and Young Adult (NLSCYA).
 Studies have also leveraged registry data to examine trajectories of offending from ages 8–61 [@LeBlanc2021], from ages 10–61 [Cambridge Study in Delinquent Development\; @Farrington2023], and from ages 9–64 [Stockholm Metropolitan Study\; @Sivertsson2024].
 
 <!-- z-score trajectories -->
 
-{{< embed notebooks/analyses.qmd#fig-longitudinalexternalizingstudies >}}
+{{< embed notebooks/analyses.qmd#fig-longitudinal-externalizing-studies >}}
 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
@@ -394,11 +394,11 @@ Studies shown entirely with dotted lines assessed their full age range cross-sec
 :::
 
 <!-- Note that the approaches that researchers have largely used to study development (including Petersen et al., 2015 and others) have problems; i.e., they have *attempted* to study development -->
-However, as we will describe, these lengthy longitudinal studies of psychopathology [e.g., @Odgers2008]—including some of our own [e.g., @Petersen2015]—have important limitations in (a) how they assessed psychopathology constructs across development and (b) how they estimated people's scores on those constructs over time that prevent strong inferences regarding individuals' change over time.
+However, as we will describe, these lengthy longitudinal studies of psychopathology [e.g., @Odgers2008]—including some of our own [e.g., @Petersen2015]—have important limitations in (a) how they assessed psychopathology constructs across development and (b) how they estimated people's scores on those constructs over time, which prevent strong inferences regarding individuals' change over time.
 
 # Reasons for the Problem
 
-Beyond logistical challenges of time and money, there are several key reasons why the field has failed to study people's development of psychopathology, longitudinally, across the lifespan.
+Beyond logistical challenges of time and money, there are several key reasons why the field has failed to study people's development of psychopathology longitudinally across the lifespan.
 First, diagnostic and taxonomic systems do not define psychopathology constructs from a developmental perspective.
 A developmental perspective is crucial because psychopathology constructs often have earlier origins than their full clinical presentation, and forms of psychopathology frequently show changes in behavioral manifestation across development (heterotypic continuity).
 Second, current assessments do not adequately capture these changes in behavioral manifestation.

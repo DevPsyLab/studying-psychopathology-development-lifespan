@@ -92,7 +92,7 @@ lifespanCognitiveTrajectoriesPanelA + lifespanCognitiveTrajectoriesPanelB +
 ## Externalizing Trajectories
 
 ```{r}
-#| label: fig-externalizingbyage
+#| label: fig-externalizing-by-age
 #| fig-cap: "Externalizing Behavior Across Development"
 #| fig-alt: "Externalizing behavior across development"
 #| apa-note: "**Panel A**: The age-crime participation curve from age 9 through 64 in cohort members registered for antisocial and/or criminal behavior in a birth cohort recruited in Stockholm, Sweden (*N* = 4825), based on official crime records. The steep peak in crime rate in the adolescent years is similar to the age-crime curve in the United States; however, the steepness of the age-crime curve differs within country across birth cohorts [@Steffensmeier2025]. (Figure adapted from @Sivertsson2024, Figure 1, p. 7. Sivertsson, F., Carlsson, C., Almquist, Y. B., & Brännström, L. (2024). Offending trajectories from childhood to retirement age: Findings from the Stockholm birth cohort study. *Journal of Criminal Justice*, *91*, 102155. <https://doi.org/10.1016/j.jcrimjus.2024.102155>). **Panel B**: A stylized depiction of Moffitt's [-@Moffitt1993] developmental taxonomy of externalizing behavior, adapted to include a childhood limited subgroup. **Panel C**: Individuals' (*N* = 585) longitudinal trajectories of externalizing problems from childhood to adulthood based on annual assessments of mother-, father-, teacher-, peer-, and self-report (at relevant ages). Average trajectory in red. (Figure adapted from @Petersen2015, Figure 2, Petersen, I. T., Bates, J. E., Dodge, K. A., Lansford, J. E., & Pettit, G. S. (2015). Describing and predicting developmental profiles of externalizing problems from childhood to adulthood. *Development and Psychopathology*, *27*(3), 791–818. <https://doi.org/10.1017/S0954579414000789>)."
@@ -381,7 +381,7 @@ longitudinalExternalizingStudies_sampleLabels <- longitudinalExternalizingStudie
 ```
 
 ```{r}
-#| label: fig-longitudinalexternalizingstudies
+#| label: fig-longitudinal-externalizing-studies
 #| fig-cap: "(Approximate) Ages Spanned by Externalizing Trajectories in Various Lengthy Longitudinal Studies Examining Individuals' Trajectories of Externalizing Behavior"
 #| fig-alt: "(Approximate) Ages Spanned by Externalizing Trajectories in Various Lengthy Longitudinal Studies Examining Individuals' Trajectories of Externalizing Behavior"
 #| apa-note: "The list of longitudinal studies is not exhaustive. Studies that are based on registry data are shown in gray. Measurement occasions are depicted with solid circles. Note that, in some studies, measurement occasions only apply to a subset of participants in that study—in some cases, no participant was assessed at all measurement occasions. Solid lines reflect fully longitudinal spans (i.e., the same individuals were followed over time). Dotted lines reflect ages assessed cross-sectionally—even if some participants may have been followed longitudinally. For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 25–30. Studies shown entirely with dotted lines assessed their full age range cross-sectionally but still included longitudinal follow-up of participants. 'MTSFGCLS' = Montreal Two Samples Four Generations Cross-sectional and Longitudinal Studies."
