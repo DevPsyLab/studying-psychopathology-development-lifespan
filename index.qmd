@@ -74,7 +74,7 @@ author-note:
     #study-registration: "The study hypotheses, methods, and analysis plan were
     #  preregistered: [LINK]."
     data-sharing: "The data and code for the present study are published online:
-      https://github.com/DevPsyLab/studying-psychopathology-development-lifespan."
+      <https://github.com/DevPsyLab/studying-psychopathology-development-lifespan>."
     related-report: ~
     conflict-of-interest: "We have no conflicts of interest to disclose."
     financial-support: "I.P. was funded by Grant HD098235 from the Eunice 
@@ -88,7 +88,7 @@ author-note:
   correspondence-note: "Correspondence concerning this article should be
     addressed to Isaac T. Petersen, University of Iowa, G60 Psychological and
     Brain Sciences Building, Iowa City, IA 52242.
-    Email: isaac-t-petersen@uiowa.edu"
+    Email: [isaac-t-petersen@uiowa.edu](mailto:isaac-t-petersen@uiowa.edu)"
 abstract: "The field has not adequately studied individuals' development of
   psychopathology across the lifespan, instead taking a piecewise approach to
   development, limiting our understanding of lifespan development and the
