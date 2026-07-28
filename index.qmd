@@ -217,6 +217,7 @@ An example of the age-crime curve is depicted in @fig-externalizing-by-age.
 
 However, Moffitt's [-@Moffitt1993] developmental taxonomy of externalizing ("antisocial") behavior posits that there are heterogeneous subgroups such that one subgroup exhibits low levels of externalizing behavior across the lifespan, an "adolescence limited" subgroup exhibits high levels of externalizing behavior during adolescence but low levels during childhood and adulthood, and a "life-course persistent" subgroup that exhibits high levels of externalizing behavior across the lifespan; in addition, more recent work has identified a "childhood limited" subgroup that exhibits high levels of externalizing behavior during childhood but low levels after childhood [@Fairchild2013; @Odgers2008].
 The developmental taxonomy is depicted in @fig-externalizing-by-age.
+
 Moffitt's general hypothesis is that life-course persistent externalizing behavior results from early disruptions in brain development either in utero (resulting from, for example, maternal substance use, poor prenatal nutrition, genetics, or exposure to toxins), during delivery (e.g., delivery complications), or after birth (e.g., child abuse or neglect, or exposure to toxins) that lead to impaired cognitive abilities and difficult temperament, in perhaps conjunction with coercive parent–child interactions or other adverse, criminogenic environments.
 Adolescence-limited externalizing behavior, by contrast, is thought to reflect a more normative—even adaptive—pattern of social behavior that is driven by exposure to deviant peers and a maturity gap.
 Childhood-limited externalizing behavior, though not hypothesized by the original taxonomy, may in some cases reflect recovery and in other cases reflect a shift from externalizing problems into problems in other domains [@Odgers2008].
@@ -371,11 +372,10 @@ A study using six longitudinal datasets examined trajectories of disruptive beha
 In addition, a study examined trajectories of externalizing problems from ages 4–17 with 3 measurement occasions in predicting externalizing problems at age 27 [@Korhonen2018].
 Other studies have examined trajectories of externalizing problems from ages 5–17 with 5 measurement occasions [@Bista2025], from ages 6–18 with 12 measurement occasions [@Shi2020], from ages 1.5–14.5 with 6 measurement occasions [@Kjeldsen2016], from ages 4–16 with 7 measurement occasions [Avon Longitudinal Study of Parents and Children (ALSPAC)\; @Speyer2022], from ages 3–17 with 6 measurement occasions [UK Millennium Cohort Study\; @Zhai2026], from ages 12–23 with 3 measurement occasions [@Stringer2020], from ages 2–15 with 11 measurement occasions [NICHD Study of Early Child Care and Youth Development [SECCYD]\; @Harris2025], and from ages 3–17 [@Gornik2023].
 @Bongers2004 examined trajectories of various externalizing problems from ages 4–18 spanning 13 different birth cohorts with up to 5 measurement occasions per cohort, such that any individual was followed for up to 8 years [@Bongers2004].
+
 Studies have also examined trajectories of delinquency from ages 7–19 with 13 measurement occasions [Pittsburgh Youth Study\; @Keijsers2012].
 Demonstrating an analytic method (moderated nonlinear factor analysis) to link scores across measures onto the same scale, @ChenPM examined trajectories of delinquency from ages 12–26 with 3 measurement occasions in the National Longitudinal Study of Adolescent to Adult Health (Add Health), and @ChenMBR examined trajectories of externalizing behavior from ages 5–12 with 3 measurement occasions in the National Longitudinal Survey of Youth 1979 Child and Young Adult (NLSCYA).
 Studies have also leveraged registry data to examine trajectories of offending from ages 8–61 [@LeBlanc2021], from ages 10–61 [Cambridge Study in Delinquent Development\; @Farrington2023], and from ages 9–64 [Stockholm Metropolitan Study\; @Sivertsson2024].
-
-<!-- z-score trajectories -->
 
 {{< embed notebooks/analyses.qmd#fig-longitudinal-externalizing-studies >}}
 
@@ -393,7 +393,6 @@ Studies shown entirely with dotted lines assessed their full age range cross-sec
 </p>
 :::
 
-<!-- Note that the approaches that researchers have largely used to study development (including Petersen et al., 2015 and others) have problems; i.e., they have *attempted* to study development -->
 However, as we will describe, these lengthy longitudinal studies of psychopathology [e.g., @Odgers2008]—including some of our own [e.g., @Petersen2015]—have important limitations in (a) how they assessed psychopathology constructs across development and (b) how they estimated people's scores on those constructs over time, which prevent strong inferences regarding individuals' change over time.
 
 # Reasons for the Problem
@@ -429,6 +428,7 @@ A chimera is a mythical creature with the body of a goat that, with development,
 @Patterson1993 and @Moffitt1993 argued that externalizing behavior changes in manifestation across development such that underlying antisociality is maintained while more mature features are added across development.
 In particular, Patterson [-@Patterson1993] noted that some externalizing behaviors wane with age, such as temper tantrums, whereas other externalizing behaviors emerge with age, including the ability to inflict serious damage or harm with violence, burglary, and shoplifting, in addition to problems such as academic failure, peer rejection, substance problems, and arrest.
 Moffitt [-@Moffitt1993, p. 679] noted that externalizing behaviors may manifest as "biting and hitting at age 4, shoplifting and truancy at age 10, selling drugs and stealing cars at age 16, robbery and rape at age 22, and fraud and child abuse at age 30", and that the prognosis for individuals who engage in externalizing behavior throughout the life-course includes "drug and alcohol addiction; unsatisfactory employment; unpaid debts; homelessness; drunk driving; violent assault; multiple and unstable relationships; spouse battery; abandoned, neglected, or abused children; and psychiatric illness".
+
 In general, externalizing behaviors are often expressed as overt acts in early childhood, such as physical aggression and temper tantrums; whereas externalizing behaviors are more often expressed later in development as covert and indirect or relational forms of aggression, rule breaking, and substance use [@Miller2009; @Petersen2026a].
 These age-differing behaviors show strong stability of individual differences, indicating a consistent underlying construct [@Moffitt1993; @Patterson1993].
 As depicted in @fig-absoluteFrequencyByAge, different externalizing behaviors are most common at different developmental periods—even into adulthood, consistent with the notion that externalizing behavior demonstrates heterotypic continuity.
@@ -517,6 +517,7 @@ For example, in a study of externalizing behavior from early childhood to adoles
 The second approach, the "upward/downward extension" approach, takes items that are valid at a given age and uses those same items across all ages, even ages in which the item may not be valid or useful—i.e., all items are assessed at all ages.
 For instance, the upward extension approach might take the item "disobedient to authority figures" and apply it to older individuals for whom such a behavior may no longer validly reflect externalizing behavior—and may instead reflect prosocial functions including protesting against societally unjust actions.
 Both the "common items" [e.g., @Odgers2008; @Sterba2007] and "upward/downward extension" [e.g., @BriggsGowan2016; @Broeren2013] approaches are widely used, likely because they result in the same items assessed across ages, but both have key problems.
+
 As an example of the common items approach, Odgers et al. [-@Odgers2008, p. 676] examined children's development of DSM-IV symptoms of conduct disorder from ages 7 to 26 years, but they dropped age-specific symptoms (e.g., running away, staying out late) "because [these symptoms] did not cover the study's age span".
 As an example of the upward extension approach, Broeren et al. [-@Broeren2013, p. 84] examined children's development of anxiety from ages 4 to 11 years; they noted, "Although the questionnaire was originally developed to measure anxiety in preschoolers, the current study also employed the scale with older children to promote uniformity in measures".
 
@@ -575,6 +576,7 @@ Thus, the measures do not yield scores that are comparable across time and that 
 In some cases, mean scores and proportion of maximum scores have been used to account for the age-differing measures having different numbers of items [@Owens2003; @Petersen2015; @SacuInPress].
 However, such approaches assume that the age-differing measures have the same overall functioning in terms of difficulty and discrimination (described later), which is unlikely.
 Age norms and standardized scores (*T*- or *z*-scores) do not allow observing individuals' absolute change because scores have a fixed mean and variance, and they do not equal developmental understanding.
+<!-- Studies examining trajectories of T/z-scores -->
 Absolute change is necessary to identify true growth for an individual, and is thus important for treatment monitoring and longitudinal growth curves.
 Moreover, it is important for scores across ages to be on the same apples-to-apples scale so the scores can be compared across ages, which would be valuable even in a cross-sectional study that spans a wide age range, as might be found in an epidemiological study.
 
@@ -590,11 +592,12 @@ Otherwise, respondents would receive items that are too easy (thus evoking bored
 To address this, the test developers write the tests so that some items are in common across adjacent grades—used for linking the scores across grades onto the same scale—along with items that are unique to a particular grade.
 Then, the researchers apply widely used methods to link the scores from the different measures onto the same scale so they can observe individuals' growth across grades.
 The same general methods are also used to place people's scores on the same scale for standardized tests like the ACT, SAT, GRE, MCAT, LSAT, etc., despite repondents receiving different item content.
+
 For examples of studies applying various linking methods to academic and cognitive skills, see @McArdle2009, @McArdle2011, @Murayama2013, @Oleson2016, @Petscher2018, @Ward2022, and @Weeks2018.
 However, the use of linking methods is rare in studies of social and behavioral development broadly and psychopathology specifically.
 For studies that have applied such methods in studying social and behavioral development, see studies on self-concept [@Hancock2008], neuroticism [@Lai2023], self-regulation [@Hosch2022], underactivity/overactivity [and their subdimensions\; @McDermott2013], thought-disordered problems [@Petersen2026a], internalizing problems [@Harris2025; @Petersen2018; @Petersen2026a; @Tyrell2019], and externalizing problems [@ChenMBR; @ChenPM; @Harris2025; @Petersen2021b; @Petersen2022; @Petersen2026a].
 
-Moreover, psychopathology assessments do not include such scoring tools.
+In addition, psychopathology assessments do not include such scoring tools.
 The lack of scoring tools that link scores from age-differing psychopathology assessments leads researchers to restrict the age range of study.
 For instance, in their study, Bista et al. [-@Bista2025, p. 179] noted "A different version of the questionnaire (CBCL/2–3), designed for 2–3-year-olds, was used for the year 2 follow-up [compared to the CBCL/4–18 assessed from ages 5–17].
 Therefore, we excluded age 2 from our trajectory analysis."
@@ -731,6 +734,7 @@ In addition, the researcher constrains the intercepts across time for any items 
 The anchor items thus equate the latent factor over time, preventing drift in the scale calibration and rendering scores comparable across time [@ChenPM].
 Then, the researcher estimates second-order growth functions (e.g., intercept and slope) of the first-order latent factor across time.
 The method can allow different indicators across ages, either by dropping or adding indicators or by using item parcels composed of differing items across ages [@Tyrell2019].
+
 However, the partial invariance approach requires identifying—and accurately specifying—invariant items and any noninvariant items, which can be both inefficient and error-prone [@Lai2023; @ChenPM].
 Moreover, the partial invariance approach tends not to work as well when a large proportion of items are noninvariant [@Lai2023], there are many timepoints, there is considerable variability in the numbers of responses provided to items such as might occur due to missing data or when not all items are assessed at all timepoints, or the researcher wants to consider DIF as a function of multiple variables or continuous variables [@ChenPM].
 
@@ -932,8 +936,9 @@ As a result, theoretical considerations are crucial and establishing even partia
 As noted by Millsap [-@Millsap2011, p. 1], "Measurement invariance is built on the notion that a measuring device should function in the same way across varied conditions, *so long as those varied conditions are irrelevant to the attribute being measured*" (emphasis added).
 However, age/development would not be considered irrelevant to psychopathology.
 As described earlier, externalizing (antisocial) behavior is considered to demonstrate heterotypic continuity; therefore, longitudinal factorial *noninvariance* for measures assessing the development of externalizing behavior may be expected.
+
 As noted by De Los Reyes et al. [-@DeLosReyes2025, p. 301], "developmental variations in antisocial behavior are unlikely to reflect confounds or biases in measurement."
-They characterize such tests of invariance across development—in which the conditions (age) are relevant to the construct of interest—as a questionable research practice, noting, "To be justified in testing measurement invariance [across ages], one would have to assume that when systematic differences manifest between ratings...for younger versus older youth, they cannot possibly reflect anything valid.
+De Los Reyes and colleagues characterize such tests of invariance across development—in which the conditions (age) are relevant to the construct of interest—as a questionable research practice, noting, "To be justified in testing measurement invariance [across ages], one would have to assume that when systematic differences manifest between ratings...for younger versus older youth, they cannot possibly reflect anything valid.
 For a scholar to make such an assumption, they must again ignore decades of theory and research in developmental psychopathology."
 Moreover, removing noninvariant items is not recommended if the item retains construct validity [@Knight2010; @DeLosReyes2025].
 When the construct changes in manifestation, models with failed longitudinal factorial invariance can yield valid inferences.
@@ -957,6 +962,7 @@ However, there is less agreement about how to use the multiple sources of data [
 Some of these discrepancies may be confounded by the person behaving differently in different contexts or with different people.
 The inclusion of multiple measurement methods can help account for measurement error given the considerable variance that is attributable to method bias [@Podsakoff2012].
 The inclusion of multiple informants can be relevant for informing about the pervasiveness of a person's behavior across contexts (e.g., home, school).
+
 As a result of including multiple or different informants across development, it is important to consider how to leverage the multi-informant ratings.
 Some researchers advocate for integrating scores using principal component approaches [while disentangling variance attributable to trait, perspective, and context\; @Kraemer2003] or latent variable approaches [e.g., @Bauer2013], and others advocate for keeping different informants' ratings separate without integrating them [but including them in the same model\; @Aitken2023].
 As an example of a latent variable modeling approach, @Bauer2013 demonstrates a trifactor model that attempts to disentangle construct variance from the method effects tied to the specific item and the informant.
