@@ -578,13 +578,13 @@ academic and cognitive skills across lengthy developmental periods.</p>
     et al. 2012</xref>). Demonstrating an analytic method (moderated
     nonlinear factor analysis) to link scores across measures onto the
     same scale, Chen and Bauer
-    (<xref alt="in pressb" rid="ref-ChenPM" ref-type="bibr">in
-    pressb</xref>) examined trajectories of delinquency from ages 12–26
-    with 3 measurement occasions in the National Longitudinal Study of
+    (<xref alt="in press b" rid="ref-ChenPM" ref-type="bibr">in press
+    b</xref>) examined trajectories of delinquency from ages 12–26 with
+    3 measurement occasions in the National Longitudinal Study of
     Adolescent to Adult Health (Add Health), and Chen and Bauer
-    (<xref alt="in pressa" rid="ref-ChenMBR" ref-type="bibr">in
-    pressa</xref>) examined trajectories of externalizing behavior from
-    ages 5–12 with 3 measurement occasions in the National Longitudinal
+    (<xref alt="in press a" rid="ref-ChenMBR" ref-type="bibr">in press
+    a</xref>) examined trajectories of externalizing behavior from ages
+    5–12 with 3 measurement occasions in the National Longitudinal
     Survey of Youth 1979 Child and Young Adult (NLSCYA). Studies have
     also leveraged registry data to examine trajectories of offending
     from ages 8–61
@@ -1042,10 +1042,10 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <xref alt="2026" rid="ref-Petersen2026a" ref-type="bibr">2026</xref>;
       <xref alt="Tyrell et al. 2019" rid="ref-Tyrell2019" ref-type="bibr">Tyrell
       et al. 2019</xref>), and externalizing problems
-      (<xref alt="Chen and Bauer in pressa" rid="ref-ChenMBR" ref-type="bibr">Chen
-      and Bauer in pressa</xref>,
-      <xref alt="in pressb" rid="ref-ChenPM" ref-type="bibr">in
-      pressb</xref>;
+      (<xref alt="Chen and Bauer in press a" rid="ref-ChenMBR" ref-type="bibr">Chen
+      and Bauer in press a</xref>,
+      <xref alt="in press b" rid="ref-ChenPM" ref-type="bibr">in press
+      b</xref>;
       <xref alt="Harris et al. 2025" rid="ref-Harris2025" ref-type="bibr">Harris
       et al. 2025</xref>;
       <xref alt="Petersen and LeBeau 2021" rid="ref-Petersen2021b" ref-type="bibr">Petersen
@@ -1640,8 +1640,8 @@ academic and cognitive skills across lengthy developmental periods.</p>
       anchor items thus equate the latent factor over time, preventing
       drift in the scale calibration and rendering scores comparable
       across time
-      (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
-      and Bauer in pressb</xref>). Then, the researcher estimates
+      (<xref alt="Chen and Bauer in press b" rid="ref-ChenPM" ref-type="bibr">Chen
+      and Bauer in press b</xref>). Then, the researcher estimates
       second-order growth functions (e.g., intercept and slope) of the
       first-order latent factor across time. The method can allow
       different indicators across ages, either by dropping or adding
@@ -1654,8 +1654,8 @@ academic and cognitive skills across lengthy developmental periods.</p>
       error-prone
       (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
       2023</xref>;
-      <xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
-      and Bauer in pressb</xref>). Moreover, the partial invariance
+      <xref alt="Chen and Bauer in press b" rid="ref-ChenPM" ref-type="bibr">Chen
+      and Bauer in press b</xref>). Moreover, the partial invariance
       approach tends not to work as well when a large proportion of
       items are noninvariant
       (<xref alt="Lai 2023" rid="ref-Lai2023" ref-type="bibr">Lai
@@ -1664,8 +1664,8 @@ academic and cognitive skills across lengthy developmental periods.</p>
       might occur due to missing data or when not all items are assessed
       at all timepoints, or the researcher wants to consider DIF as a
       function of multiple variables or continuous variables
-      (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
-      and Bauer in pressb</xref>).</p>
+      (<xref alt="Chen and Bauer in press b" rid="ref-ChenPM" ref-type="bibr">Chen
+      and Bauer in press b</xref>).</p>
     </sec>
     <sec id="alignment-optimization">
       <title>Alignment Optimization</title>
@@ -1694,10 +1694,10 @@ academic and cognitive skills across lengthy developmental periods.</p>
       measures
       (<xref alt="Curran et al. 2014" rid="ref-Curran2014" ref-type="bibr">Curran
       et al. 2014</xref>), including across ages
-      (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
-      and Bauer in pressb</xref>,
-      <xref alt="in pressa" rid="ref-ChenMBR" ref-type="bibr">in
-      pressa</xref>;
+      (<xref alt="Chen and Bauer in press b" rid="ref-ChenPM" ref-type="bibr">Chen
+      and Bauer in press b</xref>,
+      <xref alt="in press a" rid="ref-ChenMBR" ref-type="bibr">in press
+      a</xref>;
       <xref alt="Student 2025" rid="ref-Student2025" ref-type="bibr">Student
       2025</xref>). Unlike the partial invariance approach, MNLFA
       represents the measurement model in continuous time (rather than
@@ -1709,22 +1709,22 @@ academic and cognitive skills across lengthy developmental periods.</p>
       benefit of Bayesian approaches is the use of regularizing priors
       that allow estimating the model without having to identify
       noninvariant/DIF items and anchor items in advance
-      (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
-      and Bauer in pressb</xref>,
-      <xref alt="in pressa" rid="ref-ChenMBR" ref-type="bibr">in
-      pressa</xref>). Using regularization, unimportant DIF effects are
+      (<xref alt="Chen and Bauer in press b" rid="ref-ChenPM" ref-type="bibr">Chen
+      and Bauer in press b</xref>,
+      <xref alt="in press a" rid="ref-ChenMBR" ref-type="bibr">in press
+      a</xref>). Using regularization, unimportant DIF effects are
       shunken toward zero—while retaining larger DIF effects—thus
       identifying potential anchor items without having to specify them
       in advance
-      (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
-      and Bauer in pressb</xref>). In addition, Bayesian approaches are
+      (<xref alt="Chen and Bauer in press b" rid="ref-ChenPM" ref-type="bibr">Chen
+      and Bauer in press b</xref>). In addition, Bayesian approaches are
       often better suited to handle small sample sizes and data with
       sparse responses
-      (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
-      and Bauer in pressb</xref>). Using a simulation, Chen and Bauer
-      (<xref alt="in pressa" rid="ref-ChenMBR" ref-type="bibr">in
-      pressa</xref>) found that MNLFA estimated change more accurately
-      than traditional first- or second-order growth curve models.</p>
+      (<xref alt="Chen and Bauer in press b" rid="ref-ChenPM" ref-type="bibr">Chen
+      and Bauer in press b</xref>). Using a simulation, Chen and Bauer
+      (<xref alt="in press a" rid="ref-ChenMBR" ref-type="bibr">in press
+      a</xref>) found that MNLFA estimated change more accurately than
+      traditional first- or second-order growth curve models.</p>
     </sec>
     <sec id="item-response-theory">
       <title>Item Response Theory</title>
@@ -1765,12 +1765,12 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <p>Nevertheless, for many of these approaches, at least one anchor
       item is necessary to link the scale of the latent factor across
       timepoints
-      (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
-      and Bauer in pressb</xref>). Moreover, when treating time
+      (<xref alt="Chen and Bauer in press b" rid="ref-ChenPM" ref-type="bibr">Chen
+      and Bauer in press b</xref>). Moreover, when treating time
       continuously, the functional form of any DIF as a function of time
       must be correctly specified
-      (<xref alt="Chen and Bauer in pressb" rid="ref-ChenPM" ref-type="bibr">Chen
-      and Bauer in pressb</xref>).</p>
+      (<xref alt="Chen and Bauer in press b" rid="ref-ChenPM" ref-type="bibr">Chen
+      and Bauer in press b</xref>).</p>
     </sec>
   </sec>
 </sec>
