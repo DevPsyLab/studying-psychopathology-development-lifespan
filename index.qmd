@@ -511,7 +511,7 @@ For example, among the most widely used measures of externalizing problems in re
 However, the same version of the Child Behavior Checklist (CBCL) spans ages 6–18.
 Considerable development occurs during that span including key developmental transitions—from childhood to adolescence to emerging adulthood—and the CBCL does not capture such changes.
 
-There are two primary ways that researchers have examined people's change in psychopathology across development (@fig-approachesToLongitudinalAssessment \; @Petersen2020).
+There are two primary ways that researchers have examined people's change in psychopathology across development (@fig-approachesToLongitudinalAssessment; [@Petersen2020]).
 The "common items" approach removes items that are age specific.[^ageVsTimeFootnote]
 For example, in a study of externalizing behavior from early childhood to adolescence, a study might remove some substance use items that are not be developmentally relevant at all ages.
 The second approach, the "upward/downward extension" approach, takes items that are valid at a given age and uses those same items across all ages, even ages in which the item may not be valid or useful—i.e., all items are assessed at all ages.
@@ -545,13 +545,13 @@ The "common items" and "upward/downward extension" approaches are by far the mos
 The common items approach yields low content validity because it does not assess all construct facets, especially age-specific manifestations.
 The upward/downward extension approach violates construct validity because it assesses developmentally inappropriate items.
 
-Due to these problems, both simulation [@Petersen2021a] and empirical work [@Chen2015; @Petersen2018; @Petersen2026a] has shown that the "common items" and "upward/downward extension" approaches lead to inaccurate developmental inferences.
+Due to these problems, both simulation [@Petersen2021a] and empirical work [@Chen2015; @Petersen2018; @Petersen2026a] have shown that the "common items" and "upward/downward extension" approaches lead to inaccurate developmental inferences.
 In sum, despite these approaches being the most widely used for assessing individuals' development, they likely lead to inaccurate scores and thus inaccurate trajectories.
 
 The problem cannot be solved merely by age-norming.
 Generating norms from items that are invalid at a given age or from scales that have important content gaps at a given age leads to construct-invalid scores and resulting norms.
 Moreover, age-norming prevents observing absolute growth and is problematic in longitudinal studies [@Moeller2015].
-Likewise, using DSM disorders or diagnoses also does not solve the issue.
+Likewise, using DSM disorders or diagnoses also does not solve the problem.
 <!-- Using DSM disorders/diagnoses does not solve the issue. Fictitious categories. Diagnostic criteria change, leading prior categorizations to fall out of favor. -->
 
 In addition, forcing use of the same measure across time naturally limits the ages a study can span, which prevents charting wider age spans.
@@ -576,7 +576,7 @@ In some cases, mean scores and proportion of maximum scores have been used to ac
 However, such approaches assume that the age-differing measures have the same overall functioning in terms of difficulty and discrimination (described later), which is unlikely.
 Age norms and standardized scores (*T*- or *z*-scores) do not allow observing individuals' absolute change because scores have a fixed mean and variance, and they do not equal developmental understanding.
 Absolute change is necessary to identify true growth for an individual, and is thus important for treatment monitoring and longitudinal growth curves.
-Moreover, it is important for scores across ages to be on the same apples-to-apples scale to be able to compare scores across ages, as would be valuable even in a cross-sectional study that spans a wide age range, as might be found in an epidemiological study.
+Moreover, it is important for scores across ages to be on the same apples-to-apples scale so the scores can be compared across ages, which would be valuable even in a cross-sectional study that spans a wide age range, as might be found in an epidemiological study.
 
 There is a misperception that no practical approach exists that can handle different measures across ages or time.
 Consider the following statement by LeBlanc [-@LeBlanc2021, p. 15], "The theoretical position is that a form of antisocial behavior, for example, fraud, has to be measured by distinct behaviors with adolescents and adults, in summary adapted to their age.
@@ -587,15 +587,15 @@ However, considerable research in educational psychology links scores across age
 For instance, standardized tests are frequently administered in schools to determine the extent of growth across grades.
 Because of large changes in ability level across grades, the same math and reading items cannot be administered at all grades.
 Otherwise, respondents would receive items that are too easy (thus evoking boredom) or too difficult (thus evoking frustration), relative to their ability.
-To address this, the test developers write the tests such that some items are in common across adjacent grades—used for linking the scores across grades onto the same scale—along with items that are unique to a particular grade.
-Then, the researchers apply widely used methods to link the scores from the different measures to be on the same scale so they can observe individuals' growth across grades.
+To address this, the test developers write the tests so that some items are in common across adjacent grades—used for linking the scores across grades onto the same scale—along with items that are unique to a particular grade.
+Then, the researchers apply widely used methods to link the scores from the different measures onto the same scale so they can observe individuals' growth across grades.
 The same general methods are also used to place people's scores on the same scale for standardized tests like the ACT, SAT, GRE, MCAT, LSAT, etc., despite repondents receiving different item content.
 For examples of studies applying various linking methods to academic and cognitive skills, see @McArdle2009, @McArdle2011, @Murayama2013, @Oleson2016, @Petscher2018, @Ward2022, and @Weeks2018.
-However, the use of linking methods is rare in studies of social and behavioral development broadly and psychopathology specfically.
+However, the use of linking methods is rare in studies of social and behavioral development broadly and psychopathology specifically.
 For studies that have applied such methods in studying social and behavioral development, see studies on self-concept [@Hancock2008], neuroticism [@Lai2023], self-regulation [@Hosch2022], underactivity/overactivity [and their subdimensions\; @McDermott2013], thought-disordered problems [@Petersen2026a], internalizing problems [@Harris2025; @Petersen2018; @Petersen2026a; @Tyrell2019], and externalizing problems [@ChenMBR; @ChenPM; @Harris2025; @Petersen2021b; @Petersen2022; @Petersen2026a].
 
 Moreover, psychopathology assessments do not include such scoring tools.
-The lack of scoring tools to link scores from age-differing psychopathology assessments leads researchers to restrict the age range of study.
+The lack of scoring tools that link scores from age-differing psychopathology assessments leads researchers to restrict the age range of study.
 For instance, in their study, Bista et al. [-@Bista2025, p. 179] noted "A different version of the questionnaire (CBCL/2–3), designed for 2–3-year-olds, was used for the year 2 follow-up [compared to the CBCL/4–18 assessed from ages 5–17].
 Therefore, we excluded age 2 from our trajectory analysis."
 
