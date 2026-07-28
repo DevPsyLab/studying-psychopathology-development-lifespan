@@ -417,7 +417,7 @@ In addition, theories do not specify how those features or behaviors change acro
 
 These gaps are important for several reasons.
 First, psychopathology does not come from nowhere; psychopathology constructs often have earlier origins than their full clinical presentation.
-<!-- Give examples -->
+For instance, children who go on to develop later externalizing problems and conduct problems tend to show earlier temperamental differences in terms of poorer self-regulation, poorer emotion regulation, low fearfulness, and a more difficult temperament [@Bates2014; @Frick2004].
 In many cases, psychopathology may arise from the interaction of genetic and environmental factors, and their effects on biology, cognition, emotion, and behavior.
 Such effects may accumulate and transpire over years.
 Second, forms of psychopathology frequently show changes in behavioral manifestation across development—a phenomenon called heterotypic continuity [@Caspi2006; @Cicchetti2002; @Petersen2020; @Petersen2024].
@@ -551,14 +551,12 @@ In sum, despite these approaches being the most widely used for assessing indivi
 
 The problem cannot be solved merely by age-norming.
 Generating norms from items that are invalid at a given age or from scales that have important content gaps at a given age leads to construct-invalid scores and resulting norms.
-Moreover, age-norming prevents observing absolute growth and is problematic in longitudinal studies [@Moeller2015].
 Likewise, using DSM disorders or diagnoses also does not solve the problem.
-<!-- Using DSM disorders/diagnoses does not solve the issue. Fictitious categories. Diagnostic criteria change, leading prior categorizations to fall out of favor. -->
+DSM disorders are fictive categories [@Petersen2024].
+Moreover, diagnosic criteria naturally change with subsequent revisions of the DSM, leading people to lose interest with prior categorizations and to incomparability of diagnoses across DSM versions.
 
 In addition, forcing use of the same measure across time naturally limits the ages a study can span, which prevents charting wider age spans.
 For example, if a researcher used the CBCL and only wanted to study trajectories where the same measure was assessed across ages, they would not be able to examine development from ages 5–6, when there is a change in the CBCL version (i.e., one for ages 1.5–5 and another for ages 6–18).
-<!-- USE EXT EXAMPLE -->
-<!-- For example, one could not examine development of depression across ages 11 to 13 years using the Short Mood and Feelings Questionnaire due to changes in its functioning (in particular, some items were less relevant at age 11) that likely reflect developmental changes in manifestation of depression.20  -->
 
 In addition to the behavioral expression of a construct changing across developmental time, the behavioral expression of a construct can also change across historical time.
 Changes in the behavioral manifestation across historical time can lead existing items and measures to become obsolete and for new items to become relevant.
@@ -575,11 +573,13 @@ For instance, when using age-differing measures of externalizing behavior to acc
 Thus, the measures do not yield scores that are comparable across time and that enable change in an individual's level to be observed across a lengthy developmental span.
 In some cases, mean scores and proportion of maximum scores have been used to account for the age-differing measures having different numbers of items [@Owens2003; @Petersen2015; @SacuInPress].
 However, such approaches assume that the age-differing measures have the same overall functioning in terms of difficulty and discrimination (described later), which is unlikely.
-Age norms and standardized scores (*T*- or *z*-scores) do not allow observing individuals' absolute change because scores have a fixed mean and variance, and they do not equal developmental understanding.
-<!-- Studies examining trajectories of T/z-scores -->
-Absolute change is necessary to identify true growth for an individual, and is thus important for treatment monitoring and longitudinal growth curves.
-Moreover, it is important for scores across ages to be on the same apples-to-apples scale so the scores can be compared across ages, which would be valuable even in a cross-sectional study that spans a wide age range, as might be found in an epidemiological study.
 
+Age norms and standardized scores (e.g., *T*- or *z*-scores) have also been used to study development of externalizing problems [@Bista2025; @Korhonen2018].
+However, age norms and standardized scores do not allow observing individuals' absolute change because scores have a fixed mean and variance, and they do not equal developmental understanding.
+Absolute change is necessary to identify true growth for an individual, and is thus important for treatment monitoring and longitudinal growth curves.
+Thus, age-norming is problematic in longitudinal studies [@Moeller2015].
+
+Moreover, it is important for scores across ages to be on the same apples-to-apples scale so the scores can be compared across ages, which would be valuable even in a cross-sectional study that spans a wide age range, as might be found in an epidemiological study.
 There is a misperception that no practical approach exists that can handle different measures across ages or time.
 Consider the following statement by LeBlanc [-@LeBlanc2021, p. 15], "The theoretical position is that a form of antisocial behavior, for example, fraud, has to be measured by distinct behaviors with adolescents and adults, in summary adapted to their age.
 Nevertheless, different scale composition is an integral part of the common concept of fraud.
