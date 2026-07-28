@@ -511,7 +511,7 @@ For example, among the most widely used measures of externalizing problems in re
 However, the same version of the Child Behavior Checklist (CBCL) spans ages 6–18.
 Considerable development occurs during that span including key developmental transitions—from childhood to adolescence to emerging adulthood—and the CBCL does not capture such changes.
 
-There are two primary ways that researchers have examined people's change in psychopathology across development (@fig-approachesToLongitudinalAssessment; [@Petersen2020]).
+There are two primary ways that researchers have examined people's change in psychopathology across development (@fig-approachesToLongitudinalAssessment).
 The "common items" approach removes items that are age specific.[^ageVsTimeFootnote]
 For example, in a study of externalizing behavior from early childhood to adolescence, a study might remove some substance use items that are not be developmentally relevant at all ages.
 The second approach, the "upward/downward extension" approach, takes items that are valid at a given age and uses those same items across all ages, even ages in which the item may not be valid or useful—i.e., all items are assessed at all ages.
@@ -640,7 +640,7 @@ For instance, it can be valuable to consider "positive opposites"—i.e., positi
 For instance, in a study of externalizing behavior, it would be valuable to consider prosocial behavior (e.g., kindness, helping others, sharing, dependability, compliance, accountability).
 Indeed, in a machine learning study of children's conduct problems in the ABCD study, prosocial behavior was the strongest predictor [@Berluti2026].
 Moreover, measures of externalizing behavior tend to focus on just global scores or just one or a few subdimensions.
-For better phenotypic resolution, instruments should assess a wide range of phenotypes to better capture the full range of externalizing behavior, which will be important to distinguish various forms of behavior—e.g., physical versus verbal versus destructive versus relational aggression—and their functions—e.g., proactive versus reactive.
+For better phenotypic resolution, instruments should assess a wide range of phenotypes to better capture the full range of externalizing behaviors, which will be important to distinguish various forms of behavior—e.g., physical versus verbal versus destructive versus relational aggression—and their functions—e.g., proactive versus reactive.
 
 Based on our content analysis of over 270 measures of externalizing behavior, we identified a wide range of facets that would be important for measures of externalizing behavior to capture (see @tbl-externalizingfacets).
 We also identified potential positive opposites of each facet.
@@ -653,7 +653,7 @@ Moreover, it is important for measures not to show restriction of range owing to
 ### Not Well-Suited for Capturing Individuals' Change Over Time
 
 In sum, although they have been helpful, existing measures are poorly suited to classify individuals' development of psychopathology across a lengthy span, which is necessary for tracking individuals' change and identifying mechanisms in the development of psychopathology.
-As we described above, existing assessment of externalizing behavior—and other aspects of psychopathology—have key limitations.
+As we described above, existing assessments of externalizing behavior—and of other forms of psychopathology—have key limitations.
 To address this concern, the field will need to develop better assessments.
 Moreover, there are problems with how assessments are used to examine development—studies have primarily used the common items approach or the upward/downward extension approach across ages, which are problematic approaches that lead to inaccurate scores and resulting trajectories and developmental inferences.
 To address this concern, we propose a potential solution to account for heterotypic continuity and to allow charting individuals' change across the lifespan: a developmental scaling framework.
@@ -664,13 +664,13 @@ A developmental scaling framework informs both assessment—including item selec
 
 ## Item Selection
 
-When a construct changes in behavioral manifestation across development, which we would argue is the norm rather than the exception when considering constructs across the lifespan, it is important to account for such changes in item selection.
+When a construct changes in behavioral manifestation across development, which we would argue is the norm rather than the exception when considering constructs across the lifespan, it is essential to account for such changes in item selection.
 Thus, it is important to use the construct-valid items at a given age, even if that leads to using different measures across ages.
 A conceptual depiction of an example construct-valid item design spanning infancy to adulthood is in @fig-constructValidItemDesign.
 In the construct-valid item design, some items represent the core of the phenotype and are assessed across all ages, whereas other items are age-specific.
 Despite some age-specific items, some age-common items are assessed at adjacent ages, which help serve as anchor items for linking the scores across the adjacent ages.
 The use of overlapping yet distinct items is widely used in educational testing to help link individuals' scores across grades, and is called vertical scaling because the item sets appear to form a line moving upward (see @fig-constructValidItemDesign).
-For example, for a standardized test of math ability, Kindergartners may receive items assessing counting, 1st graders may receive items assessing counting and addition, 2nd graders may receive items assessing addition and subtraction, and so on.
+For example, for a standardized test of math ability, kindergartners may receive items assessing counting, 1st graders may receive items assessing counting and addition, 2nd graders may receive items assessing addition and subtraction, and so on.
 
 ![Conceptual Depiction of a Construct-Valid Item Design from Infancy to Adulthood](Figures/constructValidItemDesign.png){
   #fig-constructValidItemDesign
@@ -696,7 +696,7 @@ Hypothetically, items could be assessed for as many or as few years as desired�
 After the age-differing measures have been assessed, the scores from the age-differing measures can be linked to be on the same scale.
 To perform developmental scaling, a variety of approaches can be used, including partial measurement invariance, the alignment method, moderated nonlinear factor analysis (MNLFA), and item response theory (IRT).
 These are all approaches to harmonization—i.e., linking scores from different measures onto the same scale so they can be meaningfully compared.
-Harmonization is also used for integrative data analysis, to pool data from different measures in different studies [@Curran2008; @McDaniel2023].
+Harmonization is also used for integrative data analysis, to pool data from different measures in various studies [@Curran2008; @McDaniel2023].
 The aforementioned approaches to harmonization attempt to estimate latent variables—using either confirmatory factor analysis (CFA) or IRT—on a common scale across ages.
 <!-- DESCRIBE COMMONALITIES/SIMILARITIES AMONG THE APPROACHES -->
 They do so by trying to align the item parameters for at least a subset of items.
@@ -710,11 +710,11 @@ CFA and IRT each have item parameters corresponding to scale and location.
 
 In CFA, scale is informed by an item's factor loading, and location is informed by an item's intercept.
 A factor loading reflects the strength of association between the item and the latent factor, with larger loadings indicating stronger associations.
-For instance, an item assessing the extent to which the child hits others would have a stronger factor loading on an externalizing factor than an item assessing the extent to which the child likes ice cream.
+For instance, an item assessing the extent to which a child hits others would have a stronger factor loading on an externalizing factor than an item assessing the extent to which a child likes ice cream.
 The intercept is the expected score on the item when the latent factor equals zero.
 When the latent factor is centered to have a mean of zero, the intercept represents the expected score on the item for someone at the mean level of the construct.
 Items with lower intercepts tend to be endorsed by individuals with higher levels of the latent factor and therefore often reflect more severe behaviors.
-For example, an item assessing the extent to which the child sets fires would be expected to have a lower intercept than an item assessing the extent to which the child argues.
+For example, an item assessing the extent to which a child sets fires would be expected to have a lower intercept than an item assessing the extent to which a child argues.
 
 In IRT, scale is informed by an item's discrimination, and location is informed by an item's difficulty.
 An item's discrimination reflects how strongly the item differentiates individuals at different levels of the construct, with higher discrimination indicating a stronger association with the latent factor.
@@ -725,8 +725,8 @@ Items with higher difficulty require a higher level of the latent factor to have
 
 The partial invariance method can be used to link scores across different measures [@Tyrell2019] and can be paired with second-order growth functions to examine individuals' change over time [@Hancock2008].
 The partial invariance approach attempts to establish partial strong longitudinal factorial invariance[^strongInvarianceFootnote]—i.e., invariant intercepts and factor loadings across ages for a subset of items to set the latent factor across ages on a comparable scale, with some items' intercepts and/or factor loadings allowed to differ across ages.
-The researcher first identifies which items show invariant factors loadings and/or intercepts and which items show noninvariant factor loadings or intercepts.
-The researcher then constrains the factors loadings across time for any items with invariant factor loadings, to serve as anchor items and establish an equivalent scale of the measures across time, and allows the factor loadings to differ across time for the items with noninvariant factors loadings.
+The researcher first identifies which items show invariant factor loadings and/or intercepts and which items show noninvariant factor loadings or intercepts.
+The researcher then constrains the factor loadings across time for any items with invariant factor loadings, to serve as anchor items and establish an equivalent scale of the measures across time, and allows the factor loadings to differ across time for the items with noninvariant factor loadings.
 In addition, the researcher constrains the intercepts across time for any items with invariant intercepts, to serve as anchor items and establish an equivalent location of the measures across time, and allows the intercepts to differ across time for the items with noninvariant intercepts.
 The anchor items thus equate the latent factor over time, preventing drift in the scale calibration and rendering scores comparable across time [@ChenPM].
 Then, the researcher estimates second-order growth functions (e.g., intercept and slope) of the first-order latent factor across time.
@@ -758,11 +758,11 @@ Using a simulation, @ChenMBR found that MNLFA estimated change more accurately t
 ### Item Response Theory
 
 IRT can also be used to link scores across different measures [@Kolen2014].
-The IRT approach to developmetal scaling is depicted in @fig-linking.
+The IRT approach to developmental scaling is depicted in @fig-linking.
 <!-- CONCURRENT VS SEPARATE CALIBRATION -->
-The IRT approach to developmental scaling identifies scaling parameters that minimize the differences between the probability of a person endorsing the age-common items across two measures, at a given construct level.
+The IRT approach to developmental scaling identifies scaling parameters that minimize the differences in the probability of a person endorsing the age-common items across two measures, at a given construct level.
 That is, IRT links measures' scales based on the difficulty and discrimination of the age-common items.
-In developmental scaling, scores on the construct-valid items at the reference age set the scale, the age-common items adjusts subsequent scores to that scale, and all construct-valid items (i.e., both age-common and age-unique items) at a given timepoint is used to estimate each person's score on that scale.
+In developmental scaling, scores on the construct-valid items at the reference age set the scale; the age-common items adjusts subsequent scores to that scale, and all construct-valid items (i.e., both age-common and age-unique items) at a given timepoint is used to estimate each person's score on that scale.
 Thus, the age-common items are used to determine the general form of change on an identical scale, but all developmentally relevant, construct-valid items are used to estimate each person's construct level on this scale.
 Traditionally IRT represents the measurement model in discrete time.
 Like MNFLA, however, IRT (particularly in the mixed model formulation) can represent the measurement model in continuous time and allows testing DIF over time and as a function of multiple variables and continuous variables.
@@ -802,14 +802,14 @@ In addition to linking scores across time to be on the same scale, to study the 
 ## Potential Confounds of Change {#sec-potential-confounds-of-change}
 
 It is important for longitudinal research to consider and, to the extent possible, account for potential confounds of change, such as practice effects, period and cohort effects, measurement error, selective attrition, and changes in the meaning of the scores [@Hertzog2003].
-By confound of change, we mean that such effects can make it appear that people have changed in their level on the construct when, it reality, they have not changed (or vice versa).
+By confound of change, we mean that such effects can make it appear that people have changed in their level on the construct when, in reality, they have not changed (or vice versa).
 
 ### Practice/Retest Effects
 
 Practice effects (also called retest effects) occur to the extent that a person's score changes due to repeated assessment rather than due to changes in their construct level.
 For instance, if researchers intend to study people's intelligence across development and they use the same measure and stimuli at each measurement occasion, it is possible that people may perform better over time because they are learning the task and thus improving their score—even if their intelligence has not changed.
-In a longitudinal study of externalizing problems using repeated surveys, retest effects might be most likely be detected in the form of decreases for a person across ages, which may reflect fatigue in reporting [@Averdijk2014].
-Lower ratings for an individual across time may be especially likely if the surveys include branching logic such that the respondent learns that additional items appear whenever they endorse an item (and that the additional items would not have appeared had they not endorsed the item).
+In a longitudinal study of externalizing problems using repeated surveys, retest effects might be most likely to be detected in the form of decreases for a person across ages, which may reflect fatigue in reporting [@Averdijk2014].
+Lower ratings for an individual across time may be especially likely if the surveys include branching logic such that the respondent learns that additional items appear whenever they endorse an item (and that those additional items would not have appeared had they not endorsed the item).
 Ways to reduce retest effects include changing the measure and/or stimuli [@Tyrell2019] and increasing the retest interval.
 Thus, an added benefit of accounting for heterotypic continuity (by changing the measure across development to align with changes in the construct manifestation) is the reduction of retest effects.
 A way to account for retest effects is through the use of accelerated longitudinal (i.e., cross-sequential) designs that can separately estimate the effects of age versus timepoint because, unlike in a single-cohort longitudinal design, age and timepoint are decoupled [@Ferrer2004].
@@ -818,12 +818,12 @@ A way to account for retest effects is through the use of accelerated longitudin
 
 Researchers are commonly interested in how people develop as a function of age.
 Age refers to a person's chronological age at the time of measurement.
-Age is a proxy for development—a stand-in for the myriad ways one's biology and social roles—and one's corresponding employment, income, and family structure—change as people age [@Rohrer2025].
+Age is a proxy for development—a stand-in for the myriad ways in which one's biology and social roles—and one's corresponding employment, income, and family structure—change as people age [@Rohrer2025].
 However, apparent age-related differences in a cross-sectional or longitudinal study could reflect period or cohort effects instead of development.
 Thus, it is important to consider and, to the extent possible, account for period and cohort effects.
 
 Period refers to the historical time at which measurement occurs.
-If a group of people are assessed during a given time period (e.g., during a war, recession, pandemic, or stressor), their scores could be influenced by the historical time period.
+If people are assessed during a given time period (e.g., during a war, recession, pandemic, or stressor), their scores could be influenced by the historical time period.
 The extent to which scores are attributable to the time period (e.g., the economic situation or prevailing standard of living) in which they are assessed is called a period effect.
 
 Cohort refers to a group of people who experience similar events or historical contexts at similar ages.
@@ -868,7 +868,7 @@ Longitudinal sequential designs provide greater leverage for distinguishing age,
 Nevertheless, they do not completely eliminate the confounding between age, period, and cohort [@Rohrer2025].
 No research design can fully disentangle age, period, and cohort effects.
 Confidence that observed age-related differences reflect developmental change increases when there is converging evidence across multiple research designs.
-However, there may be ways in a given study of accounting for period or cohort effects.
+However, in a given study, there may be ways to account for period or cohort effects.
 For instance, in an accelerated longitudinal study, it would be valuable to evaluate the extent to which the differing cohorts are comparable—i.e., that they show similar scores at the same ages.
 Moreover, there is an entire set of analytic approaches, known as age-period-cohort analysis [@Yang2013], whose goal is to disentangle the effects of age, period, and cohort.
 @Rohrer2025 provides additional suggestions for considering age, period, and cohort effects.
@@ -876,9 +876,9 @@ Moreover, there is an entire set of analytic approaches, known as age-period-coh
 ### Measurement Error
 
 Measurement error is another potential confound of change that can make it look like change has occurred when, in reality, change has not occurred.
-Consider the difference between scores at two measurement occasions, a so called "difference score", which is a common way of examining change.
+Consider the difference between scores at two measurement occasions, a so called "difference score," which is a common way of examining change.
 Difference scores are notoriously unreliable.
-Difference scores tend to be lower in reliability than each of the indices that compose it, especially when the two indexes are correlated because differences depend on the reliability of both indices in the subtraction [@Revelle2019].
+Difference scores tend to be lower in reliability than each of the indices that comprise it, especially when the two indexes are correlated because differences depend on the reliability of both indices in the subtraction [@Revelle2019].
 To be reliable, difference scores require high reliability of the individual indices compared to the correlation between them.
 That is, the more two things are the same thing, the more likely that subtracting one from the other leaves measurement error rather than construct variance.
 Ways of accounting for (random) measurement error include (a) combining multiple measures in estimation of a latent variable and (b) using growth curve models with at least three timepoints to estimate model-implied trajectories and reduce the influence of occasion-specific random error.
@@ -893,7 +893,7 @@ Consider an intervention study with two groups: a treatment group that received 
 The control group showed a 30% reduction in externalizing problems, on average.
 In the treatment group, some individuals showed a reduction in externalizing problems whereas others dropped out of the study due to side effects or worsening behavior.
 If we analyzed only those who were followed until the end of the study, it might appear that the treatment was effective merely because we were excluding individuals for whom the treatment was harmful.
-Thus, it is important to report the extent of missingness, whether missingness is systematically related to demographic and study variables, and to leverage modern approaches for handling missing data so one does not exclude participants in the analysis merely because they have missing data [@Nicholson2017].
+Thus, it is important to report the extent of missingness, whether missingness is systematically related to demographic and study variables, and to leverage modern approaches for handling missing data so that one does not exclude participants in the analysis merely because they have missing data [@Nicholson2017].
 Multiple imputation and full information maximum likelihood are useful if data are missing at random or completely at random [@Nicholson2017].
 Enders [-@Enders2022; -@Enders2025] provides contemporary guidelines for handling missing data, including when data are missing not at random using selection models and pattern mixture models—including in longitudinal studies [@Enders2022].
 @Nicholson2017 provides recommendations for reporting about attrition and missingness in longitudinal studies.
@@ -918,7 +918,7 @@ As described earlier, a goal of longitudinal factorial invariance is to increase
 In particular, it had been considered necessary to establish at least strong factorial invariance—i.e., invariance of intercepts and factor loadings in factor analysis, or invariance of difficulty and discrimination in item response theory.
 Otherwise, a researcher may wrongly conclude that levels in the construct change over time when the apparent changes in the observed scores (and the latent variables) are driven by noninvariant loadings and/or intercepts for one or more items [@Lai2023].
 However, it is now understood that violations of longitudinal factorial invariance do not mean that questions of change cannot be answered [@Lai2023].
-Strong factorial invariance frequently does not hold, so in such situations it may be necessary to find ways to accommodate or adjust for noninvariance [@Lai2023].
+Strong factorial invariance frequently does not hold, so in such situations, it may be necessary to find ways to accommodate or adjust for noninvariance [@Lai2023].
 
 At least partial strong factorial invariance (i.e., invariance of intercepts and factor loadings for a subset of items—the anchor items) is often considered a requirement for modeling individuals' change, such that the more items that show invariance, the greater the confidence that the latent factor is on a comparable scale at each age for examining individuals' change.
 However, even that requirement may be too strong.
@@ -931,7 +931,7 @@ That is, noninvariances across development can be expected by theory [@Sterner20
 As a result, theoretical considerations are crucial and establishing even partial longitudinal factorial invariance may not be required when the construct shows heterotypic continuity [@Knight2010; @Petersen2020].
 As noted by Millsap [-@Millsap2011, p. 1], "Measurement invariance is built on the notion that a measuring device should function in the same way across varied conditions, *so long as those varied conditions are irrelevant to the attribute being measured*" (emphasis added).
 However, age/development would not be considered irrelevant to psychopathology.
-As described earlier, externalizing (antisocial) behavior is considered to demonstrate heterotypic continuity; thus, longitudinal factorial *noninvariance* for measures assessing the development of externalizing behavior may be expected.
+As described earlier, externalizing (antisocial) behavior is considered to demonstrate heterotypic continuity; therefore, longitudinal factorial *noninvariance* for measures assessing the development of externalizing behavior may be expected.
 As noted by De Los Reyes et al. [-@DeLosReyes2025, p. 301], "developmental variations in antisocial behavior are unlikely to reflect confounds or biases in measurement."
 They characterize such tests of invariance across development—in which the conditions (age) are relevant to the construct of interest—as a questionable research practice, noting, "To be justified in testing measurement invariance [across ages], one would have to assume that when systematic differences manifest between ratings...for younger versus older youth, they cannot possibly reflect anything valid.
 For a scholar to make such an assumption, they must again ignore decades of theory and research in developmental psychopathology."
@@ -941,19 +941,19 @@ For instance, simulation work demonstrated that IRT linking approaches accuratel
 
 There are multiple ways of handling noninvariance as described above, including alignment optimization, MNLFA, and IRT-based linking.
 In addition, another approach is to allow approximate factorial invariance.
-Approximate measurement invariance allows invariance parameters to have small amount of noninvariance rather than fixing invariance parameters to zero [@VanDeSchoot2013].
+Approximate measurement invariance allows invariance parameters to have a small amount of noninvariance rather than fixing invariance parameters to zero [@VanDeSchoot2013].
 Approximate measurement invariance is more accurate than full or partial measurement invariance for estimating true latent mean differences when there are many small differences in the intercepts and factor loadings [@Cieciuch2014; @VanDeSchoot2013].
 Approximate measurement invariance has also been applied in the longitudinal context [e.g., @Seddig2018; @Winter2020].
 Robitzsch and Lüdtke [-@Robitzsch2023, p. 859] argue that establishing factorial invariance is neither necessary nor sufficient for comparing latent means, and they note that "there is no support for preferring the partial invariance approach over competing approaches, such as invariance alignment, robust linking, or Bayesian approximate invariance."
 
-[^invarianceFootnote]: Factorial invariance is also called "measurement invariance".
+[^invarianceFootnote]: Factorial invariance is also called measurement invariance.
 In this context, we prefer the term "factorial invariance" because, as described, the actual measures used may differ across time.
 
 ## Integration Across Multiple Sources
 
 The most accurate informant(s) for a person can change with development, so it may be necessary to include different informants across time.
 There is widespread agreement that including multiple sources of data—e.g.. multiple informants or multiple measurement methods—is preferable.
-However, there is less agreement about how to use the multiple sources of data [@Bauer2013], particularly because informants often show low correspondence with each other when rating the same person.
+However, there is less agreement about how to use the multiple sources of data [@Bauer2013], particularly because informants often show low correspondence with one another when rating the same person.
 Some of these discrepancies may be confounded by the person behaving differently in different contexts or with different people.
 The inclusion of multiple measurement methods can help account for measurement error given the considerable variance that is attributable to method bias [@Podsakoff2012].
 The inclusion of multiple informants can be relevant for informing about the pervasiveness of a person's behavior across contexts (e.g., home, school).
@@ -961,16 +961,16 @@ As a result of including multiple or different informants across development, it
 Some researchers advocate for integrating scores using principal component approaches [while disentangling variance attributable to trait, perspective, and context\; @Kraemer2003] or latent variable approaches [e.g., @Bauer2013], and others advocate for keeping different informants' ratings separate without integrating them [but including them in the same model\; @Aitken2023].
 As an example of a latent variable modeling approach, @Bauer2013 demonstrates a trifactor model that attempts to disentangle construct variance from the method effects tied to the specific item and the informant.
 @DeLosReyes2013 provide the Operations Triad Model as a framework for using and interpreting reports from multiple informants [for more information, see @Makol2025].
-In sum, finding ways to leverage the information from multiple informants will be crucial to study development of psychopathology across the lifespan [@DeLosReyes2026].
+In sum, finding ways to leverage the information from multiple informants will be crucial for studying the development of psychopathology across the lifespan [@DeLosReyes2026].
 
 ## Obsolescence of Items and Measures
 
-Another challenge is that questionniare items—whether the particular wording or the behavior itself—can become obsolete and irrelevant with secular changes.
+Another challenge is that questionnaire items—whether the particular wording or the behavior itself—can become obsolete and irrelevant with secular changes.
 For instance, due to technological changes, items focused on television use—without considering other forms of screen use—may miss important contemporary screen-related use.
 Additionally, ways people use substances change over historical time.
 For instance, vaping is a more contemporary way that many adolescents use nicotine.
-The ways aggressive behavior manifests also changes across historical time.
-Items focused on physical aggression would miss important contemporary manifestations of aggression, including cyberaggression, cyberbullying, online harassment, aggression on social media (e.g., exclusion).
+The ways in which aggressive behavior manifests also changes across historical time.
+Items focused on physical aggression would miss important contemporary manifestations of aggression, including cyberaggression, cyberbullying, online harassment, and aggression on social media (e.g., exclusion).
 In sum, it is important to keep items relevant for current use, and that naturally means changing item content and/or wording across historical time, a further reason why linking of scores (given differing item content) is crucial.
 
 # Conclusion
