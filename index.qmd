@@ -147,7 +147,7 @@ citation:
 When entrenched, psychopathology is costly and difficult to treat [@Insel2008; @Wakschlag2019].
 Understanding its developmental origins is therefore crucial for preventing later, more severe psychopathology.
 Developmental science seeks to build a bridge that spans the lifespan—from infancy to older adulthood—and not just transitory periods in people's lives.
-However, the field has not adequately studied individuals' development of psychopathology across the lifespan; instead, it has taken a piecewise approach to development that focuses on narrower age ranges.
+However, the field has not adequately studied individuals' development of psychopathology across the lifespan; instead, the field has taken a piecewise approach to development that focuses on narrower age ranges.
 The focus on narrow age ranges restricts our ability to understand development across important transitions, such as puberty, school entry, and entry into parenthood, which in turn limits our understanding of lifespan development and the origins of psychopathology.
 In this paper, we describe reasons why this is the case—beyond logistical challenges of time and money.
 And we propose solutions to these challenges by introducing a developmental scaling framework for psychopathology.
@@ -425,7 +425,7 @@ Second, forms of psychopathology frequently show changes in behavioral manifesta
 
 Considerable theoretical work attempts to characterize constructs across development.
 For instance, @Patterson1993 characterized externalizing ("antisocial") behavior as a chimera.
-A chimera is a mythical creature with the body of a goat that, with development, grows the head a lion and then a tail of a snake.
+A chimera is a mythical creature with the body of a goat that, with development, grows the head of a lion and then a tail of a snake.
 @Patterson1993 and @Moffitt1993 argued that externalizing behavior changes in manifestation across development such that underlying antisociality is maintained while more mature features are added across development.
 In particular, Patterson [-@Patterson1993] noted that some externalizing behaviors wane with age, such as temper tantrums, whereas other externalizing behaviors emerge with age, including the ability to inflict serious damage or harm with violence, burglary, and shoplifting, in addition to problems such as academic failure, peer rejection, substance problems, and arrest.
 Moffitt [-@Moffitt1993, p. 679] noted that externalizing behaviors may manifest as "biting and hitting at age 4, shoplifting and truancy at age 10, selling drugs and stealing cars at age 16, robbery and rape at age 22, and fraud and child abuse at age 30", and that the prognosis for individuals who engage in externalizing behavior throughout the life-course includes "drug and alcohol addiction; unsatisfactory employment; unpaid debts; homelessness; drunk driving; violent assault; multiple and unstable relationships; spouse battery; abandoned, neglected, or abused children; and psychiatric illness".
@@ -469,10 +469,10 @@ Moreover, where such theories do indicate changes in behavioral manifestation ac
 Diagnostic and taxonomic systems do not define psychopathology constructs from a developmental perspective.
 The diagnostic systems, including the Diagnostic and Statistical Manual of Mental Disorders [DSM-5-TR\; @APA2022] and the International Classification of Diseases [ICD-11\; @WHO2022], specify various externalizing-related disorders, including attention-deficit/hyperactivity disorder (ADHD), oppositional defiant disorder (ODD), conduct disorder (CD), and antisocial personality disorder (ASPD).
 Among externalizing-related disorders—with few exceptions[^dsmFootnote1]—the diagnostic criteria do not differ across development, even though diagnostic manuals acknowledge that developmental factors impact symptom presentation[^dsmFootnote2].
-In addition to diagnostic systems, emerging taxonomies and frameworks of psychopathology—including the hierarchical taxonomy of psychopathology (HiTOP) and research domain criteria (RDoC)—do not incorporate a developental perspective [@Tackett2022].
+In addition to diagnostic systems, emerging taxonomies and frameworks of psychopathology—including the hierarchical taxonomy of psychopathology (HiTOP) and research domain criteria (RDoC)—do not incorporate a developmental perspective [@Tackett2022].
 
 [^dsmFootnote1]: In the DSM-5-TR [@APA2022], the minimum frequency for considering a symptom of ODD to be present is "most days" (for a period of six months) for children younger than 5 years, whereas it is "at least once per week" (for at least six months) for children 5 years or older.
-For the diagnosis of ADHD, six or more symptoms are required for children and younger adolescents (up to age 16), whereas five or more sympomts are required for older adolescents and adults (aged 17 or over).
+For the diagnosis of ADHD, six or more symptoms are required for children and younger adolescents (up to age 16), whereas five or more symptoms are required for older adolescents and adults (aged 17 or over).
 However, the symptoms for defining ODD and ADHD do not differ across development.
 
 [^dsmFootnote2]: In the DSM-5-TR [@APA2022], some disorders have a "Development and Course" subsection that describes when disorders tend to emerge and their rates across ages, in addition to describing the types of symptoms that may be more or less common at various points in development.
@@ -487,7 +487,7 @@ In the section on CD, it is noted that "Symptoms of the disorder vary with age a
 strength, cognitive abilities, and sexual maturity.
 Symptom behaviors that emerge first tend to be less serious (e.g., lying, shoplifting), whereas conduct problems that emerge last tend to be more severe (e.g., rape, theft while confronting a victim)...
 When individuals with conduct disorder reach adulthood, symptoms of aggression, property destruction, deceitfulness, and rule violation, including violence against co-workers, partners, and children, may be exhibited in the workplace and the home" (p. 534).
-Moreover, some disorders in the DSM-5-TR note that, to be considered a symptom, the frequency, intensity, or persistence, of the behavior must be inconsistent with the level expected for their developmental level.
+Moreover, some disorders in the DSM-5-TR note that, to be considered a symptom, the frequency, intensity, or persistence of the behavior must be inconsistent with the level expected for their developmental level.
 For instance, in the diagnosis of ADHD, it is noted that "the symptoms have persisted for at least 6 months to a degree that is inconsistent with developmental level" (p. 68).
 In the diagnosis of ODD, it is noted that "other factors [besides a minimum frequency] should also be considered, such as whether the frequency and intensity of the behaviors are outside a range that is normative for the individual's developmental level, gender, and culture." (p. 522).
 In addition, some disorders require that some symptoms onset before or after a particular age.
@@ -497,7 +497,7 @@ In the diagnosis of ASPD, symptoms must be persistent since age 15 but have onse
 
 ## Problems of Existing Assessments and Traditional Scoring Systems
 
-Other key reasons the field has failed to adequately study individuals' development of psychopathology across the lifespan represent method problems—namely, problems with existing assessments and how those assessments are used, based on traditional scoring systems.
+Other key reasons the field has failed to adequately study individuals' development of psychopathology across the lifespan represent methodological problems—namely, problems with existing assessments and how those assessments are used, based on traditional scoring systems.
 There is a mismatch between theory and method.
 In particular, there is a mismatch between theory of constructs—including how a construct manifests behaviorally—and the methods used to assess the construct and to evaluate people's level and change in that construct.
 
@@ -511,17 +511,16 @@ For example, among the most widely used measures of externalizing problems in re
 However, the same version of the Child Behavior Checklist (CBCL) spans ages 6–18.
 Considerable development occurs during that span including key developmental transitions—from childhood to adolescence to emerging adulthood—and the CBCL does not capture such changes.
 
-There are two primary ways that researchers have examined people's change in psychopathology across development [@fig-approachesToLongitudinalAssessment \; @Petersen2020].
+There are two primary ways that researchers have examined people's change in psychopathology across development (@fig-approachesToLongitudinalAssessment \; @Petersen2020).
 The "common items" approach removes items that are age specific.[^ageVsTimeFootnote]
-For example, in a study of externalizing behavior from early childhood to adolescence, a study might remove some substance use items that might not be developmentally relevant at all ages.
-The second approach, the "upward/downward extension" approach, takes items that are valid at a given age and uses the items across ages when the item may not be valid or useful—i.e., all items are assessed at all ages.
+For example, in a study of externalizing behavior from early childhood to adolescence, a study might remove some substance use items that are not be developmentally relevant at all ages.
+The second approach, the "upward/downward extension" approach, takes items that are valid at a given age and uses those same items across all ages, even ages in which the item may not be valid or useful—i.e., all items are assessed at all ages.
 For instance, the upward extension approach might take the item "disobedient to authority figures" and apply it to older individuals for whom such a behavior may no longer validly reflect externalizing behavior—and may instead reflect prosocial functions including protesting against societally unjust actions.
 Both the "common items" [e.g., @Odgers2008; @Sterba2007] and "upward/downward extension" [e.g., @BriggsGowan2016; @Broeren2013] approaches are widely used, likely because they result in the same items assessed across ages, but both have key problems.
 As an example of the common items approach, Odgers et al. [-@Odgers2008, p. 676] examined children's development of DSM-IV symptoms of conduct disorder from ages 7 to 26 years, but they dropped age-specific symptoms (e.g., running away, staying out late) "because [these symptoms] did not cover the study's age span".
-As an example of the upward extension approach, Broeren et al. [-@Broeren2013, p. 84]  examined children's development of anxiety from ages 4 to 11 years; they noted, "Although the questionnaire was originally developed to measure anxiety in preschoolers, the current study also employed the scale with older children to promote uniformity in measures".
+As an example of the upward extension approach, Broeren et al. [-@Broeren2013, p. 84] examined children's development of anxiety from ages 4 to 11 years; they noted, "Although the questionnaire was originally developed to measure anxiety in preschoolers, the current study also employed the scale with older children to promote uniformity in measures".
 
 [^ageVsTimeFootnote]: For simplicity and brevity, we refer to birth age as a proxy for developmental time.
-
 
 ![Approaches to Longitudinal Assessment](Figures/approachesToLongitudinalAssessment.jpg){
   #fig-approachesToLongitudinalAssessment
