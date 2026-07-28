@@ -657,10 +657,18 @@ academic and cognitive skills across lengthy developmental periods.</p>
     <p>These gaps are important for several reasons. First,
     psychopathology does not come from nowhere; psychopathology
     constructs often have earlier origins than their full clinical
-    presentation. In many cases, psychopathology may arise from the
-    interaction of genetic and environmental factors, and their effects
-    on biology, cognition, emotion, and behavior. Such effects may
-    accumulate and transpire over years. Second, forms of
+    presentation. For instance, children who go on to develop later
+    externalizing problems and conduct problems tend to show earlier
+    temperamental differences in terms of poorer self-regulation, poorer
+    emotion regulation, low fearfulness, and a more difficult
+    temperament
+    (<xref alt="Bates et al. 2014" rid="ref-Bates2014" ref-type="bibr">Bates
+    et al. 2014</xref>;
+    <xref alt="Frick and Morris 2004" rid="ref-Frick2004" ref-type="bibr">Frick
+    and Morris 2004</xref>). In many cases, psychopathology may arise
+    from the interaction of genetic and environmental factors, and their
+    effects on biology, cognition, emotion, and behavior. Such effects
+    may accumulate and transpire over years. Second, forms of
     psychopathology frequently show changes in behavioral manifestation
     across development—a phenomenon called heterotypic continuity
     (<xref alt="Caspi and Shiner 2006" rid="ref-Caspi2006" ref-type="bibr">Caspi
@@ -906,19 +914,21 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <p>The problem cannot be solved merely by age-norming. Generating
       norms from items that are invalid at a given age or from scales
       that have important content gaps at a given age leads to
-      construct-invalid scores and resulting norms. Moreover,
-      age-norming prevents observing absolute growth and is problematic
-      in longitudinal studies
-      (<xref alt="Moeller 2015" rid="ref-Moeller2015" ref-type="bibr">Moeller
-      2015</xref>). Likewise, using DSM disorders or diagnoses also does
-      not solve the problem. </p>
+      construct-invalid scores and resulting norms. Likewise, using DSM
+      disorders or diagnoses also does not solve the problem. DSM
+      disorders are fictive categories
+      (<xref alt="Petersen 2024" rid="ref-Petersen2024" ref-type="bibr">Petersen
+      2024</xref>). Moreover, diagnosic criteria naturally change with
+      subsequent revisions of the DSM, leading people to lose interest
+      with prior categorizations and to incomparability of diagnoses
+      across DSM versions.</p>
       <p>In addition, forcing use of the same measure across time
       naturally limits the ages a study can span, which prevents
       charting wider age spans. For example, if a researcher used the
       CBCL and only wanted to study trajectories where the same measure
       was assessed across ages, they would not be able to examine
       development from ages 5–6, when there is a change in the CBCL
-      version (i.e., one for ages 1.5–5 and another for ages 6–18). </p>
+      version (i.e., one for ages 1.5–5 and another for ages 6–18).</p>
       <p>In addition to the behavioral expression of a construct
       changing across developmental time, the behavioral expression of a
       construct can also change across historical time. Changes in the
@@ -965,20 +975,29 @@ academic and cognitive skills across lengthy developmental periods.</p>
       et al. in press</xref>). However, such approaches assume that the
       age-differing measures have the same overall functioning in terms
       of difficulty and discrimination (described later), which is
-      unlikely. Age norms and standardized scores (<italic>T</italic>-
-      or <italic>z</italic>-scores) do not allow observing individuals’
-      absolute change because scores have a fixed mean and variance, and
-      they do not equal developmental understanding. Absolute change is
-      necessary to identify true growth for an individual, and is thus
-      important for treatment monitoring and longitudinal growth curves.
-      Moreover, it is important for scores across ages to be on the same
-      apples-to-apples scale so the scores can be compared across ages,
-      which would be valuable even in a cross-sectional study that spans
-      a wide age range, as might be found in an epidemiological
-      study.</p>
-      <p>There is a misperception that no practical approach exists that
-      can handle different measures across ages or time. Consider the
-      following statement by LeBlanc
+      unlikely.</p>
+      <p>Age norms and standardized scores (e.g., <italic>T</italic>- or
+      <italic>z</italic>-scores) have also been used to study
+      development of externalizing problems
+      (<xref alt="Bista et al. 2025" rid="ref-Bista2025" ref-type="bibr">Bista
+      et al. 2025</xref>;
+      <xref alt="Korhonen et al. 2018" rid="ref-Korhonen2018" ref-type="bibr">Korhonen
+      et al. 2018</xref>). However, age norms and standardized scores do
+      not allow observing individuals’ absolute change because scores
+      have a fixed mean and variance, and they do not equal
+      developmental understanding. Absolute change is necessary to
+      identify true growth for an individual, and is thus important for
+      treatment monitoring and longitudinal growth curves. Thus,
+      age-norming is problematic in longitudinal studies
+      (<xref alt="Moeller 2015" rid="ref-Moeller2015" ref-type="bibr">Moeller
+      2015</xref>).</p>
+      <p>Moreover, it is important for scores across ages to be on the
+      same apples-to-apples scale so the scores can be compared across
+      ages, which would be valuable even in a cross-sectional study that
+      spans a wide age range, as might be found in an epidemiological
+      study. There is a misperception that no practical approach exists
+      that can handle different measures across ages or time. Consider
+      the following statement by LeBlanc
       (<xref alt="2021, 15" rid="ref-LeBlanc2021" ref-type="bibr">2021,
       15</xref>), “The theoretical position is that a form of antisocial
       behavior, for example, fraud, has to be measured by distinct
@@ -5218,6 +5237,45 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1177/0962280214534588</pub-id>
       <fpage>2925</fpage>
       <lpage>2938</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Frick2004">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Frick</surname><given-names>Paul J.</given-names></name>
+        <name><surname>Morris</surname><given-names>Amanda Sheffield</given-names></name>
+      </person-group>
+      <article-title>Temperament and developmental pathways to conduct problems</article-title>
+      <source>Journal of Clinical Child &amp; Adolescent Psychology</source>
+      <year iso-8601-date="2004">2004</year>
+      <volume>33</volume>
+      <issue>1</issue>
+      <uri>https://doi.org/10.1207/S15374424JCCP3301_6</uri>
+      <pub-id pub-id-type="doi">10.1207/S15374424JCCP3301_6</pub-id>
+      <fpage>54</fpage>
+      <lpage>68</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Bates2014">
+    <element-citation publication-type="chapter">
+      <person-group person-group-type="author">
+        <name><surname>Bates</surname><given-names>John E.</given-names></name>
+        <name><surname>Schermerhorn</surname><given-names>Alice C.</given-names></name>
+        <name><surname>Petersen</surname><given-names>Isaac T.</given-names></name>
+      </person-group>
+      <article-title>Temperament concepts in developmental psychopathology</article-title>
+      <source>Handbook of developmental psychopathology</source>
+      <person-group person-group-type="editor">
+        <name><surname>Rudolph</surname><given-names>Karen</given-names></name>
+        <name><surname>Lewis</surname><given-names>Michael</given-names></name>
+      </person-group>
+      <publisher-name>Springer</publisher-name>
+      <publisher-loc>New York, NY, US</publisher-loc>
+      <year iso-8601-date="2014">2014</year>
+      <edition>3rd</edition>
+      <pub-id pub-id-type="doi">10.1007/978-1-4614-9608-3_16</pub-id>
+      <fpage>311</fpage>
+      <lpage>329</lpage>
     </element-citation>
   </ref>
 </ref-list>
