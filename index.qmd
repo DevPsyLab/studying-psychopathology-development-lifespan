@@ -417,7 +417,7 @@ In addition, theories do not specify how those features or behaviors change acro
 
 These gaps are important for several reasons.
 First, psychopathology does not come from nowhere; psychopathology constructs often have earlier origins than their full clinical presentation.
-For instance, children who go on to develop later externalizing problems and conduct problems tend to show earlier temperamental differences in terms of poorer self-regulation, poorer emotion regulation, low fearfulness, and a more difficult temperament [@Bates2014; @Frick2004].
+For instance, children who go on to develop later externalizing problems and conduct problems tend to show earlier temperamental differences such as poorer self-regulation, poorer emotion regulation, low fearfulness, and a more difficult temperament [@Bates2014; @Frick2004].
 In many cases, psychopathology may arise from the interaction of genetic and environmental factors, and their effects on biology, cognition, emotion, and behavior.
 Such effects may accumulate and transpire over years.
 Second, forms of psychopathology frequently show changes in behavioral manifestation across development—a phenomenon called heterotypic continuity [@Caspi2006; @Cicchetti2002; @Petersen2020; @Petersen2024].
