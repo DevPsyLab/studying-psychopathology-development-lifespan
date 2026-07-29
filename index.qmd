@@ -461,7 +461,7 @@ Nevertheless, the authors found that adding new symptoms and subtracting symptom
 Moreover, just because a symptom persists does not mean that the behavioral manifestation of that symptom stays the same for that individual.
 For instance, even if a symptom (e.g., "fighting") persists for an individual, their manifestation of that symptom could differ in form, function, or mechanism [@Petersen2024].
 Indeed, fighting is considered to differ in meaning from childhood to adulthood [@Patterson1993; @Tyrell2019].
-Thus, as noted by Applegate and Lahey [-@Applegate2026], "future causal theories will need to rest on a more detailed and nuanced description of persistence and change at the level of specific psychological problems."
+Thus, as noted by Applegate and Lahey [-@Applegate2026, p. 10], "future causal theories will need to rest on a more detailed and nuanced description of persistence and change at the level of specific psychological problems."
 
 Moreover, where such theories do indicate changes in behavioral manifestation across development, diagnostic and taxonomic systems do not incorporate these developmental changes.
 
@@ -944,7 +944,7 @@ As described earlier, externalizing (antisocial) behavior is considered to demon
 
 As noted by De Los Reyes et al. [-@DeLosReyes2025, p. 301], "developmental variations in antisocial behavior are unlikely to reflect confounds or biases in measurement."
 De Los Reyes and colleagues characterize such tests of invariance across development—in which the conditions (age) are relevant to the construct of interest—as a questionable research practice, noting, "To be justified in testing measurement invariance [across ages], one would have to assume that when systematic differences manifest between ratings...for younger versus older youth, they cannot possibly reflect anything valid.
-For a scholar to make such an assumption, they must again ignore decades of theory and research in developmental psychopathology."
+For a scholar to make such an assumption, they must again ignore decades of theory and research in developmental psychopathology." (p. 308).
 Moreover, removing noninvariant items is not recommended if the item retains construct validity [@Knight2010; @DeLosReyes2025].
 When the construct changes in manifestation, models with failed longitudinal factorial invariance can yield valid inferences.
 For instance, simulation work demonstrated that IRT linking approaches accurately captured changes in level on the latent factor even in the present of DIF and changing dimensionality [@Edwards2012].
