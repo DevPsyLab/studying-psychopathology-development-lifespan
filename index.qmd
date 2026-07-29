@@ -515,12 +515,14 @@ Considerable development occurs during that span including key developmental tra
 There are two primary ways that researchers have examined people's change in psychopathology across development (@fig-approachesToLongitudinalAssessment).
 The "common items" approach removes items that are age specific.[^ageVsTimeFootnote]
 For example, in a study of externalizing behavior from early childhood to adolescence, a study might remove some substance use items that are not be developmentally relevant at all ages.
-The second approach, the "upward/downward extension" approach, takes items that are valid at a given age and uses those same items across all ages, even ages in which the item may not be valid or useful—i.e., all items are assessed at all ages.
+The second approach, the "upward/downward extension" approach, takes items that are valid at a given age and uses those same items across all ages, even outside the ages for which the assessment was designed and when the item may not be valid or useful—i.e., all items are assessed at all ages.
 For instance, the upward extension approach might take the item "disobedient to authority figures" and apply it to older individuals for whom such a behavior may no longer validly reflect externalizing behavior—and may instead reflect prosocial functions including protesting against societally unjust actions.
 Both the "common items" [e.g., @Odgers2008; @Sterba2007] and "upward/downward extension" [e.g., @BriggsGowan2016; @Broeren2013] approaches are widely used, likely because they result in the same items assessed across ages, but both have key problems.
 
 As an example of the common items approach, Odgers et al. [-@Odgers2008, p. 676] examined children's development of DSM-IV symptoms of conduct disorder from ages 7 to 26 years, but they dropped age-specific symptoms (e.g., running away, staying out late) "because [these symptoms] did not cover the study's age span".
 As an example of the upward extension approach, Broeren et al. [-@Broeren2013, p. 84] examined children's development of anxiety from ages 4 to 11 years; they noted, "Although the questionnaire was originally developed to measure anxiety in preschoolers, the current study also employed the scale with older children to promote uniformity in measures".
+As examples of the downward extension approach, @Gornik2023 used the CBCL 4–18 with 3-year-olds—i.e., ages younger than the assessment was designed.
+@Zhai2026 used items (e.g., "steals from home, school or elsewhere") from the Strengths and Difficulties Questionnaire for 4–10/11–17-year-olds with 3 year-olds—i.e., ages younger than the assessment was designed, despite availability of a version for 2–4-year-olds.
 
 [^ageVsTimeFootnote]: For simplicity and brevity, we refer to birth age as a proxy for developmental time.
 
@@ -659,8 +661,10 @@ Moreover, it is important for measures not to show restriction of range owing to
 In sum, although they have been helpful, existing measures are poorly suited to classify individuals' development of psychopathology across a lengthy span, which is necessary for tracking individuals' change and identifying mechanisms in the development of psychopathology.
 As we described above, existing assessments of externalizing behavior—and of other forms of psychopathology—have key limitations.
 To address this concern, the field will need to develop better assessments.
-Moreover, there are problems with how assessments are used to examine development—studies have primarily used the common items approach or the upward/downward extension approach across ages, which are problematic approaches that lead to inaccurate scores and resulting trajectories and developmental inferences.
-To address this concern, we propose a potential solution to account for heterotypic continuity and to allow charting individuals' change across the lifespan: a developmental scaling framework.
+Moreover, there are problems with how assessments are used to examine development—studies have primarily used problematic approaches including the common items approach or the upward/downward extension approach across ages and have failed to place scores on a comparable scale across development, leading to inaccurate scores and resulting trajectories and developmental inferences.
+Researchers studying psychopathology development are doing their best to grapple with developmental equivalence in the ways they know how, such as by dropping items, using items outside the age range of validation, restricting the age range of analysis (or data collection) to the ages when the same measure was (or would be) used, using diagnostic categories, averaging scores, and age-norming.
+However, it is important for the field to advance its awareness of stronger approaches for placing scores on a comparable scale across development.
+To address these concerns, we propose a potential solution to account for heterotypic continuity and to allow charting individuals' change across the lifespan: a developmental scaling framework.
 
 # Solution: A Developmental Scaling Framework
 
