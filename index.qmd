@@ -329,7 +329,7 @@ The Fels Longitudinal Study [@Roche1992] was a cohort-sequential study lasting f
 The study collected data on participants' body composition, including height and weight, which had key impacts and formed the basis of pediatric growth charts.
 In addition, the study collected information on the participants' behavior—and other constructs—in childhood (based on observation) and adulthood (based on interview).
 These rich data allowed researchers to examine the extent of personality continuity and change from childhood to adulthood, and the extent to which mothers may influence the personality development of the child [@Moss1964].
-On the basis of predictive associations from childhood to adulthood in the Fels Longitudinal Study, @Kagan1962 noted that girls who had frequent tantrums at 6 to 10 years of age tended to become women who were more motivated in school, less dependent on others, and more masculine in their interests than women who had fewer tantrums as children.
+On the basis of predictive associations from childhood to adulthood in the Fels Longitudinal Study, Kagan and Moss [-@Kagan1962] noted that girls who had frequent tantrums at 6 to 10 years of age tended to become women who were more motivated in school, less dependent on others, and more masculine in their interests than women who had fewer tantrums as children.
 They interpreted the different behaviors at different ages as stemming from the same psychological process: a tendency to avoid adopting "female sex-role standards" (p. 200).
 Kagan described such findings, when psychological processes remain the same but the form of behavior changes, as examples of heterotypic continuity [@Kagan1969; @Kagan1971; @Kagan1980].
 
@@ -374,7 +374,7 @@ Other studies have examined trajectories of externalizing problems from ages 5�
 @Bongers2004 examined trajectories of various externalizing problems from ages 4–18 spanning 13 different birth cohorts with up to 5 measurement occasions per cohort, such that any individual was followed for up to 8 years [@Bongers2004].
 
 Studies have also examined trajectories of delinquency from ages 7–19 with 13 measurement occasions [Pittsburgh Youth Study\; @Keijsers2012].
-Demonstrating an analytic method (moderated nonlinear factor analysis) to link scores across measures onto the same scale, @ChenPM examined trajectories of delinquency from ages 12–26 with 3 measurement occasions in the National Longitudinal Study of Adolescent to Adult Health (Add Health), and @ChenMBR examined trajectories of externalizing behavior from ages 5–12 with 3 measurement occasions in the National Longitudinal Survey of Youth 1979 Child and Young Adult (NLSCYA).
+Demonstrating an analytic method (moderated nonlinear factor analysis) to link scores across measures onto the same scale, Chen and Bauer [-@ChenPM] examined trajectories of delinquency from ages 12–26 with 3 measurement occasions in the National Longitudinal Study of Adolescent to Adult Health (Add Health), and Chen and Bauer [-@ChenMBR] examined trajectories of externalizing behavior from ages 5–12 with 3 measurement occasions in the National Longitudinal Survey of Youth 1979 Child and Young Adult (NLSCYA).
 In addition, studies have examined trajectories of emotional and behavioral dysregulation (encompassing externalizing problems and emotional symptoms) from ages 3–17 with 6 measurement occasions [UK Millennium Cohort Study\; @Zhai2026].
 Studies have also leveraged registry data to examine trajectories of offending from ages 8–61 [@LeBlanc2021], from ages 10–61 [Cambridge Study in Delinquent Development\; @Farrington2023], and from ages 9–64 [Stockholm Metropolitan Study\; @Sivertsson2024].
 
@@ -461,7 +461,7 @@ Nevertheless, the authors found that adding new symptoms and subtracting symptom
 Moreover, just because a symptom persists does not mean that the behavioral manifestation of that symptom stays the same for that individual.
 For instance, even if a symptom (e.g., "fighting") persists for an individual, their manifestation of that symptom could differ in form, function, or mechanism [@Petersen2024].
 Indeed, fighting is considered to differ in meaning from childhood to adulthood [@Patterson1993; @Tyrell2019].
-Thus, as noted by @Applegate2026, "future causal theories will need to rest on a more detailed and nuanced description of persistence and change at the level of specific psychological problems."
+Thus, as noted by Applegate and Lahey [-@Applegate2026], "future causal theories will need to rest on a more detailed and nuanced description of persistence and change at the level of specific psychological problems."
 
 Moreover, where such theories do indicate changes in behavioral manifestation across development, diagnostic and taxonomic systems do not incorporate these developmental changes.
 
@@ -594,7 +594,7 @@ To address this, the test developers write the tests so that some items are in c
 Then, the researchers apply widely used methods to link the scores from the different measures onto the same scale so they can observe individuals' growth across grades.
 The same general methods are also used to place people's scores on the same scale for standardized tests like the ACT, SAT, GRE, MCAT, LSAT, etc., despite repondents receiving different item content.
 
-For examples of studies applying various linking methods to academic and cognitive skills, see @McArdle2009, @McArdle2011, @Murayama2013, @Oleson2016, @Petscher2018, @Ward2022, and @Weeks2018.
+For examples of studies applying various linking methods to academic and cognitive skills, see @McArdle2009, McArdle and Grimm [-@McArdle2011], @Murayama2013, @Oleson2016, @Petscher2018, @Ward2022, and @Weeks2018.
 However, the use of linking methods is rare in studies of social and behavioral development broadly and psychopathology specifically.
 For studies that have applied such methods in studying social and behavioral development, see studies on self-concept [@Hancock2008], neuroticism [@Lai2023], self-regulation [@Hosch2022], underactivity/overactivity [and their subdimensions\; @McDermott2013], thought-disordered problems [@Petersen2026a], internalizing problems [@Harris2025; @Petersen2018; @Petersen2026a; @Tyrell2019], and externalizing problems [@ChenMBR; @ChenPM; @Harris2025; @Petersen2021b; @Petersen2022; @Petersen2026a].
 
@@ -758,7 +758,7 @@ Bayesian approaches can be used to apply MNLFA.
 A key benefit of Bayesian approaches is the use of regularizing priors that allow estimating the model without having to identify noninvariant/DIF items and anchor items in advance [@ChenPM; @ChenMBR].
 Using regularization, unimportant DIF effects are shunken toward zero—while retaining larger DIF effects—thus identifying potential anchor items without having to specify them in advance [@ChenPM].
 In addition, Bayesian approaches are often better suited to handle small sample sizes and data with sparse responses [@ChenPM].
-Using a simulation, @ChenMBR found that MNLFA estimated change more accurately than traditional first- or second-order growth curve models.
+Using a simulation, Chen and Bauer [-@ChenMBR] found that MNLFA estimated change more accurately than traditional first- or second-order growth curve models.
 
 ### Item Response Theory
 
