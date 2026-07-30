@@ -3,8 +3,8 @@ title: Studying Development of Psychopathology Across the Lifespan
 shorttitle: Psychopathology Development Across Lifespan
 author:
   - name:
-        given: Isaac T.
-        family: Petersen
+      given: Isaac T.
+      family: Petersen
     url: https://psychology.uiowa.edu/people/isaac-petersen
     email: isaac-t-petersen@uiowa.edu
     phone: +1 (319) 467-1014
@@ -29,8 +29,8 @@ author:
     affiliations:
       - ref: uiowaPBS
   - name:
-        given: Zachary
-        family: Demko
+      given: Zachary
+      family: Demko
     degrees: MA
     orcid: 0000-0002-5717-6205
     email: zachary-demko@uiowa.edu
@@ -46,8 +46,8 @@ author:
     affiliations:
       - ref: uiowaPBS
   - name:
-        given: Megan
-        family: Schumer
+      given: Megan
+      family: Schumer
     degrees: BS
     orcid: 0009-0009-5488-6541
     email: megan-schumer@uiowa.edu
