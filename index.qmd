@@ -123,6 +123,8 @@ numbered-lines: false
 mask: false
 no-ampersand-parenthetical: false
 meta-analysis: false
+nocite: |
+  @Borelli2018, @Abrous2026, @Sivertsson2024
 lang: en-US
 blank-lines-above-title: 2
 blank-lines-above-author-note: 2
@@ -609,7 +611,7 @@ Therefore, we excluded age 2 from our trajectory analysis."
 
 Many measures use coarse, subjective response scales such as Likert-type response scales (e.g., "rarely", "sometimes", "often", "very often") leading to cultural bias [@Schaeffer1991; @Schwarz1999; @Paalman2013] and insensitivity to change.
 Items with few discrete response categories tend to show less sensitivity to the full range of individual differences [@Elliott1980] and less sensitivity to change [i.e., responsiveness\; @Grant1999] compared to items with more response options that have greater variability in scores.
-In general, items with more response options yield more information [i.e., greater reduction of uncertainty in estimates of a person's construct level; though there are diminishing returns when using more than six response options\; @Culpepper2013; @Simms2019].
+In general, items with more response options yield more information [i.e., greater reduction of uncertainty in estimates of a person's construct level\; though there are diminishing returns when using more than six response options\; @Culpepper2013; @Simms2019].
 Indeed, as depicted in @fig-absoluteFrequencyInformation, items assessing absolute frequency have been shown to yield more information than dichotomized versions of the same items and than the Achenbach Adult Self-Report, which uses Likert-type response options.
 In addition, if a respondent implicitly uses the target's same-aged peers as the normative reference group for determining the relative frequency of a behavior, this could have the implicit effect of resulting in age-normed scores, which works against the goal of detecting change.
 Moreover, Likert-type scales tend to focus on frequency of misbehavior and ignore intensity and severity.
