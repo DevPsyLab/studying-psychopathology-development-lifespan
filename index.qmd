@@ -191,7 +191,7 @@ MCI = mild cognitive impairment.
 (Figure in Panel B reprinted from @Borelli2018, Figure 1, p. 222. Borelli, W. V., Carmona, K. C., Studart-Neto, A., Nitrini, R., Caramelli, P., & Costa, J. C. d. (2018). Operationalized definition of older adults with high cognitive performance. *Dementia & Neuropsychologia*, *12*(3), 221–227. <https://doi.org/10.1590/1980-57642018dn12-030001>).
 **Panel B**: Theoretical illustration of inter-individual variability in cognitive aging trajectories.
 Each grey line represents one individual hypothetical cognitive health trajectory.
-The orange line marks the threshold for functional independence; once an individual's cognitive health drops below this level, autonomous daily living is compromised.
+The orange line marks the threshold for functional independence; once an individual's cognitive health drops below this level, autonomous daily living is compromized.
 (Figure in Panel B reprinted from @Abrous2026, Figure 1, p. 2. Abrous, D. N., Blin, N., Boraxbekk, C.-J., Catheline, G., Fitzsimons, C. P., Hilscher, M., Lemoine, M., Lopes, L. V., Maass, A., Nilsson, M., Nyberg, L., Rasmussen, L. J., Remondes, M., Sauvage, M., Schreiber, S., & Wolbers, T. (2026). Hallmarks of healthy cognitive aging: Inter-individual differences in aging trajectories. *Ageing Research Reviews*, *119*, 103102. <https://doi.org/10.1016/j.arr.2026.103102>)
 :::
 -->
@@ -208,7 +208,7 @@ MCI = mild cognitive impairment.
 <p style="font-size: 90%; color: gray;">
 **Panel B**: Theoretical illustration of inter-individual variability in cognitive aging trajectories.
 Each grey line represents one individual hypothetical cognitive health trajectory.
-The orange line marks the threshold for functional independence; once an individual's cognitive health drops below this level, autonomous daily living is compromised.
+The orange line marks the threshold for functional independence; once an individual's cognitive health drops below this level, autonomous daily living is compromized.
 (Figure in Panel B reprinted from @Abrous2026, Figure 1, p. 2. Abrous, D. N., Blin, N., Boraxbekk, C.-J., Catheline, G., Fitzsimons, C. P., Hilscher, M., Lemoine, M., Lopes, L. V., Maass, A., Nilsson, M., Nyberg, L., Rasmussen, L. J., Remondes, M., Sauvage, M., Schreiber, S., & Wolbers, T. (2026). Hallmarks of healthy cognitive aging: Inter-individual differences in aging trajectories. *Ageing Research Reviews*, *119*, 103102. <https://doi.org/10.1016/j.arr.2026.103102>)
 </p>
 :::
@@ -224,7 +224,7 @@ Moffitt's general hypothesis is that life-course persistent externalizing behavi
 Adolescence-limited externalizing behavior, by contrast, is thought to reflect a more normative—even adaptive—pattern of social behavior that is driven by exposure to deviant peers and a maturity gap.
 Childhood-limited externalizing behavior, though not hypothesized by the original taxonomy, may in some cases reflect recovery and in other cases reflect a shift from externalizing problems into problems in other domains [@Odgers2008].
 It has been hypothesized that both childhood-limited and life-course persistent externalizing behavior may be characterized by high levels of individual-level risk (e.g., genetic and neuropsychological risk), whereas life-course persistent externalizing behavior may be characterized by greater environmental risk [e.g., adversity and trauma\; @Fairchild2013].
-A cross-sectional study that does not capture the subgroups' different developmental histories would not be not well-positioned to adjudicate whether a particular individual is part of the adolescence-limited versus life-course persistent developmental course [@Moffitt1993].
+A cross-sectional study that does not capture the subgroups' different developmental histories would not be well-positioned to adjudicate whether a particular individual is part of the adolescence-limited versus life-course persistent developmental course [@Moffitt1993].
 
 The age-crime curve that is based on official police records has key problems [@Moffitt1993].
 First, it misses the developmental course of externalizing behavior that leads up to the commission of crime.
@@ -286,11 +286,11 @@ For example, average differences in stress between 5-year-olds and 10-year-olds 
 Fourth, findings from cross-sectional studies can differ from findings that are based on examining the same people over time—a violation of the convergence assumption.
 In cross-sectional studies, the convergence assumption is the assumption that cross-sectional age differences and longitudinal age changes converge onto a common trajectory.
 An example where the convergence assumption has been shown to be violated is in studies of cognitive decline.
-In particular, cross-sectional studies overestimate age-related cognitive declines compared to following the same people over time in a longitudinal study, which may reflect cohort effects such as the Flynn effect [where population intelligence scores at a given age tend to increase across generations\; @Ackerman2013].
+Cross-sectional studies overestimate age-related cognitive declines compared to following the same people over time in a longitudinal study, which may reflect cohort effects such as the Flynn effect [where population intelligence scores at a given age tend to increase across generations\; @Ackerman2013].
 
 Because longitudinal designs follow the same person(s) over time, such a design allows examining individuals' change across time.
 However, as we describe [later](#sec-potential-confounds-of-change), longitudinal designs also have potential confounds of change.
-Moreover, compared to cross-sectional designs, longitudinal designs take more time and tend to be more costly and to require more personnel.
+Moreover, compared to cross-sectional designs, longitudinal designs take more time and tend to be more costly and require more personnel.
 Thus, longitudinal studies that span the lifespan are not common.
 However, even cross-sectional work spanning the lifespan is not often conducted.
 
@@ -361,7 +361,7 @@ One of the key findings from the Child Development Project is that a hostile att
 Longitudinal studies such as these have had immense impacts.
 These studies have yielded many inferences that would not have been possible without longitudinal designs.
 Some long-term longitudinal studies have even followed children of those children who were initially recruited, and are thus uniquely positioned to study questions of intergenerational transmission [e.g., @Kim2009].
-However, relatively few longitudinal studies attempt to assess people's *change* in a given psychopathology construct over a long period.
+However, relatively few longitudinal studies attempt to assess people's *change* in a given psychopathology construct over a lengthy period.
 Here, we focus on studies that have examined trajectories of externalizing behavior.[^trajectoriesFootnote]
 
 [^trajectoriesFootnote]: We do not consider autoregressive/cross-lagged models because such models do not examine change in level of externalizing behavior.
@@ -406,7 +406,7 @@ A developmental perspective is crucial because psychopathology constructs often 
 Second, current assessments do not adequately capture these changes in behavioral manifestation.
 Third, traditional scoring systems do not allow charting individuals' change over time in the face of changing behavioral manifestation.
 Fourth, current assessments are not well-suited for capturing the full range of individual differences, despite the dimensional nature of psychopathology.
-Fifth, as a result of these limitations, current assessments are not well-suited for capturing individuals' change over time.
+Fifth, because of these limitations, current assessments are not well-suited for capturing individuals' change over time.
 
 Below, we describe these reasons in detail.
 To ground the discussion, we provide examples relating to externalizing psychopathology; however, these issues are not specific to externalizing.
@@ -414,7 +414,7 @@ To ground the discussion, we provide examples relating to externalizing psychopa
 ## Problems of Constructs
 
 The first reason the field has failed to adequately study individuals' development of psychopathology across the lifespan represents a theory problem—namely, problems with constructs, and the codifying of those constructs in diagnostic and taxonomic systems.
-In particular, our theories do not fully specify how constructs manifest behaviorally across the lifespan.
+Our theories do not fully specify how constructs manifest behaviorally across the lifespan.
 For instance, theories do not specify the features (e.g., cognitive, affective, or biological processes) or behaviors that characterize a given construct in each developmental period.
 In addition, theories do not specify how those features or behaviors change across development with respect to how strongly they reflect the construct—as indicated by changes in factor loadings (in factor analysis) or discrimination (in item response theory)—or how they change in their level on the construct—as indicated by changes in intercepts (factor analysis) or difficulty/severity (item response theory).
 
@@ -427,7 +427,7 @@ Second, forms of psychopathology frequently show changes in behavioral manifesta
 
 Considerable theoretical work attempts to characterize constructs across development.
 For instance, @Patterson1993 characterized externalizing ("antisocial") behavior as a chimera.
-A chimera is a mythical creature with the body of a goat that, with development, grows the head of a lion and then a tail of a snake.
+A chimera is a mythical creature with the body of a goat that, with development, grows the head of a lion and then the tail of a snake.
 @Patterson1993 and @Moffitt1993 argued that externalizing behavior changes in manifestation across development such that underlying antisociality is maintained while more mature features are added across development.
 In particular, Patterson [-@Patterson1993] noted that some externalizing behaviors wane with age, such as temper tantrums, whereas other externalizing behaviors emerge with age, including the ability to inflict serious damage or harm with violence, burglary, and shoplifting, in addition to problems such as academic failure, peer rejection, substance problems, and arrest.
 Moffitt [-@Moffitt1993, p. 679] noted that externalizing behaviors may manifest as "biting and hitting at age 4, shoplifting and truancy at age 10, selling drugs and stealing cars at age 16, robbery and rape at age 22, and fraud and child abuse at age 30", and that the prognosis for individuals who engage in externalizing behavior throughout the life-course includes "drug and alcohol addiction; unsatisfactory employment; unpaid debts; homelessness; drunk driving; violent assault; multiple and unstable relationships; spouse battery; abandoned, neglected, or abused children; and psychiatric illness".
@@ -516,7 +516,7 @@ Considerable development occurs during that span including key developmental tra
 
 There are two primary ways that researchers have examined people's change in psychopathology across development (@fig-approachesToLongitudinalAssessment).
 The "common items" approach removes items that are age specific.[^ageVsTimeFootnote]
-For example, in a study of externalizing behavior from early childhood to adolescence, a study might remove some substance use items that are not be developmentally relevant at all ages.
+For example, in a study of externalizing behavior from early childhood to adolescence, a study might remove substance use items that are not be developmentally relevant at all ages.
 The second approach, the "upward/downward extension" approach, takes items that are valid at a given age and uses those same items across all ages, even outside the ages for which the assessment was designed and when the item may not be valid or useful—i.e., all items are assessed at all ages.
 For instance, the upward extension approach might take the item "disobedient to authority figures" and apply it to older individuals for whom such a behavior may no longer validly reflect externalizing behavior—and may instead reflect prosocial functions including protesting against societally unjust actions.
 Both the "common items" [e.g., @Odgers2008; @Sterba2007] and "upward/downward extension" [e.g., @BriggsGowan2016; @Broeren2013] approaches are widely used, likely because they result in the same items assessed across ages, but both have key problems.
@@ -564,7 +564,7 @@ In addition, forcing use of the same measure across time naturally limits the ag
 For example, if a researcher used the CBCL and only wanted to study trajectories where the same measure was assessed across ages, they would not be able to examine development from ages 5–6, when there is a change in the CBCL version (i.e., one for ages 1.5–5 and another for ages 6–18).
 
 In addition to the behavioral expression of a construct changing across developmental time, the behavioral expression of a construct can also change across historical time.
-Changes in the behavioral manifestation across historical time can lead existing items and measures to become obsolete and for new items to become relevant.
+Changes in the behavioral manifestation across historical time can lead existing items and measures to become obsolete and new items to become relevant.
 For instance, many measures and longitudinal studies do not assess important contemporary manifestations of externalizing behavior, including aggression on social media and cyberbullying [@Nickerson2026].
 Changes in the behavioral manifestation across historical time provide additional reasons to change the measure by removing no-longer-valid items and by adding newer valid items.
 
@@ -592,7 +592,7 @@ To our knowledge there is no recognized analytical procedure to assess such a co
 
 However, considerable research in educational psychology links scores across age-differing measures to be on the same scale.
 For instance, standardized tests are frequently administered in schools to determine the extent of growth across grades.
-Because of large changes in ability level across grades, the same math and reading items cannot be administered at all grades.
+Because of substantial changes in ability level across grades, the same math and reading items cannot be administered at all grades.
 Otherwise, respondents would receive items that are too easy (thus evoking boredom) or too difficult (thus evoking frustration), relative to their ability.
 To address this, the test developers write the tests so that some items are in common across adjacent grades—used for linking the scores across grades onto the same scale—along with items that are unique to a particular grade.
 Then, the researchers apply widely used methods to link the scores from the different measures onto the same scale so they can observe individuals' growth across grades.
@@ -607,9 +607,9 @@ The lack of scoring tools that link scores from age-differing psychopathology as
 For instance, in their study, Bista et al. [-@Bista2025, p. 179] noted "A different version of the questionnaire (CBCL/2–3), designed for 2–3-year-olds, was used for the year 2 follow-up [compared to the CBCL/4–18 assessed from ages 5–17].
 Therefore, we excluded age 2 from our trajectory analysis."
 
-### Not Well-Suited For Capturing the Full Range of Individual Differences
+### Not Well-Suited for Capturing the Full Range of Individual Differences
 
-Many measures use coarse, subjective response scales such as Likert-type response scales (e.g., "rarely", "sometimes", "often", "very often") leading to cultural bias [@Schaeffer1991; @Schwarz1999; @Paalman2013] and insensitivity to change.
+Many measures use coarse, subjective response scales such as Likert-type response scales (e.g., "rarely," "sometimes," "often," "very often") leading to cultural bias [@Schaeffer1991; @Schwarz1999; @Paalman2013] and insensitivity to change.
 Items with few discrete response categories tend to show less sensitivity to the full range of individual differences [@Elliott1980] and less sensitivity to change [i.e., responsiveness\; @Grant1999] compared to items with more response options that have greater variability in scores.
 In general, items with more response options yield more information [i.e., greater reduction of uncertainty in estimates of a person's construct level\; though there are diminishing returns when using more than six response options\; @Culpepper2013; @Simms2019].
 Indeed, as depicted in @fig-absoluteFrequencyInformation, items assessing absolute frequency have been shown to yield more information than dichotomized versions of the same items and than the Achenbach Adult Self-Report, which uses Likert-type response options.
@@ -664,7 +664,7 @@ In sum, although they have been helpful, existing measures are poorly suited to 
 As we described above, existing assessments of externalizing behavior—and of other forms of psychopathology—have key limitations.
 To address this concern, the field will need to develop better assessments.
 In addition, there are problems with how assessments are used to examine development—studies have primarily used problematic approaches including the common items approach or the upward/downward extension approach across ages, leading to inaccurate scores and resulting trajectories and developmental inferences.
-Moreover studies have largely failed to place scores on a comparable scale across development.
+Moreover, studies have largely failed to place scores on a comparable scale across development.
 Researchers studying psychopathology development are doing their best to grapple with developmental equivalence in the ways they know how, such as by dropping items, using items outside the age range of validation, restricting the age range of analysis (or data collection) to the ages when the same measure was (or would be) used, using diagnostic categories, averaging scores, and age-norming.
 However, it is important for the field to advance its awareness of stronger approaches for placing scores on a comparable scale across development.
 To address these concerns, we propose a potential solution to account for heterotypic continuity and to allow charting individuals' change across the lifespan: a developmental scaling framework.
@@ -708,15 +708,14 @@ After the age-differing measures have been assessed, the scores from the age-dif
 To perform developmental scaling, a variety of approaches can be used, including partial measurement invariance, the alignment method, moderated nonlinear factor analysis (MNLFA), and item response theory (IRT).
 These are all approaches to harmonization—i.e., linking scores from different measures onto the same scale so they can be meaningfully compared.
 Harmonization is also used for integrative data analysis, to pool data from different measures in various studies [@Curran2008; @McDaniel2023].
-The aforementioned approaches to harmonization attempt to estimate latent variables—using either confirmatory factor analysis (CFA) or IRT—on a common scale across ages.
-<!-- DESCRIBE COMMONALITIES/SIMILARITIES AMONG THE APPROACHES -->
+The aforementioned approaches to harmonization attempt to estimate latent variables—using either confirmatory factor analysis (CFA) or IRT—on a common scale across ages.<!-- DESCRIBE COMMONALITIES/SIMILARITIES AMONG THE APPROACHES -->
 They do so by trying to align the item parameters for at least a subset of items.
-In particular, to be able to chart individuals' change over time, it is helpful to ensure that the scores are on the same number line across time—that is, they have the same scale and location across ages.
+To be able to chart individuals' change over time, it is helpful to ensure that the scores are on the same number line across time—that is, they have the same scale and location across ages.
 Scale refers to the size of a unit on the number line.
 If scores have the same scale across ages, a one-unit difference represents the same amount of the construct at each age.
 Location refers to the origin or zero point on the number line.
 If scores have the same location across ages, a score of zero corresponds to the same position on the construct across ages.
-Collectively, if scores have the same scale and location across ages, the measure is constantly calibrated across ages and the same score corresponds to the same level on the construct across ages.
+Collectively, if scores have the same scale and location across ages, the measure is constantly calibrated across ages, and the same score corresponds to the same level on the construct across ages.
 CFA and IRT each have item parameters corresponding to scale and location.
 
 In CFA, scale is informed by an item's factor loading, and location is informed by an item's intercept.
@@ -728,7 +727,7 @@ Items with lower intercepts tend to be endorsed by individuals with higher level
 For example, an item assessing the extent to which a child sets fires would be expected to have a lower intercept than an item assessing the extent to which a child argues.
 
 In IRT, scale is informed by an item's discrimination, and location is informed by an item's difficulty.
-An item's discrimination reflects how strongly the item differentiates individuals at different levels of the construct, with higher discrimination indicating a stronger association with the latent factor.
+An item's discrimination reflects how strongly the item differentiates individuals at various levels of the construct, with higher discrimination indicating a stronger association with the latent factor.
 In a two-parameter IRT model, an item's difficulty reflects the level on the latent factor where there is a 50% probability of endorsing the item.
 Items with higher difficulty require a higher level of the latent factor to have a 50% probability of endorsing the item and therefore represent more severe behaviors.
 
@@ -770,8 +769,7 @@ Using a simulation, Chen and Bauer [-@ChenMBR] found that MNLFA estimated change
 ### Item Response Theory
 
 IRT can also be used to link scores across different measures [@Kolen2014].
-The IRT approach to developmental scaling is depicted in @fig-linking.
-<!-- CONCURRENT VS SEPARATE CALIBRATION -->
+The IRT approach to developmental scaling is depicted in @fig-linking.<!-- CONCURRENT VS SEPARATE CALIBRATION -->
 The IRT approach to developmental scaling identifies scaling parameters that minimize the differences in the probability of a person endorsing the age-common items across two measures, at a given construct level.
 That is, IRT links measures' scales based on the difficulty and discrimination of the age-common items.
 In developmental scaling, scores on the construct-valid items at the reference age set the scale; the age-common items adjusts subsequent scores to that scale, and all construct-valid items (i.e., both age-common and age-unique items) at a given timepoint is used to estimate each person's score on that scale.
@@ -877,7 +875,7 @@ Although the depictions of cohort-sequential and cross-sequential designs differ
 :::
 
 Longitudinal sequential designs provide greater leverage for distinguishing age, period, and cohort influences by collecting information from multiple cohorts at multiple periods and ages.
-Nevertheless, they do not completely eliminate the confounding between age, period, and cohort [@Rohrer2025].
+Nevertheless, they do not eliminate the confounding between age, period, and cohort [@Rohrer2025].
 No research design can fully disentangle age, period, and cohort effects.
 Confidence that observed age-related differences reflect developmental change increases when there is converging evidence across multiple research designs.
 However, in a given study, there may be ways to account for period or cohort effects.
@@ -901,7 +899,7 @@ In general, the inference of change is strengthened to the extent that: (a) the 
 
 Another potential confound of change is selective (or systematic) missingness or attrition.
 If people who drop out of a longitudinal study differ in systematic ways from those who are retained, inferences about growth patterns and about associations with growth parameters can be biased.
-Consider an intervention study with two groups: a treatment group that received a medication and a control group that received a placebo.
+Consider an intervention study with two groups: a treatment group that received medication and a control group that received a placebo.
 The control group showed a 30% reduction in externalizing problems, on average.
 In the treatment group, some individuals showed a reduction in externalizing problems whereas others dropped out of the study due to side effects or worsening behavior.
 If we analyzed only those who were followed until the end of the study, it might appear that the treatment was effective merely because we were excluding individuals for whom the treatment was harmful.
@@ -916,7 +914,7 @@ Another potential confound of change is if the same score has different meaning 
 That is, the scores are not on the same number line across time—they do not have the same scale or location across ages.
 If scores do not have the same scale or location across ages, any inferences about change (or lack thereof) could be incorrect.
 Consider, for example, if a behavior such as physical aggression becomes more severe (i.e., higher difficulty) with age.
-In this example, the same score—i.e., endorsement of physical aggression—would reflect a higher level externalizing behavior in adulthood compared to early childhood.
+In this example, the same score—i.e., endorsement of physical aggression—would reflect a higher level of externalizing behavior in adulthood compared to early childhood.
 Or, consider if a behavior such as disobedience becomes less construct-valid (i.e., lower discrimination) with age.
 In this example, the same score difference—i.e., between endorsement (1) versus non-endorsement (0) of disobedience to authority—would reflect a greater difference in the level of externalizing behavior in early childhood compared to adulthood.
 Thus, it is important to consider and account for changes in the meaning of scores across development.
@@ -927,7 +925,7 @@ Next, we describe longitudinal factorial invariance as a way to evaluate—and a
 
 Traditionally, it had been considered necessary to establish factorial invariance[^invarianceFootnote] of the measure(s) across time—that is, the measure(s) assess the construct in the same way across time—to study individuals' change in those constructs [@Widaman2010].
 As described earlier, a goal of longitudinal factorial invariance is to increase confidence that the latent factor at multiple timepoints is on the same scale so that meaningful changes in people's level can be observed. 
-In particular, it had been considered necessary to establish at least strong factorial invariance—i.e., invariance of intercepts and factor loadings in factor analysis, or invariance of difficulty and discrimination in item response theory.
+It had been considered necessary to establish at least strong factorial invariance—i.e., invariance of intercepts and factor loadings in factor analysis, or invariance of difficulty and discrimination in item response theory.
 Otherwise, a researcher may wrongly conclude that levels in the construct change over time when the apparent changes in the observed scores (and the latent variables) are driven by noninvariant loadings and/or intercepts for one or more items [@Lai2023].
 However, it is now understood that violations of longitudinal factorial invariance do not mean that questions of change cannot be answered [@Lai2023].
 Strong factorial invariance frequently does not hold, so in such situations, it may be necessary to find ways to accommodate or adjust for noninvariance [@Lai2023].
@@ -966,12 +964,12 @@ In this context, we prefer the term "factorial invariance" because, as described
 
 The most accurate informant(s) for a person can change with development, so it may be necessary to include different informants across time.
 There is widespread agreement that including multiple sources of data—e.g.. multiple informants or multiple measurement methods—is preferable.
-However, there is less agreement about how to use the multiple sources of data [@Bauer2013], particularly because informants often show low correspondence with one another when rating the same person.
+However, there is less agreement about how to use multiple sources of data [@Bauer2013], particularly because informants often show low correspondence with one another when rating the same person.
 Some of these discrepancies may be confounded by the person behaving differently in different contexts or with different people.
 The inclusion of multiple measurement methods can help account for measurement error given the considerable variance that is attributable to method bias [@Podsakoff2012].
 The inclusion of multiple informants can be relevant for informing about the pervasiveness of a person's behavior across contexts (e.g., home, school).
 
-As a result of including multiple or different informants across development, it is important to consider how to leverage the multi-informant ratings.
+When including multiple or different informants across development, it is important to consider how to leverage the multi-informant ratings.
 Some researchers advocate for integrating scores using principal component approaches [while disentangling variance attributable to trait, perspective, and context\; @Kraemer2003] or latent variable approaches [e.g., @Bauer2013], and others advocate for keeping different informants' ratings separate without integrating them [but including them in the same model\; @Aitken2023].
 As an example of a latent variable modeling approach, @Bauer2013 demonstrates a trifactor model that attempts to disentangle construct variance from the method effects tied to the specific item and the informant.
 @DeLosReyes2013 provide the Operations Triad Model as a framework for using and interpreting reports from multiple informants [for more information, see @Makol2025].
@@ -983,9 +981,9 @@ Another challenge is that questionnaire items—whether the particular wording o
 For instance, due to technological changes, items focused on television use—without considering other forms of screen use—may miss important contemporary screen-related use.
 Additionally, ways people use substances change over historical time.
 For instance, vaping is a more contemporary way that many adolescents use nicotine.
-The ways in which aggressive behavior manifests also changes across historical time.
+The ways in which aggressive behavior manifests also change across historical time.
 Items focused on physical aggression would miss important contemporary manifestations of aggression, including cyberaggression, cyberbullying, online harassment, and aggression on social media (e.g., exclusion).
-In sum, it is important to keep items relevant for current use, and that naturally means changing item content and/or wording across historical time, a further reason why linking of scores (given differing item content) is crucial.
+In sum, it is important to keep items relevant for current use, and that naturally means changing item content and/or wording across historical time, a further reason linking of scores (given differing item content) is crucial.
 
 # Conclusion
 
