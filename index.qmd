@@ -124,7 +124,7 @@ mask: false
 no-ampersand-parenthetical: false
 meta-analysis: false
 nocite: |
-  @Borelli2018, @Abrous2026, @Sivertsson2024
+  @Borelli2018, @Abrous2026, @Sivertsson2024, @Steffensmeier2025
 lang: en-US
 blank-lines-above-title: 2
 blank-lines-above-author-note: 2
