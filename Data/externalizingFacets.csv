@@ -5,13 +5,13 @@ blameExternalization,Blame externalization,"Attribute cause of problems or failu
 boredomProneness,Boredom proneness,"Expressing boredom often, difficulty maintaining interest, lack of engagement",Curiosity/Sustained engagement
 callousAggression,Callous aggression,"Inflicting harm without feeling remorse or concern, usually proactive/intentional",Compassionate protection/Benevolence
 callousness,Callousness/Disregard for others/Low concern/Low empathy/Selfishness/Egocentricity,"Emotional detachment, indifference to well-being of others",Empathy/Compassion/Concern for others/Helping others/Sharing
-deceitfulness,Deceitfulness/Fraud/Lying/Cheating/Dishonesty/Sneakiness/Exploitation,"Keeping the truth hidden, especially to get an advantage (e.g., lying, witholding information, manipulation, making false promises)",Honesty/Integrity/Fairness
-deviantPeers,Deviant peers,Affiliating with peer who engage in deviant or delinquent behaviors,Prosocial peer affiliations
+deceitfulness,Deceitfulness/Fraud/Lying/Cheating/Dishonesty/Sneakiness/Exploitation,"Keeping the truth hidden, especially to get an advantage (e.g., lying, withholding information, manipulation, making false promises)",Honesty/Integrity/Fairness
+deviantPeers,Deviant peers,Affiliating with peers who engage in deviant or delinquent behaviors,Prosocial peer affiliations
 destructiveAggression,Destructive aggression/Destruction of property,"Destruction of property, self, or others, objects",Constructiveness/Care for property
-distractibility,Distractibility/Inattention/Attention dysregulation/Forgetfulness/Daydreaming,"Difficulty maintaining focus, attention, or concentration , frequenct attention shifts",Attentional control/Sustained attention
+distractibility,Distractibility/Inattention/Attention dysregulation/Forgetfulness/Daydreaming,"Difficulty maintaining focus, attention, or concentration, frequent attention shifts",Attentional control/Sustained attention
 domineering,Domineering/Bossiness,"Asserting control, power, and authority in an overbearing or oppressive manner",Collaborativeness
-excitementSeeking,Excitement seeking/Risk taking/Sensation seeking,"Tendency to pursue new and different sensations, especially intense, exhilerating, thrilling, etc. (e.g., risk taking, preference for novelty, intensity)",Prudent exploration/Measured novelty seeking
-grandiosity,Grandiosity/Overconfidence,"Exhaggerated sense of self-importance, sense of superiority or specialness",Realistic self-confidence
+excitementSeeking,Excitement seeking/Risk taking/Sensation seeking,"Tendency to pursue new and different sensations, especially intense, exhilarating, thrilling, etc. (e.g., risk taking, preference for novelty, intensity)",Prudent exploration/Measured novelty seeking
+grandiosity,Grandiosity/Overconfidence,"Exaggerated sense of self-importance, sense of superiority or specialness",Realistic self-confidence
 hostility,Hostility/Rudeness,"Hostile behavior, unfriendliness, resentment, antagonism, ranging from mild irritation to intense rage, interpret others' behavior as hostile",Warmth/Friendliness/Kindness
 hyperactivity,Hyperactivity,"High levels of physical activity, restlessness, difficulty engaging in quiet activities",Behavioral regulation/Calm engagement
 impulsivity,Impulsivity/Disinhibition/Impatient urgency/(Low) Planful control,"Tendency to act without thinking, disinhibited engagement",Planful control
@@ -25,7 +25,7 @@ oppositionality,Oppositionality/Stubbornness,"Persistent and defiant attitude, t
 physicalAggression,Physical aggression,Use of physical force or violence to harm others or their property,Respect for others' bodies/Helping others
 punishmentInsensitivity,Punishment insensitivity,"Doesn't change behavior after punishment, high tolerance for negative outcomes",Responsive to consequences
 rebelliousness,Rebelliousness/Rule-breaking/Noncompliance,"Doing things differently than one is asked to do (e.g., breaking house rules)",Compliance/Civic responsibility
-relationalAggression,Relational aggression,"Aggression intended to harm others through deliberate manipulation of their social standing and relationships (e.g., exclusion, speaking negatively of another, etc)",Inclusion
+relationalAggression,Relational aggression,"Aggression intended to harm others through deliberate manipulation of their social standing and relationships (e.g., exclusion, speaking negatively of another, etc.)",Inclusion
 sexualAggression,Sexual aggression,"Engaging in sexual activity with someone who does not or cannot consent to that behavior, or threatening to do so (e.g., harassment)",Respect for consent
 sexualRisk,Impulsive sexual behavior/Risky sexual behavior,"Engaging in risky sexual activity (e.g., sex without contraceptives)",Responsible sexual decision-making
 substanceUse,(Harmful) Substance Use/Problems,"Harmful use of any drugs (e.g., alcohol, tobacco, illegal drugs)",Healthy choices around substance use
