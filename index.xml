@@ -1118,14 +1118,14 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <xref alt="Grant et al. 1999" rid="ref-Grant1999" ref-type="bibr">Grant
       et al. 1999</xref>) compared to items with more response options
       that have greater variability in scores. In general, items with
-      more response options yield more information [i.e., greater
+      more response options yield more information (i.e., greater
       reduction of uncertainty in estimates of a person’s construct
       level; though there are diminishing returns when using more than
-      six response options; Culpepper
-      (<xref alt="2013" rid="ref-Culpepper2013" ref-type="bibr">2013</xref>);
-      Simms et al.
-      (<xref alt="2019" rid="ref-Simms2019" ref-type="bibr">2019</xref>)].
-      Indeed, as depicted in
+      six response options;
+      <xref alt="Culpepper 2013" rid="ref-Culpepper2013" ref-type="bibr">Culpepper
+      2013</xref>;
+      <xref alt="Simms et al. 2019" rid="ref-Simms2019" ref-type="bibr">Simms
+      et al. 2019</xref>). Indeed, as depicted in
       <xref alt="Figure 7" rid="fig-absoluteFrequencyInformation">Figure 7</xref>,
       items assessing absolute frequency have been shown to yield more
       information than dichotomized versions of the same items and than
@@ -1490,7 +1490,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
                 <td align="left">Sexual aggression</td>
                 <td align="left">Engaging in sexual activity with
                 someone who does not or cannot consent to that behavior,
-                or threatening to do so (e.g., harrassment)</td>
+                or threatening to do so (e.g., harassment)</td>
                 <td align="left">Respect for consent</td>
               </tr>
               <tr>
@@ -2395,6 +2395,36 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <lpage>132</lpage>
     </element-citation>
   </ref>
+  <ref id="ref-Abrous2026">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Abrous</surname><given-names>Djoher Nora</given-names></name>
+        <name><surname>Blin</surname><given-names>Nicolas</given-names></name>
+        <name><surname>Boraxbekk</surname><given-names>Carl-Johan</given-names></name>
+        <name><surname>Catheline</surname><given-names>Gwenaelle</given-names></name>
+        <name><surname>Fitzsimons</surname><given-names>Carlos P.</given-names></name>
+        <name><surname>Hilscher</surname><given-names>Markus</given-names></name>
+        <name><surname>Lemoine</surname><given-names>Maël</given-names></name>
+        <name><surname>Lopes</surname><given-names>Luísa V.</given-names></name>
+        <name><surname>Maass</surname><given-names>Anne</given-names></name>
+        <name><surname>Nilsson</surname><given-names>Mats</given-names></name>
+        <name><surname>Nyberg</surname><given-names>Lars</given-names></name>
+        <name><surname>Rasmussen</surname><given-names>Lene Juel</given-names></name>
+        <name><surname>Remondes</surname><given-names>Miguel</given-names></name>
+        <name><surname>Sauvage</surname><given-names>Magdalena</given-names></name>
+        <name><surname>Schreiber</surname><given-names>Stefanie</given-names></name>
+        <name><surname>Wolbers</surname><given-names>Thomas</given-names></name>
+      </person-group>
+      <article-title>Hallmarks of healthy cognitive aging: Inter-individual differences in aging trajectories</article-title>
+      <source>Ageing Research Reviews</source>
+      <year iso-8601-date="2026">2026</year>
+      <volume>119</volume>
+      <uri>https://www.sciencedirect.com/science/article/pii/S1568163726000942</uri>
+      <pub-id pub-id-type="doi">10.1016/j.arr.2026.103102</pub-id>
+      <fpage>103102</fpage>
+      <lpage></lpage>
+    </element-citation>
+  </ref>
   <ref id="ref-Godoy2021">
     <element-citation publication-type="article-journal">
       <person-group person-group-type="author">
@@ -2646,6 +2676,26 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1037/0022-006X.70.1.6</pub-id>
       <fpage>6</fpage>
       <lpage>20</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Borelli2018">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Borelli</surname><given-names>Wyllians Vendramini</given-names></name>
+        <name><surname>Carmona</surname><given-names>Karoline Carvalho</given-names></name>
+        <name><surname>Studart-Neto</surname><given-names>Adalberto</given-names></name>
+        <name><surname>Nitrini</surname><given-names>Ricardo</given-names></name>
+        <name><surname>Caramelli</surname><given-names>Paulo</given-names></name>
+        <name><surname>Costa</surname><given-names>Jaderson Costa da</given-names></name>
+      </person-group>
+      <article-title>Operationalized definition of older adults with high cognitive performance</article-title>
+      <source>Dementia &amp; Neuropsychologia</source>
+      <year iso-8601-date="2018">2018</year>
+      <volume>12</volume>
+      <issue>3</issue>
+      <pub-id pub-id-type="doi">10.1590/1980-57642018dn12-030001</pub-id>
+      <fpage>221</fpage>
+      <lpage>227</lpage>
     </element-citation>
   </ref>
   <ref id="ref-Odgers2008">
