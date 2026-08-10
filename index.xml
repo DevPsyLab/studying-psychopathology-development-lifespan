@@ -288,9 +288,9 @@ academic and cognitive skills across lengthy developmental periods.</p>
   (<xref alt="Moffitt 1993" rid="ref-Moffitt1993" ref-type="bibr">Moffitt
   1993</xref>). First, it misses the developmental course of
   externalizing behavior that leads up to the commission of crime.
-  Second, it is based on only those (criminal) behaviors that are known
-  to official arrest records and does not capture other behaviors the
-  person engaged in that are known to the individual or collateral
+  Second, it is based on only those (criminalized) behaviors that are
+  known to official arrest records and does not capture other behaviors
+  the person engaged in that are known to the individual or collateral
   report by caregivers, teachers, siblings, or peers. Longitudinal work
   examining informant report of children’s behavior allows estimating
   the prototypical trajectory of externalizing problems at ages younger
@@ -466,8 +466,8 @@ academic and cognitive skills across lengthy developmental periods.</p>
     </sec>
     <sec id="harvard-study-of-adult-development">
       <title>Harvard Study of Adult Development</title>
-      <p>The Harvard Study of Adult Development, which consists of the
-      Grant Study
+      <p>The Harvard Study of Adult Development consists of the Grant
+      Study
       (<xref alt="Vaillant 2012" rid="ref-Vaillant2012" ref-type="bibr">Vaillant
       2012</xref>) and the Glueck Study
       (<xref alt="Glueck and Glueck 1950" rid="ref-Glueck1950" ref-type="bibr">Glueck
@@ -552,7 +552,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
     et al. 2020</xref>), from ages 1.5–14.5 with 6 measurement occasions
     (<xref alt="Kjeldsen et al. 2016" rid="ref-Kjeldsen2016" ref-type="bibr">Kjeldsen
     et al. 2016</xref>), from ages 4–16 with 7 measurement occasions
-    (Avon Longitudinal Study of Parents and Children (ALSPAC);
+    (Avon Longitudinal Study of Parents and Children [ALSPAC];
     <xref alt="Speyer et al. 2022" rid="ref-Speyer2022" ref-type="bibr">Speyer
     et al. 2022</xref>), from ages 12–23 with 3 measurement occasions
     (<xref alt="Stringer et al. 2020" rid="ref-Stringer2020" ref-type="bibr">Stringer
@@ -575,19 +575,18 @@ academic and cognitive skills across lengthy developmental periods.</p>
     <xref alt="Keijsers et al. 2012" rid="ref-Keijsers2012" ref-type="bibr">Keijsers
     et al. 2012</xref>). Demonstrating an analytic method (moderated
     nonlinear factor analysis) to link scores across measures onto the
-    same scale, Chen and Bauer
-    (<xref alt="in press b" rid="ref-ChenPM" ref-type="bibr">in press
-    b</xref>) examined trajectories of delinquency from ages 12–26 with
-    3 measurement occasions in the National Longitudinal Study of
-    Adolescent to Adult Health (Add Health), and Chen and Bauer
-    (<xref alt="in press a" rid="ref-ChenMBR" ref-type="bibr">in press
-    a</xref>) examined trajectories of externalizing behavior from ages
-    5–12 with 3 measurement occasions in the National Longitudinal
-    Survey of Youth 1979 Child and Young Adult (NLSCYA). In addition,
-    studies have examined trajectories of emotional and behavioral
-    dysregulation (encompassing externalizing problems and emotional
-    symptoms) from ages 3–17 with 6 measurement occasions (UK Millennium
-    Cohort Study;
+    same scale, Chen and Bauer [] examined trajectories of delinquency
+    from ages 12–26 with 3 measurement occasions in the National
+    Longitudinal Study of Adolescent to Adult Health (Add Health;
+    <xref alt="in press b" rid="ref-ChenPM" ref-type="bibr">in press
+    b</xref>), and examined trajectories of externalizing behavior from
+    ages 5–12 with 3 measurement occasions in the National Longitudinal
+    Survey of Youth 1979 Child and Young Adult (NLSCYA;
+    <xref alt="in press a" rid="ref-ChenMBR" ref-type="bibr">in press
+    a</xref>). In addition, studies have examined trajectories of
+    emotional and behavioral dysregulation (encompassing externalizing
+    problems and emotional symptoms) from ages 3–17 with 6 measurement
+    occasions (UK Millennium Cohort Study;
     <xref alt="Zhai et al. 2026" rid="ref-Zhai2026" ref-type="bibr">Zhai
     et al. 2026</xref>). Studies have also leveraged registry data to
     examine trajectories of offending from ages 8–61
@@ -1703,8 +1702,9 @@ academic and cognitive skills across lengthy developmental periods.</p>
       2023</xref>), there are many timepoints, there is considerable
       variability in the numbers of responses provided to items such as
       might occur due to missing data or when not all items are assessed
-      at all timepoints, or the researcher wants to consider DIF as a
-      function of multiple variables or continuous variables
+      at all timepoints, or the researcher wants to consider factorial
+      invariance or differential item functioning (DIF) as a function of
+      multiple variables or continuous variables
       (<xref alt="Chen and Bauer in press b" rid="ref-ChenPM" ref-type="bibr">Chen
       and Bauer in press b</xref>).</p>
     </sec>
@@ -1783,7 +1783,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
       reference age set the scale; the age-common items adjusts
       subsequent scores to that scale, and all construct-valid items
       (i.e., both age-common and age-unique items) at a given timepoint
-      is used to estimate each person’s score on that scale. Thus, the
+      are used to estimate each person’s score on that scale. Thus, the
       age-common items are used to determine the general form of change
       on an identical scale, but all developmentally relevant,
       construct-valid items are used to estimate each person’s construct
@@ -1986,13 +1986,13 @@ academic and cognitive skills across lengthy developmental periods.</p>
       occasion-specific random error.</p>
       <p>In general, the inference of change is strengthened to the
       extent that: (a) the magnitude of the difference between the
-      scores at the time points is large (i.e., a large effect size),
-      (b) the measurement error (unreliability) at each time point is
-      small, (c) the measure has the same meaning and is on a comparable
-      scale at each time point, and (d) evidence suggests that the
-      differences across time are not likely to be due to potential
-      confounds of change such as practice effects, cohort effects,
-      period effects, or selective attrition.</p>
+      scores at the timepoints is large (i.e., a large effect size), (b)
+      the measurement error (unreliability) at each timepoint is small,
+      (c) the measure has the same meaning and is on a comparable scale
+      at each timepoint, and (d) evidence suggests that the differences
+      across time are not likely to be due to potential confounds of
+      change such as practice effects, cohort effects, period effects,
+      or selective attrition.</p>
     </sec>
     <sec id="selective-missingness-and-attrition">
       <title>Selective Missingness and Attrition</title>
@@ -4273,7 +4273,6 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <source>Annual Review of Clinical Psychology</source>
       <year iso-8601-date="2026">2026</year>
       <volume>22</volume>
-      <issue>Volume 22, 2026</issue>
       <uri>https://www.annualreviews.org/content/journals/10.1146/annurev-clinpsy-061324-073435</uri>
       <pub-id pub-id-type="doi">10.1146/annurev-clinpsy-061324-073435</pub-id>
       <fpage>559</fpage>
@@ -4588,7 +4587,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
         <name><surname>Algesheimer</surname><given-names>René</given-names></name>
         <name><surname>Schwartz</surname><given-names>Shalom H.</given-names></name>
       </person-group>
-      <article-title>Comparing results of an exact vs. An approximate (bayesian) measurement invariance test: A cross-country illustration with a scale to measure 19 human values</article-title>
+      <article-title>Comparing results of an exact vs. an approximate (Bayesian) measurement invariance test: A cross-country illustration with a scale to measure 19 human values</article-title>
       <source>Frontiers in Psychology</source>
       <year iso-8601-date="2014">2014</year>
       <volume>5</volume>
@@ -5432,7 +5431,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
     particular age. For instance, in the diagnosis of ADHD, several
     symptoms must be present prior to age 12. In the diagnosis of CD,
     the symptoms “often stays out at night despite parental
-    prohibitions” and “if often truant from school” must begin before
+    prohibitions” and “is often truant from school” must begin before
     age 13 (p. 531). In the diagnosis of ASPD, symptoms must be
     persistent since age 15 but have onset prior to age 15.</p>
   </fn>
