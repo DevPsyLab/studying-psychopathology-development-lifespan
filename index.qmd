@@ -74,7 +74,8 @@ author-note:
     #study-registration: "The study hypotheses, methods, and analysis plan were
     #  preregistered: [LINK]."
     data-sharing: "The data and code for the present study are published online:
-      <https://github.com/DevPsyLab/studying-psychopathology-development-lifespan>."
+      <https://github.com/DevPsyLab/studying-psychopathology-development-lifespan>
+      (<https://osf.io/t3zf9>)."
     related-report: ~
     conflict-of-interest: "We have no conflicts of interest to disclose."
     financial-support: "I.P. was funded by Grant HD098235 from the Eunice 
@@ -188,9 +189,9 @@ Theoretical depictions of the heterogeneity of cognitive decline are depicted in
 
 **Panel A**: Hypothetical models for different cognitive trajectories of aging.
 MCI = mild cognitive impairment.
-(Figure in Panel B reprinted from @Borelli2018, Figure 1, p. 222. Borelli, W. V., Carmona, K. C., Studart-Neto, A., Nitrini, R., Caramelli, P., & Costa, J. C. d. (2018). Operationalized definition of older adults with high cognitive performance. *Dementia & Neuropsychologia*, *12*(3), 221–227. <https://doi.org/10.1590/1980-57642018dn12-030001>).
+(Figure in Panel A reprinted from @Borelli2018, Figure 1, p. 222. Borelli, W. V., Carmona, K. C., Studart-Neto, A., Nitrini, R., Caramelli, P., & Costa, J. C. d. (2018). Operationalized definition of older adults with high cognitive performance. *Dementia & Neuropsychologia*, *12*(3), 221–227. <https://doi.org/10.1590/1980-57642018dn12-030001>).
 **Panel B**: Theoretical illustration of inter-individual variability in cognitive aging trajectories.
-Each grey line represents one individual hypothetical cognitive health trajectory.
+Each gray line represents one individual hypothetical cognitive health trajectory.
 The orange line marks the threshold for functional independence; once an individual's cognitive health drops below this level, autonomous daily living is compromised.
 (Figure in Panel B reprinted from @Abrous2026, Figure 1, p. 2. Abrous, D. N., Blin, N., Boraxbekk, C.-J., Catheline, G., Fitzsimons, C. P., Hilscher, M., Lemoine, M., Lopes, L. V., Maass, A., Nilsson, M., Nyberg, L., Rasmussen, L. J., Remondes, M., Sauvage, M., Schreiber, S., & Wolbers, T. (2026). Hallmarks of healthy cognitive aging: Inter-individual differences in aging trajectories. *Ageing Research Reviews*, *119*, 103102. <https://doi.org/10.1016/j.arr.2026.103102>)
 :::
@@ -202,12 +203,12 @@ The orange line marks the threshold for functional independence; once an individ
 <p style="font-size: 90%; color: gray;">
 **Panel A**: Hypothetical models for different cognitive trajectories of aging.
 MCI = mild cognitive impairment.
-(Figure in Panel B reprinted from @Borelli2018, Figure 1, p. 222. Borelli, W. V., Carmona, K. C., Studart-Neto, A., Nitrini, R., Caramelli, P., & Costa, J. C. d. (2018). Operationalized definition of older adults with high cognitive performance. *Dementia & Neuropsychologia*, *12*(3), 221–227. <https://doi.org/10.1590/1980-57642018dn12-030001>).
+(Figure in Panel A reprinted from @Borelli2018, Figure 1, p. 222. Borelli, W. V., Carmona, K. C., Studart-Neto, A., Nitrini, R., Caramelli, P., & Costa, J. C. d. (2018). Operationalized definition of older adults with high cognitive performance. *Dementia & Neuropsychologia*, *12*(3), 221–227. <https://doi.org/10.1590/1980-57642018dn12-030001>).
 </p>
 
 <p style="font-size: 90%; color: gray;">
 **Panel B**: Theoretical illustration of inter-individual variability in cognitive aging trajectories.
-Each grey line represents one individual hypothetical cognitive health trajectory.
+Each gray line represents one individual hypothetical cognitive health trajectory.
 The orange line marks the threshold for functional independence; once an individual's cognitive health drops below this level, autonomous daily living is compromised.
 (Figure in Panel B reprinted from @Abrous2026, Figure 1, p. 2. Abrous, D. N., Blin, N., Boraxbekk, C.-J., Catheline, G., Fitzsimons, C. P., Hilscher, M., Lemoine, M., Lopes, L. V., Maass, A., Nilsson, M., Nyberg, L., Rasmussen, L. J., Remondes, M., Sauvage, M., Schreiber, S., & Wolbers, T. (2026). Hallmarks of healthy cognitive aging: Inter-individual differences in aging trajectories. *Ageing Research Reviews*, *119*, 103102. <https://doi.org/10.1016/j.arr.2026.103102>)
 </p>
@@ -228,7 +229,7 @@ A cross-sectional study that does not capture the subgroups' different developme
 
 The age-crime curve that is based on official police records has key problems [@Moffitt1993].
 First, it misses the developmental course of externalizing behavior that leads up to the commission of crime.
-Second, it is based on only those (criminal) behaviors that are known to official arrest records and does not capture other behaviors the person engaged in that are known to the individual or collateral report by caregivers, teachers, siblings, or peers.
+Second, it is based on only those (criminalized) behaviors that are known to official arrest records and does not capture other behaviors the person engaged in that are known to the individual or collateral report by caregivers, teachers, siblings, or peers.
 Longitudinal work examining informant report of children's behavior allows estimating the prototypical trajectory of externalizing problems at ages younger than those encompassed by the age-crime curve, thus providing important developmental context to the origins of externalizing behavior.
 For instance, in a longitudinal study examining the development of externalizing behavior from childhood to adulthood that incorporated ratings of the child's externalizing behavior from mothers, fathers, teachers, peers, and self-report (at relevant ages), @Petersen2015 found that externalizing problems normatively tended to decrease from early childhood to preadolescence, increased during adolescence (peaking around age 17), and decreased from late adolescence to adulthood.
 
@@ -265,7 +266,7 @@ And these individual differences are crucial to identify the risk and protective
 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
-**Panel A**: The age-crime participation curve from age 9 through 64 in cohort members who were registered for antisocial and/or criminal behavior in a birth cohort recruited in Stockholm, Sweden (*N* = 4825), based on official records.
+**Panel A**: The age-crime participation curve from age 9 through 64 in cohort members who were registered for antisocial and/or criminal behavior in a birth cohort recruited in Stockholm, Sweden (*N* = 4,825), based on official records.
 The steep peak in crime rate in the adolescent years is similar to the age-crime curve in the United States; however, the steepness of the age-crime curve differs within country across birth cohorts [@Steffensmeier2025].
 (Figure adapted from @Sivertsson2024, Figure 1, p. 7. Sivertsson, F., Carlsson, C., Almquist, Y. B., & Brännström, L. (2024). Offending trajectories from childhood to retirement age: Findings from the Stockholm birth cohort study. *Journal of Criminal Justice*, *91*, 102155. <https://doi.org/10.1016/j.jcrimjus.2024.102155>).
 </p>
@@ -310,7 +311,6 @@ A depiction of the ages spanned by various longitudinal studies is in @fig-longi
 *Note*.
 The list of longitudinal studies is as of this writing and is not exhaustive.
 Studies that are no longer active are shown in gray.
-Studies that used developmental scaling to harmonize scores across ages (i.e., to link scores across ages onto the same scale) are in green.
 Solid lines reflect fully longitudinal spans (i.e., the same individuals were followed over time).
 Dotted lines reflect ages assessed cross-sectionally—even if some participants may have been followed longitudinally.
 For instance, if a study recruited 5–10-year-old children and followed each child for 20 years, the study would have dotted lines from ages 5–10 and from ages 25–30.
@@ -343,7 +343,7 @@ The study has yielded important insights including that children's self-control 
 
 ### Harvard Study of Adult Development
 
-The Harvard Study of Adult Development, which consists of the Grant Study [@Vaillant2012] and the Glueck Study [@Glueck1950].
+The Harvard Study of Adult Development consists of the Grant Study [@Vaillant2012] and the Glueck Study [@Glueck1950].
 The Grant Study started in 1938 and recruited 268 White men from the Harvard classes of 1939–1944 at ages 18–19, and has followed them into their mid-90s.
 The Glueck Study started in 1940 and recruited 456 11–16-year-old boys who were living in poor, high-crime inner-city neighborhoods in Boston, Massachusetts, and has followed them into their 80s.
 One of the key findings from the Harvard Study of Adult Development, summarized in a Harvard Gazette article [@Mineo2017], is the importance of close relationships for healthy aging:
@@ -372,11 +372,11 @@ In the Dunedin Multidisciplinary Health and Development Study, @Odgers2008 exami
 In the Mannheim Study of Children at Risk, @SacuInPress examined trajectories of externalizing behavior from ages 8–33 with 8 measurement occasions.
 A study using six longitudinal datasets examined trajectories of disruptive behaviors and delinquency, with the longest trajectory spanning ages 6–15 with 7 measurement occasions [@Broidy2003].
 In addition, a study examined trajectories of externalizing problems from ages 4–17 with 3 measurement occasions in predicting externalizing problems at age 27 [@Korhonen2018].
-Other studies have examined trajectories of externalizing problems from ages 5–17 with 5 measurement occasions [@Bista2025], from ages 6–18 with 11 measurement occasions [@Shi2020], from ages 1.5–14.5 with 6 measurement occasions [@Kjeldsen2016], from ages 4–16 with 7 measurement occasions [Avon Longitudinal Study of Parents and Children (ALSPAC)\; @Speyer2022], from ages 12–23 with 3 measurement occasions [@Stringer2020], from ages 2–15 with 11 measurement occasions [NICHD Study of Early Child Care and Youth Development [SECCYD]\; @Harris2025], and from ages 3–17 with 10 measurement occasions [@Gornik2023].
+Other studies have examined trajectories of externalizing problems from ages 5–17 with 5 measurement occasions [@Bista2025], from ages 6–18 with 11 measurement occasions [@Shi2020], from ages 1.5–14.5 with 6 measurement occasions [@Kjeldsen2016], from ages 4–16 with 7 measurement occasions [Avon Longitudinal Study of Parents and Children [ALSPAC]\; @Speyer2022], from ages 12–23 with 3 measurement occasions [@Stringer2020], from ages 2–15 with 11 measurement occasions [NICHD Study of Early Child Care and Youth Development [SECCYD]\; @Harris2025], and from ages 3–17 with 10 measurement occasions [@Gornik2023].
 @Bongers2004 examined trajectories of various externalizing problems from ages 4–18 spanning 13 different birth cohorts with up to 5 measurement occasions per cohort, such that any individual was followed for up to 8 years [@Bongers2004].
 
 Studies have also examined trajectories of delinquency from ages 7–19 with 13 measurement occasions [Pittsburgh Youth Study\; @Keijsers2012].
-Demonstrating an analytic method (moderated nonlinear factor analysis) to link scores across measures onto the same scale, Chen and Bauer [-@ChenPM] examined trajectories of delinquency from ages 12–26 with 3 measurement occasions in the National Longitudinal Study of Adolescent to Adult Health (Add Health), and Chen and Bauer [-@ChenMBR] examined trajectories of externalizing behavior from ages 5–12 with 3 measurement occasions in the National Longitudinal Survey of Youth 1979 Child and Young Adult (NLSCYA).
+Demonstrating an analytic method (moderated nonlinear factor analysis) to link scores across measures onto the same scale, Chen and Bauer [] examined trajectories of delinquency from ages 12–26 with 3 measurement occasions in the National Longitudinal Study of Adolescent to Adult Health [Add Health\; -@ChenPM], and examined trajectories of externalizing behavior from ages 5–12 with 3 measurement occasions in the National Longitudinal Survey of Youth 1979 Child and Young Adult [NLSCYA\; -@ChenMBR].
 In addition, studies have examined trajectories of emotional and behavioral dysregulation (encompassing externalizing problems and emotional symptoms) from ages 3–17 with 6 measurement occasions [UK Millennium Cohort Study\; @Zhai2026].
 Studies have also leveraged registry data to examine trajectories of offending from ages 8–61 [@LeBlanc2021], from ages 10–61 [Cambridge Study in Delinquent Development\; @Farrington2023], and from ages 9–64 [Stockholm Metropolitan Study\; @Sivertsson2024].
 
@@ -385,7 +385,9 @@ Studies have also leveraged registry data to examine trajectories of offending f
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 *Note*.
-The list of longitudinal studies is not exhaustive. Studies that are based on registry data are shown in gray.
+The list of longitudinal studies is not exhaustive.
+Studies that are based on registry data are shown in gray.
+Studies that used developmental scaling to harmonize scores across ages (i.e., to link scores across ages onto the same scale) are in green.
 Measurement occasions are depicted with solid circles.
 Note that, in some studies, measurement occasions only apply to a subset of participants in that study—in some cases, no participant was assessed at all measurement occasions.
 Solid lines reflect fully longitudinal spans (i.e., the same individuals were followed over time).
@@ -495,7 +497,7 @@ For instance, in the diagnosis of ADHD, it is noted that "the symptoms have pers
 In the diagnosis of ODD, it is noted that "other factors [besides a minimum frequency] should also be considered, such as whether the frequency and intensity of the behaviors are outside a range that is normative for the individual's developmental level, gender, and culture." (p. 522).
 In addition, some disorders require that some symptoms onset before or after a particular age.
 For instance, in the diagnosis of ADHD, several symptoms must be present prior to age 12.
-In the diagnosis of CD, the symptoms "often stays out at night despite parental prohibitions" and "if often truant from school" must begin before age 13 (p. 531).
+In the diagnosis of CD, the symptoms "often stays out at night despite parental prohibitions" and "is often truant from school" must begin before age 13 (p. 531).
 In the diagnosis of ASPD, symptoms must be persistent since age 15 but have onset prior to age 15.
 
 ## Problems of Existing Assessments and Traditional Scoring Systems
@@ -743,7 +745,7 @@ Then, the researcher estimates second-order growth functions (e.g., intercept an
 The method can allow different indicators across ages, either by dropping or adding indicators or by using item parcels composed of differing items across ages [@Tyrell2019].
 
 However, the partial invariance approach requires identifying—and accurately specifying—invariant items and any noninvariant items, which can be both inefficient and error-prone [@Lai2023; @ChenPM].
-Moreover, the partial invariance approach tends not to work as well when a large proportion of items are noninvariant [@Lai2023], there are many timepoints, there is considerable variability in the numbers of responses provided to items such as might occur due to missing data or when not all items are assessed at all timepoints, or the researcher wants to consider DIF as a function of multiple variables or continuous variables [@ChenPM].
+Moreover, the partial invariance approach tends not to work as well when a large proportion of items are noninvariant [@Lai2023], there are many timepoints, there is considerable variability in the numbers of responses provided to items such as might occur due to missing data or when not all items are assessed at all timepoints, or the researcher wants to consider factorial invariance or differential item functioning (DIF) as a function of multiple variables or continuous variables [@ChenPM].
 
 [^strongInvarianceFootnote]: Strong invariance is also called "scalar invariance".
 
@@ -772,7 +774,7 @@ IRT can also be used to link scores across different measures [@Kolen2014].
 The IRT approach to developmental scaling is depicted in @fig-linking.<!-- CONCURRENT VS SEPARATE CALIBRATION -->
 The IRT approach to developmental scaling identifies scaling parameters that minimize the differences in the probability of a person endorsing the age-common items across two measures, at a given construct level.
 That is, IRT links measures' scales based on the difficulty and discrimination of the age-common items.
-In developmental scaling, scores on the construct-valid items at the reference age set the scale; the age-common items adjusts subsequent scores to that scale, and all construct-valid items (i.e., both age-common and age-unique items) at a given timepoint is used to estimate each person's score on that scale.
+In developmental scaling, scores on the construct-valid items at the reference age set the scale; the age-common items adjusts subsequent scores to that scale, and all construct-valid items (i.e., both age-common and age-unique items) at a given timepoint are used to estimate each person's score on that scale.
 Thus, the age-common items are used to determine the general form of change on an identical scale, but all developmentally relevant, construct-valid items are used to estimate each person's construct level on this scale.
 Traditionally IRT represents the measurement model in discrete time.
 Like MNFLA, however, IRT (particularly in the mixed model formulation) can represent the measurement model in continuous time and allows testing DIF over time and as a function of multiple variables and continuous variables.
@@ -893,7 +895,7 @@ To be reliable, difference scores require high reliability of the individual ind
 That is, the more two things are the same thing, the more likely that subtracting one from the other leaves measurement error rather than construct variance.
 Ways of accounting for (random) measurement error include (a) combining multiple measures in estimation of a latent variable and (b) using growth curve models with at least three timepoints to estimate model-implied trajectories and reduce the influence of occasion-specific random error.
 
-In general, the inference of change is strengthened to the extent that: (a) the magnitude of the difference between the scores at the time points is large (i.e., a large effect size), (b) the measurement error (unreliability) at each time point is small, (c) the measure has the same meaning and is on a comparable scale at each time point, and (d) evidence suggests that the differences across time are not likely to be due to potential confounds of change such as practice effects, cohort effects, period effects, or selective attrition.
+In general, the inference of change is strengthened to the extent that: (a) the magnitude of the difference between the scores at the timepoints is large (i.e., a large effect size), (b) the measurement error (unreliability) at each timepoint is small, (c) the measure has the same meaning and is on a comparable scale at each timepoint, and (d) evidence suggests that the differences across time are not likely to be due to potential confounds of change such as practice effects, cohort effects, period effects, or selective attrition.
 
 ### Selective Missingness and Attrition
 
