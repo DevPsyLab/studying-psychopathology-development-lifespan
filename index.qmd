@@ -973,7 +973,7 @@ The inclusion of multiple informants can be relevant for informing about the per
 
 When including multiple or different informants across development, it is important to consider how to leverage the multi-informant ratings.
 Some researchers advocate for integrating scores using principal component approaches [while disentangling variance attributable to trait, perspective, and context\; @Kraemer2003] or latent variable approaches [e.g., @Bauer2013], and others advocate for keeping different informants' ratings separate without integrating them [but including them in the same model\; @Aitken2023].
-As an example of a latent variable modeling approach, @Bauer2013 demonstrates a trifactor model that attempts to disentangle construct variance from the method effects tied to the specific item and the informant.
+As an example of a latent variable modeling approach, @Bauer2013 demonstrate a trifactor model that attempts to disentangle construct variance from the method effects tied to the specific item and the informant.
 @DeLosReyes2013 provide the Operations Triad Model as a framework for using and interpreting reports from multiple informants [for more information, see @Makol2025].
 In sum, finding ways to leverage the information from multiple informants will be crucial for studying the development of psychopathology across the lifespan [@DeLosReyes2026].
 
