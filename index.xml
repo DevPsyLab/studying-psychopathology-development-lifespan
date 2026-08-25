@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-08-13">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-08-25">
 <year>2026</year>
 <month>8</month>
-<day>13</day>
+<day>25</day>
 </pub-date>
 
 
@@ -211,15 +211,18 @@ academic and cognitive skills across lengthy developmental periods.</p>
   Thus, cross-sectional designs provide an important starting point.</p>
   <p>However, cross-sectional designs have key limitations. First,
   cross-sectional designs do not allow examining individuals’ change
-  over time. Second, cross-sectional designs may obscure diverse
-  patterns of change. Individuals show considerable heterogeneity in
-  level and change across time in many constructs. As an example,
-  despite the normative pattern of steep cognitive decline in episodic
-  memory with aging, there are a subset of individuals who do not show
-  this same pattern. For instance, superagers are individuals who are
-  older adults (age 80+) who have episodic memory at or above the
-  normative level of middle-aged adults (50–65 years old) and who may be
-  resilient to the typical aging process
+  over time. Thus, the trajectory of individual differences remains
+  elusive, and observed age-related differences may reflect processes
+  apart from developmental change, such as cohort effects. Second,
+  cross-sectional designs may obscure diverse patterns of change.
+  Individuals show considerable heterogeneity in level and change across
+  time in many constructs. As an example, despite the normative pattern
+  of steep cognitive decline in episodic memory with aging, there are a
+  subset of individuals who do not show this same pattern. For instance,
+  superagers are individuals who are older adults (age 80+) who have
+  episodic memory at or above the normative level of middle-aged adults
+  (50–65 years old) and who may be resilient to the typical aging
+  process
   (<xref alt="Godoy et al. 2021" rid="ref-Godoy2021" ref-type="bibr">Godoy
   et al. 2021</xref>). Theoretical depictions of the heterogeneity of
   cognitive decline are depicted in
@@ -272,9 +275,9 @@ academic and cognitive skills across lengthy developmental periods.</p>
   et al. 2008</xref>). It has been hypothesized that both
   childhood-limited and life-course persistent externalizing behavior
   may be characterized by high levels of individual-level risk (e.g.,
-  genetic and neuropsychological risk), whereas life-course persistent
-  externalizing behavior may be characterized by greater environmental
-  risk (e.g., adversity and trauma;
+  genetic and neuropsychological risk), whereas especially life-course
+  persistent externalizing behavior may be characterized by greater
+  environmental risk (e.g., adversity and trauma;
   <xref alt="Fairchild et al. 2013" rid="ref-Fairchild2013" ref-type="bibr">Fairchild
   et al. 2013</xref>). A cross-sectional study that does not capture the
   subgroups’ different developmental histories would not be
@@ -517,9 +520,9 @@ academic and cognitive skills across lengthy developmental periods.</p>
     questions of intergenerational transmission (e.g.,
     <xref alt="Kim et al. 2009" rid="ref-Kim2009" ref-type="bibr">Kim et
     al. 2009</xref>). However, relatively few longitudinal studies
-    attempt to assess people’s <italic>change</italic> in a given
-    psychopathology construct over a lengthy period. Here, we focus on
-    studies that have examined trajectories of externalizing
+    attempt to assess people’s <italic>change</italic> (in level) in a
+    given psychopathology construct over a lengthy period. Here, we
+    focus on studies that have examined trajectories of externalizing
     behavior.<xref ref-type="fn" rid="fn1">1</xref></p>
     <p>A depiction of the ages spanned by various longitudinal studies
     is in
@@ -575,9 +578,9 @@ academic and cognitive skills across lengthy developmental periods.</p>
     <xref alt="Keijsers et al. 2012" rid="ref-Keijsers2012" ref-type="bibr">Keijsers
     et al. 2012</xref>). Demonstrating an analytic method (moderated
     nonlinear factor analysis) to link scores across measures onto the
-    same scale, Chen and Bauer [] examined trajectories of delinquency
-    from ages 12–26 with 3 measurement occasions in the National
-    Longitudinal Study of Adolescent to Adult Health (Add Health;
+    same scale, Chen and Bauer examined trajectories of delinquency from
+    ages 12–26 with 3 measurement occasions in the National Longitudinal
+    Study of Adolescent to Adult Health (Add Health;
     <xref alt="in press b" rid="ref-ChenPM" ref-type="bibr">in press
     b</xref>), and examined trajectories of externalizing behavior from
     ages 5–12 with 3 measurement occasions in the National Longitudinal
@@ -638,7 +641,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
   <p>Below, we describe these reasons in detail. To ground the
   discussion, we provide examples relating to externalizing
   psychopathology; however, these issues are not specific to
-  externalizing.</p>
+  externalizing behavior.</p>
   <sec id="problems-of-constructs">
     <title>Problems of Constructs</title>
     <p>The first reason the field has failed to adequately study
@@ -920,21 +923,24 @@ academic and cognitive skills across lengthy developmental periods.</p>
       et al. 2018</xref>,
       <xref alt="2026" rid="ref-Petersen2026a" ref-type="bibr">2026</xref>)
       have shown that the “common items” and “upward/downward extension”
-      approaches lead to inaccurate developmental inferences. In sum,
-      despite these approaches being the most widely used for assessing
-      individuals’ development, they likely lead to inaccurate scores
-      and thus inaccurate trajectories.</p>
+      approaches—thus failing to account for heterotypic continuity—lead
+      to inaccurate developmental inferences. In sum, despite these
+      approaches being the most widely used for assessing individuals’
+      development, they likely lead to inaccurate scores and thus
+      inaccurate trajectories.</p>
       <p>The problem cannot be solved merely by age-norming. Generating
       norms from items that are invalid at a given age or from scales
       that have important content gaps at a given age leads to
       construct-invalid scores and resulting norms. Likewise, using DSM
-      disorders or diagnoses also does not solve the problem. DSM
+      disorders or diagnoses also does not solve the problem because DSM
       disorders are fictive categories
       (<xref alt="Petersen 2024" rid="ref-Petersen2024" ref-type="bibr">Petersen
-      2024</xref>). Moreover, diagnosic criteria naturally change with
-      subsequent revisions of the DSM, leading people to lose interest
-      with prior categorizations and to incomparability of diagnoses
-      across DSM versions.</p>
+      2024</xref>) and, as described above, DSM disorder criteria do not
+      adequately account for different symptom presentations at
+      different ages. Moreover, diagnostic criteria naturally change
+      with subsequent revisions of the DSM, leading people to lose
+      interest with prior categorizations and to incomparability of
+      diagnoses across DSM versions.</p>
       <p>In addition, forcing use of the same measure across time
       naturally limits the ages a study can span, which prevents
       charting wider age spans. For example, if a researcher used the
@@ -963,14 +969,15 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <title>Do Not Allow Charting Individuals’ Change Over Time When
       the Construct Changes in Behavioral Manifestation</title>
       <p>Current assessments fail to implement the construct-valid item
-      approach across development—existing measures show insufficient
-      differences in which items are assessed at which ages. Moreover,
-      even in cases where the items of a measure differ across ages
-      (e.g., CBCL: ages 1.5–5 vs. ages 6–18), the scoring systems do not
-      link scores across ages to be on the same scale while preserving
-      change in level. For instance, when using age-differing measures
-      of externalizing behavior to account for changes in behavioral
-      manifestation across development, Kjeldsen et al.
+      approach across development—existing measures do not assess the
+      most construct-relevant items at particular ages and thus show
+      insufficient differences in which items are assessed at which
+      ages. Even in cases where the items of a measure differ across
+      ages (e.g., CBCL: ages 1.5–5 vs. ages 6–18), the scoring systems
+      do not link scores across ages to be on the same scale while
+      preserving change in level. For instance, when using age-differing
+      measures of externalizing behavior to account for changes in
+      behavioral manifestation across development, Kjeldsen et al.
       (<xref alt="2016, 999" rid="ref-Kjeldsen2016" ref-type="bibr">2016,
       999</xref>) noted in their study, “Due to change in measures and
       rescaled variables, only relative change across classes can be
@@ -1004,13 +1011,13 @@ academic and cognitive skills across lengthy developmental periods.</p>
       age-norming is problematic in longitudinal studies
       (<xref alt="Moeller 2015" rid="ref-Moeller2015" ref-type="bibr">Moeller
       2015</xref>).</p>
-      <p>Moreover, it is important for scores across ages to be on the
-      same apples-to-apples scale so the scores can be compared across
-      ages, which would be valuable even in a cross-sectional study that
-      spans a wide age range, as might be found in an epidemiological
-      study. There is a misperception that no practical approach exists
-      that can handle different measures across ages or time. Consider
-      the following statement by LeBlanc
+      <p>It is important for scores across ages to be on the same
+      apples-to-apples scale so the scores can be compared across ages,
+      which would be valuable even in a cross-sectional study that spans
+      a wide age range, as might be found in an epidemiological study.
+      There is a misperception that no practical approach exists that
+      can handle different measures across ages or time. Consider the
+      following statement by LeBlanc
       (<xref alt="2021, 15" rid="ref-LeBlanc2021" ref-type="bibr">2021,
       15</xref>), “The theoretical position is that a form of antisocial
       behavior, for example, fraud, has to be measured by distinct
@@ -1036,7 +1043,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
       observe individuals’ growth across grades. The same general
       methods are also used to place people’s scores on the same scale
       for standardized tests like the ACT, SAT, GRE, MCAT, LSAT, etc.,
-      despite repondents receiving different item content.</p>
+      despite respondents receiving different item content.</p>
       <p>For examples of studies applying various linking methods to
       academic and cognitive skills, see McArdle et al.
       (<xref alt="2009" rid="ref-McArdle2009" ref-type="bibr">2009</xref>),
@@ -1086,7 +1093,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <xref alt="2022" rid="ref-Petersen2022" ref-type="bibr">2022</xref>;
       <xref alt="Petersen et al. 2026" rid="ref-Petersen2026a" ref-type="bibr">Petersen
       et al. 2026</xref>).</p>
-      <p>In addition, psychopathology assessments do not include such
+      <p>In addition, psychopathology assessments do not include linking
       scoring tools. The lack of scoring tools that link scores from
       age-differing psychopathology assessments leads researchers to
       restrict the age range of study. For instance, in their study,
@@ -1295,16 +1302,17 @@ academic and cognitive skills across lengthy developmental periods.</p>
               </tr>
               <tr>
                 <td align="left">Behavioral addiction</td>
-                <td align="left">Non-substance addictions (e.g.,
-                gambling, video games, risky sex, pornography, food, the
-                internet, mobile devices, shopping)</td>
+                <td align="left">Impulsive/compulsive engagement in
+                rewarding non-substance behaviors (e.g., gambling, video
+                games, risky sex, pornography, food, the internet,
+                mobile devices, shopping)</td>
                 <td align="left">Self-regulated engagement</td>
               </tr>
               <tr>
                 <td align="left">Blame externalization</td>
                 <td align="left">Attribute cause of problems or failures
-                to external factors, feeling like a victim, blaming
-                others</td>
+                to external factors, falsely claiming victimhood,
+                blaming others</td>
                 <td align="left">Personal
                 responsibility/Accountability</td>
               </tr>
@@ -1322,8 +1330,8 @@ academic and cognitive skills across lengthy developmental periods.</p>
                 protection/Benevolence</td>
               </tr>
               <tr>
-                <td align="left">Callousness/Disregard for others/Low
-                concern/Low empathy/Selfishness/Egocentricity</td>
+                <td align="left">Callousness/Disregard for
+                others/Selfishness/Egocentricity</td>
                 <td align="left">Emotional detachment, indifference to
                 well-being of others</td>
                 <td align="left">Empathy/Compassion/Concern for
@@ -1337,7 +1345,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
                 <td align="left">Honesty/Integrity/Fairness</td>
               </tr>
               <tr>
-                <td align="left">Deviant peers</td>
+                <td align="left">Deviant peer affiliation</td>
                 <td align="left">Affiliating with peers who engage in
                 deviant or delinquent behaviors</td>
                 <td align="left">Prosocial peer affiliations</td>
@@ -1367,10 +1375,10 @@ academic and cognitive skills across lengthy developmental periods.</p>
               <tr>
                 <td align="left">Excitement seeking/Risk
                 taking/Sensation seeking</td>
-                <td align="left">Tendency to pursue new and different
-                sensations, especially intense, exhilarating, thrilling,
-                etc. (e.g., risk taking, preference for novelty,
-                intensity)</td>
+                <td align="left">Tendency to impulsively pursue new and
+                different sensations, especially ones that are intense,
+                exhilarating, thrilling, unsafe, etc. (e.g., risk
+                taking, preference for novelty, intensity)</td>
                 <td align="left">Prudent exploration/Measured novelty
                 seeking</td>
               </tr>
@@ -1396,7 +1404,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
               </tr>
               <tr>
                 <td align="left">Impulsivity/Disinhibition/Impatient
-                urgency/(Low) Planful control</td>
+                urgency</td>
                 <td align="left">Tendency to act without thinking,
                 disinhibited engagement</td>
                 <td align="left">Planful control</td>
@@ -1754,12 +1762,12 @@ academic and cognitive skills across lengthy developmental periods.</p>
       and Bauer in press b</xref>,
       <xref alt="in press a" rid="ref-ChenMBR" ref-type="bibr">in press
       a</xref>). Using regularization, unimportant DIF effects are
-      shunken toward zero—while retaining larger DIF effects—thus
+      shrunken toward zero—while retaining larger DIF effects—thus
       identifying potential anchor items without having to specify them
       in advance
       (<xref alt="Chen and Bauer in press b" rid="ref-ChenPM" ref-type="bibr">Chen
       and Bauer in press b</xref>). In addition, Bayesian approaches are
-      often better suited to handle small sample sizes and data with
+      often better suited to handling small sample sizes and data with
       sparse responses
       (<xref alt="Chen and Bauer in press b" rid="ref-ChenPM" ref-type="bibr">Chen
       and Bauer in press b</xref>). Using a simulation, Chen and Bauer
