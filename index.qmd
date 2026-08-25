@@ -169,6 +169,7 @@ Thus, cross-sectional designs provide an important starting point.
 
 However, cross-sectional designs have key limitations.
 First, cross-sectional designs do not allow examining individuals' change over time.
+Thus, the trajectory of individual differences remains elusive, and observed age-related differences may reflect processes apart from developmental change, such as cohort effects.
 Second, cross-sectional designs may obscure diverse patterns of change.
 Individuals show considerable heterogeneity in level and change across time in many constructs.
 As an example, despite the normative pattern of steep cognitive decline in episodic memory with aging, there are a subset of individuals who do not show this same pattern.
@@ -224,7 +225,7 @@ The developmental taxonomy is depicted in @fig-externalizing-by-age.
 Moffitt's general hypothesis is that life-course persistent externalizing behavior results from early disruptions in brain development either in utero (resulting from, for example, maternal substance use, poor prenatal nutrition, genetics, or exposure to toxins), during delivery (e.g., delivery complications), or after birth (e.g., child abuse or neglect, or exposure to toxins) that lead to impaired cognitive abilities and difficult temperament, in perhaps conjunction with coercive parent–child interactions or other adverse, criminogenic environments.
 Adolescence-limited externalizing behavior, by contrast, is thought to reflect a more normative—even adaptive—pattern of social behavior that is driven by exposure to deviant peers and a maturity gap.
 Childhood-limited externalizing behavior, though not hypothesized by the original taxonomy, may in some cases reflect recovery and in other cases reflect a shift from externalizing problems into problems in other domains [@Odgers2008].
-It has been hypothesized that both childhood-limited and life-course persistent externalizing behavior may be characterized by high levels of individual-level risk (e.g., genetic and neuropsychological risk), whereas life-course persistent externalizing behavior may be characterized by greater environmental risk [e.g., adversity and trauma\; @Fairchild2013].
+It has been hypothesized that both childhood-limited and life-course persistent externalizing behavior may be characterized by high levels of individual-level risk (e.g., genetic and neuropsychological risk), whereas especially life-course persistent externalizing behavior may be characterized by greater environmental risk [e.g., adversity and trauma\; @Fairchild2013].
 A cross-sectional study that does not capture the subgroups' different developmental histories would not be well-positioned to adjudicate whether a particular individual is part of the adolescence-limited versus life-course persistent developmental course [@Moffitt1993].
 
 The age-crime curve that is based on official police records has key problems [@Moffitt1993].
@@ -267,7 +268,7 @@ And these individual differences are crucial to identify the risk and protective
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 **Panel A**: The age-crime participation curve from age 9 through 64 in cohort members who were registered for antisocial and/or criminal behavior in a birth cohort recruited in Stockholm, Sweden (*N* = 4,825), based on official records.
-The steep peak in crime rate in the adolescent years is similar to the age-crime curve in the United States; however, the steepness of the age-crime curve differs within country across birth cohorts [@Steffensmeier2025].
+The steep peak in crime rate in the adolescent years is similar to the age-crime curve in the United States; however, within a given country, the steepness of the age-crime curve differs across birth cohorts [@Steffensmeier2025].
 (Figure adapted from @Sivertsson2024, Figure 1, p. 7. Sivertsson, F., Carlsson, C., Almquist, Y. B., & Brännström, L. (2024). Offending trajectories from childhood to retirement age: Findings from the Stockholm birth cohort study. *Journal of Criminal Justice*, *91*, 102155. <https://doi.org/10.1016/j.jcrimjus.2024.102155>).
 </p>
 
@@ -361,7 +362,7 @@ One of the key findings from the Child Development Project is that a hostile att
 Longitudinal studies such as these have had immense impacts.
 These studies have yielded many inferences that would not have been possible without longitudinal designs.
 Some long-term longitudinal studies have even followed children of those children who were initially recruited, and are thus uniquely positioned to study questions of intergenerational transmission [e.g., @Kim2009].
-However, relatively few longitudinal studies attempt to assess people's *change* in a given psychopathology construct over a lengthy period.
+However, relatively few longitudinal studies attempt to assess people's *change* (in level) in a given psychopathology construct over a lengthy period.
 Here, we focus on studies that have examined trajectories of externalizing behavior.[^trajectoriesFootnote]
 
 [^trajectoriesFootnote]: We do not consider autoregressive/cross-lagged models because such models do not examine change in level of externalizing behavior.
@@ -376,7 +377,7 @@ Other studies have examined trajectories of externalizing problems from ages 5�
 @Bongers2004 examined trajectories of various externalizing problems from ages 4–18 spanning 13 different birth cohorts with up to 5 measurement occasions per cohort, such that any individual was followed for up to 8 years [@Bongers2004].
 
 Studies have also examined trajectories of delinquency from ages 7–19 with 13 measurement occasions [Pittsburgh Youth Study\; @Keijsers2012].
-Demonstrating an analytic method (moderated nonlinear factor analysis) to link scores across measures onto the same scale, Chen and Bauer [] examined trajectories of delinquency from ages 12–26 with 3 measurement occasions in the National Longitudinal Study of Adolescent to Adult Health [Add Health\; -@ChenPM], and examined trajectories of externalizing behavior from ages 5–12 with 3 measurement occasions in the National Longitudinal Survey of Youth 1979 Child and Young Adult [NLSCYA\; -@ChenMBR].
+Demonstrating an analytic method (moderated nonlinear factor analysis) to link scores across measures onto the same scale, Chen and Bauer examined trajectories of delinquency from ages 12–26 with 3 measurement occasions in the National Longitudinal Study of Adolescent to Adult Health [Add Health\; -@ChenPM], and examined trajectories of externalizing behavior from ages 5–12 with 3 measurement occasions in the National Longitudinal Survey of Youth 1979 Child and Young Adult [NLSCYA\; -@ChenMBR].
 In addition, studies have examined trajectories of emotional and behavioral dysregulation (encompassing externalizing problems and emotional symptoms) from ages 3–17 with 6 measurement occasions [UK Millennium Cohort Study\; @Zhai2026].
 Studies have also leveraged registry data to examine trajectories of offending from ages 8–61 [@LeBlanc2021], from ages 10–61 [Cambridge Study in Delinquent Development\; @Farrington2023], and from ages 9–64 [Stockholm Metropolitan Study\; @Sivertsson2024].
 
@@ -411,7 +412,7 @@ Fourth, current assessments are not well-suited for capturing the full range of 
 Fifth, because of these limitations, current assessments are not well-suited for capturing individuals' change over time.
 
 Below, we describe these reasons in detail.
-To ground the discussion, we provide examples relating to externalizing psychopathology; however, these issues are not specific to externalizing.
+To ground the discussion, we provide examples relating to externalizing psychopathology; however, these issues are not specific to externalizing behavior.
 
 ## Problems of Constructs
 
@@ -553,14 +554,13 @@ The "common items" and "upward/downward extension" approaches are by far the mos
 The common items approach yields low content validity because it does not assess all construct facets, especially age-specific manifestations.
 The upward/downward extension approach violates construct validity because it assesses developmentally inappropriate items.
 
-Due to these problems, both simulation [@Petersen2021a] and empirical work [@Chen2015; @Petersen2018; @Petersen2026a] have shown that the "common items" and "upward/downward extension" approaches lead to inaccurate developmental inferences.
+Due to these problems, both simulation [@Petersen2021a] and empirical work [@Chen2015; @Petersen2018; @Petersen2026a] have shown that the "common items" and "upward/downward extension" approaches—thus failing to account for heterotypic continuity—lead to inaccurate developmental inferences.
 In sum, despite these approaches being the most widely used for assessing individuals' development, they likely lead to inaccurate scores and thus inaccurate trajectories.
 
 The problem cannot be solved merely by age-norming.
 Generating norms from items that are invalid at a given age or from scales that have important content gaps at a given age leads to construct-invalid scores and resulting norms.
-Likewise, using DSM disorders or diagnoses also does not solve the problem.
-DSM disorders are fictive categories [@Petersen2024].
-Moreover, diagnosic criteria naturally change with subsequent revisions of the DSM, leading people to lose interest with prior categorizations and to incomparability of diagnoses across DSM versions.
+Likewise, using DSM disorders or diagnoses also does not solve the problem because DSM disorders are fictive categories [@Petersen2024] and, as described above, DSM disorder criteria do not adequately account for different symptom presentations at different ages.
+Moreover, diagnostic criteria naturally change with subsequent revisions of the DSM, leading people to lose interest with prior categorizations and to incomparability of diagnoses across DSM versions.
 
 In addition, forcing use of the same measure across time naturally limits the ages a study can span, which prevents charting wider age spans.
 For example, if a researcher used the CBCL and only wanted to study trajectories where the same measure was assessed across ages, they would not be able to examine development from ages 5–6, when there is a change in the CBCL version (i.e., one for ages 1.5–5 and another for ages 6–18).
@@ -574,8 +574,8 @@ In sum, many problems arise from using the same measure across ages when the con
 
 ### Do Not Allow Charting Individuals' Change Over Time When the Construct Changes in Behavioral Manifestation
 
-Current assessments fail to implement the construct-valid item approach across development—existing measures show insufficient differences in which items are assessed at which ages.
-Moreover, even in cases where the items of a measure differ across ages (e.g., CBCL: ages 1.5–5 vs. ages 6–18), the scoring systems do not link scores across ages to be on the same scale while preserving change in level.
+Current assessments fail to implement the construct-valid item approach across development—existing measures do not assess the most construct-relevant items at particular ages and thus show insufficient differences in which items are assessed at which ages.
+Even in cases where the items of a measure differ across ages (e.g., CBCL: ages 1.5–5 vs. ages 6–18), the scoring systems do not link scores across ages to be on the same scale while preserving change in level.
 For instance, when using age-differing measures of externalizing behavior to account for changes in behavioral manifestation across development, Kjeldsen et al. [-@Kjeldsen2016, p. 999] noted in their study, "Due to change in measures and rescaled variables, only relative change across classes can be interpreted and not absolute (developmental) change."
 Thus, the measures do not yield scores that are comparable across time and that enable change in an individual's level to be observed across a lengthy developmental span.
 In some cases, mean scores and proportion of maximum scores have been used to account for the age-differing measures having different numbers of items [@Owens2003; @Petersen2015; @SacuInPress].
@@ -586,7 +586,7 @@ However, age norms and standardized scores do not allow observing individuals' a
 Absolute change is necessary to identify true growth for an individual, and is thus important for treatment monitoring and longitudinal growth curves.
 Thus, age-norming is problematic in longitudinal studies [@Moeller2015].
 
-Moreover, it is important for scores across ages to be on the same apples-to-apples scale so the scores can be compared across ages, which would be valuable even in a cross-sectional study that spans a wide age range, as might be found in an epidemiological study.
+It is important for scores across ages to be on the same apples-to-apples scale so the scores can be compared across ages, which would be valuable even in a cross-sectional study that spans a wide age range, as might be found in an epidemiological study.
 There is a misperception that no practical approach exists that can handle different measures across ages or time.
 Consider the following statement by LeBlanc [-@LeBlanc2021, p. 15], "The theoretical position is that a form of antisocial behavior, for example, fraud, has to be measured by distinct behaviors with adolescents and adults, in summary adapted to their age.
 Nevertheless, different scale composition is an integral part of the common concept of fraud.
@@ -598,13 +598,13 @@ Because of substantial changes in ability level across grades, the same math and
 Otherwise, respondents would receive items that are too easy (thus evoking boredom) or too difficult (thus evoking frustration), relative to their ability.
 To address this, the test developers write the tests so that some items are in common across adjacent grades—used for linking the scores across grades onto the same scale—along with items that are unique to a particular grade.
 Then, the researchers apply widely used methods to link the scores from the different measures onto the same scale so they can observe individuals' growth across grades.
-The same general methods are also used to place people's scores on the same scale for standardized tests like the ACT, SAT, GRE, MCAT, LSAT, etc., despite repondents receiving different item content.
+The same general methods are also used to place people's scores on the same scale for standardized tests like the ACT, SAT, GRE, MCAT, LSAT, etc., despite respondents receiving different item content.
 
 For examples of studies applying various linking methods to academic and cognitive skills, see @McArdle2009, McArdle and Grimm [-@McArdle2011], @Murayama2013, @Oleson2016, @Petscher2018, @Ward2022, and @Weeks2018.
 However, the use of linking methods is rare in studies of social and behavioral development broadly and psychopathology specifically.
 For studies that have applied such methods in studying social and behavioral development, see studies on self-concept [@Hancock2008], neuroticism [@Lai2023], self-regulation [@Hosch2022], underactivity/overactivity [and their subdimensions\; @McDermott2013], thought-disordered problems [@Petersen2026a], internalizing problems [@Harris2025; @Petersen2018; @Petersen2026a; @Tyrell2019], and externalizing problems [@ChenMBR; @ChenPM; @Harris2025; @Petersen2021b; @Petersen2022; @Petersen2026a].
 
-In addition, psychopathology assessments do not include such scoring tools.
+In addition, psychopathology assessments do not include linking scoring tools.
 The lack of scoring tools that link scores from age-differing psychopathology assessments leads researchers to restrict the age range of study.
 For instance, in their study, Bista et al. [-@Bista2025, p. 179] noted "A different version of the questionnaire (CBCL/2–3), designed for 2–3-year-olds, was used for the year 2 follow-up [compared to the CBCL/4–18 assessed from ages 5–17].
 Therefore, we excluded age 2 from our trajectory analysis."
@@ -656,6 +656,13 @@ Based on our content analysis of over 270 measures of externalizing behavior, we
 We also identified potential positive opposites of each facet.
 
 {{< embed notebooks/analyses.qmd#tbl-externalizingfacets >}}
+
+::: {.figure-caption .content-visible when-format="html"}
+<p style="font-size: 90%; color: gray;">
+*Note*.
+Transdiagnostic facets of psychopathology, which encompass externalizing problems, include irritability/reactive anger, unemotionality, sleep problems, social problems, learning problems, and low functional independence.
+</p>
+:::
 
 Because existing measures do not capture the full range of individual differences, this naturally further limits the measures' sensitivity to detect change (i.e., responsiveness), which is crucial for clinical utility and for longitudinal research.
 Moreover, it is important for measures not to show restriction of range owing to ceiling or floor effects.
@@ -764,8 +771,8 @@ MNLFA allows simultaneous estimation of growth functions while estimating and ac
 It allows estimating DIF as a function of time and as a function of multiple variables, including categorical and continuous variables.
 Bayesian approaches can be used to apply MNLFA.
 A key benefit of Bayesian approaches is the use of regularizing priors that allow estimating the model without having to identify noninvariant/DIF items and anchor items in advance [@ChenPM; @ChenMBR].
-Using regularization, unimportant DIF effects are shunken toward zero—while retaining larger DIF effects—thus identifying potential anchor items without having to specify them in advance [@ChenPM].
-In addition, Bayesian approaches are often better suited to handle small sample sizes and data with sparse responses [@ChenPM].
+Using regularization, unimportant DIF effects are shrunken toward zero—while retaining larger DIF effects—thus identifying potential anchor items without having to specify them in advance [@ChenPM].
+In addition, Bayesian approaches are often better suited to handling small sample sizes and data with sparse responses [@ChenPM].
 Using a simulation, Chen and Bauer [-@ChenMBR] found that MNLFA estimated change more accurately than traditional first- or second-order growth curve models.
 
 ### Item Response Theory
