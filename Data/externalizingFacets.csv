@@ -1,4 +1,5 @@
 facet,facetLabel,facetDefinition,positiveOpposite
+apathy,Apathy/Indolence/Disengagement,"Unconcerned about achievement, low motivation, low concern about how one's abilities or actions are evaluated, specific to contexts in which others have expectations for performance (e.g., school and work), specifically low effort rather than performance",Diligence/Achievement motivation
 attentionSeeking,Attention seeking/Exhibitionism,"Exaggerated or dramatic expressions, interrupting others, inappropriate or provocative behaviors, provoking reactions",Humility/Appropriate self-expression
 behavioralAddiction,Behavioral addiction,"Impulsive/compulsive engagement in rewarding non-substance behaviors (e.g., gambling, video games, risky sex, pornography, food, the internet, mobile devices, shopping)",Self-regulated engagement
 blameExternalization,Blame externalization,"Attribute cause of problems or failures to external factors, falsely claiming victimhood, blaming others",Personal responsibility/Accountability
@@ -15,10 +16,7 @@ grandiosity,Grandiosity/Overconfidence,"Exaggerated sense of self-importance, se
 hostility,Hostility/Rudeness,"Hostile behavior, unfriendliness, resentment, antagonism, ranging from mild irritation to intense rage, interpret others' behavior as hostile",Warmth/Friendliness/Kindness
 hyperactivity,Hyperactivity,"High levels of physical activity, restlessness, difficulty engaging in quiet activities",Behavioral regulation
 impulsivity,Impulsivity/Disinhibition/Impatient urgency,"Tendency to act without thinking, disinhibited engagement",Planful control
-irresponsibility,Irresponsibility,"Failing to meet obligations, avoiding addressing difficulties",Responsibility/Conscientiousness
-lowDependability,(Low) Dependability,"Low reliability, consistency, trustworthiness",Dependability/Reliability
-lowPerfectionism,(Low) Perfectionism/(Dis)organization/(Low) Planning,"Unconcerned about achievement, low motivation, lack of organization and planning",Organization/Diligence
-lowPerformanceConcern,(Low) Performance Concern/(Low) School/Work Performance/ (Low) Workaholism,"Low concern about how one's abilities or actions are evaluated, specific to contexts in which others have expectations for performance (e.g., school and work), specifically low effort rather than performance; low workaholism",Achievement motivation
+irresponsibility,Irresponsibility/Unreliability/Disorganization,"Failing to meet obligations, avoiding addressing difficulties, inconsistency, lack of organization and planning",Responsibility/Conscientiousness/Dependability/Reliability/Organization
 manipulativeness,Manipulativeness/Psychological aggression,"Tendency to influence or control others to achieve one's own goals or desires, e.g., playing the victim, flattery, gaslighting, guilt-tripping, psychological aggression",Sincerity/Authenticity
 mistrust,Mistrust/Suspiciousness/Paranoia,"Lack of confidence in the reliability, intentions of others, difficulty forming close relationships with others, difficulty forgiving",Interpersonal trust (appropriately calibrated)
 oppositionality,Oppositionality/Stubbornness,"Persistent and defiant attitude, tendency to challenge authority, refusal to comply, argumentativeness (could include while complying), etc.",Cooperativeness

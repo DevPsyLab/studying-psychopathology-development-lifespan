@@ -439,6 +439,7 @@ In general, externalizing behaviors are often expressed as overt acts in early c
 These age-differing behaviors show strong stability of individual differences, indicating a consistent underlying construct [@Moffitt1993; @Patterson1993].
 As depicted in @fig-absoluteFrequencyByAge, different externalizing behaviors are most common at different developmental periods—even into adulthood, consistent with the notion that externalizing behavior demonstrates heterotypic continuity.
 Consistent with the Developmental Issues Framework [@Sroufe2016], the changing expression of externalizing behavior likely reflects a combination of time-varying genetic and environmental factors, such as school entry transition, in combination with varying developmental tasks, different opportunities, and greater experience-dependent capacity [@Petersen2020].
+These factors likely interact to produce individual differences in heterotypic continuity of relevance to developmental psychopathology, for instance, earlier emergence of alcohol consumption [@Aiken2018].
 
 ![Frequency (Per Month) of Engaging in Various Externalizing Behaviors by Age (*N* = 1,237)](Figures/Petersen2026_figure1.png){
   #fig-absoluteFrequencyByAge
@@ -555,7 +556,9 @@ The common items approach yields low content validity because it does not assess
 The upward/downward extension approach violates construct validity because it assesses developmentally inappropriate items.
 
 Due to these problems, both simulation [@Petersen2021a] and empirical work [@Chen2015; @Petersen2018; @Petersen2026a] have shown that the "common items" and "upward/downward extension" approaches—thus failing to account for heterotypic continuity—lead to inaccurate developmental inferences.
-In sum, despite these approaches being the most widely used for assessing individuals' development, they likely lead to inaccurate scores and thus inaccurate trajectories.
+The extent of inaccuracy may vary from small to substantial depending on the approach used, the criterion examined, and the extent to which the construct changes in manifestation (whose changes are ignored).
+Nevertheless, the effects of failing to account for heterotypic continuity have been large enough to infer that (a) a sample does not show changes in level when it actually does [@Petersen2018], and (b) that a subgroup's externalizing behavior emerges in adulthood when it actually onsets in adolescence [@Chen2015].
+In sum, despite these approaches being the most widely used for assessing individuals' development, they likely lead to inaccurate scores and thus inaccurate trajectories and ages of onset.
 
 The problem cannot be solved merely by age-norming.
 Generating norms from items that are invalid at a given age or from scales that have important content gaps at a given age leads to construct-invalid scores and resulting norms.
@@ -604,7 +607,9 @@ For examples of studies applying various linking methods to academic and cogniti
 However, the use of linking methods is rare in studies of social and behavioral development broadly and psychopathology specifically.
 For studies that have applied such methods in studying social and behavioral development, see studies on self-concept [@Hancock2008], neuroticism [@Lai2023], self-regulation [@Hosch2022], underactivity/overactivity [and their subdimensions\; @McDermott2013], thought-disordered problems [@Petersen2026a], internalizing problems [@Harris2025; @Petersen2018; @Petersen2026a; @Tyrell2019], and externalizing problems [@ChenMBR; @ChenPM; @Harris2025; @Petersen2021b; @Petersen2022; @Petersen2026a].
 
-In addition, psychopathology assessments do not include linking scoring tools.
+A failure to apply linking methods has consistently been shown to yield less accurate trajectories—at the person and group level [@ChenMBR; @Petersen2018; @Petersen2021a; @Petersen2026a].
+Thus, it is imperative that studies link scores across age-differing measures of psychopathology.
+However, psychopathology assessments do not include scoring tools for linking scores across age- (or rater-) differing versions.
 The lack of scoring tools that link scores from age-differing psychopathology assessments leads researchers to restrict the age range of study.
 For instance, in their study, Bista et al. [-@Bista2025, p. 179] noted "A different version of the questionnaire (CBCL/2–3), designed for 2–3-year-olds, was used for the year 2 follow-up [compared to the CBCL/4–18 assessed from ages 5–17].
 Therefore, we excluded age 2 from our trajectory analysis."
