@@ -743,7 +743,12 @@ academic and cognitive skills across lengthy developmental periods.</p>
     combination with varying developmental tasks, different
     opportunities, and greater experience-dependent capacity
     (<xref alt="Petersen et al. 2020" rid="ref-Petersen2020" ref-type="bibr">Petersen
-    et al. 2020</xref>).</p>
+    et al. 2020</xref>). These factors likely interact to produce
+    individual differences in heterotypic continuity of relevance to
+    developmental psychopathology, for instance, earlier emergence of
+    alcohol consumption
+    (<xref alt="Aiken et al. 2018" rid="ref-Aiken2018" ref-type="bibr">Aiken
+    et al. 2018</xref>).</p>
     <fig id="fig-absoluteFrequencyByAge">
       <caption><p>Figure 5: Frequency (Per Month) of Engaging in Various
       Externalizing Behaviors by Age (<italic>N</italic> =
@@ -924,10 +929,22 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <xref alt="2026" rid="ref-Petersen2026a" ref-type="bibr">2026</xref>)
       have shown that the “common items” and “upward/downward extension”
       approaches—thus failing to account for heterotypic continuity—lead
-      to inaccurate developmental inferences. In sum, despite these
-      approaches being the most widely used for assessing individuals’
-      development, they likely lead to inaccurate scores and thus
-      inaccurate trajectories.</p>
+      to inaccurate developmental inferences. The extent of inaccuracy
+      may vary from small to substantial depending on the approach used,
+      the criterion examined, and the extent to which the construct
+      changes in manifestation (whose changes are ignored).
+      Nevertheless, the effects of failing to account for heterotypic
+      continuity have been large enough to infer that (a) a sample does
+      not show changes in level when it actually does
+      (<xref alt="Petersen et al. 2018" rid="ref-Petersen2018" ref-type="bibr">Petersen
+      et al. 2018</xref>), and (b) that a subgroup’s externalizing
+      behavior emerges in adulthood when it actually onsets in
+      adolescence
+      (<xref alt="Chen and Jaffee 2015" rid="ref-Chen2015" ref-type="bibr">Chen
+      and Jaffee 2015</xref>). In sum, despite these approaches being
+      the most widely used for assessing individuals’ development, they
+      likely lead to inaccurate scores and thus inaccurate trajectories
+      and ages of onset.</p>
       <p>The problem cannot be solved merely by age-norming. Generating
       norms from items that are invalid at a given age or from scales
       that have important content gaps at a given age leads to
@@ -1093,11 +1110,21 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <xref alt="2022" rid="ref-Petersen2022" ref-type="bibr">2022</xref>;
       <xref alt="Petersen et al. 2026" rid="ref-Petersen2026a" ref-type="bibr">Petersen
       et al. 2026</xref>).</p>
-      <p>In addition, psychopathology assessments do not include linking
-      scoring tools. The lack of scoring tools that link scores from
-      age-differing psychopathology assessments leads researchers to
-      restrict the age range of study. For instance, in their study,
-      Bista et al.
+      <p>A failure to apply linking methods has consistently been shown
+      to yield less accurate trajectories—at the person and group level
+      (<xref alt="Chen and Bauer in press a" rid="ref-ChenMBR" ref-type="bibr">Chen
+      and Bauer in press a</xref>;
+      <xref alt="Petersen et al. 2018" rid="ref-Petersen2018" ref-type="bibr">Petersen
+      et al. 2018</xref>,
+      <xref alt="2021" rid="ref-Petersen2021a" ref-type="bibr">2021</xref>,
+      <xref alt="2026" rid="ref-Petersen2026a" ref-type="bibr">2026</xref>).
+      Thus, it is imperative that studies link scores across
+      age-differing measures of psychopathology. However,
+      psychopathology assessments do not include scoring tools for
+      linking scores across age- (or rater-) differing versions. The
+      lack of scoring tools that link scores from age-differing
+      psychopathology assessments leads researchers to restrict the age
+      range of study. For instance, in their study, Bista et al.
       (<xref alt="2025, 179" rid="ref-Bista2025" ref-type="bibr">2025,
       179</xref>) noted “A different version of the questionnaire
       (CBCL/2–3), designed for 2–3-year-olds, was used for the year 2
@@ -1280,9 +1307,9 @@ academic and cognitive skills across lengthy developmental periods.</p>
         <table-wrap>
           <table>
             <colgroup>
-              <col width="47%" />
-              <col width="29%" />
+              <col width="37%" />
               <col width="23%" />
+              <col width="38%" />
             </colgroup>
             <thead>
               <tr>
@@ -1292,6 +1319,16 @@ academic and cognitive skills across lengthy developmental periods.</p>
               </tr>
             </thead>
             <tbody>
+              <tr>
+                <td align="left">Apathy/Indolence/Disengagement</td>
+                <td align="left">Unconcerned about achievement, low
+                motivation, low concern about how one’s abilities or
+                actions are evaluated, specific to contexts in which
+                others have expectations for performance (e.g., school
+                and work), specifically low effort rather than
+                performance</td>
+                <td align="left">Diligence/Achievement motivation</td>
+              </tr>
               <tr>
                 <td align="left">Attention seeking/Exhibitionism</td>
                 <td align="left">Exaggerated or dramatic expressions,
@@ -1410,33 +1447,11 @@ academic and cognitive skills across lengthy developmental periods.</p>
                 <td align="left">Planful control</td>
               </tr>
               <tr>
-                <td align="left">Irresponsibility</td>
+                <td align="left">Irresponsibility/Unreliability/Disorganization</td>
                 <td align="left">Failing to meet obligations, avoiding
-                addressing difficulties</td>
-                <td align="left">Responsibility/Conscientiousness</td>
-              </tr>
-              <tr>
-                <td align="left">(Low) Dependability</td>
-                <td align="left">Low reliability, consistency,
-                trustworthiness</td>
-                <td align="left">Dependability/Reliability</td>
-              </tr>
-              <tr>
-                <td align="left">(Low)
-                Perfectionism/(Dis)organization/(Low) Planning</td>
-                <td align="left">Unconcerned about achievement, low
-                motivation, lack of organization and planning</td>
-                <td align="left">Organization/Diligence</td>
-              </tr>
-              <tr>
-                <td align="left">(Low) Performance Concern/(Low)
-                School/Work Performance/ (Low) Workaholism</td>
-                <td align="left">Low concern about how one’s abilities
-                or actions are evaluated, specific to contexts in which
-                others have expectations for performance (e.g., school
-                and work), specifically low effort rather than
-                performance; low workaholism</td>
-                <td align="left">Achievement motivation</td>
+                addressing difficulties, inconsistency, lack of
+                organization and planning</td>
+                <td align="left">Responsibility/Conscientiousness/Dependability/Reliability/Organization</td>
               </tr>
               <tr>
                 <td align="left">Manipulativeness/Psychological
@@ -5371,6 +5386,31 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1007/978-1-4614-9608-3_16</pub-id>
       <fpage>311</fpage>
       <lpage>329</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Aiken2018">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Aiken</surname><given-names>Alexandra</given-names></name>
+        <name><surname>Clare</surname><given-names>Philip J.</given-names></name>
+        <name><surname>Wadolowski</surname><given-names>Monika</given-names></name>
+        <name><surname>Hutchinson</surname><given-names>Delyse</given-names></name>
+        <name><surname>Najman</surname><given-names>Jackob M.</given-names></name>
+        <name><surname>Slade</surname><given-names>Tim</given-names></name>
+        <name><surname>Bruno</surname><given-names>Raimondo</given-names></name>
+        <name><surname>McBride</surname><given-names>Nyanda</given-names></name>
+        <name><surname>Kypri</surname><given-names>Kypros</given-names></name>
+        <name><surname>Mattick</surname><given-names>Richard P.</given-names></name>
+      </person-group>
+      <article-title>Age of alcohol initiation and progression to binge drinking in adolescence: A prospective cohort study</article-title>
+      <source>Alcoholism: Clinical and Experimental Research</source>
+      <year iso-8601-date="2018">2018</year>
+      <volume>42</volume>
+      <issue>1</issue>
+      <uri>https://onlinelibrary.wiley.com/doi/abs/10.1111/acer.13525</uri>
+      <pub-id pub-id-type="doi">10.1111/acer.13525</pub-id>
+      <fpage>100</fpage>
+      <lpage>110</lpage>
     </element-citation>
   </ref>
 </ref-list>
