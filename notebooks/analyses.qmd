@@ -459,7 +459,7 @@ plot_longitudinalExternalizingStudies
 ```{r}
 #| label: tbl-externalizingfacets
 #| tbl-cap: "Externalizing Facets Identified in Content Analysis of Externalizing Measures."
-#| apa-note: "Transdiagnostic facets of psychopathology, which encompass externalizing problems, include irritability/reactive anger, unemotionality, sleep problems, social problems, learning problems, and low functional independence."
+#| apa-note: "Transdiagnostic facets of psychopathology that frequently encompass externalizing problems were also identified and include irritability/reactive anger, unemotionality, sleep problems, social problems, learning problems, and low functional independence."
 #| apa-longtable: true
 
 knitr::kable(

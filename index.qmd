@@ -665,7 +665,7 @@ We also identified potential positive opposites of each facet.
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 *Note*.
-Transdiagnostic facets of psychopathology, which encompass externalizing problems, include irritability/reactive anger, unemotionality, sleep problems, social problems, learning problems, and low functional independence.
+Transdiagnostic facets of psychopathology that frequently encompass externalizing problems were also identified and include irritability/reactive anger, unemotionality, sleep problems, social problems, learning problems, and low functional independence.
 </p>
 :::
 
