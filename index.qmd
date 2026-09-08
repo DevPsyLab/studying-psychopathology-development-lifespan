@@ -513,7 +513,7 @@ In particular, there is a mismatch between theory of constructs—including how 
 Given the substantial changes in behavioral manifestation of psychopathology across development, it is important for measures to capture the constructs' changing behavioral manifestation, to stay developmentally relevant and construct valid.
 As noted by Moffitt [-@Moffitt1993, p. 694], "Measures of antisocial behavior should be sensitive to developmental heterogeneity to tap individual differences while allowing for the emergence of new forms of antisocial behavior (e.g., automobile theft) or for the forsaking of old forms (e.g., tantrums)."
 
-However, measures show insufficient differences in which items are assessed at which ages to account for heterotypic continuity.
+However, measures use the same items to assess problem behaviors across a very wide range of ages and thus do not account for heterotypic continuity.
 For example, among the most widely used measures of externalizing problems in research and practice is the Child Behavior Checklist (CBCL).
 However, the same version of the Child Behavior Checklist (CBCL) spans ages 6–18.
 Considerable development occurs during that span including key developmental transitions—from childhood to adolescence to emerging adulthood—and the CBCL does not capture such changes.
