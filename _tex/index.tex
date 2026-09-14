@@ -1,3 +1,9 @@
+\DocumentMetadata{
+  pdfstandard={ua-2},
+  tagging=on,
+  lang=en-US,
+  xmp=true}
+
 \documentclass[
   man,
   floatsintext,
@@ -7,10 +13,25 @@
   notimes,
   colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{apa7}
 
+% latex's tagging code patches \@makefntext by looking in its definition for
+% \hbox, \hb@xt@, \makebox or \@makefnmark, and stops with an error when it
+% finds none. apa7 defines it with \@thefnmark instead, so it is given here in
+% the equivalent form the tagging code can work with. The footnote mark is
+% unchanged: \@makefnmark is itself the superscripted \@thefnmark.
+\makeatletter
+\long\def\@makefntext#1{\raggedright\@makefnmark~#1}
+\makeatother
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{setspace}
 
+
+% Font fallback is a lualatex feature, and the fallback list has to be
+% registered before any font asks for it by name. That happens here rather
+% than next to each font because \babelfont below comes first. The fallback
+% fonts are asked for in harfbuzz mode because luaotfload only looks inside
+% a fallback font that was loaded that way; the fonts that use the list are
+% left alone, so their shaping is unchanged.
 
 \usepackage[bidi=default]{babel}
 \babelprovide[main,import]{american}
@@ -46,6 +67,26 @@
 % LaTeX tables using \toprule/\midrule still render even without Pandoc table
 % nodes.
 \usepackage{booktabs, multirow, multicol, colortbl, hhline, caption, array, float, xpatch}
+
+% booktabs' rules take an optional trim argument, written \midrule(rl),
+% which they look for by peeking at the single character that follows the
+% rule. Inside a longtable that peek is \@BLTrule's, and a table whose
+% first cell opens with a literal ( -- the term name (Intercept), which
+% every model summary produces -- is read as the start of a trim spec.
+% booktabs then tries to parse the letters of Intercept as trim sides,
+% leaves \cmrsideswitch undefined and takes the whole build down with
+% ``Undefined control sequence'' (issue #164). Pandoc's own tables are out
+% of reach of this, since it writes \noalign{} after every rule, but a
+% table written as latex -- kable(format = ``latex'', booktabs = TRUE,
+% longtable = TRUE) among them -- puts the row hard against the rule.
+%
+% Giving \@BLTrule an empty trim spec of its own stops it peeking. The
+% trim argument is then unavailable inside longtables, which is no loss
+% here: apaquarto never writes one. Thanks to @112345brian, who traced
+% this and proposed the patch.
+\makeatletter
+\def\@BLTrule{\@@BLTrule()}
+\makeatother
 \usepackage{subcaption}
 
 
@@ -151,6 +192,24 @@
 
 
 
+% apa7 sets captions with the caption package, which single spaces them
+% whatever the rest of the document does. Manuscript and student mode are
+% double spaced throughout, and that includes the caption number line and
+% the caption title line.
+\captionsetup{font=doublespacing}
+
+% A float resets the line spacing, so notes below figures and tables come out
+% single spaced whatever the document does. \apanotespacing gives them the
+% document's own spacing back, and apafloatlatex.lua puts it at the start of
+% every note. The note is the last thing in the float, so there is nothing
+% after it to restore the spacing for.
+\makeatletter
+\AtBeginDocument{%
+  \edef\apaq@stretch{\baselinestretch}%
+  \ifx\apaq@stretch\@empty\def\apaq@stretch{1}\fi}
+\newcommand{\apanotespacing}{\setstretch{\apaq@stretch}}
+\makeatother
+
 
 \usepackage{newtx}
 
@@ -190,7 +249,7 @@
 
 \leftheader{Petersen, Demko and Schumer}
 
-\date{2026-09-08}
+\date{2026-09-14}
 
 
 \abstract{The field has not adequately studied individuals' development
@@ -416,13 +475,13 @@ Aging}{\label{fig-lifespancognitivetrajectories}}}}
 
 \pandocbounded{\includegraphics[keepaspectratio,alt={Different Cognitive Trajectories of Aging}]{index_files/figure-latex/notebooks-analyses-fig-lifespancognitivetrajectories-output-1.png}}
 
-\noindent \emph{Note.} \textbf{Panel~A}: Hypothetical models for
-different cognitive trajectories of aging. MCI = mild cognitive
-impairment. (Figure in Panel A reprinted from Borelli et al.
-(\citeproc{ref-Borelli2018}{2018}), Figure 1, p.~222. Borelli, W. V.,
-Carmona, K. C., Studart-Neto, A., Nitrini, R., Caramelli, P., \& Costa,
-J. C. d.~(2018). Operationalized definition of older adults with high
-cognitive performance. \emph{Dementia \& Neuropsychologia},
+\ifdefined\apanotespacing\apanotespacing\fi \noindent \emph{Note.} \textbf{Panel~A}:
+Hypothetical models for different cognitive trajectories of aging. MCI =
+mild cognitive impairment. (Figure in Panel A reprinted from Borelli et
+al. (\citeproc{ref-Borelli2018}{2018}), Figure 1, p.~222. Borelli, W.
+V., Carmona, K. C., Studart-Neto, A., Nitrini, R., Caramelli, P., \&
+Costa, J. C. d.~(2018). Operationalized definition of older adults with
+high cognitive performance. \emph{Dementia \& Neuropsychologia},
 \emph{12}(3), 221--227.
 \url{https://doi.org/10.1590/1980-57642018dn12-030001}). \textbf{Panel
 B}: Theoretical illustration of inter-individual variability in
@@ -548,19 +607,20 @@ Development}{\label{fig-externalizing-by-age}}}}
 
 \pandocbounded{\includegraphics[keepaspectratio,alt={Externalizing behavior across development}]{index_files/figure-latex/notebooks-analyses-fig-externalizing-by-age-output-1.png}}
 
-\noindent \emph{Note.} \textbf{Panel~A}: The age-crime participation
-curve from age 9 through 64 in cohort members registered for antisocial
-and/or criminal behavior in a birth cohort recruited in Stockholm,
-Sweden (\emph{N} = 4,825), based on official crime records. The steep
-peak in crime rate in the adolescent years is similar to the age-crime
-curve in the United States; however, the steepness of the age-crime
-curve differs within country across birth cohorts
-(\citeproc{ref-Steffensmeier2025}{Steffensmeier et al., 2025}). (Figure
-adapted from Sivertsson et al. (\citeproc{ref-Sivertsson2024}{2024}),
-Figure 1, p.~7. Sivertsson, F., Carlsson, C., Almquist, Y. B., \&
-Brännström, L. (2024). Offending trajectories from childhood to
-retirement age: Findings from the Stockholm birth cohort study.
-\emph{Journal of Criminal Justice}, \emph{91}, 102155.
+\ifdefined\apanotespacing\apanotespacing\fi \noindent \emph{Note.} \textbf{Panel~A}:
+The age-crime participation curve from age 9 through 64 in cohort
+members registered for antisocial and/or criminal behavior in a birth
+cohort recruited in Stockholm, Sweden (\emph{N} = 4,825), based on
+official crime records. The steep peak in crime rate in the adolescent
+years is similar to the age-crime curve in the United States; however,
+the steepness of the age-crime curve differs within country across birth
+cohorts (\citeproc{ref-Steffensmeier2025}{Steffensmeier et al., 2025}).
+(Figure adapted from Sivertsson et al.
+(\citeproc{ref-Sivertsson2024}{2024}), Figure 1, p.~7. Sivertsson, F.,
+Carlsson, C., Almquist, Y. B., \& Brännström, L. (2024). Offending
+trajectories from childhood to retirement age: Findings from the
+Stockholm birth cohort study. \emph{Journal of Criminal Justice},
+\emph{91}, 102155.
 \url{https://doi.org/10.1016/j.jcrimjus.2024.102155}). \textbf{Panel B}:
 A stylized depiction of Moffitt's (\citeproc{ref-Moffitt1993}{1993})
 developmental taxonomy of externalizing behavior, adapted to include a
@@ -630,22 +690,23 @@ Studies}{\label{fig-longitudinalstudies}}}}
 
 \pandocbounded{\includegraphics[keepaspectratio,alt={(Approximate) Ages Spanned by Various Lengthy Longitudinal Studies}]{index_files/figure-latex/notebooks-analyses-fig-longitudinalstudies-output-1.png}}
 
-\noindent \emph{Note.} The~list of longitudinal studies is as of this
-writing and is not exhaustive. Studies that are no longer active are
-shown in gray. Solid lines reflect fully longitudinal spans (i.e., the
-same individuals were followed over time). Dotted lines reflect ages
-assessed cross-sectionally---even if some participants may have been
-followed longitudinally. For instance, if a study recruited
-5--10-year-old children and followed each child for 20 years, the study
-would have dotted lines from ages 5--10 and from ages 25--30. Studies
-shown entirely with dotted lines assessed their full age range
-cross-sectionally but still included longitudinal follow-up of some
-participants. A star at age 0 represents that participants were enrolled
-before birth and the study included prenatal assessments. Ages spanned
-reflect ages when assessments were collected directly from participants;
-ages spanned do not include links to registry data (e.g., birth records,
-offending records). Age was truncated at 100; thus, age 100 indicates
-that participants were followed into their 90s (or until death).
+\ifdefined\apanotespacing\apanotespacing\fi \noindent \emph{Note.} The~list
+of longitudinal studies is as of this writing and is not exhaustive.
+Studies that are no longer active are shown in gray. Solid lines reflect
+fully longitudinal spans (i.e., the same individuals were followed over
+time). Dotted lines reflect ages assessed cross-sectionally---even if
+some participants may have been followed longitudinally. For instance,
+if a study recruited 5--10-year-old children and followed each child for
+20 years, the study would have dotted lines from ages 5--10 and from
+ages 25--30. Studies shown entirely with dotted lines assessed their
+full age range cross-sectionally but still included longitudinal
+follow-up of some participants. A star at age 0 represents that
+participants were enrolled before birth and the study included prenatal
+assessments. Ages spanned reflect ages when assessments were collected
+directly from participants; ages spanned do not include links to
+registry data (e.g., birth records, offending records). Age was
+truncated at 100; thus, age 100 indicates that participants were
+followed into their 90s (or until death).
 
 \end{figure}
 
@@ -827,20 +888,21 @@ Behavior}{\label{fig-longitudinal-externalizing-studies}}}}
 
 \pandocbounded{\includegraphics[keepaspectratio,alt={(Approximate) Ages Spanned by Externalizing Trajectories in Various Lengthy Longitudinal Studies Examining Individuals\textquotesingle{} Trajectories of Externalizing Behavior}]{index_files/figure-latex/notebooks-analyses-fig-longitudinal-externalizing-studies-output-1.png}}
 
-\noindent \emph{Note.} The~list of longitudinal studies is not
-exhaustive. Studies that are based on registry data are shown in gray.
-Studies that used developmental scaling to harmonize scores across ages
-(i.e., to link scores across ages onto the same scale) are in green.
-Measurement occasions are depicted with solid circles. Note that, in
-some studies, measurement occasions only apply to a subset of
-participants in that study---in some cases, no participant was assessed
-at all measurement occasions. Solid lines reflect fully longitudinal
-spans (i.e., the same individuals were followed over time). Dotted lines
-reflect ages assessed cross-sectionally---even if some participants may
-have been followed longitudinally. For instance, if a study recruited
-5--10-year-old children and followed each child for 20 years, the study
-would have dotted lines from ages 5--10 and from ages 25--30. Studies
-shown entirely with dotted lines assessed their full age range
+\ifdefined\apanotespacing\apanotespacing\fi \noindent \emph{Note.} The~list
+of longitudinal studies is not exhaustive. Studies that are based on
+registry data are shown in gray. Studies that used developmental scaling
+to harmonize scores across ages (i.e., to link scores across ages onto
+the same scale) are in green. Measurement occasions are depicted with
+solid circles. Note that, in some studies, measurement occasions only
+apply to a subset of participants in that study---in some cases, no
+participant was assessed at all measurement occasions. Solid lines
+reflect fully longitudinal spans (i.e., the same individuals were
+followed over time). Dotted lines reflect ages assessed
+cross-sectionally---even if some participants may have been followed
+longitudinally. For instance, if a study recruited 5--10-year-old
+children and followed each child for 20 years, the study would have
+dotted lines from ages 5--10 and from ages 25--30. Studies shown
+entirely with dotted lines assessed their full age range
 cross-sectionally but still included longitudinal follow-up of
 participants. `MTSFGCLS' = Montreal Two Samples Four Generations
 Cross-sectional and Longitudinal Studies.
@@ -977,17 +1039,17 @@ Behaviors by Age (\emph{N} =
 
 \includegraphics[width=1\linewidth,height=\textheight,keepaspectratio,alt={Frequency (per Month) of Engaging in Various Externalizing Behaviors by Age (*N* = 1,237).}]{Figures/Petersen2026_figure1.png}
 
-\noindent \emph{Note.} Items~are from the Externalizing Spectrum
-Inventory (ESI), but unlike the True/False ESI, participants rated items
-on an absolute frequency scale (times per day/week/month/year). The gray
-band is the 95\% confidence interval. The figure demonstrates that
-different externalizing behaviors are most common at different
-developmental periods, consistent with heterotypic continuity. As
-examples, hurting others' feelings on purpose (left panel) was most
-common in early adulthood; snapping or raising one's voice (middle
-panel) was most common in middle adulthood; getting in power struggles
-with others (right panel) was most common in older adulthood. (Figure
-reprinted from Petersen, Demko, Doebler, et al.
+\ifdefined\apanotespacing\apanotespacing\fi \noindent \emph{Note.} Items~are
+from the Externalizing Spectrum Inventory (ESI), but unlike the
+True/False ESI, participants rated items on an absolute frequency scale
+(times per day/week/month/year). The gray band is the 95\% confidence
+interval. The figure demonstrates that different externalizing behaviors
+are most common at different developmental periods, consistent with
+heterotypic continuity. As examples, hurting others' feelings on purpose
+(left panel) was most common in early adulthood; snapping or raising
+one's voice (middle panel) was most common in middle adulthood; getting
+in power struggles with others (right panel) was most common in older
+adulthood. (Figure reprinted from Petersen, Demko, Doebler, et al.
 (\citeproc{ref-Petersen2026b}{2026}), Figure 1, p.~301. Petersen, I. T.,
 Demko, Z., Doebler, P., Sabel, L., Oleson, J. J., \& Krueger, R. F.
 (2026). How often is ``often''? Improving assessment of the
@@ -1193,25 +1255,25 @@ Assessment}{\label{fig-approachesToLongitudinalAssessment}}}}
 
 \includegraphics[width=1\linewidth,height=\textheight,keepaspectratio,alt={Approaches to Longitudinal Assessment.}]{Figures/approachesToLongitudinalAssessment.jpg}
 
-\noindent \emph{Note.} Item~set A refers to items that are
-construct-valid at only timepoint 1 (T1); item set B is construct-valid
-at both T1 and T2; item set C is construct-valid at only T2. A dash
-indicates that the item set was not assessed at a given timepoint. A
-white box indicates invalid assessment in terms of either a content gap
-(i.e., important missing items) or intrusion (i.e., invalid items at a
-given timepoint). In a study of externalizing behavior from early
-childhood to adulthood, ``biting others'' may be in item set A;
-``noncompliant'' in B; ``drug use'' in C. The three approaches are: (1)
-common items: B at T1 and T2, (2) upward/downward extension: ABC at T1
-and T2, or (3) construct-valid items: AB at T1; BC at T2. The ``common
-items'' and ``upward/downward extension'' approaches are by far the most
-widely used in the literature, even though they likely lead to
-inaccurate scores and thus inaccurate trajectories. (Figure reprinted
-from Petersen, Demko, Lee, et al. (\citeproc{ref-Petersen2026a}{2026}),
-Figure 1, p.~113. Petersen, I. T., Demko, Z., Lee, W.-C., \& Oleson, J.
-J. (2026). Studying development of psychopathology using changing
-measures to account for heterotypic continuity. \emph{JAACAP Open},
-\emph{4}(1), 111--123.
+\ifdefined\apanotespacing\apanotespacing\fi \noindent \emph{Note.} Item~set
+A refers to items that are construct-valid at only timepoint 1 (T1);
+item set B is construct-valid at both T1 and T2; item set C is
+construct-valid at only T2. A dash indicates that the item set was not
+assessed at a given timepoint. A white box indicates invalid assessment
+in terms of either a content gap (i.e., important missing items) or
+intrusion (i.e., invalid items at a given timepoint). In a study of
+externalizing behavior from early childhood to adulthood, ``biting
+others'' may be in item set A; ``noncompliant'' in B; ``drug use'' in C.
+The three approaches are: (1) common items: B at T1 and T2, (2)
+upward/downward extension: ABC at T1 and T2, or (3) construct-valid
+items: AB at T1; BC at T2. The ``common items'' and ``upward/downward
+extension'' approaches are by far the most widely used in the
+literature, even though they likely lead to inaccurate scores and thus
+inaccurate trajectories. (Figure reprinted from Petersen, Demko, Lee, et
+al. (\citeproc{ref-Petersen2026a}{2026}), Figure 1, p.~113. Petersen, I.
+T., Demko, Z., Lee, W.-C., \& Oleson, J. J. (2026). Studying development
+of psychopathology using changing measures to account for heterotypic
+continuity. \emph{JAACAP Open}, \emph{4}(1), 111--123.
 \url{https://doi.org/10.1016/j.jaacop.2025.10.008}).
 
 \end{figure}
@@ -1445,11 +1507,11 @@ Function of Theta (θ)}{\label{fig-absoluteFrequencyInformation}}}}
 
 \includegraphics[width=1\linewidth,height=\textheight,keepaspectratio,alt={Test Information Functions of Absolute Frequency Versus Dichotomized Versus Adult Self-Report Items: Test Information as a Function of Theta (θ).}]{Figures/Petersen2026_figure4.png}
 
-\noindent \emph{Note.} ``Absolute~Frequency'' refers to count items;
-``Dichotomized'' refers to dichotomized versions of the count items;
-``Adult Self-Report'' refers to items from the Achenbach Adult
-Self-Report. Theta represents the person's level on the latent
-externalizing problems factor. The figure demonstrates that items
+\ifdefined\apanotespacing\apanotespacing\fi \noindent \emph{Note.} ``Absolute~Frequency''
+refers to count items; ``Dichotomized'' refers to dichotomized versions
+of the count items; ``Adult Self-Report'' refers to items from the
+Achenbach Adult Self-Report. Theta represents the person's level on the
+latent externalizing problems factor. The figure demonstrates that items
 assessing absolute frequency yield more information (i.e., measurement
 precision) than dichotomized versions of the same items and the
 Likert-type response options of the Adult Self-Report. (Figure reprinted
@@ -1664,10 +1726,11 @@ individual through words, tone, or manner & Respectful communication \\
 }
 
 \vspace{-12pt}
-\noindent \emph{Note.} Transdiagnostic~facets of psychopathology that
-frequently encompass externalizing problems were also identified and
-include irritability/reactive anger, unemotionality, sleep problems,
-social problems, learning problems, and low functional independence.
+\ifdefined\apanotespacing\apanotespacing\fi \noindent \emph{Note.} Transdiagnostic~facets
+of psychopathology that frequently encompass externalizing problems were
+also identified and include irritability/reactive anger, unemotionality,
+sleep problems, social problems, learning problems, and low functional
+independence.
 
 \textsubscript{Source:
 \href{https://DevPsyLab.github.io/studying-psychopathology-development-lifespan/notebooks/analyses-preview.html\#cell-tbl-externalizingfacets}{Analyses}}
@@ -1743,19 +1806,20 @@ Infancy to Adulthood}{\label{fig-constructValidItemDesign}}}}
 
 \includegraphics[width=1\linewidth,height=\textheight,keepaspectratio,alt={Conceptual depiction of a construct-valid item design from infancy to adulthood.}]{Figures/constructValidItemDesign.png}
 
-\noindent \emph{Note.} The~age(s) at which an item set is assessed are
-represented by the letter \texttt{x} and a colored box. Some items
-(``Core'', in green) represent the core of the phenotype and are
-assessed across all ages. Some items (in varying shades of brown) are
-age-specific and are assessed at only one or a few ages. However, some
-of the items assessed at a given age are shared with those assessed at
-adjacent ages, to facilitate linking the scores across ages. For
-instance, item set \texttt{f} can be used to help link scores from age 6
-to those at age 5, and item set \texttt{g} can be used to help link
-scores from age 6 to those at age 7. Hypothetically, items could be
-assessed for as many or as few years as desired---as long as the items
-are construct valid for those ages and there enough age-common items
-between adjacent ages for linking scores across ages.
+\ifdefined\apanotespacing\apanotespacing\fi \noindent \emph{Note.} The~age(s)
+at which an item set is assessed are represented by the letter
+\texttt{x} and a colored box. Some items (``Core'', in green) represent
+the core of the phenotype and are assessed across all ages. Some items
+(in varying shades of brown) are age-specific and are assessed at only
+one or a few ages. However, some of the items assessed at a given age
+are shared with those assessed at adjacent ages, to facilitate linking
+the scores across ages. For instance, item set \texttt{f} can be used to
+help link scores from age 6 to those at age 5, and item set \texttt{g}
+can be used to help link scores from age 6 to those at age 7.
+Hypothetically, items could be assessed for as many or as few years as
+desired---as long as the items are construct valid for those ages and
+there enough age-common items between adjacent ages for linking scores
+across ages.
 
 \end{figure}
 
@@ -1939,33 +2003,34 @@ Scaling}{\label{fig-linking}}}}
 
 \includegraphics[width=1\linewidth,height=\textheight,keepaspectratio,alt={Example of linking scores from measures across ages using the item response theory approach to developmental scaling.}]{Figures/Petersen2021_figure1.png}
 
-\noindent \emph{Note.} The~figure illustrates the effect of linking the
-latent externalizing problems scores, θ, across ages, using
-developmental scaling. The left panel illustrates the test
-characteristic curves representing the model-implied proportion out of
-total possible scores across the latent externalizing problems score at
-age 4 and 5, before the linking process. The right panel illustrates the
-test characteristic curves after the linking process. The shading
-between the age 4 and age 5 test characteristic curves represents
-differences between the two test characteristic curves in terms of
-discrimination and/or severity, where larger differences reflect scores
-that are less comparable. Linking minimizes differences between the
-discrimination and severity of the age-common items. Discrimination is
-depicted by the steepness of the slope at the inflection point of the
-test characteristic curve. Severity is represented by the value on the
-x-axis at the inflection point of the test characteristic curve. The
-left panel indicates that the externalizing problem items showed higher
-severity (i.e., its inflection point is further right) and somewhat
-stronger discrimination (i.e., its slope is steeper) at age 5 than at
-age 4. The right panel shows considerably smaller differences between
-the two test characteristic curves, which provides empirical evidence
-that the linking successfully placed the latent externalizing problem
-scores across age on a more comparable scale (i.e., more similar
-discrimination and severity of the age-common items). (Figure reprinted
-from Petersen and LeBeau (\citeproc{ref-Petersen2021b}{2021}), Figure 1,
-p.~74. Petersen, I. T., \& LeBeau, B. (2021). Language ability in the
-development of externalizing behavior problems in childhood.
-\emph{Journal of Educational Psychology}, \emph{113}(1), 68--85.
+\ifdefined\apanotespacing\apanotespacing\fi \noindent \emph{Note.} The~figure
+illustrates the effect of linking the latent externalizing problems
+scores, θ, across ages, using developmental scaling. The left panel
+illustrates the test characteristic curves representing the
+model-implied proportion out of total possible scores across the latent
+externalizing problems score at age 4 and 5, before the linking process.
+The right panel illustrates the test characteristic curves after the
+linking process. The shading between the age 4 and age 5 test
+characteristic curves represents differences between the two test
+characteristic curves in terms of discrimination and/or severity, where
+larger differences reflect scores that are less comparable. Linking
+minimizes differences between the discrimination and severity of the
+age-common items. Discrimination is depicted by the steepness of the
+slope at the inflection point of the test characteristic curve. Severity
+is represented by the value on the x-axis at the inflection point of the
+test characteristic curve. The left panel indicates that the
+externalizing problem items showed higher severity (i.e., its inflection
+point is further right) and somewhat stronger discrimination (i.e., its
+slope is steeper) at age 5 than at age 4. The right panel shows
+considerably smaller differences between the two test characteristic
+curves, which provides empirical evidence that the linking successfully
+placed the latent externalizing problem scores across age on a more
+comparable scale (i.e., more similar discrimination and severity of the
+age-common items). (Figure reprinted from Petersen and LeBeau
+(\citeproc{ref-Petersen2021b}{2021}), Figure 1, p.~74. Petersen, I. T.,
+\& LeBeau, B. (2021). Language ability in the development of
+externalizing behavior problems in childhood. \emph{Journal of
+Educational Psychology}, \emph{113}(1), 68--85.
 \url{https://doi.org/10.1037/edu0000461}).
 
 \end{figure}
@@ -2094,9 +2159,10 @@ Cohort}{\label{fig-longitudinalDesigns}}}}
 
 \includegraphics[width=1\linewidth,height=\textheight,keepaspectratio,alt={Research Designs by Time Of Measurement and Cohort}]{Figures/longitudinalDesigns.png}
 
-\noindent \emph{Note.} Values~in the cells are ages of the participants.
-Dashed line indicates different participants were assessed at each time
-of measurement. (Figure reprinted from Petersen
+\ifdefined\apanotespacing\apanotespacing\fi \noindent \emph{Note.} Values~in
+the cells are ages of the participants. Dashed line indicates different
+participants were assessed at each time of measurement. (Figure
+reprinted from Petersen
 (\citeproc{ref-PetersenPrinciplesPsychAssessment}{2026}), Petersen, I.
 T. (2026). \emph{Principles of psychological assessment: With applied
 examples in R}. University of Iowa Libraries.
