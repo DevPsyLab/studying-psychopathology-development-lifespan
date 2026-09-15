@@ -7,6 +7,9 @@ manuscript:
 lang: en-US
 bibliography: references.bib
 
+filters:
+  - apanote
+
 format:
   html:
     highlight-style: a11y
