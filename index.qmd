@@ -606,6 +606,7 @@ The same general methods are also used to place people's scores on the same scal
 For examples of studies applying various linking methods to academic and cognitive skills, see @McArdle2009, McArdle and Grimm [-@McArdle2011], @Murayama2013, @Oleson2016, @Petscher2018, @Ward2022, and @Weeks2018.
 However, the use of linking methods is rare in studies of social and behavioral development broadly and psychopathology specifically.
 For studies that have applied such methods in studying social and behavioral development, see studies on self-concept [@Hancock2008], neuroticism [@Lai2023], self-regulation [@Hosch2022], underactivity/overactivity [and their subdimensions\; @McDermott2013], thought-disordered problems [@Petersen2026a], internalizing problems [@Harris2025; @Petersen2018; @Petersen2026a; @Tyrell2019], and externalizing problems [@ChenMBR; @ChenPM; @Harris2025; @Petersen2021b; @Petersen2022; @Petersen2026a].
+And even fewer of these studies accounted for heterotypic continuity by using different measures across ages [@ChenPM; @Hancock2008; @Harris2025; @Hosch2022; @Petersen2018; @Petersen2022; @Petersen2026a; @Tyrell2019].
 
 A failure to apply linking methods has consistently been shown to yield less accurate trajectories—at the person and group level [@ChenMBR; @Petersen2018; @Petersen2021a; @Petersen2026a].
 Thus, it is imperative that studies link scores across age-differing measures of psychopathology.
@@ -613,6 +614,7 @@ However, psychopathology assessments do not include scoring tools for linking sc
 The lack of scoring tools that link scores from age-differing psychopathology assessments leads researchers to restrict the age range of study.
 For instance, in their study, Bista et al. [-@Bista2025, p. 179] noted "A different version of the questionnaire (CBCL/2–3), designed for 2–3-year-olds, was used for the year 2 follow-up [compared to the CBCL/4–18 assessed from ages 5–17].
 Therefore, we excluded age 2 from our trajectory analysis."
+Restricting the age range of study to when the same measure was assessed naturally prevents studying development across important developmental transitions, when changes in behavior manifestatation may be especially likely, such as puberty, school entry, and entry into parenthood.
 
 ### Not Well-Suited for Capturing the Full Range of Individual Differences
 
