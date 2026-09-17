@@ -199,7 +199,7 @@ The orange line marks the threshold for functional independence; once an individ
 -->
 
 {{< embed notebooks/analyses.qmd#fig-lifespancognitivetrajectories >}}
-
+\
 <!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
@@ -260,13 +260,11 @@ And these individual differences are crucial to identify the risk and protective
   #fig-extTrajectories
   fig-alt="Individuals' (*N* = 585) longitudinal trajectories of externalizing problems from childhood to adulthood based on annual assessments of mother-, father-, teacher-, peer-, and self-report (at relevant ages)."
   }
-
-
 :::
 -->
 
 {{< embed notebooks/analyses.qmd#fig-externalizing-by-age >}}
-
+\
 <!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
@@ -310,7 +308,7 @@ We overview some of the seminal longitudinal studies that cover a lengthy span o
 A depiction of the ages spanned by various longitudinal studies is in @fig-longitudinalstudies.
 
 {{< embed notebooks/analyses.qmd#fig-longitudinalstudies >}}
-
+\
 <!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
@@ -386,7 +384,7 @@ In addition, studies have examined trajectories of emotional and behavioral dysr
 Studies have also leveraged registry data to examine trajectories of offending from ages 8–61 [@LeBlanc2021], from ages 10–61 [Cambridge Study in Delinquent Development\; @Farrington2023], and from ages 9–64 [Stockholm Metropolitan Study\; @Sivertsson2024].
 
 {{< embed notebooks/analyses.qmd#fig-longitudinal-externalizing-studies >}}
-
+\
 <!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
@@ -453,7 +451,7 @@ These factors likely interact to produce individual differences in heterotypic c
   fig-alt="Frequency (per Month) of Engaging in Various Externalizing Behaviors by Age (*N* = 1,237)."
   apa-note="Items are from the Externalizing Spectrum Inventory (ESI), but unlike the True/False ESI, participants rated items on an absolute frequency scale (times per day/week/month/year). The gray band is the 95% confidence interval. The figure demonstrates that different externalizing behaviors are most common at different developmental periods, consistent with heterotypic continuity. As examples, hurting others' feelings on purpose (left panel) was most common in early adulthood; snapping or raising one's voice (middle panel) was most common in middle adulthood; getting in power struggles with others (right panel) was most common in older adulthood. (Figure reprinted from @Petersen2026b, Figure 1, p. 301. Petersen, I. T., Demko, Z., Doebler, P., Sabel, L., Oleson, J. J., & Krueger, R. F. (2026). How often is \"often\"? Improving assessment of the externalizing spectrum using absolute frequency. *Psychological Assessment*, *38*(4), 295–306. <https://doi.org/10.1037/pas0001441>)."
   }
-
+\
 <!--
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
@@ -546,7 +544,7 @@ As examples of the downward extension approach, @Gornik2023 used the CBCL 4–18
   fig-alt="Approaches to Longitudinal Assessment."
   apa-note="Item set A refers to items that are construct-valid at only timepoint 1 (T1); item set B is construct-valid at both T1 and T2; item set C is construct-valid at only T2. A dash indicates that the item set was not assessed at a given timepoint. A white box indicates invalid assessment in terms of either a content gap (i.e., important missing items) or intrusion (i.e., invalid items at a given timepoint). In a study of externalizing behavior from early childhood to adulthood, \"biting others\" may be in item set A; \"noncompliant\" in B; \"drug use\" in C. The three approaches are: (1) common items: B at T1 and T2, (2) upward/downward extension: ABC at T1 and T2, or (3) construct-valid items: AB at T1; BC at T2. The \"common items\" and \"upward/downward extension\" approaches are by far the most widely used in the literature, even though they likely lead to inaccurate scores and thus inaccurate trajectories. (Figure reprinted from @Petersen2026a, Figure 1, p. 113. Petersen, I. T., Demko, Z., Lee, W.-C., & Oleson, J. J. (2026). Studying development of psychopathology using changing measures to account for heterotypic continuity. *JAACAP Open*, *4*(1), 111–123. <https://doi.org/10.1016/j.jaacop.2025.10.008>)."
   }
-
+\
 <!--
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
@@ -643,7 +641,7 @@ Instead of assessing relative frequency, researchers advise assessing absolute f
   fig-alt="Test Information Functions of Absolute Frequency Versus Dichotomized Versus Adult Self-Report Items: Test Information as a Function of Theta (θ)."
   apa-note="\"Absolute Frequency\" refers to count items; \"Dichotomized\" refers to dichotomized versions of the count items; \"Adult Self-Report\" refers to items from the Achenbach Adult Self-Report. Theta represents the person's level on the latent externalizing problems factor. The figure demonstrates that items assessing absolute frequency yield more information (i.e., measurement precision) than dichotomized versions of the same items and the Likert-type response options of the Adult Self-Report. (Figure reprinted from @Petersen2026b, Figure 4, p. 303. Petersen, I. T., Demko, Z., Doebler, P., Sabel, L., Oleson, J. J., & Krueger, R. F. (2026). How often is \"often\"? Improving assessment of the externalizing spectrum using absolute frequency. *Psychological Assessment*, *38*(4), 295–306. <https://doi.org/10.1037/pas0001441>)."
   }
-
+\
 <!--
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
@@ -675,7 +673,7 @@ Based on our content analysis of over 270 measures of externalizing behavior, we
 We also identified potential positive opposites of each facet.
 
 {{< embed notebooks/analyses.qmd#tbl-externalizingfacets >}}
-
+\
 <!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
@@ -719,7 +717,7 @@ For example, for a standardized test of math ability, kindergartners may receive
   fig-alt="Conceptual depiction of a construct-valid item design from infancy to adulthood."
   apa-note="The age(s) at which an item set is assessed are represented by the letter `x` and a colored box. Some items (\"Core\", in green) represent the core of the phenotype and are assessed across all ages. Some items (in varying shades of brown) are age-specific and are assessed at only one or a few ages. However, some of the items assessed at a given age are shared with those assessed at adjacent ages, to facilitate linking the scores across ages. For instance, item set `f` can be used to help link scores from age 6 to those at age 5, and item set `g` can be used to help link scores from age 6 to those at age 7. Hypothetically, items could be assessed for as many or as few years as desired—as long as the items are construct valid for those ages and there enough age-common items between adjacent ages for linking scores across ages."
   }
-
+\
 <!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
@@ -817,7 +815,7 @@ In addition, like MNFLA, IRT allows Bayesian estimation and regularizing priors 
   fig-alt="Example of linking scores from measures across ages using the item response theory approach to developmental scaling."
   apa-note="The figure illustrates the effect of linking the latent externalizing problems scores, θ, across ages, using developmental scaling. The left panel illustrates the test characteristic curves representing the model-implied proportion out of total possible scores across the latent externalizing problems score at age 4 and 5, before the linking process. The right panel illustrates the test characteristic curves after the linking process. The shading between the age 4 and age 5 test characteristic curves represents differences between the two test characteristic curves in terms of discrimination and/or severity, where larger differences reflect scores that are less comparable. Linking minimizes differences between the discrimination and severity of the age-common items. Discrimination is depicted by the steepness of the slope at the inflection point of the test characteristic curve. Severity is represented by the value on the x-axis at the inflection point of the test characteristic curve. The left panel indicates that the externalizing problem items showed higher severity (i.e., its inflection point is further right) and somewhat stronger discrimination (i.e., its slope is steeper) at age 5 than at age 4. The right panel shows considerably smaller differences between the two test characteristic curves, which provides empirical evidence that the linking successfully placed the latent externalizing problem scores across age on a more comparable scale (i.e., more similar discrimination and severity of the age-common items). (Figure reprinted from @Petersen2021b, Figure 1, p. 74. Petersen, I. T., & LeBeau, B. (2021). Language ability in the development of externalizing behavior problems in childhood. *Journal of Educational Psychology*, *113*(1), 68–85. <https://doi.org/10.1037/edu0000461>)."
   }
-
+\
 <!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
@@ -897,7 +895,7 @@ A time-sequential design adds age groups to a time-lag design, repeatedly assess
   fig-alt="Research Designs by Time Of Measurement and Cohort"
   apa-note="Values in the cells are ages of the participants. Dashed line indicates different participants were assessed at each time of measurement. (Figure reprinted from @PetersenPrinciplesPsychAssessment, Petersen, I. T. (2026). *Principles of psychological assessment: With applied examples in R*. University of Iowa Libraries. <https://doi.org/10.25820/work.007199>). Although the depictions of cohort-sequential and cross-sequential designs differ from the depictions by @Schaie2005 (i.e., they are reversed), they are consistent with contemporary definitions of these designs [@Little2024; @Masche2004; @Whitbourne2019]."
   }
-
+\
 <!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
