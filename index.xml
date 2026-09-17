@@ -232,6 +232,8 @@ academic and cognitive skills across lengthy developmental periods.</p>
     Aging</p></caption>
     <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/notebooks-analyses-fig-lifespancognitivetrajectories-output-1.png" />
   </fig>
+  <p>
+  </p>
   <p>Heterogeneity also applies to psychopathology trajectories
   including externalizing and criminal behavior. The age-crime curve
   depicts the well-known strong association between age and engagement
@@ -347,6 +349,8 @@ academic and cognitive skills across lengthy developmental periods.</p>
     Development</p></caption>
     <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/notebooks-analyses-fig-externalizing-by-age-output-1.png" />
   </fig>
+  <p>
+  </p>
   <p>Third, in a cross-sectional study, any apparent age-related
   differences in a construct could reflect cohort differences instead of
   developmental changes. For example, average differences in stress
@@ -397,6 +401,8 @@ academic and cognitive skills across lengthy developmental periods.</p>
     Longitudinal Studies</p></caption>
     <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/notebooks-analyses-fig-longitudinalstudies-output-1.png" />
   </fig>
+  <p>
+  </p>
   <sec id="seminal-longitudinal-studies">
     <title>Seminal Longitudinal Studies</title>
     <sec id="fels-longitudinal-study">
@@ -607,6 +613,8 @@ academic and cognitive skills across lengthy developmental periods.</p>
       Individuals’ Trajectories of Externalizing Behavior</p></caption>
       <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/notebooks-analyses-fig-longitudinal-externalizing-studies-output-1.png" />
     </fig>
+    <p>
+    </p>
     <p>However, as we will describe, these lengthy longitudinal studies
     of psychopathology (e.g.,
     <xref alt="Odgers et al. 2008" rid="ref-Odgers2008" ref-type="bibr">Odgers
@@ -731,11 +739,11 @@ academic and cognitive skills across lengthy developmental periods.</p>
     1993</xref>;
     <xref alt="Patterson 1993" rid="ref-Patterson1993" ref-type="bibr">Patterson
     1993</xref>). As depicted in
-    <xref alt="Figure 5" rid="fig-absoluteFrequencyByAge">Figure 5</xref>,
-    different externalizing behaviors are most common at different
-    developmental periods—even into adulthood, consistent with the
-    notion that externalizing behavior demonstrates heterotypic
-    continuity. Consistent with the Developmental Issues Framework
+    <bold>?@fig-absoluteFrequencyByAge</bold>, different externalizing
+    behaviors are most common at different developmental periods—even
+    into adulthood, consistent with the notion that externalizing
+    behavior demonstrates heterotypic continuity. Consistent with the
+    Developmental Issues Framework
     (<xref alt="Sroufe 2016" rid="ref-Sroufe2016" ref-type="bibr">Sroufe
     2016</xref>), the changing expression of externalizing behavior
     likely reflects a combination of time-varying genetic and
@@ -749,12 +757,11 @@ academic and cognitive skills across lengthy developmental periods.</p>
     alcohol consumption
     (<xref alt="Aiken et al. 2018" rid="ref-Aiken2018" ref-type="bibr">Aiken
     et al. 2018</xref>).</p>
-    <fig id="fig-absoluteFrequencyByAge">
-      <caption><p>Figure 5: Frequency (Per Month) of Engaging in Various
-      Externalizing Behaviors by Age (<italic>N</italic> =
-      1,237)</p></caption>
-      <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2026_figure1.png" />
-    </fig>
+    <p><inline-graphic id="fig-absoluteFrequencyByAge" mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2026_figure1.png">
+      <alt-text>Frequency (Per Month) of Engaging in Various
+      Externalizing Behaviors by Age (N = 1,237)</alt-text>
+    </inline-graphic>
+    </p>
     <p>In addition to externalizing problems, both internalizing
     (<xref alt="Petersen et al. 2018" rid="ref-Petersen2018" ref-type="bibr">Petersen
     et al. 2018</xref>;
@@ -860,8 +867,8 @@ academic and cognitive skills across lengthy developmental periods.</p>
       emerging adulthood—and the CBCL does not capture such changes.</p>
       <p>There are two primary ways that researchers have examined
       people’s change in psychopathology across development
-      (<xref alt="Figure 6" rid="fig-approachesToLongitudinalAssessment">Figure 6</xref>).
-      The “common items” approach removes items that are age
+      (<bold>?@fig-approachesToLongitudinalAssessment</bold>). The
+      “common items” approach removes items that are age
       specific.<xref ref-type="fn" rid="fn4">4</xref> For example, in a
       study of externalizing behavior from early childhood to
       adolescence, a study might remove substance use items that are not
@@ -909,11 +916,10 @@ academic and cognitive skills across lengthy developmental periods.</p>
       4–10/11–17-year-olds with 3 year-olds—i.e., ages younger than the
       assessment was designed, despite availability of a version for
       2–4-year-olds.</p>
-      <fig id="fig-approachesToLongitudinalAssessment">
-        <caption><p>Figure 6: Approaches to Longitudinal
-        Assessment</p></caption>
-        <graphic mimetype="image" mime-subtype="jpeg" xlink:href="Figures/approachesToLongitudinalAssessment.jpg" />
-      </fig>
+      <p><inline-graphic id="fig-approachesToLongitudinalAssessment" mimetype="image" mime-subtype="jpeg" xlink:href="Figures/approachesToLongitudinalAssessment.jpg">
+        <alt-text>Approaches to Longitudinal Assessment</alt-text>
+      </inline-graphic>
+      </p>
       <p>The common items approach yields low content validity because
       it does not assess all construct facets, especially age-specific
       manifestations. The upward/downward extension approach violates
@@ -1188,13 +1194,13 @@ academic and cognitive skills across lengthy developmental periods.</p>
       2013</xref>;
       <xref alt="Simms et al. 2019" rid="ref-Simms2019" ref-type="bibr">Simms
       et al. 2019</xref>). Indeed, as depicted in
-      <xref alt="Figure 7" rid="fig-absoluteFrequencyInformation">Figure 7</xref>,
-      items assessing absolute frequency have been shown to yield more
-      information than dichotomized versions of the same items and than
-      the Achenbach Adult Self-Report, which uses Likert-type response
-      options. In addition, if a respondent implicitly uses the target’s
-      same-aged peers as the normative reference group for determining
-      the relative frequency of a behavior, this could have the implicit
+      <bold>?@fig-absoluteFrequencyInformation</bold>, items assessing
+      absolute frequency have been shown to yield more information than
+      dichotomized versions of the same items and than the Achenbach
+      Adult Self-Report, which uses Likert-type response options. In
+      addition, if a respondent implicitly uses the target’s same-aged
+      peers as the normative reference group for determining the
+      relative frequency of a behavior, this could have the implicit
       effect of resulting in age-normed scores, which works against the
       goal of detecting change. Moreover, Likert-type scales tend to
       focus on frequency of misbehavior and ignore intensity and
@@ -1208,12 +1214,12 @@ academic and cognitive skills across lengthy developmental periods.</p>
       1999</xref>)—in addition to other aspects of behavior including
       onset, timing, duration, intensity, function, and resulting
       impairment.</p>
-      <fig id="fig-absoluteFrequencyInformation">
-        <caption><p>Figure 7: Test Information Functions of Absolute
-        Frequency Versus Dichotomized Versus Adult Self-Report Items:
-        Test Information as a Function of Theta (θ)</p></caption>
-        <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2026_figure4.png" />
-      </fig>
+      <p><inline-graphic id="fig-absoluteFrequencyInformation" mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2026_figure4.png">
+        <alt-text>Test Information Functions of Absolute Frequency
+        Versus Dichotomized Versus Adult Self-Report Items: Test
+        Information as a Function of Theta (θ)</alt-text>
+      </inline-graphic>
+      </p>
       <p>In addition, the measures focus on extreme or clinical-range
       behaviors; scores are thus positively skewed with floor effects
       and have unacceptably low reliability (including the CBCL;
@@ -1571,6 +1577,8 @@ academic and cognitive skills across lengthy developmental periods.</p>
           </table>
         </table-wrap>
       </fig>
+      <p>
+      </p>
       <p>Because existing measures do not capture the full range of
       individual differences, this naturally further limits the
       measures’ sensitivity to detect change (i.e., responsiveness),
@@ -1623,9 +1631,8 @@ academic and cognitive skills across lengthy developmental periods.</p>
     important to use the construct-valid items at a given age, even if
     that leads to using different measures across ages. A conceptual
     depiction of an example construct-valid item design spanning infancy
-    to adulthood is in
-    <xref alt="Figure 8" rid="fig-constructValidItemDesign">Figure 8</xref>.
-    In the construct-valid item design, some items represent the core of
+    to adulthood is in <bold>?@fig-constructValidItemDesign</bold>. In
+    the construct-valid item design, some items represent the core of
     the phenotype and are assessed across all ages, whereas other items
     are age-specific. Despite some age-specific items, some age-common
     items are assessed at adjacent ages, which help serve as anchor
@@ -1633,17 +1640,16 @@ academic and cognitive skills across lengthy developmental periods.</p>
     overlapping yet distinct items is widely used in educational testing
     to help link individuals’ scores across grades, and is called
     vertical scaling because the item sets appear to form a line moving
-    upward (see
-    <xref alt="Figure 8" rid="fig-constructValidItemDesign">Figure 8</xref>).
-    For example, for a standardized test of math ability, kindergartners
-    may receive items assessing counting, 1st graders may receive items
+    upward (see <bold>?@fig-constructValidItemDesign</bold>). For
+    example, for a standardized test of math ability, kindergartners may
+    receive items assessing counting, 1st graders may receive items
     assessing counting and addition, 2nd graders may receive items
     assessing addition and subtraction, and so on.</p>
-    <fig id="fig-constructValidItemDesign">
-      <caption><p>Figure 8: Conceptual Depiction of a Construct-Valid
-      Item Design from Infancy to Adulthood</p></caption>
-      <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/constructValidItemDesign.png" />
-    </fig>
+    <p><inline-graphic id="fig-constructValidItemDesign" mimetype="image" mime-subtype="png" xlink:href="Figures/constructValidItemDesign.png">
+      <alt-text>Conceptual Depiction of a Construct-Valid Item Design
+      from Infancy to Adulthood</alt-text>
+    </inline-graphic>
+    </p>
   </sec>
   <sec id="linking-of-scores">
     <title>Linking of Scores</title>
@@ -1824,8 +1830,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <p>IRT can also be used to link scores across different measures
       (<xref alt="Kolen and Brennan 2014" rid="ref-Kolen2014" ref-type="bibr">Kolen
       and Brennan 2014</xref>). The IRT approach to developmental
-      scaling is depicted in
-      <xref alt="Figure 9" rid="fig-linking">Figure 9</xref>. The IRT
+      scaling is depicted in <bold>?@fig-linking</bold>. The IRT
       approach to developmental scaling identifies scaling parameters
       that minimize the differences in the probability of a person
       endorsing the age-common items across two measures, at a given
@@ -1849,12 +1854,12 @@ academic and cognitive skills across lengthy developmental periods.</p>
       MNFLA, IRT allows Bayesian estimation and regularizing priors to
       identify anchor items without having to specify them in
       advance.</p>
-      <fig id="fig-linking">
-        <caption><p>Figure 9: Example of Linking Scores From Measures
-        Across Ages Using the Item Response Theory Approach to
-        Developmental Scaling</p></caption>
-        <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2021_figure1.png" />
-      </fig>
+      <p><inline-graphic id="fig-linking" mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2021_figure1.png">
+        <alt-text>Example of Linking Scores From Measures Across Ages
+        Using the Item Response Theory Approach to Developmental
+        Scaling</alt-text>
+      </inline-graphic>
+      </p>
       <p>Nevertheless, for many of these approaches, at least one anchor
       item is necessary to link the scale of the latent factor across
       timepoints
@@ -1962,11 +1967,10 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <tex-math><![CDATA[\text{age} = \text{period} - \text{cohort}]]></tex-math>
       <mml:math display="inline" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mtext mathvariant="normal">age</mml:mtext><mml:mo>=</mml:mo><mml:mtext mathvariant="normal">period</mml:mtext><mml:mo>−</mml:mo><mml:mtext mathvariant="normal">cohort</mml:mtext></mml:mrow></mml:math></alternatives></inline-formula>.</p>
       <p>Various types of cross-sectional and longitudinal designs are
-      depicted in
-      <xref alt="Figure 10" rid="fig-longitudinalDesigns">Figure 10</xref>.
-      In a cross-sectional study, any age-related differences are
-      confounded with cohort differences. Thus, age-related differences
-      in a cross-sectional study may not reflect development. In a
+      depicted in <bold>?@fig-longitudinalDesigns</bold>. In a
+      cross-sectional study, any age-related differences are confounded
+      with cohort differences. Thus, age-related differences in a
+      cross-sectional study may not reflect development. In a
       single-cohort longitudinal design, any observed changes with age
       could be due to period effects (rather than developmental change
       associated with aging) or could be specific to that cohort. To
@@ -1986,11 +1990,11 @@ academic and cognitive skills across lengthy developmental periods.</p>
       groups to a time-lag design, repeatedly assessing the same age
       range (e.g., ages 12–18), with some participants followed
       longitudinally.</p>
-      <fig id="fig-longitudinalDesigns">
-        <caption><p>Figure 10: Research Designs by Time of Measurement
-        and Cohort</p></caption>
-        <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/longitudinalDesigns.png" />
-      </fig>
+      <p><inline-graphic id="fig-longitudinalDesigns" mimetype="image" mime-subtype="png" xlink:href="Figures/longitudinalDesigns.png">
+        <alt-text>Research Designs by Time of Measurement and
+        Cohort</alt-text>
+      </inline-graphic>
+      </p>
       <p>Longitudinal sequential designs provide greater leverage for
       distinguishing age, period, and cohort influences by collecting
       information from multiple cohorts at multiple periods and ages.
