@@ -2,9 +2,7 @@ project:
   type: manuscript
 
 manuscript:
-  code-links:
-    - text: GitHub Repo
-      href: https://github.com/DevPsyLab/studying-psychopathology-development-lifespan
+  code-links: repo
 
 lang: en-US
 bibliography: references.bib
