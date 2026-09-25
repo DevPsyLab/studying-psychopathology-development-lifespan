@@ -208,7 +208,6 @@ The orange line marks the threshold for functional independence; once an individ
 
 {{< embed notebooks/analyses.qmd#fig-lifespancognitivetrajectories >}}
 \
-<!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 **Panel A**: Hypothetical models for different cognitive trajectories of aging.
@@ -223,7 +222,6 @@ The orange line marks the threshold for functional independence; once an individ
 (Figure in Panel B reprinted from @Abrous2026, Figure 1, p. 2. Abrous, D. N., Blin, N., Boraxbekk, C.-J., Catheline, G., Fitzsimons, C. P., Hilscher, M., Lemoine, M., Lopes, L. V., Maass, A., Nilsson, M., Nyberg, L., Rasmussen, L. J., Remondes, M., Sauvage, M., Schreiber, S., & Wolbers, T. (2026). Hallmarks of healthy cognitive aging: Inter-individual differences in aging trajectories. *Ageing Research Reviews*, *119*, 103102. <https://doi.org/10.1016/j.arr.2026.103102>)
 </p>
 :::
--->
 
 Heterogeneity also applies to psychopathology trajectories including externalizing and criminal behavior.
 The age-crime curve depicts the well-known strong association between age and engagement in crime, with crime rates peaking markedly (in many Western countries) in adolescence around ages 15–19.
@@ -273,7 +271,6 @@ And these individual differences are crucial to identify the risk and protective
 
 {{< embed notebooks/analyses.qmd#fig-externalizing-by-age >}}
 \
-<!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 **Panel A**: The age-crime participation curve from age 9 through 64 in cohort members who were registered for antisocial and/or criminal behavior in a birth cohort recruited in Stockholm, Sweden (*N* = 4,825), based on official records.
@@ -291,7 +288,6 @@ Average trajectory in red.
 (Figure adapted from @Petersen2015, Figure 2, Petersen, I. T., Bates, J. E., Dodge, K. A., Lansford, J. E., & Pettit, G. S. (2015). Describing and predicting developmental profiles of externalizing problems from childhood to adulthood. *Development and Psychopathology*, *27*(3), 791–818. <https://doi.org/10.1017/S0954579414000789>).
 </p>
 :::
--->
 
 Third, in a cross-sectional study, any apparent age-related differences in a construct could reflect cohort differences instead of developmental changes.
 For example, average differences in stress between 5-year-olds and 10-year-olds could reflect the differing experiences that the 10-year-olds shared, such as going to school during the Coronavirus pandemic.
@@ -317,7 +313,6 @@ A depiction of the ages spanned by various longitudinal studies is in @fig-longi
 
 {{< embed notebooks/analyses.qmd#fig-longitudinalstudies >}}
 \
-<!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 *Note*.
@@ -332,7 +327,6 @@ Ages spanned reflect ages when assessments were collected directly from particip
 Age was truncated at 100; thus, age 100 indicates that participants were followed into their 90s (or until death).
 </p>
 :::
--->
 
 ## Seminal Longitudinal Studies
 
@@ -393,7 +387,6 @@ Studies have also leveraged registry data to examine trajectories of offending f
 
 {{< embed notebooks/analyses.qmd#fig-longitudinal-externalizing-studies >}}
 \
-<!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 *Note*.
@@ -409,7 +402,6 @@ Studies shown entirely with dotted lines assessed their full age range cross-sec
 'MTSFGCLS' = Montreal Two Samples Four Generations Cross-sectional and Longitudinal Studies.
 </p>
 :::
--->
 
 However, as we will describe, these lengthy longitudinal studies of psychopathology [e.g., @Odgers2008]—including some of our own [e.g., @Petersen2015]—have important limitations in (a) how they assessed psychopathology constructs across development and (b) how they estimated people's scores on those constructs over time, which prevent strong inferences regarding individuals' change over time.
 
@@ -461,7 +453,6 @@ These factors likely interact to produce individual differences in heterotypic c
   }
 
 \
-<!--
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 *Note*.
@@ -472,7 +463,6 @@ As examples, hurting others' feelings on purpose (left panel) was most common in
 (Figure reprinted from @Petersen2026b, Figure 1, p. 301. Petersen, I. T., Demko, Z., Doebler, P., Sabel, L., Oleson, J. J., & Krueger, R. F. (2026). How often is "often"? Improving assessment of the externalizing spectrum using absolute frequency. *Psychological Assessment*, *38*(4), 295–306. <https://doi.org/10.1037/pas0001441>)
 </p>
 :::
--->
 
 In addition to externalizing problems, both internalizing [@Petersen2018; @Tyrell2019; @Weems2008; @Weiss2003] and thought-disordered [@Rutter2006] problems are thought to change in manifestation across development.
 
@@ -555,7 +545,6 @@ As examples of the downward extension approach, @Gornik2023 used the CBCL 4–18
   }
 
 \
-<!--
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 *Note*.
@@ -568,7 +557,6 @@ The "common items" and "upward/downward extension" approaches are by far the mos
 (Figure reprinted from @Petersen2026a, Figure 1, p. 113. Petersen, I. T., Demko, Z., Lee, W.-C., & Oleson, J. J. (2026). Studying development of psychopathology using changing measures to account for heterotypic continuity. *JAACAP Open*, *4*(1), 111–123. <https://doi.org/10.1016/j.jaacop.2025.10.008>)
 </p>
 :::
--->
 
 The common items approach yields low content validity because it does not assess all construct facets, especially age-specific manifestations.
 The upward/downward extension approach violates construct validity because it assesses developmentally inappropriate items.
@@ -653,7 +641,6 @@ Instead of assessing relative frequency, researchers advise assessing absolute f
   }
 
 \
-<!--
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 *Note*.
@@ -663,7 +650,6 @@ The figure demonstrates that items assessing absolute frequency yield more infor
 (Figure reprinted from @Petersen2026b, Figure 4, p. 303. Petersen, I. T., Demko, Z., Doebler, P., Sabel, L., Oleson, J. J., & Krueger, R. F. (2026). How often is "often"? Improving assessment of the externalizing spectrum using absolute frequency. *Psychological Assessment*, *38*(4), 295–306. <https://doi.org/10.1037/pas0001441>)
 </p>
 :::
--->
 
 In addition, the measures focus on extreme or clinical-range behaviors; scores are thus positively skewed with floor effects and have unacceptably low reliability [including the CBCL\; @Kaat2019; @Pavlovich2026; @Tiego2023], making the CBCL and existing measures unsuitable for dimensional research [@Pavlovich2026; @Tiego2023].
 Considerable evidence indicates that externalizing problems [and psychopathology, more generally\; @Haslam2012; @Haslam2020; @Kotov2017; @Krueger2002; @Krueger2011; @Krueger2016; @Markon2011; @Wright2013] and their trajectories [@Burt2012; @Fairchild2013; @Walters2011; @Walters2012; @Walters2013; @Walters2015] and risk factors [@Walters2014] are best conceptualized dimensionally [or multi-dimensionally\; @Bolhuis2017; @Wakschlag2014], not categorically [@Barry2013; @Coghill2012; @Forbes2016; @Kliem2018; @Kliem2022; @Krueger2004; @Krueger2005; @Krueger2007; @Krueger2021; @Markon2005; @Sellbom2016; @Walton2011].
@@ -684,15 +670,13 @@ Based on our content analysis of over 270 measures of externalizing behavior, we
 We also identified potential positive opposites of each facet.
 
 {{< embed notebooks/analyses.qmd#tbl-externalizingfacets >}}
-
-<!-- 
+\
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 *Note*.
 Transdiagnostic facets of psychopathology that frequently encompass externalizing problems were also identified and include irritability/reactive anger, unemotionality, sleep problems, social problems, learning problems, and low functional independence.
 </p>
 :::
--->
 
 Because existing measures do not capture the full range of individual differences, this naturally further limits the measures' sensitivity to detect change (i.e., responsiveness), which is crucial for clinical utility and for longitudinal research.
 Moreover, it is important for measures not to show restriction of range owing to ceiling or floor effects.
@@ -730,7 +714,6 @@ For example, for a standardized test of math ability, kindergartners may receive
   }
 
 \
-<!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 *Note*.
@@ -742,7 +725,6 @@ For instance, item set `f` can be used to help link scores from age 6 to those a
 Hypothetically, items could be assessed for as many or as few years as desired—as long as the items are construct valid for those ages and there enough age-common items between adjacent ages for linking scores across ages.
 </p>
 :::
--->
 
 ## Linking of Scores
 
@@ -829,7 +811,6 @@ In addition, like MNFLA, IRT allows Bayesian estimation and regularizing priors 
   }
 
 \
-<!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 *Note*.
@@ -845,7 +826,6 @@ The right panel shows considerably smaller differences between the two test char
 (Figure reprinted from @Petersen2021b, Figure 1, p. 74. Petersen, I. T., & LeBeau, B. (2021). Language ability in the development of externalizing behavior problems in childhood. *Journal of Educational Psychology*, *113*(1), 68–85. <https://doi.org/10.1037/edu0000461>)
 </p>
 :::
--->
 
 Nevertheless, for many of these approaches, at least one anchor item is necessary to link the scale of the latent factor across timepoints [@ChenPM].
 Moreover, when treating time continuously, the functional form of any DIF as a function of time must be correctly specified [@ChenPM].
@@ -910,7 +890,6 @@ A time-sequential design adds age groups to a time-lag design, repeatedly assess
   }
 
 \
-<!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 *Note*.
@@ -920,7 +899,6 @@ Dashed line indicates different participants were assessed at each time of measu
 Although the depictions of cohort-sequential and cross-sequential designs differ from the depictions by @Schaie2005 (i.e., they are reversed), they are consistent with contemporary definitions of these designs [@Little2024; @Masche2004; @Whitbourne2019].
 </p>
 :::
--->
 
 Longitudinal sequential designs provide greater leverage for distinguishing age, period, and cohort influences by collecting information from multiple cohorts at multiple periods and ages.
 Nevertheless, they do not eliminate the confounding between age, period, and cohort [@Rohrer2025].
