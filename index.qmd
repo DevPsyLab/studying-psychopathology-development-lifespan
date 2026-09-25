@@ -145,7 +145,15 @@ citation:
 
 ***NOTE: this manuscript is in progress of being drafted—it is incomplete.***
 
-<!-- Placeholder for quote from upcoming "70 Up" -->
+<!-- 3:12 of Part 1 of "70 Up" -->
+
+> You can be born shy.
+> You can be born as an extrovert.
+> You can be someone who likes to make people laugh.
+> You can be someone who's much quieter and deeper.
+> And I think that's in you, but then life happens.
+>
+> --- Sue Davis on "70 Up"
 
 When entrenched, psychopathology is costly and difficult to treat [@Insel2008; @Wakschlag2019].
 Understanding its developmental origins is therefore crucial for preventing later, more severe psychopathology.
