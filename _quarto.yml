@@ -8,6 +8,7 @@ lang: en-US
 bibliography: references.bib
 
 filters:
+  - quarto
   - apanote
 
 format:
