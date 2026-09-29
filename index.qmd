@@ -466,6 +466,7 @@ These factors likely interact to produce individual differences in heterotypic c
 
 \
 
+<!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 *Note*.
@@ -476,6 +477,7 @@ As examples, hurting others' feelings on purpose (left panel) was most common in
 (Figure reprinted from @Petersen2026b, Figure 1, p. 301. Petersen, I. T., Demko, Z., Doebler, P., Sabel, L., Oleson, J. J., & Krueger, R. F. (2026). How often is "often"? Improving assessment of the externalizing spectrum using absolute frequency. *Psychological Assessment*, *38*(4), 295–306. <https://doi.org/10.1037/pas0001441>)
 </p>
 :::
+-->
 
 In addition to externalizing problems, both internalizing [@Petersen2018; @Tyrell2019; @Weems2008; @Weiss2003] and thought-disordered [@Rutter2006] problems are thought to change in manifestation across development.
 
@@ -559,6 +561,7 @@ As examples of the downward extension approach, @Gornik2023 used the CBCL 4–18
 
 \
 
+<!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 *Note*.
@@ -571,6 +574,7 @@ The "common items" and "upward/downward extension" approaches are by far the mos
 (Figure reprinted from @Petersen2026a, Figure 1, p. 113. Petersen, I. T., Demko, Z., Lee, W.-C., & Oleson, J. J. (2026). Studying development of psychopathology using changing measures to account for heterotypic continuity. *JAACAP Open*, *4*(1), 111–123. <https://doi.org/10.1016/j.jaacop.2025.10.008>)
 </p>
 :::
+-->
 
 The common items approach yields low content validity because it does not assess all construct facets, especially age-specific manifestations.
 The upward/downward extension approach violates construct validity because it assesses developmentally inappropriate items.
@@ -656,6 +660,7 @@ Instead of assessing relative frequency, researchers advise assessing absolute f
 
 \
 
+<!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 *Note*.
@@ -665,6 +670,7 @@ The figure demonstrates that items assessing absolute frequency yield more infor
 (Figure reprinted from @Petersen2026b, Figure 4, p. 303. Petersen, I. T., Demko, Z., Doebler, P., Sabel, L., Oleson, J. J., & Krueger, R. F. (2026). How often is "often"? Improving assessment of the externalizing spectrum using absolute frequency. *Psychological Assessment*, *38*(4), 295–306. <https://doi.org/10.1037/pas0001441>)
 </p>
 :::
+-->
 
 In addition, the measures focus on extreme or clinical-range behaviors; scores are thus positively skewed with floor effects and have unacceptably low reliability [including the CBCL\; @Kaat2019; @Pavlovich2026; @Tiego2023], making the CBCL and existing measures unsuitable for dimensional research [@Pavlovich2026; @Tiego2023].
 Considerable evidence indicates that externalizing problems [and psychopathology, more generally\; @Haslam2012; @Haslam2020; @Kotov2017; @Krueger2002; @Krueger2011; @Krueger2016; @Markon2011; @Wright2013] and their trajectories [@Burt2012; @Fairchild2013; @Walters2011; @Walters2012; @Walters2013; @Walters2015] and risk factors [@Walters2014] are best conceptualized dimensionally [or multi-dimensionally\; @Bolhuis2017; @Wakschlag2014], not categorically [@Barry2013; @Coghill2012; @Forbes2016; @Kliem2018; @Kliem2022; @Krueger2004; @Krueger2005; @Krueger2007; @Krueger2021; @Markon2005; @Sellbom2016; @Walton2011].
@@ -733,6 +739,7 @@ For example, for a standardized test of math ability, kindergartners may receive
 
 \
 
+<!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 *Note*.
@@ -744,6 +751,7 @@ For instance, item set `f` can be used to help link scores from age 6 to those a
 Hypothetically, items could be assessed for as many or as few years as desired—as long as the items are construct valid for those ages and there enough age-common items between adjacent ages for linking scores across ages.
 </p>
 :::
+-->
 
 ## Linking of Scores
 
@@ -831,6 +839,7 @@ In addition, like MNFLA, IRT allows Bayesian estimation and regularizing priors 
 
 \
 
+<!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 *Note*.
@@ -846,6 +855,7 @@ The right panel shows considerably smaller differences between the two test char
 (Figure reprinted from @Petersen2021b, Figure 1, p. 74. Petersen, I. T., & LeBeau, B. (2021). Language ability in the development of externalizing behavior problems in childhood. *Journal of Educational Psychology*, *113*(1), 68–85. <https://doi.org/10.1037/edu0000461>)
 </p>
 :::
+-->
 
 Nevertheless, for many of these approaches, at least one anchor item is necessary to link the scale of the latent factor across timepoints [@ChenPM].
 Moreover, when treating time continuously, the functional form of any DIF as a function of time must be correctly specified [@ChenPM].
@@ -911,6 +921,7 @@ A time-sequential design adds age groups to a time-lag design, repeatedly assess
 
 \
 
+<!-- 
 ::: {.figure-caption .content-visible when-format="html"}
 <p style="font-size: 90%; color: gray;">
 *Note*.
@@ -920,6 +931,7 @@ Dashed line indicates different participants were assessed at each time of measu
 Although the depictions of cohort-sequential and cross-sequential designs differ from the depictions by @Schaie2005 (i.e., they are reversed), they are consistent with contemporary definitions of these designs [@Little2024; @Masche2004; @Whitbourne2019].
 </p>
 :::
+-->
 
 Longitudinal sequential designs provide greater leverage for distinguishing age, period, and cohort influences by collecting information from multiple cohorts at multiple periods and ages.
 Nevertheless, they do not eliminate the confounding between age, period, and cohort [@Rohrer2025].
