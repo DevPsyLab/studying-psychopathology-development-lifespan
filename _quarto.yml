@@ -37,12 +37,12 @@ format:
   #  toc: true
   apaquarto-docx:
     toc: false
-  apaquarto-typst: # comment out Typst until bug is fixed: https://github.com/quarto-dev/quarto-cli/issues/11552
-    keep-typ: true
-    toc: false
-    list-of-figures: false
-    list-of-tables: false
-    papersize: "us-letter"
+  #apaquarto-typst: # comment out Typst until bug is fixed: https://github.com/quarto-dev/quarto-cli/issues/11552
+  #  keep-typ: true
+  #  toc: false
+  #  list-of-figures: false
+  #  list-of-tables: false
+  #  papersize: "us-letter"
   apaquarto-pdf:
     documentmode: man
     pdf-standard: ua-2
