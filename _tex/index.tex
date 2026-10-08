@@ -658,19 +658,25 @@
 % The five APA levels. One to three are their own paragraphs; four and five run
 % into the text that follows them, which is why they are set as runin.
 % Numbering is off: APA headings are never numbered.
+%
+% No space is added above or below a heading: APA sets one on a line of its
+% own in the line spacing of the text around it, as typst does. The space
+% above was \baselineskip, which titlesec adds on top of the line spacing,
+% so every heading stood a blank line below the text before it, 49pt from it
+% in a manuscript where the lines are 24pt apart (tests/layout-manuscript.qmd).
 \setcounter{secnumdepth}{-1}
 
 \titleformat{\section}[block]
   {\normalfont\bfseries\centering}{}{0pt}{}
-\titlespacing{\section}{0pt}{\baselineskip}{0pt}
+\titlespacing{\section}{0pt}{0pt}{0pt}
 
 \titleformat{\subsection}[block]
   {\normalfont\bfseries\raggedright}{}{0pt}{}
-\titlespacing{\subsection}{0pt}{\baselineskip}{0pt}
+\titlespacing{\subsection}{0pt}{0pt}{0pt}
 
 \titleformat{\subsubsection}[block]
   {\normalfont\bfseries\itshape\raggedright}{}{0pt}{}
-\titlespacing{\subsubsection}{0pt}{\baselineskip}{0pt}
+\titlespacing{\subsubsection}{0pt}{0pt}{0pt}
 
 % No [.] suffix: apaheader.lua has already put a full stop at the end of a
 % level four or five heading, and only when the heading did not end in one
@@ -678,11 +684,11 @@
 % heading ending in a question mark into "...?.".
 \titleformat{\paragraph}[runin]
   {\normalfont\bfseries}{}{0pt}{}
-\titlespacing{\paragraph}{\parindent}{\baselineskip}{0.5em}
+\titlespacing{\paragraph}{\parindent}{0pt}{0.5em}
 
 \titleformat{\subparagraph}[runin]
   {\normalfont\bfseries\itshape}{}{0pt}{}
-\titlespacing{\subparagraph}{\parindent}{\baselineskip}{0.5em}
+\titlespacing{\subparagraph}{\parindent}{0pt}{0.5em}
 
 % Journal mode sets levels one to three the way the Journal of Educational
 % Psychology does (measured from its pages; JEP.pdf at the repository root):
@@ -764,22 +770,37 @@
 % The box begins from the depth of the line above it, so that the title is set
 % the same distance under that line as it would have been without the box, and
 % the line after the box is spaced from the caption's last line the same way.
+%
+% A figure set in the text flow, as a manuscript's is, is kept together the
+% same way: its title, caption and picture are boxed and measured, and the
+% page is ended ahead of them unless there is room for them and the first two
+% lines of the note, which follows the picture with no break allowed between.
+% The rest of the note may run on to the next page. In an [H] float the note
+% could not: a figure and note taller than the page had the end of the note
+% set past the foot of the page and cut off (wjschne/apaquarto#171,
+% tests/layout-figure-note-break.qmd).
+%
+% \apakeepend takes the room to ask for beyond the box: three lines for a
+% table, two for a figure with a note, none for a figure without one.
 \newsavebox{\apatablekeepbox}
 \newlength{\apatablekeepdepth}
 \newcommand{\apatablekeep}{%
   \par\setlength{\apatablekeepdepth}{\prevdepth}%
   \setbox\apatablekeepbox\vbox\bgroup\prevdepth\apatablekeepdepth}
-\newcommand{\apatablekeepend}{%
+\newcommand{\apakeepend}[1]{%
   \par\global\apatablekeepdepth\prevdepth\egroup
   % A penalty no page may break at, which hands what is waiting to the page
   % so that \pagetotal counts it.
   \penalty10000
-  \ifdim\dimexpr\ht\apatablekeepbox+\dp\apatablekeepbox+3\baselineskip\relax
+  \ifdim\dimexpr\ht\apatablekeepbox+\dp\apatablekeepbox+#1\relax
       >\dimexpr\pagegoal-\pagetotal\relax
     \vfil\penalty-10000
   \fi
   \unvbox\apatablekeepbox
   \prevdepth\apatablekeepdepth}
+\newcommand{\apatablekeepend}{\apakeepend{3\baselineskip}}
+% A figure's: the note's first two lines, held to the picture.
+\newcommand{\apafigurekeepend}{\apakeepend{2\baselineskip}\nopagebreak}
 
 % The blank line APA leaves between a figure's title and the figure itself.
 %
@@ -899,12 +920,23 @@
   {\par\raggedleft\setlength{\parindent}{0pt}}
   {\par}
 
-% A dissertation indents half an inch and single spaces.
+% A dissertation indents half an inch and single spaces, and stands a double
+% space (24pt, baseline to baseline) between the quotation and the body on
+% either side, as typst does. The list's \topsep stood on top of that: above,
+% it was added to the quotation's single spacing, and below to the body's
+% double spacing, which set the quotation 28pt under the line above and the
+% next line 37pt under it (tests/layout-thesis.qmd). Single spacing is set
+% before the list adds its space, so \topsep is the difference between double
+% and single (\apathesisentrysep), and nothing is added below, where the
+% body's own spacing is a double space already.
+\makeatletter
 \newcommand{\apathesisquote}{%
   \renewenvironment{quote}
-    {\list{}{\leftmargin=0.5in\rightmargin=0pt\parsep=0pt}%
-     \item\relax\apathesissingle}
-    {\endlist}}
+    {\list{}{\leftmargin=0.5in\rightmargin=0pt\parsep=0pt\partopsep=0pt
+       \apathesissingle\topsep=\apathesisentrysep}%
+     \item\relax}
+    {\@topsepadd=\z@\endlist}}
+\makeatother
 
 % Quarto writes the reference list as pandoc's CSLReferences list, whose
 % entries are the items of a LaTeX list. The spacing is appended to what that
@@ -1206,7 +1238,13 @@ and who may be resilient to the typical aging process
 of the heterogeneity of cognitive decline are depicted in
 \hyperref[fig-lifespancognitivetrajectories]{Figure~\ref*{fig-lifespancognitivetrajectories}}.
 
-\begin{figure}[H]
+\par\addvspace{\baselineskip}\begingroup
+
+\setlength{\parindent}{0pt}
+
+\captionsetup{type=figure}
+
+\apatablekeep
 
 \setcounter{figure}{0}
 
@@ -1224,6 +1262,8 @@ of the heterogeneity of cognitive decline are depicted in
 of Aging}
 
 \pandocbounded{\includegraphics[keepaspectratio,alt={Different Cognitive Trajectories of Aging}]{index_files/figure-latex/notebooks-analyses-fig-lifespancognitivetrajectories-output-1.png}}
+
+\apafigurekeepend
 
 \emph{Note}. \textbf{Panel~A}: Hypothetical models for different
 cognitive trajectories of aging. MCI = mild cognitive impairment.
@@ -1249,7 +1289,7 @@ T. (2026). Hallmarks of healthy cognitive aging: Inter-individual
 differences in aging trajectories. \emph{Ageing Research Reviews},
 \emph{119}, 103102. \url{https://doi.org/10.1016/j.arr.2026.103102}).
 
-\end{figure}
+\par\endgroup\addvspace{\baselineskip}
 
 \textsubscript{Source:
 \href{https://DevPsyLab.github.io/studying-psychopathology-development-lifespan/notebooks/analyses-preview.html\#cell-fig-lifespancognitivetrajectories}{Analyses}}
@@ -1355,7 +1395,13 @@ these individual differences are crucial to identify the risk and
 protective mechanisms that explain these differing developmental
 courses.
 
-\begin{figure}[H]
+\par\addvspace{\baselineskip}\begingroup
+
+\setlength{\parindent}{0pt}
+
+\captionsetup{type=figure}
+
+\apatablekeep
 
 \setcounter{figure}{1}
 
@@ -1373,6 +1419,8 @@ courses.
 Development}
 
 \pandocbounded{\includegraphics[keepaspectratio,alt={Externalizing behavior across development}]{index_files/figure-latex/notebooks-analyses-fig-externalizing-by-age-output-1.png}}
+
+\apafigurekeepend
 
 \emph{Note}. \textbf{Panel~A}: The age-crime participation curve from
 age 9 through 64 in cohort members registered for antisocial and/or
@@ -1404,7 +1452,7 @@ of externalizing problems from childhood to adulthood. \emph{Development
 and Psychopathology}, \emph{27}(3), 791--818.
 \url{https://doi.org/10.1017/S0954579414000789}).
 
-\end{figure}
+\par\endgroup\addvspace{\baselineskip}
 
 \textsubscript{Source:
 \href{https://DevPsyLab.github.io/studying-psychopathology-development-lifespan/notebooks/analyses-preview.html\#cell-fig-externalizing-by-age}{Analyses}}
@@ -1453,7 +1501,13 @@ longitudinal studies that cover a lengthy span of development. A
 depiction of the ages spanned by various longitudinal studies is in
 \hyperref[fig-longitudinalstudies]{Figure~\ref*{fig-longitudinalstudies}}.
 
-\begin{figure}[H]
+\par\addvspace{\baselineskip}\begingroup
+
+\setlength{\parindent}{0pt}
+
+\captionsetup{type=figure}
+
+\apatablekeep
 
 \setcounter{figure}{2}
 
@@ -1473,6 +1527,8 @@ Various Lengthy Longitudinal Studies}
 
 \pandocbounded{\includegraphics[keepaspectratio,alt={(Approximate) Ages Spanned by Various Lengthy Longitudinal Studies}]{index_files/figure-latex/notebooks-analyses-fig-longitudinalstudies-output-1.png}}
 
+\apafigurekeepend
+
 \emph{Note}. The~list of longitudinal studies is as of this writing and
 is not exhaustive. Studies that are no longer active are shown in gray.
 Solid lines reflect fully longitudinal spans (i.e., the same individuals
@@ -1490,7 +1546,7 @@ ages spanned do not include links to registry data (e.g., birth records,
 offending records). Age was truncated at 100; thus, age 100 indicates
 that participants were followed into their 90s (or until death).
 
-\end{figure}
+\par\endgroup\addvspace{\baselineskip}
 
 \textsubscript{Source:
 \href{https://DevPsyLab.github.io/studying-psychopathology-development-lifespan/notebooks/analyses-preview.html\#cell-fig-longitudinalstudies}{Analyses}}
@@ -1664,7 +1720,13 @@ ages 8--61 (\citeproc{ref-LeBlanc2021}{Le Blanc, 2021}), from ages
 9--64 (Stockholm Metropolitan Study;
 \citeproc{ref-Sivertsson2024}{Sivertsson et al., 2024}).
 
-\begin{figure}[H]
+\par\addvspace{\baselineskip}\begingroup
+
+\setlength{\parindent}{0pt}
+
+\captionsetup{type=figure}
+
+\apatablekeep
 
 \setcounter{figure}{3}
 
@@ -1686,6 +1748,8 @@ Examining Individuals' Trajectories of Externalizing Behavior}
 
 \pandocbounded{\includegraphics[keepaspectratio,alt={(Approximate) Ages Spanned by Externalizing Trajectories in Various Lengthy Longitudinal Studies Examining Individuals\textquotesingle{} Trajectories of Externalizing Behavior}]{index_files/figure-latex/notebooks-analyses-fig-longitudinal-externalizing-studies-output-1.png}}
 
+\apafigurekeepend
+
 \emph{Note}. The~list of longitudinal studies is not exhaustive. Studies
 that are based on registry data are shown in gray. Studies that used
 developmental scaling to harmonize scores across ages (i.e., to link
@@ -1704,7 +1768,7 @@ cross-sectionally but still included longitudinal follow-up of
 participants. `MTSFGCLS' = Montreal Two Samples Four Generations
 Cross-sectional and Longitudinal Studies.
 
-\end{figure}
+\par\endgroup\addvspace{\baselineskip}
 
 \textsubscript{Source:
 \href{https://DevPsyLab.github.io/studying-psychopathology-development-lifespan/notebooks/analyses-preview.html\#cell-fig-longitudinal-externalizing-studies}{Analyses}}
@@ -1831,7 +1895,13 @@ continuity of relevance to developmental psychopathology, for instance,
 earlier emergence of alcohol consumption (\citeproc{ref-Aiken2018}{Aiken
 et al., 2018}).
 
-\begin{figure}[H]
+\par\addvspace{\baselineskip}\begingroup
+
+\setlength{\parindent}{0pt}
+
+\captionsetup{type=figure}
+
+\apatablekeep
 
 \setcounter{figure}{4}
 
@@ -1850,6 +1920,8 @@ Externalizing Behaviors by Age (\emph{N} = 1,237)}
 Engaging in Various Externalizing Behaviors by Age (\emph{N} = 1,237)}
 
 \includegraphics[width=1\linewidth,height=\textheight,keepaspectratio,alt={Frequency (per Month) of Engaging in Various Externalizing Behaviors by Age (*N* = 1,237).}]{Figures/Petersen2026_figure1.png}
+
+\apafigurekeepend
 
 \begin{apafloatnote}
 
@@ -1872,7 +1944,7 @@ frequency. \emph{Psychological Assessment}, \emph{38}(4), 295--306.
 
 \end{apafloatnote}
 
-\end{figure}
+\par\endgroup\addvspace{\baselineskip}
 
 \hfill\break
 
@@ -2066,7 +2138,13 @@ Questionnaire for 4--10/11--17-year-olds with 3 year-olds---i.e., ages
 younger than the assessment was designed, despite availability of a
 version for 2--4-year-olds.
 
-\begin{figure}[H]
+\par\addvspace{\baselineskip}\begingroup
+
+\setlength{\parindent}{0pt}
+
+\captionsetup{type=figure}
+
+\apatablekeep
 
 \setcounter{figure}{5}
 
@@ -2084,6 +2162,8 @@ version for 2--4-year-olds.
 Assessment}
 
 \includegraphics[width=1\linewidth,height=\textheight,keepaspectratio,alt={Approaches to Longitudinal Assessment.}]{Figures/approachesToLongitudinalAssessment.jpg}
+
+\apafigurekeepend
 
 \begin{apafloatnote}
 
@@ -2109,7 +2189,7 @@ continuity. \emph{JAACAP Open}, \emph{4}(1), 111--123.
 
 \end{apafloatnote}
 
-\end{figure}
+\par\endgroup\addvspace{\baselineskip}
 
 \hfill\break
 
@@ -2347,7 +2427,13 @@ et al., 2001}; \citeproc{ref-Schwarz1999}{Schwarz, 1999})---in addition
 to other aspects of behavior including onset, timing, duration,
 intensity, function, and resulting impairment.
 
-\begin{figure}[H]
+\par\addvspace{\baselineskip}\begingroup
+
+\setlength{\parindent}{0pt}
+
+\captionsetup{type=figure}
+
+\apatablekeep
 
 \setcounter{figure}{6}
 
@@ -2369,6 +2455,8 @@ Test Information as a Function of Theta (θ)}
 
 \includegraphics[width=1\linewidth,height=\textheight,keepaspectratio,alt={Test Information Functions of Absolute Frequency Versus Dichotomized Versus Adult Self-Report Items: Test Information as a Function of Theta (θ).}]{Figures/Petersen2026_figure4.png}
 
+\apafigurekeepend
+
 \begin{apafloatnote}
 
 \emph{Note}. ``Absolute~Frequency'' refers to count items;
@@ -2389,7 +2477,7 @@ Assessment}, \emph{38}(4), 295--306.
 
 \end{apafloatnote}
 
-\end{figure}
+\par\endgroup\addvspace{\baselineskip}
 
 \hfill\break
 
@@ -2476,6 +2564,8 @@ for measures of externalizing behavior to capture (see
 We also identified potential positive opposites of each facet.
 
 \par\addvspace{\baselineskip}\begingroup
+
+\setlength{\LTleft}{0pt}\setlength{\LTright}{\fill}\setlength{\LTpost}{0pt}\setlength{\apatablenotegap}{0pt}
 
 \apatablekeep
 
@@ -2676,7 +2766,13 @@ receive items assessing counting, 1st graders may receive items
 assessing counting and addition, 2nd graders may receive items assessing
 addition and subtraction, and so on.
 
-\begin{figure}[H]
+\par\addvspace{\baselineskip}\begingroup
+
+\setlength{\parindent}{0pt}
+
+\captionsetup{type=figure}
+
+\apatablekeep
 
 \setcounter{figure}{7}
 
@@ -2696,6 +2792,8 @@ Construct-Valid Item Design from Infancy to Adulthood}
 
 \includegraphics[width=1\linewidth,height=\textheight,keepaspectratio,alt={Conceptual depiction of a construct-valid item design from infancy to adulthood.}]{Figures/constructValidItemDesign.png}
 
+\apafigurekeepend
+
 \begin{apafloatnote}
 
 \emph{Note}. The~age(s) at which an item set is assessed are represented
@@ -2714,7 +2812,7 @@ linking scores across ages.
 
 \end{apafloatnote}
 
-\end{figure}
+\par\endgroup\addvspace{\baselineskip}
 
 \hfill\break
 
@@ -2891,7 +2989,13 @@ effects. In addition, like MNFLA, IRT allows Bayesian estimation and
 regularizing priors to identify anchor items without having to specify
 them in advance.
 
-\begin{figure}[H]
+\par\addvspace{\baselineskip}\begingroup
+
+\setlength{\parindent}{0pt}
+
+\captionsetup{type=figure}
+
+\apatablekeep
 
 \setcounter{figure}{8}
 
@@ -2911,6 +3015,8 @@ Measures Across Ages Using the Item Response Theory Approach to
 Developmental Scaling}
 
 \includegraphics[width=1\linewidth,height=\textheight,keepaspectratio,alt={Example of linking scores from measures across ages using the item response theory approach to developmental scaling.}]{Figures/Petersen2021_figure1.png}
+
+\apafigurekeepend
 
 \begin{apafloatnote}
 
@@ -2945,7 +3051,7 @@ Educational Psychology}, \emph{113}(1), 68--85.
 
 \end{apafloatnote}
 
-\end{figure}
+\par\endgroup\addvspace{\baselineskip}
 
 \hfill\break
 
@@ -3068,7 +3174,13 @@ time-lag design assesses multiple cohorts at the same age (e.g., age
 repeatedly assessing the same age range (e.g., ages 12--18), with some
 participants followed longitudinally.
 
-\begin{figure}[H]
+\par\addvspace{\baselineskip}\begingroup
+
+\setlength{\parindent}{0pt}
+
+\captionsetup{type=figure}
+
+\apatablekeep
 
 \setcounter{figure}{9}
 
@@ -3086,6 +3198,8 @@ participants followed longitudinally.
 Measurement and Cohort}
 
 \includegraphics[width=1\linewidth,height=\textheight,keepaspectratio,alt={Research Designs by Time Of Measurement and Cohort}]{Figures/longitudinalDesigns.png}
+
+\apafigurekeepend
 
 \begin{apafloatnote}
 
@@ -3105,7 +3219,7 @@ designs (\citeproc{ref-Little2024}{Little, 2024};
 
 \end{apafloatnote}
 
-\end{figure}
+\par\endgroup\addvspace{\baselineskip}
 
 \hfill\break
 
