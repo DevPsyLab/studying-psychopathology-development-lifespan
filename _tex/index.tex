@@ -30,7 +30,13 @@
 \usepackage{lmodern}
 \ifPDFTeX\else
   % xetex/luatex font selection
-  \setmainfont[]{TeX Gyre Termes}
+  \ifLuaTeX
+    \usepackage{luaotfload}
+    \directlua{luaotfload.add_fallback("mainfontfallback",{
+      "LatinModernMath-Regular:mode=base;","DejaVuSans:mode=node;"
+    })}
+  \fi
+  \setmainfont[,RawFeature={fallback=mainfontfallback}]{TeX Gyre Termes}
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -132,7 +138,7 @@
 \fi
 \ifPDFTeX
 \else
-\babelfont{rm}[]{TeX Gyre Termes}
+\babelfont{rm}[,RawFeature={fallback=mainfontfallback}]{TeX Gyre Termes}
 \fi
 \ifLuaTeX
   \usepackage{selnolig} % disable illegal ligatures
@@ -817,7 +823,14 @@
 %
 % Figures only. A table follows its title immediately, and apa7 in fact leaves
 % a little less room there than this format already does.
-\newcommand{\apafigureskip}{\vspace{1.2em}}
+%
+% Measured from the caption's baseline: TeX puts the picture under the depth
+% of the line above it, so a caption whose last line had a p or a g in it
+% stood 2pt further off its picture than one that had none. 20pt from the
+% baseline to the picture, as in typst (tests/layout-figure-space.qmd).
+\newcommand{\apafigureskip}{%
+  \par\ifdim\prevdepth>0pt\vskip-\prevdepth\prevdepth=0pt\fi
+  \vspace{1.2em}}
 \newenvironment{apafloatnote}
   {\par\setlength{\parindent}{0pt}\noindent}
   {\par}
@@ -1068,6 +1081,9 @@
 \@ifundefined{xmpquote}{\newcommand{\xmpquote}[1]{#1}}{}
 \makeatother
 \hypersetup{
+  pdftitle={Studying Development of Psychopathology Across the
+Lifespan},
+  pdfauthor={Isaac T. Petersen, Zachary Demko, Megan Schumer},
   pdflang={en-US},
   colorlinks=true,
   linkcolor={apalink},
