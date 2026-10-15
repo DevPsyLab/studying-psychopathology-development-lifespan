@@ -17,9 +17,11 @@ authors:
 #  - type: doi
 #    value: 10.5281/zenodo.22967623
 repository-code: 'https://github.com/DevPsyLab/studying-psychopathology-development-lifespan'
+url: 'https://devpsylab.github.io/studying-psychopathology-development-lifespan'
 abstract: >-
   This is the GitHub repository for data and analysis code
-  associated with the article, "[Article Title]".
+  associated with the article, "Studying Development of
+  Psychopathology Across the Lifespan".
 keywords:
   - keyword1
   - keyword2
