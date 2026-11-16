@@ -572,9 +572,8 @@ academic and cognitive skills across lengthy developmental periods.</p>
   over time in the face of changing behavioral manifestation. Fourth,
   current assessments are not well-suited for capturing the full range
   of individual differences, despite the dimensional nature of
-  psychopathology. Fifth, because of these limitations, current
-  assessments are not well-suited for capturing individuals’ change over
-  time.</p>
+  psychopathology. Because of these limitations, current assessments are
+  not well-suited for capturing individuals’ change over time.</p>
   <p>Below, we describe these reasons in detail. To ground the
   discussion, we provide examples relating to externalizing
   psychopathology; however, these issues are not specific to
@@ -595,8 +594,10 @@ academic and cognitive skills across lengthy developmental periods.</p>
     factor loadings (in factor analysis) or discrimination (in item
     response theory)—or how they change in their level on the
     construct—as indicated by changes in intercepts (factor analysis) or
-    difficulty/severity (item response theory).</p>
-    <p>These gaps are important for several reasons. First,
+    difficulty/severity (item response theory). Moreover, theories do
+    not specify the causal processes that lead to these changes in
+    behavioral manifestation across development.</p>
+    <p>These gaps are important for multiple reasons. First,
     psychopathology does not come from nowhere; psychopathology
     constructs often have earlier origins than their full clinical
     presentation. For instance, children who go on to develop later
@@ -610,10 +611,10 @@ academic and cognitive skills across lengthy developmental periods.</p>
     and Morris 2004</xref>). In many cases, psychopathology may arise
     from the interaction of genetic and environmental factors, and their
     effects on biology, cognition, emotion, and behavior. Such effects
-    may accumulate and transpire over years. Second, forms of
-    psychopathology frequently show changes in behavioral manifestation
-    across development—a phenomenon called heterotypic continuity
-    (<xref alt="Caspi and Shiner 2006" rid="ref-Caspi2006" ref-type="bibr">Caspi
+    may accumulate over years. Second, forms of psychopathology
+    frequently show changes in behavioral manifestation across
+    development (heterotypic continuity;
+    <xref alt="Caspi and Shiner 2006" rid="ref-Caspi2006" ref-type="bibr">Caspi
     and Shiner 2006</xref>;
     <xref alt="Cicchetti and Rogosch 2002" rid="ref-Cicchetti2002" ref-type="bibr">Cicchetti
     and Rogosch 2002</xref>;
@@ -672,7 +673,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
     different externalizing behaviors are most common at different
     developmental periods—even into adulthood, consistent with the
     notion that externalizing behavior demonstrates heterotypic
-    continuity. Consistent with the Developmental Issues Framework
+    continuity. In accordance with the Developmental Issues Framework
     (<xref alt="Sroufe 2016" rid="ref-Sroufe2016" ref-type="bibr">Sroufe
     2016</xref>), the changing expression of externalizing behavior
     likely reflects a combination of time-varying genetic and
@@ -682,8 +683,8 @@ academic and cognitive skills across lengthy developmental periods.</p>
     (<xref alt="Petersen et al. 2020" rid="ref-Petersen2020" ref-type="bibr">Petersen
     et al. 2020</xref>). These factors likely interact to produce
     individual differences in heterotypic continuity of relevance to
-    developmental psychopathology, for instance, earlier emergence of
-    alcohol consumption
+    developmental psychopathology, such as earlier emergence of alcohol
+    consumption
     (<xref alt="Aiken et al. 2018" rid="ref-Aiken2018" ref-type="bibr">Aiken
     et al. 2018</xref>).</p>
     <fig id="fig-absoluteFrequencyByAge">
@@ -751,11 +752,12 @@ academic and cognitive skills across lengthy developmental periods.</p>
       exceptions<xref ref-type="fn" rid="fn2">2</xref>—the diagnostic
       criteria do not differ across development, even though diagnostic
       manuals acknowledge that developmental factors impact symptom
-      presentation<xref ref-type="fn" rid="fn3">3</xref>. In addition to
-      diagnostic systems, emerging taxonomies and frameworks of
-      psychopathology—including the hierarchical taxonomy of
-      psychopathology (HiTOP) and research domain criteria (RDoC)—do not
-      incorporate a developmental perspective
+      presentation (see the
+      (<xref alt="apx-dsmDevelopmentalFactors?" rid="ref-apx-dsmDevelopmentalFactors" ref-type="bibr"><bold>apx-dsmDevelopmentalFactors?</bold></xref>)).
+      In addition to diagnostic systems, emerging taxonomies and
+      frameworks of psychopathology—including the hierarchical taxonomy
+      of psychopathology (HiTOP) and research domain criteria (RDoC)—do
+      not incorporate a developmental perspective
       (<xref alt="Tackett and Hallquist 2022" rid="ref-Tackett2022" ref-type="bibr">Tackett
       and Hallquist 2022</xref>).</p>
     </sec>
@@ -772,9 +774,9 @@ academic and cognitive skills across lengthy developmental periods.</p>
     constructs—including how a construct manifests behaviorally—and the
     methods used to assess the construct and to evaluate people’s level
     and change in that construct.</p>
-    <sec id="do-not-adequately-capture-constructs-change-in-behavioral-manifestation-across-development">
-      <title>Do Not Adequately Capture Constructs’ Change in Behavioral
-      Manifestation Across Development</title>
+    <sec id="inadequately-capture-developmental-changes-in-behavioral-manifestation">
+      <title>Inadequately Capture Developmental Changes in Behavioral
+      Manifestation</title>
       <p>Given the substantial changes in behavioral manifestation of
       psychopathology across development, it is important for measures
       to capture the constructs’ changing behavioral manifestation, to
@@ -788,31 +790,32 @@ academic and cognitive skills across lengthy developmental periods.</p>
       tantrums).”</p>
       <p>However, measures use the same items to assess problem
       behaviors across a very wide range of ages and thus do not account
-      for heterotypic continuity. For example, among the most widely
-      used measures of externalizing problems in research and practice
-      is the Child Behavior Checklist (CBCL). However, the same version
-      of the Child Behavior Checklist (CBCL) spans ages 6–18.
-      Considerable development occurs during that span including key
-      developmental transitions—from childhood to adolescence to
+      for heterotypic continuity. For example, the Child Behavior
+      Checklist (CBCL;
+      <xref alt="Achenbach and Rescorla 2001" rid="ref-Achenbach2001" ref-type="bibr">Achenbach
+      and Rescorla 2001</xref>) is among the most widely used measures
+      of externalizing problems in research and practice. However, the
+      same version of the Child Behavior Checklist (CBCL) spans ages
+      6–18. Considerable development occurs during that span including
+      key developmental transitions—from childhood to adolescence to
       emerging adulthood—and the CBCL does not capture such changes.</p>
       <p>There are two primary ways that researchers have examined
       people’s change in psychopathology across development
       (<xref alt="Figure 6" rid="fig-approachesToLongitudinalAssessment">Figure 6</xref>).
       The “common items” approach removes items that are age
-      specific.<xref ref-type="fn" rid="fn4">4</xref> For example, in a
+      specific.<xref ref-type="fn" rid="fn3">3</xref> For example, in a
       study of externalizing behavior from early childhood to
       adolescence, a study might remove substance use items that are not
       be developmentally relevant at all ages. The second approach, the
       “upward/downward extension” approach, takes items that are valid
       at a given age and uses those same items across all ages, even
-      outside the ages for which the assessment was designed and when
-      the item may not be valid or useful—i.e., all items are assessed
-      at all ages. For instance, the upward extension approach might
-      take the item “disobedient to authority figures” and apply it to
-      older individuals for whom such a behavior may no longer validly
-      reflect externalizing behavior—and may instead reflect prosocial
-      functions including protesting against societally unjust actions.
-      Both the “common items” (e.g.,
+      outside the ages for which the items are valid or useful—i.e., all
+      items are assessed at all ages. For instance, the upward extension
+      approach might take the item “disobedient to authority figures”
+      and apply it to older individuals for whom such a behavior may no
+      longer validly reflect externalizing behavior—and may instead
+      reflect prosocial functions including protesting against
+      societally unjust actions. Both the “common items” (e.g.,
       <xref alt="Odgers et al. 2008" rid="ref-Odgers2008" ref-type="bibr">Odgers
       et al. 2008</xref>;
       <xref alt="Sterba et al. 2007" rid="ref-Sterba2007" ref-type="bibr">Sterba
@@ -865,14 +868,14 @@ academic and cognitive skills across lengthy developmental periods.</p>
       et al. 2018</xref>,
       <xref alt="2026" rid="ref-Petersen2026a" ref-type="bibr">2026</xref>)
       have shown that the “common items” and “upward/downward extension”
-      approaches—thus failing to account for heterotypic continuity—lead
-      to inaccurate developmental inferences. The extent of inaccuracy
-      may vary from small to substantial depending on the approach used,
-      the criterion examined, and the extent to which the construct
-      changes in manifestation (whose changes are ignored).
+      in failing to account for heterotypic continuity—lead to
+      inaccurate developmental inferences. The extent of inaccuracy may
+      vary from small to substantial depending on the approach used, the
+      criterion examined, and the extent to which the construct changes
+      in manifestation (whose changes in manifestation are ignored).
       Nevertheless, the effects of failing to account for heterotypic
       continuity have been large enough to infer that (a) a sample does
-      not show changes in level when it actually does
+      not show changes in level when changes do occur
       (<xref alt="Petersen et al. 2018" rid="ref-Petersen2018" ref-type="bibr">Petersen
       et al. 2018</xref>), (b) a sample shows increases when it actually
       decreases
@@ -882,8 +885,8 @@ academic and cognitive skills across lengthy developmental periods.</p>
       trajectory
       (<xref alt="Petersen et al. 2026" rid="ref-Petersen2026a" ref-type="bibr">Petersen
       et al. 2026</xref>), and (d) a subgroup’s externalizing behavior
-      emerges in adulthood when it actually onsets much earlier (i.e.,
-      adolescence;
+      appears to emerge in adulthood when it actually onsets much
+      earlier (i.e., adolescence;
       <xref alt="Chen and Jaffee 2015" rid="ref-Chen2015" ref-type="bibr">Chen
       and Jaffee 2015</xref>). In sum, despite the “common items” and
       “upward/downward extension” approaches being the most widely used
@@ -892,10 +895,10 @@ academic and cognitive skills across lengthy developmental periods.</p>
       onset for individuals and groups.</p>
       <p>The problem cannot be solved merely by age-norming. Generating
       norms from items that are invalid at a given age or from scales
-      that have important content gaps at a given age leads to
-      construct-invalid scores and resulting norms. Likewise, using DSM
-      disorders or diagnoses also does not solve the problem because DSM
-      disorders are fictive categories
+      that have content gaps at a given age leads to construct-invalid
+      scores and resulting norms. Likewise, using DSM disorders or
+      diagnoses also does not solve the problem because DSM disorders
+      are fictive categories
       (<xref alt="Petersen 2024" rid="ref-Petersen2024" ref-type="bibr">Petersen
       2024</xref>) and, as described above, DSM disorder criteria do not
       adequately account for different symptom presentations at
@@ -905,7 +908,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
       diagnoses across DSM versions.</p>
       <p>In addition, forcing use of the same measure across time
       naturally limits the ages a study can span, which prevents
-      charting wider age spans. For example, if a researcher used the
+      charting wider age ranges. For example, if a researcher used the
       CBCL and only wanted to study trajectories where the same measure
       was assessed across ages, they would not be able to examine
       development from ages 5–6, when there is a change in the CBCL
@@ -921,8 +924,8 @@ academic and cognitive skills across lengthy developmental periods.</p>
       (<xref alt="Nickerson and Fredrick 2026" rid="ref-Nickerson2026" ref-type="bibr">Nickerson
       and Fredrick 2026</xref>). Changes in the behavioral manifestation
       across historical time provide additional reasons to change the
-      measure by removing no-longer-valid items and by adding newer
-      valid items.</p>
+      measure by removing items that are no longer valid and by adding
+      newer valid items.</p>
       <p>In sum, many problems arise from using the same measure across
       ages when the construct changes in behavioral manifestation across
       development and historical time.</p>
@@ -974,8 +977,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <xref alt="Korhonen et al. 2018" rid="ref-Korhonen2018" ref-type="bibr">Korhonen
       et al. 2018</xref>). However, age norms and standardized scores do
       not allow observing individuals’ absolute change because scores
-      have a fixed mean and variance, and they do not equal
-      developmental understanding. Absolute change is necessary to
+      have a fixed mean and variance. Absolute change is necessary to
       identify true growth for an individual, and is thus important for
       treatment monitoring and longitudinal growth curves. Thus,
       age-norming is problematic in longitudinal studies
@@ -1010,12 +1012,9 @@ academic and cognitive skills across lengthy developmental periods.</p>
       scale—along with items that are unique to a particular grade.
       Then, the researchers apply widely used methods to link the scores
       from the different measures onto the same scale so they can
-      observe individuals’ growth across grades. The same general
-      methods are also used to place people’s scores on the same scale
-      for standardized tests like the ACT, SAT, GRE, MCAT, LSAT, etc.,
-      despite respondents receiving different item content.</p>
-      <p>For examples of studies applying various linking methods to
-      academic and cognitive skills, see McArdle et al.
+      observe individuals’ growth across grades. For examples of studies
+      applying various linking methods to academic and cognitive skills,
+      see McArdle et al.
       (<xref alt="2009" rid="ref-McArdle2009" ref-type="bibr">2009</xref>),
       McArdle and Grimm
       (<xref alt="2011" rid="ref-McArdle2011" ref-type="bibr">2011</xref>),
@@ -1029,8 +1028,12 @@ academic and cognitive skills across lengthy developmental periods.</p>
       (<xref alt="2022" rid="ref-Ward2022" ref-type="bibr">2022</xref>),
       and Weeks
       (<xref alt="2018" rid="ref-Weeks2018" ref-type="bibr">2018</xref>).
-      However, the use of linking methods is rare in studies of social
-      and behavioral development broadly and psychopathology
+      The same general methods are also used to place people’s scores on
+      the same scale for standardized tests like the ACT, SAT, GRE,
+      MCAT, LSAT, etc., despite respondents receiving different item
+      content.</p>
+      <p>However, the use of linking methods is rare in studies of
+      social and behavioral development broadly and psychopathology
       specifically. For studies that have applied such methods in
       studying social and behavioral development, see studies on
       self-concept
@@ -1126,40 +1129,40 @@ academic and cognitive skills across lengthy developmental periods.</p>
       et al. 1999</xref>) compared to items with more response options
       that have greater variability in scores. In general, items with
       more response options yield more information (i.e., greater
-      reduction of uncertainty in estimates of a person’s construct
-      level; though there are diminishing returns when using more than
-      six response options;
+      measurement precision—reduction of uncertainty in estimates of a
+      person’s construct level; though there are diminishing returns
+      when using more than six response options;
       <xref alt="Culpepper 2013" rid="ref-Culpepper2013" ref-type="bibr">Culpepper
       2013</xref>;
       <xref alt="Simms et al. 2019" rid="ref-Simms2019" ref-type="bibr">Simms
       et al. 2019</xref>). Indeed, as depicted in
       <xref alt="Figure 7" rid="fig-absoluteFrequencyInformation">Figure 7</xref>,
       items assessing absolute frequency have been shown to yield more
-      information than dichotomized versions of the same items and than
-      the Achenbach Adult Self-Report, which uses Likert-type response
-      options. In addition, if a respondent implicitly uses the target’s
-      same-aged peers as the normative reference group for determining
-      the relative frequency of a behavior, this could have the implicit
-      effect of resulting in age-normed scores, which works against the
-      goal of detecting change. Moreover, Likert-type scales tend to
-      focus on frequency of misbehavior and ignore intensity and
-      severity. It can be helpful to explicitly assess—and
-      distinguish—frequency versus problematic impact of behavior.
-      Instead of assessing relative frequency, researchers advise
-      assessing absolute frequency of behavior
+      information than dichotomized versions of the same items and more
+      information than the Achenbach Adult Self-Report, which uses
+      Likert-type response options. In addition, if a respondent
+      implicitly uses the target’s same-aged peers as the normative
+      reference group for determining the relative frequency of a
+      behavior, this could have the implicit effect of resulting in
+      age-normed scores, which works against the goal of detecting
+      change. Moreover, Likert-type scales tend to focus on frequency of
+      misbehavior and ignore intensity and severity. It can be helpful
+      to explicitly assess—and distinguish—frequency versus problematic
+      impact of behavior. Instead of assessing relative frequency,
+      researchers advise assessing absolute frequency of behavior
       (<xref alt="Burns et al. 2001" rid="ref-Burns2001" ref-type="bibr">Burns
       et al. 2001</xref>;
       <xref alt="Schwarz 1999" rid="ref-Schwarz1999" ref-type="bibr">Schwarz
       1999</xref>)—in addition to other aspects of behavior including
       onset, timing, duration, intensity, function, and resulting
-      impairment.</p>
+      impairment, which can be helpful for informing intervention.</p>
       <fig id="fig-absoluteFrequencyInformation">
         <caption><p>Figure 7: Test Information Functions of Absolute
         Frequency Versus Dichotomized Versus Adult Self-Report Items:
         Test Information as a Function of Theta (θ)</p></caption>
         <graphic mimetype="image" mime-subtype="png" xlink:href="Figures/Petersen2026_figure4.png" />
       </fig>
-      <p>In addition, the measures focus on extreme or clinical-range
+      <p>In addition, many measures focus on extreme or clinical-range
       behaviors; scores are thus positively skewed with floor effects
       and have unacceptably low reliability (including the CBCL;
       <xref alt="Kaat et al. 2019" rid="ref-Kaat2019" ref-type="bibr">Kaat
@@ -1167,8 +1170,8 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <xref alt="Pavlovich et al. 2026" rid="ref-Pavlovich2026" ref-type="bibr">Pavlovich
       et al. 2026</xref>;
       <xref alt="Tiego et al. 2023" rid="ref-Tiego2023" ref-type="bibr"><named-content content-type="nocase">Tiego
-      et al.</named-content> 2023</xref>), making the CBCL and existing
-      measures unsuitable for dimensional research
+      et al.</named-content> 2023</xref>), making them unsuitable for
+      dimensional research
       (<xref alt="Pavlovich et al. 2026" rid="ref-Pavlovich2026" ref-type="bibr">Pavlovich
       et al. 2026</xref>;
       <xref alt="Tiego et al. 2023" rid="ref-Tiego2023" ref-type="bibr"><named-content content-type="nocase">Tiego
@@ -1233,8 +1236,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
       are at risk for impairment from being identified. Better
       identification of subthreshold externalizing is critical, in both
       research and practice, for identifying at-risk individuals in the
-      early-stage trajectory of psychopathology. As noted by Pavlovich
-      et al.
+      early stage of psychopathology. As noted by Pavlovich et al.
       (<xref alt="2026, 1" rid="ref-Pavlovich2026" ref-type="bibr">2026,
       1</xref>), “These findings…highlight the need for measures
       explicitly developed and validated for dimensional psychopathology
@@ -1253,7 +1255,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
       latent continuum—i.e., the presence of adaptive functioning. For
       instance, it can be valuable to consider “positive
       opposites”—i.e., positive behaviors that compete with and are
-      (simultaneously) incompatible with the particular antisocial
+      (simultaneously) incompatible with a particular antisocial
       behavior. For instance, in a study of externalizing behavior, it
       would be valuable to consider prosocial behavior (e.g., kindness,
       helping others, sharing, dependability, compliance,
@@ -1264,11 +1266,11 @@ academic and cognitive skills across lengthy developmental periods.</p>
       et al. 2026</xref>). Moreover, measures of externalizing behavior
       tend to focus on just global scores or just one or a few
       subdimensions. For better phenotypic resolution, instruments
-      should assess a wide range of phenotypes to better capture the
-      full range of externalizing behaviors, which will be important to
-      distinguish various forms of behavior—e.g., physical versus verbal
-      versus destructive versus relational aggression—and their
-      functions—e.g., proactive versus reactive.</p>
+      should assess a wide range of externalizing behaviors, which will
+      be important to distinguish various forms of behavior—e.g.,
+      physical versus verbal versus destructive versus relational
+      aggression—and their functions—e.g., proactive versus
+      reactive.</p>
       <p>Based on our content analysis of over 270 measures of
       externalizing behavior, we identified a wide range of facets that
       would be important for measures of externalizing behavior to
@@ -1658,7 +1660,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
       (<xref alt="Hancock and Buehl 2008" rid="ref-Hancock2008" ref-type="bibr">Hancock
       and Buehl 2008</xref>). The partial invariance approach attempts
       to establish partial strong longitudinal factorial
-      invariance<xref ref-type="fn" rid="fn5">5</xref>—i.e., invariant
+      invariance<xref ref-type="fn" rid="fn4">4</xref>—i.e., invariant
       intercepts and factor loadings across ages for a subset of items
       to set the latent factor across ages on a comparable scale, with
       some items’ intercepts and/or factor loadings allowed to differ
@@ -2060,7 +2062,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
   <sec id="factorial-invariance-across-time">
     <title>Factorial Invariance Across Time</title>
     <p>Traditionally, it had been considered necessary to establish
-    factorial invariance<xref ref-type="fn" rid="fn6">6</xref> of the
+    factorial invariance<xref ref-type="fn" rid="fn5">5</xref> of the
     measure(s) across time—that is, the measure(s) assess the construct
     in the same way across time—to study individuals’ change in those
     constructs
@@ -2298,7 +2300,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
   <title>References</title>
 </sec>
 <sec id="apx-longitudinalExternalizingStudies">
-  <title>Appendix: Longitudinal Studies of Externalizing
+  <title>Appendix A: Longitudinal Studies of Externalizing
   Behavior</title>
   <p>In the Child Development Project, Petersen et al.
   (<xref alt="2015" rid="ref-Petersen2015" ref-type="bibr">2015</xref>)
@@ -2376,7 +2378,8 @@ academic and cognitive skills across lengthy developmental periods.</p>
 
 <back>
 <ref-list>
-  <title></title>
+  <title>Appendix B: Ways the DSM Acknowledges that Developmental
+  Factors Impact Symptom Presentation</title>
   <ref id="ref-Insel2008">
     <element-citation publication-type="article-journal">
       <person-group person-group-type="author">
@@ -5462,6 +5465,18 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <lpage>110</lpage>
     </element-citation>
   </ref>
+  <ref id="ref-Achenbach2001">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name><surname>Achenbach</surname><given-names>Thomas M.</given-names></name>
+        <name><surname>Rescorla</surname><given-names>Leslie A.</given-names></name>
+      </person-group>
+      <source>Manual for the ASEBA school-age forms &amp; profiles: An integrated system of multi-informant assessment</source>
+      <publisher-name>University of Vermont, Research Center for Children, Youth,; Families</publisher-name>
+      <publisher-loc>Burlington, VT, US</publisher-loc>
+      <year iso-8601-date="2001">2001</year>
+    </element-citation>
+  </ref>
 </ref-list>
 <fn-group>
   <fn id="fn1">
@@ -5483,65 +5498,15 @@ academic and cognitive skills across lengthy developmental periods.</p>
     ADHD do not differ across development.</p>
   </fn>
   <fn id="fn3">
-    <label>3</label><p>In the DSM-5-TR
-    (<xref alt="American Psychiatric Association 2022" rid="ref-APA2022" ref-type="bibr">American
-    Psychiatric Association 2022</xref>), some disorders have a
-    “Development and Course” subsection that describes when disorders
-    tend to emerge and their rates across ages, in addition to
-    describing the types of symptoms that may be more or less common at
-    various points in development. However, the symptoms that define the
-    disorders do not differ across development. For instance, in the
-    section on major depressive disorder, it is noted that “hypersomnia
-    and hyperphagia are more likely in younger individuals, and
-    melancholic symptoms, particularly psychomotor disturbances, are
-    more common in older individuals. Depressions with earlier ages at
-    onset are more familial and more likely to involve personality
-    disturbances.” (p. 189). In the section on ADHD, it is noted that,
-    “In preschool, the main manifestation is hyperactivity. Inattention
-    becomes more prominent during elementary school. During adolescence,
-    signs of hyperactivity (e.g., running and climbing) are less common
-    and may be confined to fidgetiness or an inner feeling of
-    jitteriness, restlessness, or impatience. In adulthood, along with
-    inattention and restlessness, impulsivity may remain problematic
-    even when hyperactivity has diminished.” (p. 71). In the section on
-    CD, it is noted that “Symptoms of the disorder vary with age as the
-    individual develops increased physical strength, cognitive
-    abilities, and sexual maturity. Symptom behaviors that emerge first
-    tend to be less serious (e.g., lying, shoplifting), whereas conduct
-    problems that emerge last tend to be more severe (e.g., rape, theft
-    while confronting a victim)… When individuals with conduct disorder
-    reach adulthood, symptoms of aggression, property destruction,
-    deceitfulness, and rule violation, including violence against
-    co-workers, partners, and children, may be exhibited in the
-    workplace and the home” (p. 534). Moreover, some disorders in the
-    DSM-5-TR note that, to be considered a symptom, the frequency,
-    intensity, or persistence of the behavior must be inconsistent with
-    the level expected for their developmental level. For instance, in
-    the diagnosis of ADHD, it is noted that “the symptoms have persisted
-    for at least 6 months to a degree that is inconsistent with
-    developmental level” (p. 68). In the diagnosis of ODD, it is noted
-    that “other factors [besides a minimum frequency] should also be
-    considered, such as whether the frequency and intensity of the
-    behaviors are outside a range that is normative for the individual’s
-    developmental level, gender, and culture.” (p. 522). In addition,
-    some disorders require that some symptoms onset before or after a
-    particular age. For instance, in the diagnosis of ADHD, several
-    symptoms must be present prior to age 12. In the diagnosis of CD,
-    the symptoms “often stays out at night despite parental
-    prohibitions” and “is often truant from school” must begin before
-    age 13 (p. 531). In the diagnosis of ASPD, symptoms must be
-    persistent since age 15 but have onset prior to age 15.</p>
-  </fn>
-  <fn id="fn4">
-    <label>4</label><p>For simplicity and brevity, we refer to birth age
+    <label>3</label><p>For simplicity and brevity, we refer to birth age
     as a proxy for developmental time.</p>
   </fn>
-  <fn id="fn5">
-    <label>5</label><p>Strong invariance is also called “scalar
+  <fn id="fn4">
+    <label>4</label><p>Strong invariance is also called “scalar
     invariance”.</p>
   </fn>
-  <fn id="fn6">
-    <label>6</label><p>Factorial invariance is also called measurement
+  <fn id="fn5">
+    <label>5</label><p>Factorial invariance is also called measurement
     invariance. In this context, we prefer the term “factorial
     invariance” because, as described, the actual measures used may
     differ across time.</p>
