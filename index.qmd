@@ -407,7 +407,7 @@ A developmental perspective is crucial because psychopathology constructs often 
 Second, current assessments do not adequately capture these changes in behavioral manifestation.
 Third, traditional scoring systems do not allow charting individuals' change over time in the face of changing behavioral manifestation.
 Fourth, current assessments are not well-suited for capturing the full range of individual differences, despite the dimensional nature of psychopathology.
-Fifth, because of these limitations, current assessments are not well-suited for capturing individuals' change over time.
+Because of these limitations, current assessments are not well-suited for capturing individuals' change over time.
 
 Below, we describe these reasons in detail.
 To ground the discussion, we provide examples relating to externalizing psychopathology; however, these issues are not specific to externalizing behavior.
@@ -418,13 +418,14 @@ The first reason the field has failed to adequately study individuals' developme
 Our theories do not fully specify how constructs manifest behaviorally across the lifespan.
 For instance, theories do not specify the features (e.g., cognitive, affective, or biological processes) or behaviors that characterize a given construct in each developmental period.
 In addition, theories do not specify how those features or behaviors change across development with respect to how strongly they reflect the construct—as indicated by changes in factor loadings (in factor analysis) or discrimination (in item response theory)—or how they change in their level on the construct—as indicated by changes in intercepts (factor analysis) or difficulty/severity (item response theory).
+Moreover, theories do not specify the causal processes that lead to these changes in behavioral manifestation across development.
 
-These gaps are important for several reasons.
+These gaps are important for multiple reasons.
 First, psychopathology does not come from nowhere; psychopathology constructs often have earlier origins than their full clinical presentation.
 For instance, children who go on to develop later externalizing problems and conduct problems tend to show earlier temperamental differences such as poorer self-regulation, poorer emotion regulation, low fearfulness, and a more difficult temperament [@Bates2014; @Frick2004].
 In many cases, psychopathology may arise from the interaction of genetic and environmental factors, and their effects on biology, cognition, emotion, and behavior.
-Such effects may accumulate and transpire over years.
-Second, forms of psychopathology frequently show changes in behavioral manifestation across development—a phenomenon called heterotypic continuity [@Caspi2006; @Cicchetti2002; @Petersen2020; @Petersen2024].
+Such effects may accumulate over years.
+Second, forms of psychopathology frequently show changes in behavioral manifestation across development [heterotypic continuity\; @Caspi2006; @Cicchetti2002; @Petersen2020; @Petersen2024].
 
 Considerable theoretical work attempts to characterize constructs across development.
 For instance, @Patterson1993 characterized externalizing ("antisocial") behavior as a chimera.
@@ -436,8 +437,8 @@ Moffitt [-@Moffitt1993, p. 679] noted that externalizing behaviors may manifest 
 In general, externalizing behaviors are often expressed as overt acts in early childhood, such as physical aggression and temper tantrums; whereas externalizing behaviors are more often expressed later in development as covert and indirect or relational forms of aggression, rule breaking, and substance use [@Miller2009; @Petersen2026a].
 These age-differing behaviors show strong stability of individual differences, indicating a consistent underlying construct [@Moffitt1993; @Patterson1993].
 As depicted in @fig-absoluteFrequencyByAge, different externalizing behaviors are most common at different developmental periods—even into adulthood, consistent with the notion that externalizing behavior demonstrates heterotypic continuity.
-Consistent with the Developmental Issues Framework [@Sroufe2016], the changing expression of externalizing behavior likely reflects a combination of time-varying genetic and environmental factors, such as school entry transition, in combination with varying developmental tasks, different opportunities, and greater experience-dependent capacity [@Petersen2020].
-These factors likely interact to produce individual differences in heterotypic continuity of relevance to developmental psychopathology, for instance, earlier emergence of alcohol consumption [@Aiken2018].
+In accordance with the Developmental Issues Framework [@Sroufe2016], the changing expression of externalizing behavior likely reflects a combination of time-varying genetic and environmental factors, such as school entry transition, in combination with varying developmental tasks, different opportunities, and greater experience-dependent capacity [@Petersen2020].
+These factors likely interact to produce individual differences in heterotypic continuity of relevance to developmental psychopathology, such as earlier emergence of alcohol consumption [@Aiken2018].
 
 ![Frequency (Per Month) of Engaging in Various Externalizing Behaviors by Age (*N* = 1,237)](Figures/Petersen2026_figure1.png){
   #fig-absoluteFrequencyByAge
@@ -508,20 +509,20 @@ Other key reasons the field has failed to adequately study individuals' developm
 There is a mismatch between theory and method.
 In particular, there is a mismatch between theory of constructs—including how a construct manifests behaviorally—and the methods used to assess the construct and to evaluate people's level and change in that construct.
 
-### Do Not Adequately Capture Constructs' Change in Behavioral Manifestation Across Development
+### Inadequately Capture Developmental Changes in Behavioral Manifestation
 
 Given the substantial changes in behavioral manifestation of psychopathology across development, it is important for measures to capture the constructs' changing behavioral manifestation, to stay developmentally relevant and construct valid.
 As noted by Moffitt [-@Moffitt1993, p. 694], "Measures of antisocial behavior should be sensitive to developmental heterogeneity to tap individual differences while allowing for the emergence of new forms of antisocial behavior (e.g., automobile theft) or for the forsaking of old forms (e.g., tantrums)."
 
 However, measures use the same items to assess problem behaviors across a very wide range of ages and thus do not account for heterotypic continuity.
-For example, among the most widely used measures of externalizing problems in research and practice is the Child Behavior Checklist (CBCL).
+For example, the Child Behavior Checklist [CBCL\; @Achenbach2001] is among the most widely used measures of externalizing problems in research and practice.
 However, the same version of the Child Behavior Checklist (CBCL) spans ages 6–18.
 Considerable development occurs during that span including key developmental transitions—from childhood to adolescence to emerging adulthood—and the CBCL does not capture such changes.
 
 There are two primary ways that researchers have examined people's change in psychopathology across development (@fig-approachesToLongitudinalAssessment).
 The "common items" approach removes items that are age specific.[^ageVsTimeFootnote]
 For example, in a study of externalizing behavior from early childhood to adolescence, a study might remove substance use items that are not be developmentally relevant at all ages.
-The second approach, the "upward/downward extension" approach, takes items that are valid at a given age and uses those same items across all ages, even outside the ages for which the assessment was designed and when the item may not be valid or useful—i.e., all items are assessed at all ages.
+The second approach, the "upward/downward extension" approach, takes items that are valid at a given age and uses those same items across all ages, even outside the ages for which the items are valid or useful—i.e., all items are assessed at all ages.
 For instance, the upward extension approach might take the item "disobedient to authority figures" and apply it to older individuals for whom such a behavior may no longer validly reflect externalizing behavior—and may instead reflect prosocial functions including protesting against societally unjust actions.
 Both the "common items" [e.g., @Odgers2008; @Sterba2007] and "upward/downward extension" [e.g., @BriggsGowan2016; @Broeren2013] approaches are widely used, likely because they result in the same items assessed across ages, but both have key problems.
 
@@ -557,23 +558,23 @@ The "common items" and "upward/downward extension" approaches are by far the mos
 The common items approach yields low content validity because it does not assess all construct facets, especially age-specific manifestations.
 The upward/downward extension approach violates construct validity because it assesses developmentally inappropriate items.
 
-Due to these problems, both simulation [@Petersen2021a] and empirical work [@Chen2015; @Petersen2018; @Petersen2026a] have shown that the "common items" and "upward/downward extension" approaches—thus failing to account for heterotypic continuity—lead to inaccurate developmental inferences.
-The extent of inaccuracy may vary from small to substantial depending on the approach used, the criterion examined, and the extent to which the construct changes in manifestation (whose changes are ignored).
-Nevertheless, the effects of failing to account for heterotypic continuity have been large enough to infer that (a) a sample does not show changes in level when it actually does [@Petersen2018], (b) a sample shows increases when it actually decreases [@Petersen2021a], (c) many individuals are misclassified as persisting versus desisting in terms of their externalizing trajectory [@Petersen2026a], and (d) a subgroup's externalizing behavior emerges in adulthood when it actually onsets much earlier [i.e., adolescence\; @Chen2015].
+Due to these problems, both simulation [@Petersen2021a] and empirical work [@Chen2015; @Petersen2018; @Petersen2026a] have shown that the "common items" and "upward/downward extension" in failing to account for heterotypic continuity—lead to inaccurate developmental inferences.
+The extent of inaccuracy may vary from small to substantial depending on the approach used, the criterion examined, and the extent to which the construct changes in manifestation (whose changes in manifestation are ignored).
+Nevertheless, the effects of failing to account for heterotypic continuity have been large enough to infer that (a) a sample does not show changes in level when changes do occur [@Petersen2018], (b) a sample shows increases when it actually decreases [@Petersen2021a], (c) many individuals are misclassified as persisting versus desisting in terms of their externalizing trajectory [@Petersen2026a], and (d) a subgroup's externalizing behavior appears to emerge in adulthood when it actually onsets much earlier [i.e., adolescence\; @Chen2015].
 In sum, despite the "common items" and "upward/downward extension" approaches being the most widely used for assessing individuals' development, they likely lead to inaccurate scores and thus inaccurate trajectories and ages of onset for individuals and groups.
 
 The problem cannot be solved merely by age-norming.
-Generating norms from items that are invalid at a given age or from scales that have important content gaps at a given age leads to construct-invalid scores and resulting norms.
+Generating norms from items that are invalid at a given age or from scales that have content gaps at a given age leads to construct-invalid scores and resulting norms.
 Likewise, using DSM disorders or diagnoses also does not solve the problem because DSM disorders are fictive categories [@Petersen2024] and, as described above, DSM disorder criteria do not adequately account for different symptom presentations at different ages.
 Moreover, diagnostic criteria naturally change with subsequent revisions of the DSM, leading people to lose interest with prior categorizations and to incomparability of diagnoses across DSM versions.
 
-In addition, forcing use of the same measure across time naturally limits the ages a study can span, which prevents charting wider age spans.
+In addition, forcing use of the same measure across time naturally limits the ages a study can span, which prevents charting wider age ranges.
 For example, if a researcher used the CBCL and only wanted to study trajectories where the same measure was assessed across ages, they would not be able to examine development from ages 5–6, when there is a change in the CBCL version (i.e., one for ages 1.5–5 and another for ages 6–18).
 
 In addition to the behavioral expression of a construct changing across developmental time, the behavioral expression of a construct can also change across historical time.
 Changes in the behavioral manifestation across historical time can lead existing items and measures to become obsolete and new items to become relevant.
 For instance, many measures and longitudinal studies do not assess important contemporary manifestations of externalizing behavior, including aggression on social media and cyberbullying [@Nickerson2026].
-Changes in the behavioral manifestation across historical time provide additional reasons to change the measure by removing no-longer-valid items and by adding newer valid items.
+Changes in the behavioral manifestation across historical time provide additional reasons to change the measure by removing items that are no longer valid and by adding newer valid items.
 
 In sum, many problems arise from using the same measure across ages when the construct changes in behavioral manifestation across development and historical time.
 
@@ -592,7 +593,7 @@ In some cases, mean scores and proportion of maximum scores have been used to ac
 However, such approaches assume that the age-differing measures have the same overall functioning in terms of difficulty and discrimination (described later), which is unlikely.
 
 Age norms and standardized scores (e.g., *T*- or *z*-scores) have also been used to study development of externalizing problems [@Bista2025; @Korhonen2018].
-However, age norms and standardized scores do not allow observing individuals' absolute change because scores have a fixed mean and variance, and they do not equal developmental understanding.
+However, age norms and standardized scores do not allow observing individuals' absolute change because scores have a fixed mean and variance.
 Absolute change is necessary to identify true growth for an individual, and is thus important for treatment monitoring and longitudinal growth curves.
 Thus, age-norming is problematic in longitudinal studies [@Moeller2015].
 
@@ -608,9 +609,9 @@ Because of substantial changes in ability level across grades, the same math and
 Otherwise, respondents would receive items that are too easy (thus evoking boredom) or too difficult (thus evoking frustration), relative to their ability.
 To address this, the test developers write the tests so that some items are in common across adjacent grades—used for linking the scores across grades onto the same scale—along with items that are unique to a particular grade.
 Then, the researchers apply widely used methods to link the scores from the different measures onto the same scale so they can observe individuals' growth across grades.
+For examples of studies applying various linking methods to academic and cognitive skills, see @McArdle2009, McArdle and Grimm [-@McArdle2011], @Murayama2013, @Oleson2016, @Petscher2018, @Ward2022, and @Weeks2018.
 The same general methods are also used to place people's scores on the same scale for standardized tests like the ACT, SAT, GRE, MCAT, LSAT, etc., despite respondents receiving different item content.
 
-For examples of studies applying various linking methods to academic and cognitive skills, see @McArdle2009, McArdle and Grimm [-@McArdle2011], @Murayama2013, @Oleson2016, @Petscher2018, @Ward2022, and @Weeks2018.
 However, the use of linking methods is rare in studies of social and behavioral development broadly and psychopathology specifically.
 For studies that have applied such methods in studying social and behavioral development, see studies on self-concept [@Hancock2008], neuroticism [@Lai2023], self-regulation [@Hosch2022], underactivity/overactivity [and their subdimensions\; @McDermott2013], thought-disordered problems [@Petersen2026a], internalizing problems [@Harris2025; @Petersen2018; @Petersen2026a; @Tyrell2019], and externalizing problems [@ChenMBR; @ChenPM; @Harris2025; @Petersen2021b; @Petersen2022; @Petersen2026a].
 And even fewer of these studies accounted for heterotypic continuity by using different measures across ages [@ChenPM; @Hancock2008; @Harris2025; @Hosch2022; @Petersen2018; @Petersen2022; @Petersen2026a; @Tyrell2019].
@@ -627,12 +628,12 @@ Restricting the age range of study to when the same measure was assessed natural
 
 Many measures use coarse, subjective response scales such as Likert-type response scales (e.g., "rarely," "sometimes," "often," "very often") leading to cultural bias [@Schaeffer1991; @Schwarz1999; @Paalman2013] and insensitivity to change.
 Items with few discrete response categories tend to show less sensitivity to the full range of individual differences [@Elliott1980] and less sensitivity to change [i.e., responsiveness\; @Grant1999] compared to items with more response options that have greater variability in scores.
-In general, items with more response options yield more information [i.e., greater reduction of uncertainty in estimates of a person's construct level\; though there are diminishing returns when using more than six response options\; @Culpepper2013; @Simms2019].
-Indeed, as depicted in @fig-absoluteFrequencyInformation, items assessing absolute frequency have been shown to yield more information than dichotomized versions of the same items and than the Achenbach Adult Self-Report, which uses Likert-type response options.
+In general, items with more response options yield more information [i.e., greater measurement precision—reduction of uncertainty in estimates of a person's construct level\; though there are diminishing returns when using more than six response options\; @Culpepper2013; @Simms2019].
+Indeed, as depicted in @fig-absoluteFrequencyInformation, items assessing absolute frequency have been shown to yield more information than dichotomized versions of the same items and more information than the Achenbach Adult Self-Report, which uses Likert-type response options.
 In addition, if a respondent implicitly uses the target's same-aged peers as the normative reference group for determining the relative frequency of a behavior, this could have the implicit effect of resulting in age-normed scores, which works against the goal of detecting change.
 Moreover, Likert-type scales tend to focus on frequency of misbehavior and ignore intensity and severity.
 It can be helpful to explicitly assess—and distinguish—frequency versus problematic impact of behavior.
-Instead of assessing relative frequency, researchers advise assessing absolute frequency of behavior [@Burns2001; @Schwarz1999]—in addition to other aspects of behavior including onset, timing, duration, intensity, function, and resulting impairment.
+Instead of assessing relative frequency, researchers advise assessing absolute frequency of behavior [@Burns2001; @Schwarz1999]—in addition to other aspects of behavior including onset, timing, duration, intensity, function, and resulting impairment, which can be helpful for informing intervention.
 
 ![Test Information Functions of Absolute Frequency Versus Dichotomized Versus Adult Self-Report Items: Test Information as a Function of Theta (θ)](Figures/Petersen2026_figure4.png){
   #fig-absoluteFrequencyInformation
@@ -653,20 +654,20 @@ The figure demonstrates that items assessing absolute frequency yield more infor
 :::
 -->
 
-In addition, the measures focus on extreme or clinical-range behaviors; scores are thus positively skewed with floor effects and have unacceptably low reliability [including the CBCL\; @Kaat2019; @Pavlovich2026; @Tiego2023], making the CBCL and existing measures unsuitable for dimensional research [@Pavlovich2026; @Tiego2023].
+In addition, many measures focus on extreme or clinical-range behaviors; scores are thus positively skewed with floor effects and have unacceptably low reliability [including the CBCL\; @Kaat2019; @Pavlovich2026; @Tiego2023], making them unsuitable for dimensional research [@Pavlovich2026; @Tiego2023].
 Considerable evidence indicates that externalizing problems [and psychopathology, more generally\; @Haslam2012; @Haslam2020; @Kotov2017; @Krueger2002; @Krueger2011; @Krueger2016; @Markon2011; @Wright2013] and their trajectories [@Burt2012; @Fairchild2013; @Walters2011; @Walters2012; @Walters2013; @Walters2015] and risk factors [@Walters2014] are best conceptualized dimensionally [or multi-dimensionally\; @Bolhuis2017; @Wakschlag2014], not categorically [@Barry2013; @Coghill2012; @Forbes2016; @Kliem2018; @Kliem2022; @Krueger2004; @Krueger2005; @Krueger2007; @Krueger2021; @Markon2005; @Sellbom2016; @Walton2011].
 Thus, the existing measures are impoverished for studying the full range of individual differences on the externalizing spectrum, which prevents subthreshold children who are at risk for impairment from being identified.
-Better identification of subthreshold externalizing is critical, in both research and practice, for identifying at-risk individuals in the early-stage trajectory of psychopathology.
+Better identification of subthreshold externalizing is critical, in both research and practice, for identifying at-risk individuals in the early stage of psychopathology.
 As noted by Pavlovich et al. [-@Pavlovich2026, p. 1], "These findings...highlight the need for measures explicitly developed and validated for dimensional psychopathology in population-scale research.".
 
 To provide better phenotypic resolution, and to better identify biological processes underlying psychopathology, @Tiego2023 argue for including content covering the full range, including items assessing the adaptive end of the continuum.
 Doing so would help move the field away from a focus of symptoms (and absence of symptoms) and toward consideration of the full range of functioning, including thriving.
 As they note, low scores on clinical measures are typically intended to assess absence of pathological functioning rather than the opposite end of the latent continuum—i.e., the presence of adaptive functioning.
-For instance, it can be valuable to consider "positive opposites"—i.e., positive behaviors that compete with and are (simultaneously) incompatible with the particular antisocial behavior.
+For instance, it can be valuable to consider "positive opposites"—i.e., positive behaviors that compete with and are (simultaneously) incompatible with a particular antisocial behavior.
 For instance, in a study of externalizing behavior, it would be valuable to consider prosocial behavior (e.g., kindness, helping others, sharing, dependability, compliance, accountability).
 Indeed, in a machine learning study of children's conduct problems in the ABCD study, prosocial behavior was the strongest predictor [@Berluti2026].
 Moreover, measures of externalizing behavior tend to focus on just global scores or just one or a few subdimensions.
-For better phenotypic resolution, instruments should assess a wide range of phenotypes to better capture the full range of externalizing behaviors, which will be important to distinguish various forms of behavior—e.g., physical versus verbal versus destructive versus relational aggression—and their functions—e.g., proactive versus reactive.
+For better phenotypic resolution, instruments should assess a wide range of externalizing behaviors, which will be important to distinguish various forms of behavior—e.g., physical versus verbal versus destructive versus relational aggression—and their functions—e.g., proactive versus reactive.
 
 Based on our content analysis of over 270 measures of externalizing behavior, we identified a wide range of facets that would be important for measures of externalizing behavior to capture (see @tbl-externalizingfacets).
 We also identified potential positive opposites of each facet.
