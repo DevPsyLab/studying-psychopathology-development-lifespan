@@ -372,7 +372,7 @@ Longitudinal studies such as these have had immense impacts.
 These studies have yielded many inferences that would not have been possible without longitudinal designs.
 Some long-term longitudinal studies have even followed children of those children who were initially recruited and are thus uniquely positioned to study questions of intergenerational transmission [e.g., @Kim2009].
 However, relatively few longitudinal studies attempt to assess people's *change* (in level) in a given psychopathology construct over a lengthy period.
-In [the [Appendix](#sec-appendix)]{.content-visible when-format="html"}[the @apx-longitudinalExternalizingStudies]{.content-visible unless-format="html"}, we describe studies that have examined trajectories of externalizing behavior.[^trajectoriesFootnote]
+In [[Appendix A](#sec-appendixA)]{.content-visible when-format="html"}[the @apx-longitudinalExternalizingStudies]{.content-visible unless-format="html"}, we describe studies that have examined trajectories of externalizing behavior.[^trajectoriesFootnote]
 A depiction of the ages spanned by various longitudinal studies is in @fig-longitudinal-externalizing-studies.
 
 [^trajectoriesFootnote]: We do not consider autoregressive/cross-lagged models because such models do not examine change in level of externalizing behavior.
@@ -476,32 +476,12 @@ Moreover, where such theories do indicate changes in behavioral manifestation ac
 
 Diagnostic and taxonomic systems do not define psychopathology constructs from a developmental perspective.
 The diagnostic systems, including the Diagnostic and Statistical Manual of Mental Disorders [DSM-5-TR\; @APA2022] and the International Classification of Diseases [ICD-11\; @WHO2022], specify various externalizing-related disorders, including attention-deficit/hyperactivity disorder (ADHD), oppositional defiant disorder (ODD), conduct disorder (CD), and antisocial personality disorder (ASPD).
-Among externalizing-related disorders—with few exceptions[^dsmFootnote1]—the diagnostic criteria do not differ across development, even though diagnostic manuals acknowledge that developmental factors impact symptom presentation[^dsmFootnote2].
+Among externalizing-related disorders—with few exceptions[^dsmFootnote1]—the diagnostic criteria do not differ across development, even though diagnostic manuals acknowledge that developmental factors impact symptom presentation (see [[Appendix B](#sec-appendixB)]{.content-visible when-format="html"}[the @apx-dsmDevelopmentalFactors]{.content-visible unless-format="html"}).
 In addition to diagnostic systems, emerging taxonomies and frameworks of psychopathology—including the hierarchical taxonomy of psychopathology (HiTOP) and research domain criteria (RDoC)—do not incorporate a developmental perspective [@Tackett2022].
 
 [^dsmFootnote1]: In the DSM-5-TR [@APA2022], the minimum frequency for considering a symptom of ODD to be present is "most days" (for a period of six months) for children younger than 5 years, whereas it is "at least once per week" (for at least six months) for children 5 years or older.
 For the diagnosis of ADHD, six or more symptoms are required for children and younger adolescents (up to age 16), whereas five or more symptoms are required for older adolescents and adults (aged 17 or over).
 However, the symptoms for defining ODD and ADHD do not differ across development.
-
-[^dsmFootnote2]: In the DSM-5-TR [@APA2022], some disorders have a "Development and Course" subsection that describes when disorders tend to emerge and their rates across ages, in addition to describing the types of symptoms that may be more or less common at various points in development.
-However, the symptoms that define the disorders do not differ across development.
-For instance, in the section on major depressive disorder, it is noted that "hypersomnia and hyperphagia are more likely in younger individuals, and melancholic symptoms, particularly psychomotor disturbances, are more common in older individuals.
-Depressions with earlier ages at onset are more familial and more likely to involve personality disturbances." (p. 189).
-In the section on ADHD, it is noted that, "In preschool, the main manifestation is hyperactivity.
-Inattention becomes more prominent during elementary school.
-During adolescence, signs of hyperactivity (e.g., running and climbing) are less common and may be confined to fidgetiness or an inner feeling of jitteriness, restlessness, or impatience.
-In adulthood, along with inattention and restlessness, impulsivity may remain problematic even when hyperactivity has diminished." (p. 71).
-In the section on CD, it is noted that "Symptoms of the disorder vary with age as the individual develops increased physical
-strength, cognitive abilities, and sexual maturity.
-Symptom behaviors that emerge first tend to be less serious (e.g., lying, shoplifting), whereas conduct problems that emerge last tend to be more severe (e.g., rape, theft while confronting a victim)...
-When individuals with conduct disorder reach adulthood, symptoms of aggression, property destruction, deceitfulness, and rule violation, including violence against co-workers, partners, and children, may be exhibited in the workplace and the home" (p. 534).
-Moreover, some disorders in the DSM-5-TR note that, to be considered a symptom, the frequency, intensity, or persistence of the behavior must be inconsistent with the level expected for their developmental level.
-For instance, in the diagnosis of ADHD, it is noted that "the symptoms have persisted for at least 6 months to a degree that is inconsistent with developmental level" (p. 68).
-In the diagnosis of ODD, it is noted that "other factors [besides a minimum frequency] should also be considered, such as whether the frequency and intensity of the behaviors are outside a range that is normative for the individual's developmental level, gender, and culture." (p. 522).
-In addition, some disorders require that some symptoms onset before or after a particular age.
-For instance, in the diagnosis of ADHD, several symptoms must be present prior to age 12.
-In the diagnosis of CD, the symptoms "often stays out at night despite parental prohibitions" and "is often truant from school" must begin before age 13 (p. 531).
-In the diagnosis of ASPD, symptoms must be persistent since age 15 but have onset prior to age 15.
 
 ## Problems of Existing Assessments and Traditional Scoring Systems
 
@@ -1037,13 +1017,13 @@ Although this paper focuses on development of psychopathology, the principles di
 
 ::: {.content-visible when-format="html"}
 
-# Appendix {#sec-appendix}
+# Appendix A {#sec-appendixA}
 
 :::
 
 ::: {.content-visible unless-format="html"}
 
-# Appendix: Longitudinal Studies of Externalizing Behavior {#apx-longitudinalExternalizingStudies}
+# Appendix A: Longitudinal Studies of Externalizing Behavior {#apx-longitudinalExternalizingStudies}
 
 :::
 
@@ -1059,3 +1039,35 @@ Studies have also examined trajectories of delinquency from ages 7–19 with 13 
 Demonstrating an analytic method (moderated nonlinear factor analysis) to link scores across measures onto the same scale, Chen and Bauer examined trajectories of delinquency from ages 12–26 with 3 measurement occasions in the National Longitudinal Study of Adolescent to Adult Health [Add Health\; -@ChenPM], and examined trajectories of externalizing behavior from ages 5–12 with 3 measurement occasions in the National Longitudinal Survey of Youth 1979 Child and Young Adult [NLSCYA\; -@ChenMBR].
 In addition, studies have examined trajectories of emotional and behavioral dysregulation (encompassing externalizing problems and emotional symptoms) from ages 3–17 with 6 measurement occasions [UK Millennium Cohort Study\; @Zhai2026].
 Studies have also leveraged registry data to examine trajectories of offending from ages 8–61 [@LeBlanc2021], from ages 10–61 [Cambridge Study in Delinquent Development\; @Farrington2023], and from ages 9–64 [Stockholm Metropolitan Study\; @Sivertsson2024].
+
+::: {.content-visible when-format="html"}
+
+# Appendix B {#sec-appendixB}
+
+:::
+
+::: {.content-visible unless-format="html"}
+
+# Appendix B: Ways the DSM Acknowledges that Developmental Factors Impact Symptom Presentation {#apx-dsmDevelopmentalFactors}
+
+:::
+
+[^dsmFootnote2]: In the DSM-5-TR [@APA2022], some disorders have a "Development and Course" subsection that describes when disorders tend to emerge and their rates across ages, in addition to describing the types of symptoms that may be more or less common at various points in development.
+However, the symptoms that define the disorders do not differ across development.
+For instance, in the section on major depressive disorder, it is noted that "hypersomnia and hyperphagia are more likely in younger individuals, and melancholic symptoms, particularly psychomotor disturbances, are more common in older individuals.
+Depressions with earlier ages at onset are more familial and more likely to involve personality disturbances." (p. 189).
+In the section on ADHD, it is noted that, "In preschool, the main manifestation is hyperactivity.
+Inattention becomes more prominent during elementary school.
+During adolescence, signs of hyperactivity (e.g., running and climbing) are less common and may be confined to fidgetiness or an inner feeling of jitteriness, restlessness, or impatience.
+In adulthood, along with inattention and restlessness, impulsivity may remain problematic even when hyperactivity has diminished." (p. 71).
+In the section on CD, it is noted that "Symptoms of the disorder vary with age as the individual develops increased physical
+strength, cognitive abilities, and sexual maturity.
+Symptom behaviors that emerge first tend to be less serious (e.g., lying, shoplifting), whereas conduct problems that emerge last tend to be more severe (e.g., rape, theft while confronting a victim)...
+When individuals with conduct disorder reach adulthood, symptoms of aggression, property destruction, deceitfulness, and rule violation, including violence against co-workers, partners, and children, may be exhibited in the workplace and the home" (p. 534).
+Moreover, some disorders in the DSM-5-TR note that, to be considered a symptom, the frequency, intensity, or persistence of the behavior must be inconsistent with the level expected for their developmental level.
+For instance, in the diagnosis of ADHD, it is noted that "the symptoms have persisted for at least 6 months to a degree that is inconsistent with developmental level" (p. 68).
+In the diagnosis of ODD, it is noted that "other factors [besides a minimum frequency] should also be considered, such as whether the frequency and intensity of the behaviors are outside a range that is normative for the individual's developmental level, gender, and culture." (p. 522).
+In addition, some disorders require that some symptoms onset before or after a particular age.
+For instance, in the diagnosis of ADHD, several symptoms must be present prior to age 12.
+In the diagnosis of CD, the symptoms "often stays out at night despite parental prohibitions" and "is often truant from school" must begin before age 13 (p. 531).
+In the diagnosis of ASPD, symptoms must be persistent since age 15 but have onset prior to age 15.
