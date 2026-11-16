@@ -1028,7 +1028,7 @@ Although this paper focuses on development of psychopathology, the principles di
 
 # Appendices {.appendix when-format="html apaquarto-html"}
 
-## Appendix A: Longitudinal Studies of Externalizing Behavior {.appendix #sec-appendixB when-format="html apaquarto-html"}
+## Appendix A: Longitudinal Studies of Externalizing Behavior {.appendix #sec-appendixA when-format="html apaquarto-html"}
 
 # Longitudinal Studies of Externalizing Behavior {#apx-longitudinalExternalizingStudies unless-format="html"}
 
