@@ -1017,7 +1017,7 @@ Although this paper focuses on development of psychopathology, the principles di
 
 ::: {.content-visible when-format="html"}
 
-# Appendix A {#sec-appendixA}
+# Appendix A {.appendix #sec-appendixA}
 
 :::
 
@@ -1042,7 +1042,7 @@ Studies have also leveraged registry data to examine trajectories of offending f
 
 ::: {.content-visible when-format="html"}
 
-# Appendix B {#sec-appendixB}
+# Appendix B {.appendix #sec-appendixB}
 
 :::
 
@@ -1052,7 +1052,7 @@ Studies have also leveraged registry data to examine trajectories of offending f
 
 :::
 
-[^dsmFootnote2]: In the DSM-5-TR [@APA2022], some disorders have a "Development and Course" subsection that describes when disorders tend to emerge and their rates across ages, in addition to describing the types of symptoms that may be more or less common at various points in development.
+In the DSM-5-TR [@APA2022], some disorders have a "Development and Course" subsection that describes when disorders tend to emerge and their rates across ages, in addition to describing the types of symptoms that may be more or less common at various points in development.
 However, the symptoms that define the disorders do not differ across development.
 For instance, in the section on major depressive disorder, it is noted that "hypersomnia and hyperphagia are more likely in younger individuals, and melancholic symptoms, particularly psychomotor disturbances, are more common in older individuals.
 Depressions with earlier ages at onset are more familial and more likely to involve personality disturbances." (p. 189).
