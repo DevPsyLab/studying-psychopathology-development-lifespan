@@ -372,7 +372,7 @@ Longitudinal studies such as these have had immense impacts.
 These studies have yielded many inferences that would not have been possible without longitudinal designs.
 Some long-term longitudinal studies have even followed children of those children who were initially recruited and are thus uniquely positioned to study questions of intergenerational transmission [e.g., @Kim2009].
 However, relatively few longitudinal studies attempt to assess people's *change* (in level) in a given psychopathology construct over a lengthy period.
-In [Appendix @sec-appendix]{.content-visible when-format="html"} [the @apx-longitudinalExternalizingStudies]{.content-visible unless-format="html"}, we describe studies that have examined trajectories of externalizing behavior.[^trajectoriesFootnote]
+In [the [Appendix](#sec-appendix)]{.content-visible when-format="html"}[the @apx-longitudinalExternalizingStudies]{.content-visible unless-format="html"}, we describe studies that have examined trajectories of externalizing behavior.[^trajectoriesFootnote]
 A depiction of the ages spanned by various longitudinal studies is in @fig-longitudinal-externalizing-studies.
 
 [^trajectoriesFootnote]: We do not consider autoregressive/cross-lagged models because such models do not examine change in level of externalizing behavior.
@@ -1042,7 +1042,7 @@ Although this paper focuses on development of psychopathology, the principles di
 
 ::: {.content-visible unless-format="html"}
 
-# Longitudinal Studies of Externalizing Behavior {#apx-longitudinalExternalizingStudies}
+# Appendix: Longitudinal Studies of Externalizing Behavior {#apx-longitudinalExternalizingStudies}
 
 :::
 
