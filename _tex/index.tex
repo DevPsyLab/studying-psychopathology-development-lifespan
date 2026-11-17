@@ -929,8 +929,9 @@
   \setstretch{1}\selectfont
   \addtolength{\apathesisentrysep}{-\baselineskip}}
 
-% Block quotations. Every mode indents one on the left only and runs it to
-% the margin on the right, as the .docx, the .html and typst do. LaTeX's own
+% Block quotations. Every mode but a dissertation indents one on the left
+% only and runs it to the margin on the right, as the .docx, the .html and
+% typst do. LaTeX's own
 % quote takes the 2.5em of \leftmargini on both sides. \parsep is the space a
 % list puts between its paragraphs, a few points more than the line spacing,
 % which set the paragraphs of a quotation, and the attribution under it,
@@ -960,7 +961,8 @@
   {\par\raggedleft\setlength{\parindent}{0pt}}
   {\par}
 
-% A dissertation indents half an inch and single spaces, and stands a double
+% A dissertation indents half an inch on both sides, which the Graduate
+% School asks for though APA does not, and single spaces, and stands a double
 % space (24pt, baseline to baseline) between the quotation and the body on
 % either side, as typst does. The list's \topsep stood on top of that: above,
 % it was added to the quotation's single spacing, and below to the body's
@@ -972,7 +974,7 @@
 \makeatletter
 \newcommand{\apathesisquote}{%
   \renewenvironment{quote}
-    {\list{}{\leftmargin=0.5in\rightmargin=0pt\parsep=0pt\partopsep=0pt
+    {\list{}{\leftmargin=0.5in\rightmargin=0.5in\parsep=0pt\partopsep=0pt
        \apathesissingle\topsep=\apathesisentrysep}%
      \item\relax}
     {\@topsepadd=\z@\endlist}}
@@ -1292,6 +1294,7 @@ of the heterogeneity of cognitive decline are depicted in
 
 \setcounter{figure}{0}
 
+\def\theHfigure{\arabic{figure}}%
 \refstepcounter{figure}%
 \makeatletter\def\@currentlabel{1}\makeatother%
 \label{fig-lifespancognitivetrajectories}
@@ -1446,6 +1449,7 @@ explain these differing developmental courses.
 
 \setcounter{figure}{1}
 
+\def\theHfigure{\arabic{figure}}%
 \refstepcounter{figure}%
 \makeatletter\def\@currentlabel{2}\makeatother%
 \label{fig-externalizing-by-age}
@@ -1550,6 +1554,7 @@ depiction of the ages spanned by various longitudinal studies is in
 
 \setcounter{figure}{2}
 
+\def\theHfigure{\arabic{figure}}%
 \refstepcounter{figure}%
 \makeatletter\def\@currentlabel{3}\makeatother%
 \label{fig-longitudinalstudies}
@@ -1715,6 +1720,7 @@ spanned by various longitudinal studies is in
 
 \setcounter{figure}{3}
 
+\def\theHfigure{\arabic{figure}}%
 \refstepcounter{figure}%
 \makeatletter\def\@currentlabel{4}\makeatother%
 \label{fig-longitudinal-externalizing-studies}
@@ -1890,6 +1896,7 @@ et al., 2018}).
 
 \setcounter{figure}{4}
 
+\def\theHfigure{\arabic{figure}}%
 \refstepcounter{figure}%
 \makeatletter\def\@currentlabel{5}\makeatother%
 \label{fig-absoluteFrequencyByAge}
@@ -2086,6 +2093,7 @@ version for 2--4-year-olds.
 
 \setcounter{figure}{5}
 
+\def\theHfigure{\arabic{figure}}%
 \refstepcounter{figure}%
 \makeatletter\def\@currentlabel{6}\makeatother%
 \label{fig-approachesToLongitudinalAssessment}
@@ -2384,6 +2392,7 @@ intervention.
 
 \setcounter{figure}{6}
 
+\def\theHfigure{\arabic{figure}}%
 \refstepcounter{figure}%
 \makeatletter\def\@currentlabel{7}\makeatother%
 \label{fig-absoluteFrequencyInformation}
@@ -2517,6 +2526,7 @@ We also identified potential positive opposites of each facet.
 
 \setcounter{table}{0}
 
+\def\theHtable{\arabic{table}}%
 \refstepcounter{table}%
 \makeatletter\def\@currentlabel{1}\makeatother%
 \label{tbl-externalizingfacets}
@@ -2731,6 +2741,7 @@ may receive items assessing addition and subtraction, and so on.
 
 \setcounter{figure}{7}
 
+\def\theHfigure{\arabic{figure}}%
 \refstepcounter{figure}%
 \makeatletter\def\@currentlabel{8}\makeatother%
 \label{fig-constructValidItemDesign}
@@ -2954,6 +2965,7 @@ them in advance.
 
 \setcounter{figure}{8}
 
+\def\theHfigure{\arabic{figure}}%
 \refstepcounter{figure}%
 \makeatletter\def\@currentlabel{9}\makeatother%
 \label{fig-linking}
@@ -3151,6 +3163,7 @@ participants followed longitudinally.
 
 \setcounter{figure}{9}
 
+\def\theHfigure{\arabic{figure}}%
 \refstepcounter{figure}%
 \makeatletter\def\@currentlabel{10}\makeatother%
 \label{fig-longitudinalDesigns}
