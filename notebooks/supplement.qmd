@@ -15,7 +15,7 @@ format:
     self-contained-math: true
 ---
 
-# Longitudinal Studies of Externalizing Behavior {#apx-longitudinalExternalizingStudies}
+# Supplementary Appendix S1: Longitudinal Studies of Externalizing Behavior {#sec-longitudinalExternalizingStudies}
 
 In the Child Development Project, @Petersen2015 examined trajectories of externalizing behavior from ages 5–27 with 20 measurement occasions.
 In the Dunedin Multidisciplinary Health and Development Study, @Odgers2008 examined trajectories of antisocial conduct problems from ages 7–26 with 8 measurement occasions.
@@ -30,7 +30,7 @@ Demonstrating an analytic method (moderated nonlinear factor analysis) to link s
 In addition, studies have examined trajectories of emotional and behavioral dysregulation (encompassing externalizing problems and emotional symptoms) from ages 3–17 with 6 measurement occasions [UK Millennium Cohort Study\; @Zhai2026].
 Studies have also leveraged registry data to examine trajectories of offending from ages 8–61 [@LeBlanc2021], from ages 10–61 [Cambridge Study in Delinquent Development\; @Farrington2023], and from ages 9–64 [Stockholm Metropolitan Study\; @Sivertsson2024].
 
-# Ways the DSM Acknowledges Developmental Factors in Symptom Presentation {#apx-dsmDevelopmentalFactors}
+# Supplementary Appendix S2: Ways the DSM Acknowledges Developmental Factors in Symptom Presentation {#sec-dsmDevelopmentalFactors}
 
 In the DSM-5-TR [@APA2022], some disorders have a "Development and Course" subsection that describes when disorders tend to emerge and their rates across ages, in addition to describing the types of symptoms that may be more or less common at various points in development.
 However, the symptoms that define the disorders do not differ across development.
