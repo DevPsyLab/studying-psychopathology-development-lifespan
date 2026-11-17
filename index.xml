@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-11-16">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-11-17">
 <year>2026</year>
 <month>11</month>
-<day>16</day>
+<day>17</day>
 </pub-date>
 
 
@@ -533,10 +533,10 @@ academic and cognitive skills across lengthy developmental periods.</p>
     al. 2009</xref>). However, relatively few longitudinal studies
     attempt to assess people’s <italic>change</italic> (in level) in a
     given psychopathology construct over a lengthy period. In
-    (<xref alt="apx-longitudinalExternalizingStudies?" rid="ref-apx-longitudinalExternalizingStudies" ref-type="bibr"><bold>apx-longitudinalExternalizingStudies?</bold></xref>),
-    we describe studies that have examined trajectories of externalizing
-    behavior.<xref ref-type="fn" rid="fn1">1</xref> A depiction of the
-    ages spanned by various longitudinal studies is in
+    <ext-link ext-link-type="uri" xlink:href="notebooks/supplement.qmd#apx-longitudinalExternalizingStudies">Appendix
+    A</ext-link>, we describe studies that have examined trajectories of
+    externalizing behavior.<xref ref-type="fn" rid="fn1">1</xref> A
+    depiction of the ages spanned by various longitudinal studies is in
     <xref alt="Figure 4" rid="fig-longitudinal-externalizing-studies">Figure 4</xref>.</p>
     <fig id="fig-longitudinal-externalizing-studies">
       <caption><p>Figure 4: (Approximate) Ages Spanned by Externalizing
@@ -753,11 +753,12 @@ academic and cognitive skills across lengthy developmental periods.</p>
       criteria do not differ across development, even though diagnostic
       manuals acknowledge that developmental factors impact symptom
       presentation (see
-      (<xref alt="apx-dsmDevelopmentalFactors?" rid="ref-apx-dsmDevelopmentalFactors" ref-type="bibr"><bold>apx-dsmDevelopmentalFactors?</bold></xref>)).
-      In addition to diagnostic systems, emerging taxonomies and
-      frameworks of psychopathology—including the hierarchical taxonomy
-      of psychopathology (HiTOP) and research domain criteria (RDoC)—do
-      not incorporate a developmental perspective
+      <ext-link ext-link-type="uri" xlink:href="notebooks/supplement.qmd#apx-dsmDevelopmentalFactors">Appendix
+      B</ext-link>). In addition to diagnostic systems, emerging
+      taxonomies and frameworks of psychopathology—including the
+      hierarchical taxonomy of psychopathology (HiTOP) and research
+      domain criteria (RDoC)—do not incorporate a developmental
+      perspective
       (<xref alt="Tackett and Hallquist 2022" rid="ref-Tackett2022" ref-type="bibr">Tackett
       and Hallquist 2022</xref>).</p>
     </sec>
@@ -2313,131 +2314,6 @@ academic and cognitive skills across lengthy developmental periods.</p>
 </sec>
 <sec id="references">
   <title>References</title>
-</sec>
-<sec id="apx-longitudinalExternalizingStudies">
-  <title>Longitudinal Studies of Externalizing Behavior</title>
-  <p>In the Child Development Project, Petersen et al.
-  (<xref alt="2015" rid="ref-Petersen2015" ref-type="bibr">2015</xref>)
-  examined trajectories of externalizing behavior from ages 5–27 with 20
-  measurement occasions. In the Dunedin Multidisciplinary Health and
-  Development Study, Odgers et al.
-  (<xref alt="2008" rid="ref-Odgers2008" ref-type="bibr">2008</xref>)
-  examined trajectories of antisocial conduct problems from ages 7–26
-  with 8 measurement occasions. In the Mannheim Study of Children at
-  Risk, Sacu et al.
-  (<xref alt="in press" rid="ref-SacuInPress" ref-type="bibr">in
-  press</xref>) examined trajectories of externalizing behavior from
-  ages 8–33 with 8 measurement occasions. A study using six longitudinal
-  datasets examined trajectories of disruptive behaviors and
-  delinquency, with the longest trajectory spanning ages 6–15 with 7
-  measurement occasions
-  (<xref alt="Broidy et al. 2003" rid="ref-Broidy2003" ref-type="bibr">Broidy
-  et al. 2003</xref>). In addition, a study examined trajectories of
-  externalizing problems from ages 4–17 with 3 measurement occasions in
-  predicting externalizing problems at age 27
-  (<xref alt="Korhonen et al. 2018" rid="ref-Korhonen2018" ref-type="bibr">Korhonen
-  et al. 2018</xref>). Other studies have examined trajectories of
-  externalizing problems from ages 5–17 with 5 measurement occasions
-  (<xref alt="Bista et al. 2025" rid="ref-Bista2025" ref-type="bibr">Bista
-  et al. 2025</xref>), from ages 6–18 with 11 measurement occasions
-  (<xref alt="Shi et al. 2020" rid="ref-Shi2020" ref-type="bibr">Shi et
-  al. 2020</xref>), from ages 1.5–14.5 with 6 measurement occasions
-  (<xref alt="Kjeldsen et al. 2016" rid="ref-Kjeldsen2016" ref-type="bibr">Kjeldsen
-  et al. 2016</xref>), from ages 4–16 with 7 measurement occasions (Avon
-  Longitudinal Study of Parents and Children [ALSPAC];
-  <xref alt="Speyer et al. 2022" rid="ref-Speyer2022" ref-type="bibr">Speyer
-  et al. 2022</xref>), from ages 12–23 with 3 measurement occasions
-  (<xref alt="Stringer et al. 2020" rid="ref-Stringer2020" ref-type="bibr">Stringer
-  et al. 2020</xref>), from ages 2–15 with 11 measurement occasions
-  (NICHD Study of Early Child Care and Youth Development [SECCYD];
-  <xref alt="Harris et al. 2025" rid="ref-Harris2025" ref-type="bibr">Harris
-  et al. 2025</xref>), and from ages 3–17 with 10 measurement occasions
-  (<xref alt="Gornik et al. 2023" rid="ref-Gornik2023" ref-type="bibr">Gornik
-  et al. 2023</xref>). Bongers et al.
-  (<xref alt="2004" rid="ref-Bongers2004" ref-type="bibr">2004</xref>)
-  examined trajectories of various externalizing problems from ages 4–18
-  spanning 13 different birth cohorts with up to 5 measurement occasions
-  per cohort, such that any individual was followed for up to 8 years
-  (<xref alt="Bongers et al. 2004" rid="ref-Bongers2004" ref-type="bibr">Bongers
-  et al. 2004</xref>).</p>
-  <p>Studies have also examined trajectories of delinquency from ages
-  7–19 with 13 measurement occasions (Pittsburgh Youth Study;
-  <xref alt="Keijsers et al. 2012" rid="ref-Keijsers2012" ref-type="bibr">Keijsers
-  et al. 2012</xref>). Demonstrating an analytic method (moderated
-  nonlinear factor analysis) to link scores across measures onto the
-  same scale, Chen and Bauer examined trajectories of delinquency from
-  ages 12–26 with 3 measurement occasions in the National Longitudinal
-  Study of Adolescent to Adult Health (Add Health;
-  <xref alt="in press b" rid="ref-ChenPM" ref-type="bibr">in press
-  b</xref>), and examined trajectories of externalizing behavior from
-  ages 5–12 with 3 measurement occasions in the National Longitudinal
-  Survey of Youth 1979 Child and Young Adult (NLSCYA;
-  <xref alt="in press a" rid="ref-ChenMBR" ref-type="bibr">in press
-  a</xref>). In addition, studies have examined trajectories of
-  emotional and behavioral dysregulation (encompassing externalizing
-  problems and emotional symptoms) from ages 3–17 with 6 measurement
-  occasions (UK Millennium Cohort Study;
-  <xref alt="Zhai et al. 2026" rid="ref-Zhai2026" ref-type="bibr">Zhai
-  et al. 2026</xref>). Studies have also leveraged registry data to
-  examine trajectories of offending from ages 8–61
-  (<xref alt="Le Blanc 2021" rid="ref-LeBlanc2021" ref-type="bibr">Le
-  Blanc 2021</xref>), from ages 10–61 (Cambridge Study in Delinquent
-  Development;
-  <xref alt="Farrington et al. 2023" rid="ref-Farrington2023" ref-type="bibr">Farrington
-  et al. 2023</xref>), and from ages 9–64 (Stockholm Metropolitan Study;
-  <xref alt="Sivertsson et al. 2024" rid="ref-Sivertsson2024" ref-type="bibr">Sivertsson
-  et al. 2024</xref>).</p>
-</sec>
-<sec id="apx-dsmDevelopmentalFactors">
-  <title>Ways the DSM Acknowledges Developmental Factors in Symptom
-  Presentation</title>
-  <p>In the DSM-5-TR
-  (<xref alt="American Psychiatric Association 2022" rid="ref-APA2022" ref-type="bibr">American
-  Psychiatric Association 2022</xref>), some disorders have a
-  “Development and Course” subsection that describes when disorders tend
-  to emerge and their rates across ages, in addition to describing the
-  types of symptoms that may be more or less common at various points in
-  development. However, the symptoms that define the disorders do not
-  differ across development. For instance, in the section on major
-  depressive disorder, it is noted that “hypersomnia and hyperphagia are
-  more likely in younger individuals, and melancholic symptoms,
-  particularly psychomotor disturbances, are more common in older
-  individuals. Depressions with earlier ages at onset are more familial
-  and more likely to involve personality disturbances.” (p. 189). In the
-  section on ADHD, it is noted that, “In preschool, the main
-  manifestation is hyperactivity. Inattention becomes more prominent
-  during elementary school. During adolescence, signs of hyperactivity
-  (e.g., running and climbing) are less common and may be confined to
-  fidgetiness or an inner feeling of jitteriness, restlessness, or
-  impatience. In adulthood, along with inattention and restlessness,
-  impulsivity may remain problematic even when hyperactivity has
-  diminished.” (p. 71). In the section on CD, it is noted that “Symptoms
-  of the disorder vary with age as the individual develops increased
-  physical strength, cognitive abilities, and sexual maturity. Symptom
-  behaviors that emerge first tend to be less serious (e.g., lying,
-  shoplifting), whereas conduct problems that emerge last tend to be
-  more severe (e.g., rape, theft while confronting a victim)… When
-  individuals with conduct disorder reach adulthood, symptoms of
-  aggression, property destruction, deceitfulness, and rule violation,
-  including violence against co-workers, partners, and children, may be
-  exhibited in the workplace and the home” (p. 534). Moreover, some
-  disorders in the DSM-5-TR note that, to be considered a symptom, the
-  frequency, intensity, or persistence of the behavior must be
-  inconsistent with the level expected for their developmental level.
-  For instance, in the diagnosis of ADHD, it is noted that “the symptoms
-  have persisted for at least 6 months to a degree that is inconsistent
-  with developmental level” (p. 68). In the diagnosis of ODD, it is
-  noted that “other factors [besides a minimum frequency] should also be
-  considered, such as whether the frequency and intensity of the
-  behaviors are outside a range that is normative for the individual’s
-  developmental level, gender, and culture.” (p. 522). In addition, some
-  disorders require that some symptoms onset before or after a
-  particular age. For instance, in the diagnosis of ADHD, several
-  symptoms must be present prior to age 12. In the diagnosis of CD, the
-  symptoms “often stays out at night despite parental prohibitions” and
-  “is often truant from school” must begin before age 13 (p. 531). In
-  the diagnosis of ASPD, symptoms must be persistent since age 15 but
-  have onset prior to age 15.</p>
 </sec>
 </body>
 
@@ -4097,74 +3973,6 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <lpage>141</lpage>
     </element-citation>
   </ref>
-  <ref id="ref-Broidy2003">
-    <element-citation publication-type="article-journal">
-      <person-group person-group-type="author">
-        <name><surname>Broidy</surname><given-names>Lisa M.</given-names></name>
-        <name><surname>Nagin</surname><given-names>Daniel S.</given-names></name>
-        <name><surname>Tremblay</surname><given-names>Richard E.</given-names></name>
-        <name><surname>Bates</surname><given-names>John E.</given-names></name>
-        <name><surname>Brame</surname><given-names>Bobby</given-names></name>
-        <name><surname>Dodge</surname><given-names>Kenneth A.</given-names></name>
-        <name><surname>Fergusson</surname><given-names>David</given-names></name>
-        <name><surname>Horwood</surname><given-names>John L.</given-names></name>
-        <name><surname>Loeber</surname><given-names>Rolf</given-names></name>
-        <name><surname>Laird</surname><given-names>Robert</given-names></name>
-        <name><surname>Lynam</surname><given-names>Donald R.</given-names></name>
-        <name><surname>Moffitt</surname><given-names>Terrie E.</given-names></name>
-        <name><surname>Pettit</surname><given-names>Gregory S.</given-names></name>
-        <name><surname>Vitaro</surname><given-names>Frank</given-names></name>
-      </person-group>
-      <article-title>Developmental trajectories of childhood disruptive behaviors and adolescent delinquency: A six-site, cross-national study</article-title>
-      <source>Developmental Psychology</source>
-      <year iso-8601-date="2003">2003</year>
-      <volume>39</volume>
-      <issue>2</issue>
-      <uri>http://ezproxy.lib.indiana.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=pdh&amp;AN=dev-39-2-222&amp;site=ehost-live&amp;scope=site
-      lbroidy@unm.edu</uri>
-      <pub-id pub-id-type="doi">10.1037/0012-1649.39.2.222</pub-id>
-      <fpage>222</fpage>
-      <lpage>245</lpage>
-    </element-citation>
-  </ref>
-  <ref id="ref-Bongers2004">
-    <element-citation publication-type="article-journal">
-      <person-group person-group-type="author">
-        <name><surname>Bongers</surname><given-names>Ilja L.</given-names></name>
-        <name><surname>Koot</surname><given-names>Hans M.</given-names></name>
-        <name><surname>Ende</surname><given-names>Jan van der</given-names></name>
-        <name><surname>Verhulst</surname><given-names>Frank C.</given-names></name>
-      </person-group>
-      <article-title>Developmental trajectories of externalizing behaviors in childhood and adolescence</article-title>
-      <source>Child Development</source>
-      <year iso-8601-date="2004">2004</year>
-      <volume>75</volume>
-      <issue>5</issue>
-      <uri>http://www.jstor.org/stable/3696498</uri>
-      <pub-id pub-id-type="doi">10.1111/j.1467-8624.2004.00755.x</pub-id>
-      <fpage>1523</fpage>
-      <lpage>1537</lpage>
-    </element-citation>
-  </ref>
-  <ref id="ref-Keijsers2012">
-    <element-citation publication-type="article-journal">
-      <person-group person-group-type="author">
-        <name><surname>Keijsers</surname><given-names>Loes</given-names></name>
-        <name><surname>Loeber</surname><given-names>Rolf</given-names></name>
-        <name><surname>Branje</surname><given-names>Susan</given-names></name>
-        <name><surname>Meeus</surname><given-names>Wim</given-names></name>
-      </person-group>
-      <article-title>Parent-child relationships of boys in different offending trajectories. A developmental perspective</article-title>
-      <source>Journal of Child Psychology and Psychiatry</source>
-      <year iso-8601-date="2012">2012</year>
-      <volume>53</volume>
-      <issue>12</issue>
-      <uri>http://dx.doi.org/10.1111/j.1469-7610.2012.02585.x</uri>
-      <pub-id pub-id-type="doi">10.1111/j.1469-7610.2012.02585.x</pub-id>
-      <fpage>1222</fpage>
-      <lpage>1232</lpage>
-    </element-citation>
-  </ref>
   <ref id="ref-Korhonen2018">
     <element-citation publication-type="article-journal">
       <person-group person-group-type="author">
@@ -4209,25 +4017,6 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <lpage>191</lpage>
     </element-citation>
   </ref>
-  <ref id="ref-Shi2020">
-    <element-citation publication-type="article-journal">
-      <person-group person-group-type="author">
-        <name><surname>Shi</surname><given-names>Qinxin</given-names></name>
-        <name><surname>Ettekal</surname><given-names>Idean</given-names></name>
-        <name><surname>Deutz</surname><given-names>Marike H. F.</given-names></name>
-        <name><surname>Woltering</surname><given-names>Steven</given-names></name>
-      </person-group>
-      <article-title>Trajectories of pure and co-occurring internalizing and externalizing problems from early childhood to adolescence: Associations with early childhood individual and contextual antecedents</article-title>
-      <source>Developmental Psychology</source>
-      <year iso-8601-date="2020">2020</year>
-      <volume>56</volume>
-      <issue>10</issue>
-      <uri>https://login.proxy.lib.uiowa.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;AuthType=ip,cookie,uid,url&amp;db=pdh&amp;AN=2020-61351-001</uri>
-      <pub-id pub-id-type="doi">10.1037/dev0001095</pub-id>
-      <fpage>1906</fpage>
-      <lpage>1918</lpage>
-    </element-citation>
-  </ref>
   <ref id="ref-Harris2025">
     <element-citation publication-type="article-journal">
       <person-group person-group-type="author">
@@ -4245,29 +4034,6 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <lpage>858</lpage>
     </element-citation>
   </ref>
-  <ref id="ref-Speyer2022">
-    <element-citation publication-type="article-journal">
-      <person-group person-group-type="author">
-        <name><surname>Speyer</surname><given-names>Lydia Gabriela</given-names></name>
-        <name><surname>Neaves</surname><given-names>Samuel</given-names></name>
-        <name><surname>Hall</surname><given-names>Hildigunnur Anna</given-names></name>
-        <name><surname>Hemani</surname><given-names>Gibran</given-names></name>
-        <name><surname>Lombardo</surname><given-names>Michael Vincent</given-names></name>
-        <name><surname>Murray</surname><given-names>Aja Louise</given-names></name>
-        <name><surname>Auyeung</surname><given-names>Bonnie</given-names></name>
-        <name><surname>Luciano</surname><given-names>Michelle</given-names></name>
-      </person-group>
-      <article-title>Polygenic risks for joint developmental trajectories of internalizing and externalizing problems: Findings from the ALSPAC cohort</article-title>
-      <source>Journal of Child Psychology and Psychiatry</source>
-      <year iso-8601-date="2022">2022</year>
-      <volume>63</volume>
-      <issue>8</issue>
-      <uri>https://acamh.onlinelibrary.wiley.com/doi/abs/10.1111/jcpp.13549</uri>
-      <pub-id pub-id-type="doi">10.1111/jcpp.13549</pub-id>
-      <fpage>948</fpage>
-      <lpage>956</lpage>
-    </element-citation>
-  </ref>
   <ref id="ref-Zhai2026">
     <element-citation publication-type="article-journal">
       <person-group person-group-type="author">
@@ -4283,30 +4049,6 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1016/j.jad.2026.121556</pub-id>
       <fpage>121556</fpage>
       <lpage></lpage>
-    </element-citation>
-  </ref>
-  <ref id="ref-Stringer2020">
-    <element-citation publication-type="article-journal">
-      <person-group person-group-type="author">
-        <name><surname>Stringer</surname><given-names>Dominic</given-names></name>
-        <name><surname>Kent</surname><given-names>Rachel</given-names></name>
-        <name><surname>Briskman</surname><given-names>Jackie</given-names></name>
-        <name><surname>Lukito</surname><given-names>Steve</given-names></name>
-        <name><surname>Charman</surname><given-names>Tony</given-names></name>
-        <name><surname>Baird</surname><given-names>Gillian</given-names></name>
-        <name><surname>Lord</surname><given-names>Catherine</given-names></name>
-        <name><surname>Pickles</surname><given-names>Andrew</given-names></name>
-        <name><surname>Simonoff</surname><given-names>Emily</given-names></name>
-      </person-group>
-      <article-title>Trajectories of emotional and behavioral problems from childhood to early adult life</article-title>
-      <source>Autism</source>
-      <year iso-8601-date="2020">2020</year>
-      <volume>24</volume>
-      <issue>4</issue>
-      <uri>https://journals.sagepub.com/doi/abs/10.1177/1362361320908972</uri>
-      <pub-id pub-id-type="doi">10.1177/1362361320908972</pub-id>
-      <fpage>1011</fpage>
-      <lpage>1024</lpage>
     </element-citation>
   </ref>
   <ref id="ref-Gornik2023">
@@ -4347,23 +4089,6 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <pub-id pub-id-type="doi">10.1111/jora.12252</pub-id>
       <fpage>991</fpage>
       <lpage>1008</lpage>
-    </element-citation>
-  </ref>
-  <ref id="ref-Farrington2023">
-    <element-citation publication-type="book">
-      <person-group person-group-type="author">
-        <name><surname>Farrington</surname><given-names>David P.</given-names></name>
-        <name><surname>Piquero</surname><given-names>Alex R.</given-names></name>
-        <name><surname>Jennings</surname><given-names>Wesley G.</given-names></name>
-        <name><surname>Jolliffe</surname><given-names>Darrick</given-names></name>
-      </person-group>
-      <source>Offending from childhood to late middle age: Recent results from the Cambridge Study in Delinquent Development</source>
-      <publisher-name>Springer New York</publisher-name>
-      <publisher-loc>New York, NY</publisher-loc>
-      <year iso-8601-date="2023">2023</year>
-      <pub-id pub-id-type="doi">10.1007/978-1-0716-3335-9_5</pub-id>
-      <fpage>47</fpage>
-      <lpage>71</lpage>
     </element-citation>
   </ref>
   <ref id="ref-ChenPM">
@@ -5587,5 +5312,6 @@ academic and cognitive skills across lengthy developmental periods.</p>
 </back>
 
 <!-- (F2ED4C6E)[nb-1]:/home/runner/work/studying-psychopathology-development-lifespan/studying-psychopathology-development-lifespan/notebooks/analyses.qmd -->
+<!-- (F2ED4C6E)[nb-2]:/home/runner/work/studying-psychopathology-development-lifespan/studying-psychopathology-development-lifespan/notebooks/supplement.qmd -->
 
 </article>
