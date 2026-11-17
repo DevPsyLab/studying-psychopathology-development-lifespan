@@ -850,7 +850,7 @@ Age is a proxy for development: a stand-in for the myriad biological and social 
 However, apparent age-related differences in a cross-sectional or longitudinal study could reflect period or cohort effects instead of development.
 Thus, it is important to consider and, to the extent possible, account for period and cohort effects.
 
-[^ageFootnote] As opposed to other ways of conceiving of age such as the degree of one's biological or developmental aging.
+[^ageFootnote]: As opposed to other ways of conceiving of age such as the degree of one's biological or developmental aging.
 
 Period refers to the historical time at which measurement occurs.
 When people are assessed during a given time period (e.g., during a war, recession, pandemic, or other stressor), their scores could be influenced by the historical context of that period.
