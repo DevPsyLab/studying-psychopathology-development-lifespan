@@ -1,6 +1,7 @@
 ---
 title: "Analyses"
 author: "Isaac T. Petersen, Zachary Demko, and Megan Schumer"
+engine: knitr
 date: '`r format(Sys.Date(), "%B %d, %Y")`'
 format:
   html:
