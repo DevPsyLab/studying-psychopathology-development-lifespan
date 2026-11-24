@@ -115,10 +115,10 @@ Sciences</institution>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-11-17">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-11-24">
 <year>2026</year>
 <month>11</month>
-<day>17</day>
+<day>24</day>
 </pub-date>
 
 
@@ -1668,16 +1668,20 @@ academic and cognitive skills across lengthy developmental periods.</p>
       attempts to establish partial strong longitudinal factorial
       invariance<xref ref-type="fn" rid="fn5">5</xref>—i.e., invariant
       intercepts and factor loadings across ages for a subset of items
-      to set the latent factor across ages on a comparable scale, with
-      some items’ intercepts and/or factor loadings allowed to differ
-      across ages. The researcher first identifies which items show
-      invariant factor loadings and/or intercepts and which items show
-      noninvariant factor loadings or intercepts. The researcher then
-      constrains the factor loadings across time for any items with
-      invariant factor loadings, to serve as anchor items and establish
-      an equivalent scale of the measures across time, and allows the
-      factor loadings to differ across time for the items with
-      noninvariant factor loadings. In addition, the researcher
+      (“anchor items”) to set the latent factor across ages on a
+      comparable scale, with some items’ intercepts and/or factor
+      loadings allowed to differ across ages. At least one anchor item
+      with invariant intercepts and factor loadings (besides the
+      referent indicator) is considered necessary
+      (<xref alt="Liu and Thompson 2022" rid="ref-Liu2022" ref-type="bibr">Liu
+      and Thompson 2022</xref>). The researcher first identifies which
+      items show invariant factor loadings and/or intercepts and which
+      items show noninvariant factor loadings or intercepts. The
+      researcher then constrains the factor loadings across time for any
+      items with invariant factor loadings, to serve as anchor items and
+      establish an equivalent scale of the measures across time, and
+      allows the factor loadings to differ across time for the items
+      with noninvariant factor loadings. In addition, the researcher
       constrains the intercepts across time for any items with invariant
       intercepts, to serve as anchor items and establish an equivalent
       location of the measures across time, and allows the intercepts to
@@ -5266,6 +5270,23 @@ academic and cognitive skills across lengthy developmental periods.</p>
       <year iso-8601-date="2001">2001</year>
     </element-citation>
   </ref>
+  <ref id="ref-Liu2022">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Liu</surname><given-names>Yixing</given-names></name>
+        <name><surname>Thompson</surname><given-names>Marilyn S.</given-names></name>
+      </person-group>
+      <article-title>The impact of partial measurement invariance on between-group comparisons of second-order factor means</article-title>
+      <source>Structural Equation Modeling: A Multidisciplinary Journal</source>
+      <year iso-8601-date="2022">2022</year>
+      <volume>29</volume>
+      <issue>1</issue>
+      <uri>https://doi.org/10.1080/10705511.2021.1936535</uri>
+      <pub-id pub-id-type="doi">10.1080/10705511.2021.1936535</pub-id>
+      <fpage>86</fpage>
+      <lpage>100</lpage>
+    </element-citation>
+  </ref>
 </ref-list>
 <fn-group>
   <fn id="fn1">
@@ -5315,7 +5336,7 @@ academic and cognitive skills across lengthy developmental periods.</p>
 </fn-group>
 </back>
 
-<!-- (F2ED4C6E)[nb-1]:/home/runner/work/studying-psychopathology-development-lifespan/studying-psychopathology-development-lifespan/notebooks/supplement.qmd -->
-<!-- (F2ED4C6E)[nb-2]:/home/runner/work/studying-psychopathology-development-lifespan/studying-psychopathology-development-lifespan/notebooks/analyses.qmd -->
+<!-- (F2ED4C6E)[nb-1]:/home/runner/work/studying-psychopathology-development-lifespan/studying-psychopathology-development-lifespan/notebooks/analyses.qmd -->
+<!-- (F2ED4C6E)[nb-2]:/home/runner/work/studying-psychopathology-development-lifespan/studying-psychopathology-development-lifespan/notebooks/supplement.qmd -->
 
 </article>
