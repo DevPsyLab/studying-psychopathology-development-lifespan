@@ -749,7 +749,8 @@ Items with higher difficulty require a higher level of the latent factor to have
 ### Partial Factorial Invariance
 
 The partial factorial invariance method can be used to link scores across different measures [@Tyrell2019] and can be paired with second-order growth functions to examine individuals' change over time [@Hancock2008].
-The partial factorial invariance approach attempts to establish partial strong longitudinal factorial invariance[^strongInvarianceFootnote]—i.e., invariant intercepts and factor loadings across ages for a subset of items to set the latent factor across ages on a comparable scale, with some items' intercepts and/or factor loadings allowed to differ across ages.
+The partial factorial invariance approach attempts to establish partial strong longitudinal factorial invariance[^strongInvarianceFootnote]—i.e., invariant intercepts and factor loadings across ages for a subset of items ("anchor items") to set the latent factor across ages on a comparable scale, with some items' intercepts and/or factor loadings allowed to differ across ages.
+At least one anchor item with invariant intercepts and factor loadings (besides the referent indicator) is considered necessary [@Liu2022].
 The researcher first identifies which items show invariant factor loadings and/or intercepts and which items show noninvariant factor loadings or intercepts.
 The researcher then constrains the factor loadings across time for any items with invariant factor loadings, to serve as anchor items and establish an equivalent scale of the measures across time, and allows the factor loadings to differ across time for the items with noninvariant factor loadings.
 In addition, the researcher constrains the intercepts across time for any items with invariant intercepts, to serve as anchor items and establish an equivalent location of the measures across time, and allows the intercepts to differ across time for the items with noninvariant intercepts.
